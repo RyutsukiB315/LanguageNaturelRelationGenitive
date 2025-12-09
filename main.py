@@ -2,14 +2,14 @@ import os
 import numpy as np
 import spacy
 from collections import defaultdict
+from sklearn.model_selection import train_test_split
 
-# Chargement du modèle de langue français avec vecteurs (Word2Vec/GloVe intégrés)
-# Assurez-vous d'avoir lancé : python -m spacy download fr_core_news_lg
+# Chargement du modèle spaCy
 try:
     print("Chargement du modèle spaCy (fr_core_news_lg)...")
     nlp = spacy.load("fr_core_news_lg")
 except OSError:
-    print("Modèle 'fr_core_news_lg' introuvable. Téléchargement en cours...")
+    print("Modèle introuvable. Téléchargement...")
     from spacy.cli import download
 
     download("fr_core_news_lg")
@@ -19,38 +19,33 @@ except OSError:
 class GraspItVectorized:
     def __init__(self, corpus_path):
         self.corpus_path = corpus_path
-        # Stockage des "Centröides" (Vecteurs moyens) pour chaque relation
-        # Structure : { "Relation": { "A": vector_moyen_A, "B": vector_moyen_B } }
         self.centroids = {}
 
     def get_vector(self, text):
-        """Récupère le vecteur (embedding) d'un mot via spaCy"""
-        # On traite le texte et on récupère le vecteur du document entier
-        # (moyenne des mots si composé, ex: "pomme de terre")
+        """Récupère le vecteur via spaCy"""
         return nlp(text).vector
 
     def cosine_similarity(self, vec_a, vec_b):
-        """Calcul optimisé de la similarité cosinus avec NumPy"""
+        """Calcul similarité cosinus"""
         norm_a = np.linalg.norm(vec_a)
         norm_b = np.linalg.norm(vec_b)
-
         if norm_a == 0 or norm_b == 0:
             return 0.0
-
         return np.dot(vec_a, vec_b) / (norm_a * norm_b)
 
-    def train(self):
+    def load_dataset(self):
         """
-        Phase d'apprentissage :
-        Au lieu de fusionner des règles symboliques, on calcule le vecteur MOYEN
-        de tous les termes A et de tous les termes B pour chaque relation.
+        1. Lit tous les fichiers
+        2. Retourne une liste unique contenant toutes les données
+        Format: [(term_a, term_b, vraie_relation), ...]
         """
-        print("\n--- Démarrage de l'entraînement vectoriel ---")
+        dataset = []
+        print("\n--- Chargement du corpus ---")
 
-        # Dictionnaire temporaire pour stocker toutes les listes de vecteurs
-        temp_data = defaultdict(lambda: {"A": [], "B": []})
+        if not os.path.exists(self.corpus_path):
+            print(f"ERREUR: Dossier {self.corpus_path} introuvable.")
+            return []
 
-        # Lecture des fichiers
         for filename in os.listdir(self.corpus_path):
             if filename.endswith(".txt"):
                 relation_type = filename.replace(".txt", "")
@@ -58,38 +53,45 @@ class GraspItVectorized:
 
                 count = 0
                 with open(filepath, 'r', encoding='utf-8') as f:
-                    next(f)  # Skip header
+                    next(f)  # Sauter l'en-tête
                     for line in f:
                         parts = line.strip().split(';')
                         if len(parts) >= 2:
                             term_a = parts[0].strip()
                             term_b = parts[1].strip()
-
-                            # On ajoute les vecteurs à la liste
-                            temp_data[relation_type]["A"].append(self.get_vector(term_a))
-                            temp_data[relation_type]["B"].append(self.get_vector(term_b))
+                            # On stocke la donnée brute + son étiquette (la relation)
+                            dataset.append((term_a, term_b, relation_type))
                             count += 1
+                print(f"  -> '{relation_type}': {count} exemples chargés.")
 
-                print(f"  -> Modèle '{relation_type}' entraîné sur {count} exemples.")
+        return dataset
 
-        # Calcul des centröides (Moyenne des vecteurs)
+    def train(self, training_data):
+        """
+        Phase d'apprentissage sur les 75% du corpus.
+        Calcule les vecteurs moyens (centroïdes) pour chaque relation.
+        """
+        print(f"\n--- Entraînement sur {len(training_data)} exemples ---")
+
+        # Stockage temporaire pour calculer les moyennes
+        temp_data = defaultdict(lambda: {"A": [], "B": []})
+
+        for term_a, term_b, relation in training_data:
+            temp_data[relation]["A"].append(self.get_vector(term_a))
+            temp_data[relation]["B"].append(self.get_vector(term_b))
+
+        # Calcul des centröides finaux
+        self.centroids = {}  # Reset
         for relation, vectors in temp_data.items():
             if vectors["A"] and vectors["B"]:
-                # axis=0 permet de calculer la moyenne colonne par colonne (dimension par dimension)
                 mean_a = np.mean(vectors["A"], axis=0)
                 mean_b = np.mean(vectors["B"], axis=0)
+                self.centroids[relation] = {"A": mean_a, "B": mean_b}
 
-                self.centroids[relation] = {
-                    "A": mean_a,
-                    "B": mean_b
-                }
-        print("--- Entraînement terminé ---\n")
+        print("--- Entraînement terminé ---")
 
     def predict(self, term_a, term_b):
-        """
-        Phase de Prédiction :
-        Compare les vecteurs d'entrée aux centröides appris.
-        """
+        """Prédiction standard"""
         vec_a = self.get_vector(term_a)
         vec_b = self.get_vector(term_b)
 
@@ -98,12 +100,8 @@ class GraspItVectorized:
         details = []
 
         for relation, means in self.centroids.items():
-            # Similarité du terme A avec le prototype A de la relation
             sim_a = self.cosine_similarity(vec_a, means["A"])
-            # Similarité du terme B avec le prototype B de la relation
             sim_b = self.cosine_similarity(vec_b, means["B"])
-
-            # Score global (moyenne des deux similarités)
             avg_score = (sim_a + sim_b) / 2
 
             details.append((relation, avg_score))
@@ -112,44 +110,63 @@ class GraspItVectorized:
                 best_score = avg_score
                 best_relation = relation
 
-        # Tri des résultats pour affichage (optionnel)
         details.sort(key=lambda x: x[1], reverse=True)
+        return best_relation, best_score, details[:3]
 
-        return best_relation, best_score, details[:3]  # Retourne le top 3
+    def evaluate(self, test_data):
+        """
+        Phase de validation sur les 25% restants.
+        Vérifie si la prédiction correspond à la vraie étiquette.
+        """
+        print(f"\n--- Évaluation du modèle sur {len(test_data)} exemples de test ---")
+
+        correct = 0
+        total = len(test_data)
+        errors = []
+
+        for term_a, term_b, true_label in test_data:
+            predicted_label, score, _ = self.predict(term_a, term_b)
+
+            if predicted_label == true_label:
+                correct += 1
+            else:
+                # On note l'erreur pour analyse
+                errors.append(f"{term_a}-{term_b}: Prédit '{predicted_label}' au lieu de '{true_label}'")
+
+        accuracy = (correct / total) * 100
+        print(f"Résultat : {correct}/{total} corrects")
+        print(f"PRÉCISION GLOBALE (Accuracy) : {accuracy:.2f}%")
+
+        # Afficher quelques erreurs pour comprendre
+        if errors:
+            print("\nExemples d'erreurs :")
+            for err in errors[:5]:  # Afficher les 5 premières erreurs
+                print(f" - {err}")
 
 
 # ==============================================================================
 # MAIN
 # ==============================================================================
 if __name__ == "__main__":
-    # Chemin vers le dossier corpus
     corpus_folder = os.path.join(os.getcwd(), "corpus")
-
-    # Instanciation
     ai = GraspItVectorized(corpus_folder)
 
-    # 1. Entraînement
-    try:
-        ai.train()
+    # 1. Charger tout le dataset
+    full_dataset = ai.load_dataset()
 
-        # 2. Tests de prédiction
-        print("--- Tests de prédiction ---")
-        tests = [
-            ("cuillère", "bois"),  # Matiere
-            ("couteau", "acier"),  # Matiere (acier n'est peut-être pas dans le corpus, mais proche vectoriellement)
-            ("tristesse", "visage"),  # Caracterisation / Consequence
-            ("aboiement", "chien"),  # Agent
-            ("clé", "porte"),  # Instrument
-            ("appartement", "Paris"),  # Lieu
-            ("film", "horreur")  # Topic
-        ]
+    if full_dataset:
+        # 2. Séparer en Train (75%) et Test (25%)
+        # stratify=None : mélange aléatoire pur
+        # random_state=42 : pour avoir toujours le même mélange (reproductible)
+        train_set, test_set = train_test_split(full_dataset, test_size=0.25, random_state=42)
 
-        for t_a, t_b in tests:
-            rel, score, top3 = ai.predict(t_a, t_b)
-            print(f"'{t_a} de {t_b}'")
-            print(f"   -> PRÉDICTION : {rel.upper()} (Confiance: {score:.2f})")
-            print(f"   -> Top 3: {[(r, round(s, 2)) for r, s in top3]}")
-            print("-" * 30)
+        # 3. Entraîner UNIQUEMENT sur le train_set
+        ai.train(train_set)
 
-    except FileNotFoundError:
-        print(f"ERREUR : Le dossier '{corpus_folder}' est introuvable.")
+        # 4. Vérifier le modèle sur le test_set (données jamais vues)
+        ai.evaluate(test_set)
+
+        # 5. Test manuel (optionnel, pour le fun)
+        print("\n--- Test Manuel Rapide ---")
+        rel, score, _ = ai.predict("tristesse", "visage")
+        print(f"Test 'tristesse de visage' -> {rel} ({score:.2f})")
