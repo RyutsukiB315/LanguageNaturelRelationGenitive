@@ -1,0 +1,81 @@
+A;B;Phrase
+vin;France;vin de France
+café;Brésil;café du Brésil
+tapis;Orient;tapis d'Orient
+savon;Marseille;savon de Marseille
+tulipe;Hollande;tulipe de Hollande
+mode;Italie;mode d'Italie
+cigare;Havane;cigare de la Havane
+parfum;Grasse;parfum de Grasse
+soie;Lyon;soie de Lyon
+dentelle;Calais;dentelle de Calais
+porcelaine;Limoges;porcelaine de Limoges
+moutarde;Dijon;moutarde de Dijon
+nougat;Montélimar;nougat de Montélimar
+bêtise;Cambrai;bêtise de Cambrai
+pruneau;Agen;pruneau d'Agen
+rillettes;Mans;rillettes du Mans
+saucisse;Francfort;saucisse de Francfort
+jambon;Parme;jambon de Parme
+fromage;Chèvre;fromage de Chèvre
+bière;Belgique;bière de Belgique
+whisky;Écosse;whisky d'Écosse
+vodka;Russie;vodka de Russie
+thé;Chine;thé de Chine
+sirop;Érable;sirop d'érable
+sucre;Cannes;sucre de cannes
+sel;Guérande;sel de Guérande
+piment;Espelette;piment d'Espelette
+vanille;Madagascar;vanille de Madagascar
+cacao;Côte d'Ivoire;cacao de Côte d'Ivoire
+or;Pérou;or du Pérou
+argent;Argentine;argent d'Argentine
+cuivre;Chili;cuivre du Chili
+pétrole;Texas;pétrole du Texas
+gaz;Sibérie;gaz de Sibérie
+charbon;Ruhr;charbon de la Ruhr
+acier;Lorraine;acier de Lorraine
+bois;Ébène;bois d'ébène
+cèdre;Liban;cèdre du Liban
+pin;Landes;pin des Landes
+chêne;Liège;chêne de Liège
+olivier;Provence;olivier de Provence
+lavande;Provence;lavande de Provence
+herbes;Provence;herbes de Provence
+fleur;lys;fleur de lys
+blé;Beauce;blé de la Beauce
+riz;Camargue;riz de Camargue
+huître;Marennes;huître de Marennes
+moule;Bouchot;moule de Bouchot
+saumon;Norvège;saumon de Norvège
+morue;Terre-Neuve;morue de Terre-Neuve
+canard;Sud-Ouest;canard du Sud-Ouest
+poule;Bresse;poule de Bresse
+boeuf;Kobe;boeuf de Kobe
+cheval;Camargue;cheval de Camargue
+chien;Terre-Neuve;chien de Terre-Neuve
+chat;Siam;chat du Siam
+tigre;Sibérie;tigre de Sibérie
+aigle;Rome;aigle de Rome
+chouette;Minerve;chouette de Minerve
+valse;Vienne;valse de Vienne
+théâtre;Boulevard;théâtre de boulevard
+cinéma;Hollywood;cinéma d'Hollywood
+western;Spaghetti;western spaghetti
+cuisine;Terroir;cuisine du terroir
+folklore;Bretagne;folklore de Bretagne
+légende;Arthur;légende d'Arthur
+mythologie;Grèce;mythologie de Grèce
+dieux;Olympe;dieux de l'Olympe
+oracle;Delphes;oracle de Delphes
+momie;Égypte;momie d'Égypte
+vase;Soissons;vase de Soissons
+tapisserie;Bayeux;tapisserie de Bayeux
+tour;Londres;tour de Londres
+mur;Berlin;mur de Berlin
+or;Rhin;or du Rhin
+trésor;Templiers;trésor des Templiers
+secret;Polichinelle;secret de Polichinelle
+noix;Coco;noix de coco
+gomme;Arabique;gomme arabique
+encre;Chine;encre de Chine

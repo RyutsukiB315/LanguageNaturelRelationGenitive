@@ -1,0 +1,81 @@
+A;B;Phrase
+avocat;femme;avocat d'une femme
+chef;groupe;chef du groupe
+ami;Pierre;ami de Pierre
+frère;Jacques;frère de Jacques
+roi;France;roi de France
+président;république;président de la république
+maire;ville;maire de la ville
+voisin;palier;voisin de palier
+ennemi;état;ennemi de l'état
+allié;famille;allié de la famille
+rival;équipe;rival de l'équipe
+adversaire;joueur;adversaire du joueur
+partenaire;jeu;partenaire de jeu
+collègue;bureau;collègue de bureau
+camarade;classe;camarade de classe
+compagnon;route;compagnon de route
+époux;reine;époux de la reine
+femme;boulanger;femme du boulanger
+fils;voisin;fils du voisin
+fille;concierge;fille de la concierge
+père;famille;père de famille
+mère;enfant;mère de l'enfant
+oncle;Paul;oncle de Paul
+tante;Sophie;tante de Sophie
+cousin;marié;cousin du marié
+neveu;ministre;neveu du ministre
+grand-père;Heidi;grand-père de Heidi
+ancêtre;roi;ancêtre du roi
+descendant;prophète;descendant du prophète
+héritier;trône;héritier du trône
+successeur;directeur;successeur du directeur
+prédécesseur;maire;prédécesseur du maire
+assistant;magicien;assistant du magicien
+secrétaire;direction;secrétaire de direction
+adjoint;chef;adjoint du chef
+bras droit;parrain;bras droit du parrain
+disciple;maître;disciple du maître
+élève;professeur;élève du professeur
+mentor;stagiaire;mentor du stagiaire
+tuteur;orphelin;tuteur de l'orphelin
+gardien;phare;gardien du phare
+concierge;immeuble;concierge de l'immeuble
+gouvernante;enfants;gouvernante des enfants
+nounou;bébé;nounou du bébé
+valet;chambre;valet de chambre
+serviteur;roi;serviteur du roi
+esclave;maître;esclave du maître
+sujet;reine;sujet de la reine
+citoyen;monde;citoyen du monde
+habitant;quartier;habitant du quartier
+résident;immeuble;résident de l'immeuble
+membre;club;membre du club
+adhérent;parti;adhérent du parti
+fidèle;église;fidèle de l'église
+fan;chanteur;fan du chanteur
+admirateur;actrice;admirateur de l'actrice
+client;avocat;client de l'avocat
+patient;médecin;patient du médecin
+invité;honneur;invité d'honneur
+hôte;maison;hôte de la maison
+témoin;mariage;témoin du mariage
+parrain;filleul;parrain du filleul
+marraine;guerre;marraine de guerre
+fiancé;Julie;fiancé de Julie
+amant;femme;amant de la femme
+maîtresse;roi;maîtresse du roi
+veuve;capitaine;veuve du capitaine
+orphelin;guerre;orphelin de guerre
+bienfaiteur;humanité;bienfaiteur de l'humanité
+mécène;artistes;mécène des artistes
+guide;aveugle;guide de l'aveugle
+chef;orchestre;chef d'orchestre
+capitaine;équipe;capitaine de l'équipe
+pilote;formule 1;pilote de formule 1
+meneur;revue;meneur de revue
+leader;opinion;leader d'opinion
+patron;entreprise;patron de l'entreprise
+employé;mois;employé du mois
+salarié;usine;salarié de l'usine
+associé;cabinet;associé du cabinet

@@ -1,0 +1,81 @@
+A;B;Phrase
+fusil;soldat;fusil du soldat
+vélo;cycliste;vélo du cycliste
+maison;Paul;maison de Paul
+voiture;voisin;voiture du voisin
+bureau;directeur;bureau du directeur
+os;chien;os du chien
+sac;dame;sac de la dame
+jouet;enfant;jouet de l'enfant
+cartable;écolier;cartable de l'écolier
+bateau;pêcheur;bateau du pêcheur
+ferme;paysan;ferme du paysan
+château;roi;château du roi
+couronne;reine;couronne de la reine
+trône;empereur;trône de l'empereur
+sceptre;pharaon;sceptre du pharaon
+terres;seigneur;terres du seigneur
+domaine;comte;domaine du comte
+villa;star;villa de la star
+yacht;milliardaire;yacht du milliardaire
+argent;banquier;argent du banquier
+coffre;pirate;coffre du pirate
+butin;voleur;butin du voleur
+part;lion;part du lion
+nid;oiseau;nid de l'oiseau
+tanière;loup;tanière du loup
+terrier;lapin;terrier du lapin
+ruche;abeilles;ruche des abeilles
+toile;araignée;toile de l'araignée
+coquille;escargot;coquille de l'escargot
+laisse;chien;laisse du chien
+selle;cavalier;selle du cavalier
+monture;chevalier;monture du chevalier
+épée;guerrier;épée du guerrier
+bouclier;héros;bouclier du héros
+baguette;magicien;baguette du magicien
+balai;sorcière;balai de la sorcière
+chaudron;druide;chaudron du druide
+lampe;Aladin;lampe d'Aladin
+flûte;pan;flûte de pan
+marteau;Thor;marteau de Thor
+foudre;Zeus;foudre de Zeus
+trident;Poséidon;trident de Poséidon
+lyre;Orphée;lyre d'Orphée
+harpe;ange;harpe de l'ange
+auréole;saint;auréole du saint
+ailes;démon;ailes du démon
+cornes;diable;cornes du diable
+bague;fiancée;bague de la fiancée
+dot;mariée;dot de la mariée
+héritage;fils;héritage du fils
+patrimoine;famille;patrimoine de la famille
+bijoux;duchesse;bijoux de la duchesse
+collier;chien;collier du chien
+médaille;vainqueur;médaille du vainqueur
+trophée;champion;trophée du champion
+ceinture;champion;ceinture du champion
+maillot;joueur;maillot du joueur
+raquette;tennisman;raquette du tennisman
+guitare;musicien;guitare du musicien
+violon;virtuose;violon du virtuose
+baguettes;batteur;baguettes du batteur
+micro;chanteur;micro du chanteur
+plume;écrivain;plume de l'écrivain
+pinceau;peintre;pinceau du peintre
+blouse;médecin;blouse du médecin
+stéthoscope;docteur;stéthoscope du docteur
+sifflet;arbitre;sifflet de l'arbitre
+menottes;policier;menottes du policier
+képi;gendarme;képi du gendarme
+soutane;prêtre;soutane du prêtre
+habit;moine;habit du moine
+robe;avocat;robe de l'avocat
+marteau;juge;marteau du juge
+livres;étudiant;livres de l'étudiant
+copies;professeur;copies du professeur
+cahier;élève;cahier de l'élève
+passeport;voyageur;passeport du voyageur
+valise;touriste;valise du touriste
+ticket;spectateur;ticket du spectateur
+place;abonné;place de l'abonné

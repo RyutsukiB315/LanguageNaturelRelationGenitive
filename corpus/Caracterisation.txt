@@ -1,0 +1,80 @@
+sagesse;vieillard;sagesse du vieillard
+sournoiserie;politicien;sournoiserie du politicien
+blancheur;neige;blancheur de la neige
+courage;soldat;courage du soldat
+beauté;paysage;beauté du paysage
+intelligence;enfant;intelligence de l'enfant
+vitesse;lumière;vitesse de la lumière
+poids;camion;poids du camion
+douceur;peau;douceur de la peau
+force;lion;force du lion
+clarté;eau;clarté de l'eau
+obscurité;nuit;obscurité de la nuit
+hauteur;tour;hauteur de la tour
+profondeur;océan;profondeur de l'océan
+largeur;rue;largeur de la rue
+finesse;sable;finesse du sable
+chaleur;soleil;chaleur du soleil
+froideur;marbre;froideur du marbre
+dureté;diamant;dureté du diamant
+souplesse;gymnaste;souplesse du gymnaste
+lenteur;tortue;lenteur de la tortue
+rapidité;guépard;rapidité du guépard
+élégance;robe;élégance de la robe
+richesse;roi;richesse du roi
+pauvreté;mendiant;pauvreté du mendiant
+tristesse;regard;tristesse du regard
+joie;visage;joie du visage
+colère;dieu;colère du dieu
+bonté;âme;bonté de l'âme
+méchanceté;sorcière;méchanceté de la sorcière
+fidélité;chien;fidélité du chien
+ruse;renard;ruse du renard
+tétutesse;âne;têtutesse de l'âne
+innocence;bébé;innocence du bébé
+pureté;air;pureté de l'air
+fraîcheur;matin;fraîcheur du matin
+rondeur;ballon;rondeur du ballon
+acidité;citron;acidité du citron
+douceur;miel;douceur du miel
+amertume;café;amertume du café
+parfum;rose;parfum de la rose
+odeur;soufre;odeur du soufre
+bruit;moteur;bruit du moteur
+silence;bibliothèque;silence de la bibliothèque
+éclat;bijou;éclat du bijou
+transparence;vitre;transparence de la vitre
+complexité;problème;complexité du problème
+simplicité;solution;simplicité de la solution
+fragilité;cristal;fragilité du cristal
+solidité;roc;solidité du roc
+agilité;chat;agilité du chat
+lourdeur;plomb;lourdeur du plomb
+légèreté;plume;légèreté de la plume
+éclat;rire;éclat du rire
+gravité;situation;gravité de la situation
+importance;décision;importance de la décision
+valeur;trésor;valeur du trésor
+durée;voyage;durée du voyage
+rareté;pierre;rareté de la pierre
+abondance;récolte;abondance de la récolte
+fermeté;matelas;fermeté du matelas
+confort;fauteuil;confort du fauteuil
+puissance;moteur;puissance du moteur
+efficacité;médicament;efficacité du médicament
+dangerosité;virus;dangerosité du virus
+toxicité;produit;toxicité du produit
+viscosité;huile;viscosité de l'huile
+élasticité;caoutchouc;élasticité du caoutchouc
+brillance;cheveux;brillance des cheveux
+pâleur;visage;pâleur du visage
+rougeur;joue;rougeur de la joue
+taille;vêtement;taille du vêtement
+pointure;chaussure;pointure de la chaussure
+longueur;film;longueur du film
+épaisseur;mur;épaisseur du mur
+humidité;air;humidité de l'air
+sécheresse;désert;sécheresse du désert
+fertilité;sol;fertilité du sol
+aridité;terre;aridité de la terre
+violence;choc;violence du choc

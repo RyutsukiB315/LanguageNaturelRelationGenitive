@@ -1,0 +1,80 @@
+tour;Pise;tour de Pise
+désert;Algérie;désert d'Algérie
+mur;Chine;mur de Chine
+pyramide;Égypte;pyramide d'Égypte
+canaux;Venise;canaux de Venise
+jardins;Babylone;jardins de Babylone
+phare;Alexandrie;phare d'Alexandrie
+colosse;Rhodes;colosse de Rhodes
+baie;Rio;baie de Rio
+port;Marseille;port de Marseille
+plage;Nice;plage de Nice
+gare;Lyon;gare de Lyon
+métro;Paris;métro de Paris
+aéroport;Roissy;aéroport de Roissy
+château;Versailles;château de Versailles
+palais;Élysée;palais de l'Élysée
+lion;savane;lion de la savane
+monstre;Loch Ness;monstre du Loch Ness
+dames;bois;dames du bois
+ermite;forêt;ermite de la forêt
+bête;Gévaudan;bête du Gévaudan
+tigre;Bengale;tigre du Bengale
+ours;Pyrénées;ours des Pyrénées
+loup;Wall Street;loup de Wall Street
+fantôme;opéra;fantôme de l'opéra
+bossu;Notre-Dame;bossu de Notre-Dame
+barbier;Séville;barbier de Séville
+bourgeois;Calais;bourgeois de Calais
+demoiselles;Avignon;demoiselles d'Avignon
+train;banlieue;train de banlieue
+bus;ville;bus de ville
+rat;champs;rat des champs
+rat;villes;rat des villes
+souris;laboratoire;souris de laboratoire
+poisson;rivière;poisson de rivière
+fruit;mer;fruit de mer
+fleur;jardin;fleur de jardin
+plante;intérieur;plante d'intérieur
+oiseau;paradis;oiseau de paradis
+singe;zoo;singe de zoo
+requin;récif;requin de récif
+corail;barrière;corail de la barrière
+lumières;ville;lumières de la ville
+brumes;Avalon;brumes d'Avalon
+soleil;minuit;soleil de minuit
+neiges;Kilimandjaro;neiges du Kilimandjaro
+sables;temps;sables du temps
+rochers;Étretat;rochers d'Étretat
+falaise;Moher;falaise de Moher
+mont;Saint-Michel;mont du Saint-Michel
+aiguille;Midi;aiguille du Midi
+pont;Avignon;pont d'Avignon
+arènes;Nîmes;arènes de Nîmes
+remparts;Carcassonne;remparts de Carcassonne
+marché;Noël;marché de Noël
+foire;Trône;foire du Trône
+festival;Cannes;festival de Cannes
+carnaval;Rio;carnaval de Rio
+marathon;New York;marathon de New York
+tour;France;tour de France
+grand prix;Monaco;grand prix de Monaco
+dieu;stade;dieu du stade
+génie;lampe;génie de la lampe
+diable;Vauvert;diable de Vauvert
+prisonnier;Alcatraz;prisonnier d'Alcatraz
+comte;Monte-Cristo;comte de Monte-Cristo
+sorcières;Salem;sorcières de Salem
+or;Rhin;or du Rhin
+perle;Antilles;perle des Antilles
+venise;Nord;venise du Nord
+toits;Paris;toits de Paris
+rues;San Francisco;rues de San Francisco
+mur;lamentations;mur des lamentations
+jardin;Eden;jardin d'Eden
+tour;Babel;tour de Babel
+ville;lumière;ville lumière
+pays;Merveilles;pays des Merveilles
+magicien;Oz;magicien d'Oz
+belle;bois dormant;belle au bois dormant
+héroïne;roman;héroïne de roman

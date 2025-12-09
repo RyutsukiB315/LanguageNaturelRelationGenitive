@@ -1,0 +1,80 @@
+brin;herbe;brin d'herbe
+minute;attente;minute d'attente
+kilo;pommes;kilo de pommes
+litre;eau;litre d'eau
+tasse;café;tasse de café
+verre;lait;verre de lait
+pincée;sel;pincée de sel
+groupe;touristes;groupe de touristes
+foule;gens;foule de gens
+troupeau;moutons;troupeau de moutons
+meute;loups;meute de loups
+bande;amis;bande d'amis
+équipe;joueurs;équipe de joueurs
+paire;chaussures;paire de chaussures
+douzaine;oeufs;douzaine d'oeufs
+centaine;personnes;centaine de personnes
+millier;étoiles;millier d'étoiles
+tas;feuilles;tas de feuilles
+pile;livres;pile de livres
+monceau;ruines;monceau de ruines
+goutte;pluie;goutte de pluie
+flaque;boue;flaque de boue
+grain;sable;grain de sable
+miette;pain;miette de pain
+tranche;jambon;tranche de jambon
+morceau;sucre;morceau de sucre
+part;gâteau;part de gâteau
+zeste;citron;zeste de citron
+quartier;pomme;quartier de pomme
+gousse;ail;gousse d'ail
+botte;radis;botte de radis
+bouquet;fleurs;bouquet de fleurs
+gerbe;blé;gerbe de blé
+rangée;sièges;rangée de sièges
+file;voitures;file de voitures
+panier;fruits;panier de fruits
+caisse;outils;caisse d'outils
+sac;billes;sac de billes
+boîte;chocolats;boîte de chocolats
+paquet;cigarettes;paquet de cigarettes
+tablette;chocolat;tablette de chocolat
+rouleau;papier;rouleau de papier
+bobine;fil;bobine de fil
+pelote;laine;pelote de laine
+bouteille;vin;bouteille de vin
+pichet;eau;pichet d'eau
+baril;pétrole;baril de pétrole
+tonne;charbon;tonne de charbon
+gramme;farine;gramme de farine
+mètre;tissu;mètre de tissu
+kilomètre;route;kilomètre de route
+hectare;forêt;hectare de forêt
+arpent;terre;arpent de terre
+cuillerée;sirop;cuillerée de sirop
+poignée;main;poignée de main
+brasée;bois;brasée de bois
+nuée;oiseaux;nuée d'oiseaux
+banc;poissons;banc de poissons
+essaim;abeilles;essaim d'abeilles
+fourmilière;insectes;fourmilière d'insectes
+armée;soldats;armée de soldats
+flotte;navires;flotte de navires
+escadrille;avions;escadrille d'avions
+collection;timbres;collection de timbres
+série;questions;série de questions
+liste;noms;liste de noms
+répertoire;numéros;répertoire de numéros
+chapelet;injures;chapelet d'injures
+montagne;dettes;montagne de dettes
+océan;larmes;océan de larmes
+parcelle;terrain;parcelle de terrain
+fragment;roche;fragment de roche
+éclat;verre;éclat de verre
+lambeau;peau;lambeau de peau
+brin;muguet;brin de muguet
+touffe;cheveux;touffe de cheveux
+mèche;cheveux;mèche de cheveux
+larme;vin;larme de vin
+soupçon;vérité;soupçon de vérité
+rayon;soleil;rayon de soleil

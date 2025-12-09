@@ -1,0 +1,79 @@
+portrait;Van Gogh;portrait de Van Gogh
+gâteau;pâtissier;gâteau du pâtissier
+roman;Zola;roman de Zola
+film;Spielberg;film de Spielberg
+symphonie;Beethoven;symphonie de Beethoven
+théorie;Einstein;théorie d'Einstein
+chanson;Brel;chanson de Brel
+loi;Newton;loi de Newton
+théorème;Pythagore;théorème de Pythagore
+fables;La Fontaine;fables de La Fontaine
+toile;Picasso;toile de Picasso
+sculpture;Rodin;sculpture de Rodin
+opéra;Mozart;opéra de Mozart
+pièce;Molière;pièce de Molière
+recette;grand-mère;recette de grand-mère
+pain;boulanger;pain du boulanger
+meuble;menuisier;meuble du menuisier
+costume;couturier;costume du couturier
+plat;chef;plat du chef
+vin;vigneron;vin du vigneron
+miel;apiculteur;miel de l'apiculteur
+film;Godard;film de Godard
+album;Beatles;album des Beatles
+poème;Baudelaire;poème de Baudelaire
+conte;Perrault;conte de Perrault
+comédie;Shakespeare;comédie de Shakespeare
+essai;Montaigne;essai de Montaigne
+pensées;Pascal;pensées de Pascal
+confessions;Rousseau;confessions de Rousseau
+mémoires;Churchill;mémoires de Churchill
+discours;Luther King;discours de Luther King
+code;Napoléon;code de Napoléon
+serment;Hippocrate;serment d'Hippocrate
+principe;Archimède;principe d'Archimède
+constante;Planck;constante de Planck
+nombre;Avogadro;nombre d'Avogadro
+loi;Ohm;loi d'Ohm
+effet;Doppler;effet Doppler
+maladie;Parkinson;maladie de Parkinson
+syndrome;Stockholm;syndrome de Stockholm
+maladie;Alzheimer;maladie d'Alzheimer
+nœud;Gordien;nœud de Gordien
+lit;Procuste;lit de Procuste
+épée;Damoclès;épée de Damoclès
+boîte;Pandore;boîte de Pandore
+fil;Ariane;fil d'Ariane
+talon;Achille;talon d'Achille
+supplice;Tantale;supplice de Tantale
+rocher;Sisyphe;rocher de Sisyphe
+tonneau;Danaïdes;tonneau des Danaïdes
+tour;Eiffel;tour Eiffel
+pyramide;Khéops;pyramide de Khéops
+jardins;Le Nôtre;jardins de Le Nôtre
+cathédrale;Gaudí;cathédrale de Gaudí
+requiem;Verdi;requiem de Verdi
+ballet;Tchaïkovski;ballet de Tchaïkovski
+valse;Chopin;valse de Chopin
+sonate;Bach;sonate de Bach
+fresque;Michel-Ange;fresque de Michel-Ange
+déjeuner;Manet;déjeuner de Manet
+baisers;Klimt;baisers de Klimt
+nymphéas;Monet;nymphéas de Monet
+tournesols;Van Gogh;tournesols de Van Gogh
+penseur;Rodin;penseur de Rodin
+david;Michel-Ange;david de Michel-Ange
+affiche;Toulouse-Lautrec;affiche de Toulouse-Lautrec
+invention;Edison;invention d'Edison
+découverte;Christophe Colomb;découverte de Christophe Colomb
+voyages;Gulliver;voyages de Gulliver
+aventures;Tintin;aventures de Tintin
+sanctuaire;Athéna;sanctuaire d'Athéna
+temple;Salomon;temple de Salomon
+arche;Noé;arche de Noé
+tour;Magellan;tour de Magellan
+comète;Halley;comète de Halley
+télescope;Hubble;télescope de Hubble
+pas;Armstrong;pas d'Armstrong
+héritage;tante;héritage de la tante
+legs;donateur;legs du donateur

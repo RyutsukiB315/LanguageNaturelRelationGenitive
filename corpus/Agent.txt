@@ -1,0 +1,80 @@
+travail;ouvrier;travail de l'ouvrier
+cours;professeur;cours du professeur
+chant;oiseau;chant de l'oiseau
+discours;président;discours du président
+attaque;ennemi;attaque de l'ennemi
+conseil;expert;conseil de l'expert
+aboiement;chien;aboiement du chien
+décision;juge;décision du juge
+rire;enfant;rire de l'enfant
+pleurs;bébé;pleurs du bébé
+sourire;mère;sourire de la mère
+regard;femme;regard de la femme
+caresse;main;caresse de la main
+morsure;serpent;morsure du serpent
+piqûre;moustique;piqûre de moustique
+vol;aigle;vol de l'aigle
+bond;tigre;bond du tigre
+course;cheval;course du cheval
+saut;athlète;saut de l'athlète
+danse;ballerine;danse de la ballerine
+jeu;acteur;jeu de l'acteur
+mise en scène;réalisateur;mise en scène du réalisateur
+plaidoirie;avocat;plaidoirie de l'avocat
+diagnostic;médecin;diagnostic du médecin
+ordonnance;docteur;ordonnance du docteur
+leçon;maître;leçon du maître
+explication;guide;explication du guide
+promesse;politicien;promesse du politicien
+vote;électeur;vote de l'électeur
+manifestation;étudiants;manifestation des étudiants
+grève;cheminots;grève des cheminots
+révolte;peuple;révolte du peuple
+conquête;roi;conquête du roi
+règne;reine;règne de la reine
+démission;ministre;démission du ministre
+arrestation;police;arrestation de la police
+enquête;détective;enquête du détective
+découverte;cherchant;découverte du chercheur
+invention;savant;invention du savant
+calcul;mathématicien;calcul du mathématicien
+poème;poète;poème du poète
+roman;écrivain;roman de l'écrivain
+tableau;peintre;tableau du peintre
+sculpture;artiste;sculpture de l'artiste
+musique;compositeur;musique du compositeur
+chanson;chanteur;chanson du chanteur
+cri;loup;cri du loup
+rugissement;lion;rugissement du lion
+hennissement;cheval;hennissement du cheval
+miaulement;chat;miaulement du chat
+bourdonnement;abeille;bourdonnement de l'abeille
+souffle;vent;souffle du vent
+bruit;vagues;bruit des vagues
+éclat;tonnerre;éclat du tonnerre
+lueur;soleil;lueur du soleil
+rayomment;étoile;rayonnement de l'étoile
+éruption;volcan;éruption du volcan
+tremblement;terre;tremblement de terre
+chute;eau;chute d'eau
+coulée;lave;coulée de lave
+passage;comète;passage de la comète
+rotation;planète;rotation de la planète
+crue;rivière;crue de la rivière
+marée;océan;marée de l'océan
+baiser;amoureux;baiser de l'amoureux
+étreinte;ami;étreinte de l'ami
+salut;soldat;salut du soldat
+marche;armée;marche de l'armée
+charge;cavalerie;charge de la cavalerie
+tir;chasseur;tir du chasseur
+pêche;marin;pêche du marin
+récolte;fermier;récolte du fermier
+vente;marchand;vente du marchand
+achat;client;achat du client
+visite;touriste;visite du touriste
+voyage;pèlerin;voyage du pèlerin
+retour;héros;retour du héros
+départ;navire;départ du navire
+atterrissage;avion;atterrissage de l'avion
+sortie;artistes;sortie des artistes

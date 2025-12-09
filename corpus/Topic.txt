@@ -1,0 +1,81 @@
+A;B;Phrase
+restaurant;sushis;restaurant de sushis
+film;horreur;film d'horreur
+livre;mathématiques;livre de mathématiques
+professeur;anglais;professeur d'anglais
+club;jazz;club de jazz
+musée;histoire;musée d'histoire
+site;rencontre;site de rencontre
+magazine;mode;magazine de mode
+cours;piano;cours de piano
+école;danse;école de danse
+salle;sport;salle de sport
+terrain;football;terrain de football
+guide;voyage;guide de voyage
+récit;guerre;récit de guerre
+histoire;fantômes;histoire de fantômes
+conte;fées;conte de fées
+album;photos;album de photos
+journal;télévisé;journal télévisé
+émission;variétés;émission de variétés
+chaîne;info;chaîne d'info
+débat;politique;débat de politique
+ministre;santé;ministre de la santé
+ministère;justice;ministère de la justice
+agence;voyage;agence de voyage
+boutique;souvenirs;boutique de souvenirs
+magasin;jouets;magasin de jouets
+marchand;journaux;marchand de journaux
+vendeur;tapis;vendeur de tapis
+professeur;gym;professeur de gym
+maître;nageur;maître nageur
+moniteur;ski;moniteur de ski
+champion;monde;champion du monde
+roi;pétrole;roi du pétrole
+as;volant;as du volant
+fou;guerre;fou de guerre
+passionné;voitures;passionné de voitures
+amateur;vins;amateur de vins
+critique;cinéma;critique de cinéma
+rubrique;chiens;rubrique des chiens écrasés
+section;sport;section de sport
+rayon;boucherie;rayon de boucherie
+service;comptabilité;service de comptabilité
+département;recherche;département de recherche
+directeur;marketing;directeur du marketing
+chef;projet;chef de projet
+responsable;ventes;responsable des ventes
+ingénieur;son;ingénieur du son
+technicien;surface;technicien de surface
+agent;sécurité;agent de sécurité
+officier;liaison;officier de liaison
+code;route;code de la route
+règle;jeu;règle du jeu
+loi;finance;loi de finance
+cours;histoire;cours d'histoire
+leçon;morale;leçon de morale
+classe;neige;classe de neige
+colonie;vacances;colonie de vacances
+agence;intérim;agence d'intérim
+bureau;tabac;bureau de tabac
+salon;coiffure;salon de coiffure
+institut;beauté;institut de beauté
+centre;loisirs;centre de loisirs
+parc;attractions;parc d'attractions
+jardin;enfants;jardin d'enfants
+hôtel;passe;hôtel de passe
+maison;retraite;maison de retraite
+asile;fous;asile de fous
+clinique;vétérinaire;clinique vétérinaire
+congrès;médecins;congrès de médecins
+foire;vins;foire aux vins
+salon;agriculture;salon de l'agriculture
+festival;cinéma;festival de cinéma
+tournoi;tennis;tournoi de tennis
+match;boxe;match de boxe
+championnat;football;championnat de football
+coupe;monde;coupe du monde
+jeux;olympiques;jeux olympiques
+roman;amour;roman d'amour
+film;action;film d'action
+pièce;théâtre;pièce de théâtre

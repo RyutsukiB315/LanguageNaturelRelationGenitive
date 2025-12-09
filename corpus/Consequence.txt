@@ -1,0 +1,80 @@
+dégâts;tempête;dégâts de la tempête
+retards;circulation;retards de la circulation
+fumée;incendie;fumée de l'incendie
+cendre;volcan;cendre du volcan
+inondation;pluie;inondation de la pluie
+fatigue;voyage;fatigue du voyage
+courbatures;sport;courbatures du sport
+stress;examen;stress de l'examen
+joie;victoire;joie de la victoire
+tristesse;défaite;tristesse de la défaite
+peur;danger;peur du danger
+cicatrice;blessure;cicatrice de la blessure
+ruines;guerre;ruines de la guerre
+bruit;explosion;bruit de l'explosion
+chaleur;été;chaleur de l'été
+froid;hiver;froid de l'hiver
+succès;effort;succès de l'effort
+échec;négligence;échec de la négligence
+rançon;gloire;rançon de la gloire
+fruit;hasard;fruit du hasard
+résultat;match;résultat du match
+impact;choc;impact du choc
+trace;pas;trace de pas
+empreinte;doigt;empreinte de doigt
+écho;montagne;écho de la montagne
+ombre;mur;ombre du mur
+douleur;coup;douleur du coup
+fièvre;infection;fièvre de l'infection
+rougeur;frottement;rougeur du frottement
+vertige;hauteur;vertige de la hauteur
+ivresse;alcool;ivresse de l'alcool
+nausée;houle;nausée de la houle
+morsure;froid;morsure du froid
+brûlure;soleil;brûlure du soleil
+insolation;canicule;insolation de la canicule
+débris;accident;débris de l'accident
+poussière;travaux;poussière des travaux
+vapeur;douche;vapeur de la douche
+odeur;brûlé;odeur de brûlé
+effets;médicament;effets du médicament
+bienfaits;repos;bienfaits du repos
+méfaits;tabac;méfaits du tabac
+montée;eaux;montée des eaux
+fonte;neiges;fonte des neiges
+réchauffement;climat;réchauffement du climat
+chômage;crise;chômage de la crise
+famine;sécheresse;famine de la sécheresse
+soif;désert;soif du désert
+sommeil;épuisement;sommeil de l'épuisement
+sueur;front;sueur du front
+larmes;joie;larmes de joie
+cri;douleur;cri de douleur
+soupir;soulagement;soupir de soulagement
+frisson;peur;frisson de peur
+tremblement;froid;tremblement de froid
+rougissement;honte;rougissement de honte
+pâleur;effroi;pâleur de l'effroi
+sourire;bonheur;sourire du bonheur
+rire;farce;rire de la farce
+applaudissements;public;applaudissements du public
+huées;foule;huées de la foule
+félicitations;jury;félicitations du jury
+blâme;conseil;blâme du conseil
+punition;crime;punition du crime
+récompense;mérite;récompense du mérite
+salaire;peur;salaire de la peur
+coût;vie;coût de la vie
+prix;liberté;prix de la liberté
+rides;âge;rides de l'âge
+usure;temps;usure du temps
+érosion;vent;érosion du vent
+rouille;fer;rouille du fer
+moisissure;humidité;moisissure de l'humidité
+gueule;bois;gueule de bois
+restes;dîner;restes du dîner
+vestiges;passé;vestiges du passé
+survivants;catastrophe;survivants de la catastrophe
+orphelins;guerre;orphelins de la guerre
+héritage;ancêtres;héritage des ancêtres
+leçons;histoire;leçons de l'histoire

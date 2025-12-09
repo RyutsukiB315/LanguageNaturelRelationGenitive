@@ -1,0 +1,80 @@
+cuillère;bois;cuillère de bois
+trône;fer;trône de fer
+mur;brique;mur de brique
+statue;cire;statue de cire
+maison;paille;maison de paille
+chemise;soie;chemise de soie
+bague;or;bague d'or
+table;marbre;table de marbre
+sac;plastique;sac de plastique
+toit;tuile;toit de tuile
+gobelet;carton;gobelet de carton
+poutre;acier;poutre d'acier
+fil;cuivre;fil de cuivre
+bouteille;verre;bouteille de verre
+médaille;bronze;médaille de bronze
+pull;laine;pull de laine
+écharpe;cachemire;écharpe de cachemire
+semelle;caoutchouc;semelle de caoutchouc
+boîte;métal;boîte de métal
+gant;cuir;gant de cuir
+collier;perles;collier de perles
+portail;aluminium;portail d'aluminium
+bloc;béton;bloc de béton
+planche;chêne;planche de chêne
+coque;noix;coque de noix
+pantalon;lin;pantalon de lin
+vasque;pierre;vasque de pierre
+cœur;artichaut;cœur d'artichaut
+montagne;granit;montagne de granit
+barre;chocolat;barre de chocolat
+cube;glace;cube de glace
+dent;ivoire;dent d'ivoire
+lame;rasoir;lame de rasoir
+tissu;coton;tissu de coton
+monnaie;argent;monnaie d'argent
+couronne;lauriers;couronne de lauriers
+pont;singe;pont de singe
+tour;ivoire;tour d'ivoire
+bonhomme;neige;bonhomme de neige
+château;sable;château de sable
+chemin;terre;chemin de terre
+palais;glace;palais de glace
+boule;gomme;boule de gomme
+nuage;lait;nuage de lait
+montre;or;montre d'or
+cercueil;plomb;cercueil de plomb
+armure;écailles;armure d'écailles
+rideau;velours;rideau de velours
+tapis;laine;tapis de laine
+banc;pierre;banc de pierre
+toile;jute;toile de jute
+corde;chanvre;corde de chanvre
+squelette;os;squelette d'os
+prothèse;silicone;prothèse de silicone
+implant;titane;implant de titane
+coque;plastique;coque de plastique
+jeton;plastique;jeton de plastique
+perle;verre;perle de verre
+statue;sel;statue de sel
+poupée;chiffon;poupée de chiffon
+soldat;plomb;soldat de plomb
+jambe;bois;jambe de bois
+cheval;Troie;cheval de Troie
+colosse;argile;colosse d'argile
+veau;or;veau d'or
+dents;scie;dents de scie
+barre;fer;barre de fer
+clou;girofle;clou de girofle
+pomme;pin;pomme de pin
+eau;roche;eau de roche
+langue;bois;langue de bois
+nerfs;acier;nerfs d'acier
+volonté;fer;volonté de fer
+cœur;pierre;cœur de pierre
+gueule;bois;gueule de bois
+tête;lard;tête de lard
+estomac;autruche;estomac d'autruche
+larmes;crocodile;larmes de crocodile
+ours;peluche;ours de peluche
+canard;plastique;canard de plastique

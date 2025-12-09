@@ -1,0 +1,80 @@
+travail;bois;travail du bois
+ouverture;porte;ouverture de la porte
+récolte;blé;récolte du blé
+nettoyage;sol;nettoyage du sol
+lecture;roman;lecture du roman
+analyse;données;analyse des données
+construction;pont;construction du pont
+lavage;voiture;lavage de la voiture
+fermeture;magasin;fermeture du magasin
+écriture;lettre;écriture de la lettre
+résolution;problème;résolution du problème
+défense;territoire;défense du territoire
+invasion;pays;invasion du pays
+éducation;enfants;éducation des enfants
+dressage;chien;dressage du chien
+observation;étoiles;observation des étoiles
+analyse;sang;analyse du sang
+protection;nature;protection de la nature
+pollution;air;pollution de l'air
+contamination;eau;contamination de l'eau
+rénovation;maison;rénovation de la maison
+démolition;immeuble;démolition de l'immeuble
+restauration;tableau;restauration du tableau
+traduction;texte;traduction du texte
+correction;copies;correction des copies
+impression;document;impression du document
+publication;article;publication de l'article
+distribution;courrier;distribution du courrier
+livraison;colis;livraison du colis
+réception;balle;réception de la balle
+conduite;bus;conduite du bus
+pilotage;avion;pilotage de l'avion
+cuisson;viande;cuisson de la viande
+coupe;bois;coupe du bois
+sciage;bûche;sciage de la bûche
+ponçage;parquet;ponçage du parquet
+peinture;volets;peinture des volets
+arrosage;fleurs;arrosage des fleurs
+tonte;pelouse;tonte de la pelouse
+cueillette;champignons;cueillette des champignons
+chasse;cerf;chasse du cerf
+pêche;truite;pêche de la truite
+élevage;bétail;élevage du bétail
+abattage;cochon;abattage du cochon
+fumage;poisson;fumage du poisson
+séchage;linge;séchage du linge
+repassage;chemise;repassage de la chemise
+pliage;drap;pliage du drap
+rangement;boîtes;rangement des boîtes
+tri;déchets;tri des déchets
+recyclage;papier;recyclage du papier
+brûlage;bois;brûlage du bois
+enterrement;trésor;enterrement du trésor
+fouille;site;fouille du site
+exploration;grotte;exploration de la grotte
+visite;musée;visite du musée
+conquête;espace;conquête de l'espace
+découverte;vaccin;découverte du vaccin
+invention;roue;invention de la roue
+création;monde;création du monde
+destruction;anneau;destruction de l'anneau
+libération;peuple;libération du peuple
+oppression;faibles;oppression des faibles
+sauvetage;otage;sauvetage de l'otage
+guérison;malade;guérison du malade
+traitement;maladie;traitement de la maladie
+prévention;risques;prévention des risques
+gestion;crise;gestion de la crise
+organisation;fête;organisation de la fête
+préparation;repas;préparation du repas
+dégustation;vin;dégustation du vin
+digestion;aliments;digestion des aliments
+évaporation;eau;évaporation de l'eau
+réparation;montre;réparation de la montre
+achat;pain;achat du pain
+vente;maison;vente de la maison
+consommation;énergie;consommation d'énergie
+gaspillage;eau;gaspillage de l'eau
+taillage;diamant;taillage du diamant
+surveillance;frontière;surveillance de la frontière

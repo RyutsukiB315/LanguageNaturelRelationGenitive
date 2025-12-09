@@ -1,0 +1,81 @@
+A;B;Phrase
+peinture;paysage;peinture d'un paysage
+photo;famille;photo d'une famille
+carte;monde;carte du monde
+plan;ville;plan de la ville
+portrait;reine;portrait de la reine
+statue;liberté;statue de la liberté
+dessin;enfant;dessin d'un enfant
+croquis;suspect;croquis du suspect
+buste;empereur;buste de l'empereur
+image;chat;image du chat
+reflet;lune;reflet de la lune
+ombre;arbre;ombre de l'arbre
+maquette;avion;maquette de l'avion
+gravure;mode;gravure de mode
+fresque;jugement;fresque du jugement
+icône;saint;icône du saint
+tableau;fleurs;tableau de fleurs
+poster;star;poster de la star
+affiche;film;affiche du film
+cliché;vacances;cliché des vacances
+vue;port;vue du port
+panorama;alpes;panorama des alpes
+sculpture;athlète;sculpture de l'athlète
+figurine;héros;figurine du héros
+effigie;monarque;effigie du monarque
+moulage;visage;moulage du visage
+empreinte;pas;empreinte du pas
+trace;pneu;trace de pneu
+enregistrement;concert;enregistrement du concert
+vidéo;chat;vidéo de chat
+film;mariage;film du mariage
+copie;document;copie du document
+reproduction;tableau;reproduction du tableau
+fac-similé;manuscrit;fac-similé du manuscrit
+diapositive;voyage;diapositive du voyage
+illustration;conte;illustration du conte
+schéma;montage;schéma du montage
+diagramme;processus;diagramme du processus
+graphique;ventes;graphique des ventes
+courbe;température;courbe de température
+profil;candidat;profil du candidat
+silhouette;montagne;silhouette de la montagne
+masque;zorro;masque de zorro
+déguisement;pirate;déguisement de pirate
+costume;clown;costume de clown
+marionnette;guignol;marionnette de guignol
+poupée;mannequin;poupée de mannequin
+avatar;joueur;avatar du joueur
+logo;entreprise;logo de l'entreprise
+emblème;club;emblème du club
+drapeau;pays;drapeau du pays
+blason;famille;blason de la famille
+insigne;régiment;insigne du régiment
+symbole;paix;symbole de la paix
+signe;croix;signe de la croix
+lettre;alphabet;lettre de l'alphabet
+chiffre;nombre;chiffre du nombre
+note;musique;note de musique
+carte;france;carte de France
+planisphère;terre;planisphère de la terre
+globe;terrestre;globe terrestre
+atlas;géographie;atlas de géographie
+radio;poumon;radio du poumon
+échographie;bébé;échographie du bébé
+scan;cerveau;scan du cerveau
+imagerie;satellite;imagerie de satellite
+vue;esprit;vue de l'esprit
+vision;horreur;vision d'horreur
+mirage;oasis;mirage d'oasis
+spectre;lumière;spectre de la lumière
+maquette;projet;maquette du projet
+prototype;voiture;prototype de la voiture
+échantillon;tissu;échantillon de tissu
+extrait;livre;extrait du livre
+résumé;film;résumé du film
+bande-annonce;film;bande-annonce du film
+sommaire;revue;sommaire de la revue
+index;noms;index des noms
+légende;photo;légende de la photo
+titre;chapitre;titre du chapitre

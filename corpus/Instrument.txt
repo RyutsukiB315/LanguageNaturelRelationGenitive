@@ -1,0 +1,80 @@
+clé;ouverture;clé d'ouverture
+clé;porte;clé de la porte
+levier;commande;levier de commande
+pédale;frein;pédale de frein
+volant;direction;volant de direction
+barre;traction;barre de traction
+caméra;surveillance;caméra de surveillance
+appareil;photo;appareil de photo
+lunettes;vue;lunettes de vue
+lentille;contact;lentille de contact
+masque;plongée;masque de plongée
+bouteille;plongée;bouteille de plongée
+combinaison;surf;combinaison de surf
+planche;salut;planche de salut
+ceinture;sécurité;ceinture de sécurité
+gilet;sauvetage;gilet de sauvetage
+canot;sauvetage;canot de sauvetage
+trousse;secours;trousse de secours
+roue;secours;roue de secours
+pneu;neige;pneu de neige
+chaîne;vélo;chaîne de vélo
+casque;moto;casque de moto
+gant;boxe;gant de boxe
+raquette;tennis;raquette de tennis
+club;golf;club de golf
+batte;baseball;batte de baseball
+boule;pétanque;boule de pétanque
+ballon;foot;ballon de foot
+chaussure;marche;chaussure de marche
+botte;pluie;botte de pluie
+vêtement;travail;vêtement de travail
+tenue;camoulage;tenue de camouflage
+uniforme;police;uniforme de police
+arme;poing;arme de poing
+fusil;chasse;fusil de chasse
+couteau;cuisine;couteau de cuisine
+planche;découpe;planche de découpe
+rouleau;pâtisserie;rouleau de pâtisserie
+fouet;cuisine;fouet de cuisine
+verre;mesure;verre de mesure
+balance;précision;balance de précision
+instrument;mesure;instrument de mesure
+outil;jardinage;outil de jardinage
+matériel;bricolage;matériel de bricolage
+kit;survie;kit de survie
+produit;nettoyage;produit de nettoyage
+poudre;lavage;poudre de lavage
+liquide;vaisselle;liquide de vaisselle
+crème;rasage;crème de rasage
+mousse;coiffure;mousse de coiffure
+laque;cheveux;laque de cheveux
+vernis;ongles;vernis de ongles
+lime;ongles;lime de ongles
+brosse;chiendent;brosse de chiendent
+papier;verre;papier de verre
+toile;émeri;toile d'émeri
+pierre;aiguiser;pierre d'aiguiser
+meule;affûtage;meule d'affûtage
+fil;couture;fil de couture
+aiguille;tricot;aiguille de tricot
+crochet;serrurier;crochet de serrurier
+badge;accès;badge d'accès
+carte;crédit;carte de crédit
+ticket;métro;ticket de métro
+billet;avion;billet d'avion
+permis;conduire;permis de conduire
+pièce;identité;pièce d'identité
+passeport;voyage;passeport de voyage
+visa;entrée;visa d'entrée
+code;accès;code d'accès
+mot;passe;mot de passe
+adresse;messagerie;adresse de messagerie
+numéro;téléphone;numéro de téléphone
+ligne;urgence;ligne d'urgence
+borne;appel;borne d'appel
+tour;contrôle;tour de contrôle
+rampe;lancement;rampe de lancement
+piste;atterrissage;piste d'atterrissage
+filet;pêche;filet de pêche
+canne;aveugle;canne d'aveugle

@@ -1,0 +1,80 @@
+coque;bateau;coque du bateau
+écaille;poisson;écaille du poisson
+pied;chaise;pied de la chaise
+roue;voiture;roue de la voiture
+page;livre;page du livre
+toit;maison;toit de la maison
+branche;arbre;branche de l'arbre
+manche;couteau;manche du couteau
+pétale;fleur;pétale de la fleur
+aile;avion;aile de l'avion
+guidon;vélo;guidon du vélo
+touche;piano;touche de piano
+corde;guitare;corde de guitare
+anse;tasse;anse de la tasse
+cadran;montre;cadran de la montre
+écran;ordinateur;écran de l'ordinateur
+plume;oiseau;plume de l'oiseau
+crinière;lion;crinière du lion
+trompe;éléphant;trompe de l'éléphant
+nageoire;requin;nageoire du requin
+queue;chat;queue du chat
+bec;canard;bec du canard
+patte;chien;patte du chien
+griffe;tigre;griffe du tigre
+dossier;fauteuil;dossier du fauteuil
+tiroir;commode;tiroir de la commode
+marche;escalier;marche de l'escalier
+poignée;porte;poignée de la porte
+serrure;coffre;serrure du coffre
+goulot;bouteille;goulot de la bouteille
+bouchon;carafe;bouchon de la carafe
+lame;épée;lame de l'épée
+pointe;flèche;pointe de la flèche
+manche;balai;manche du balai
+poils;brosse;poils de la brosse
+dent;peigne;dent du peigne
+verre;lunettes;verre de lunettes
+aiguille;boussole;aiguille de la boussole
+cadran;horloge;cadran de l'horloge
+clocher;église;clocher de l'église
+donjon;château;donjon du château
+voile;navire;voile du navire
+hélice;hélicoptère;hélice de l'hélicoptère
+wagon;train;wagon du train
+pédale;bicyclette;pédale de la bicyclette
+selle;cheval;selle du cheval
+bouton;chemise;bouton de la chemise
+col;veste;col de la veste
+manche;pull;manche du pull
+lacet;chaussure;lacet de la chaussure
+talon;botte;talon de la botte
+verre;fenêtre;verre de la fenêtre
+tuile;toiture;tuile de la toiture
+brique;mur;brique du mur
+latte;parquet;latte du parquet
+rayon;roue;rayon de la roue
+guidon;moto;guidon de la moto
+phare;auto;phare de l'auto
+pare-chocs;camion;pare-chocs du camion
+rétroviseur;bus;rétroviseur du bus
+aile;moulin;aile du moulin
+écorce;tronc;écorce du tronc
+racine;plante;racine de la plante
+épine;rose;épine de la rose
+pépin;pomme;pépin de la pomme
+noyau;cerise;noyau de la cerise
+quartier;orange;quartier de l'orange
+peau;banane;peau de la banane
+croute;pain;croute du pain
+mie;pain;mie du pain
+jaune;oeuf;jaune de l'oeuf
+blanc;oeuf;blanc de l'oeuf
+chapitre;roman;chapitre du roman
+vers;poème;vers du poème
+scène;pièce;scène de la pièce
+titre;journal;titre du journal
+refrain;chanson;refrain de la chanson
+touche;clavier;touche du clavier
+souris;ordinateur;souris de l'ordinateur
+fil;téléphone;fil du téléphone
