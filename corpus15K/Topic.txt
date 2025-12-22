@@ -1,0 +1,998 @@
+A;B;Phrase
+restaurant;sushis;restaurant de sushis
+film;horreur;film d'horreur
+livre;mathématiques;livre de mathématiques
+professeur;anglais;professeur d'anglais
+club;jazz;club de jazz
+musée;histoire;musée d'histoire
+site;rencontre;site de rencontre
+magazine;mode;magazine de mode
+cours;piano;cours de piano
+école;danse;école de danse
+salle;sport;salle de sport
+terrain;football;terrain de football
+guide;voyage;guide de voyage
+récit;guerre;récit de guerre
+histoire;fantômes;histoire de fantômes
+conte;fées;conte de fées
+album;photos;album de photos
+journal;télévisé;journal télévisé
+émission;variétés;émission de variétés
+chaîne;info;chaîne d'info
+débat;politique;débat de politique
+ministre;santé;ministre de la santé
+ministère;justice;ministère de la justice
+agence;voyage;agence de voyage
+boutique;souvenirs;boutique de souvenirs
+magasin;jouets;magasin de jouets
+marchand;journaux;marchand de journaux
+vendeur;tapis;vendeur de tapis
+professeur;gym;professeur de gym
+maître;nageur;maître nageur
+moniteur;ski;moniteur de ski
+champion;monde;champion du monde
+roi;pétrole;roi du pétrole
+as;volant;as du volant
+fou;guerre;fou de guerre
+passionné;voitures;passionné de voitures
+amateur;vins;amateur de vins
+critique;cinéma;critique de cinéma
+rubrique;chiens;rubrique des chiens écrasés
+section;sport;section de sport
+rayon;boucherie;rayon de boucherie
+service;comptabilité;service de comptabilité
+département;recherche;département de recherche
+directeur;marketing;directeur du marketing
+chef;projet;chef de projet
+responsable;ventes;responsable des ventes
+ingénieur;son;ingénieur du son
+technicien;surface;technicien de surface
+agent;sécurité;agent de sécurité
+officier;liaison;officier de liaison
+code;route;code de la route
+règle;jeu;règle du jeu
+loi;finance;loi de finance
+cours;histoire;cours d'histoire
+leçon;morale;leçon de morale
+classe;neige;classe de neige
+colonie;vacances;colonie de vacances
+agence;intérim;agence d'intérim
+bureau;tabac;bureau de tabac
+salon;coiffure;salon de coiffure
+institut;beauté;institut de beauté
+centre;loisirs;centre de loisirs
+parc;attractions;parc d'attractions
+jardin;enfants;jardin d'enfants
+hôtel;passe;hôtel de passe
+maison;retraite;maison de retraite
+asile;fous;asile de fous
+clinique;vétérinaire;clinique vétérinaire
+congrès;médecins;congrès de médecins
+foire;vins;foire aux vins
+salon;agriculture;salon de l'agriculture
+festival;cinéma;festival de cinéma
+tournoi;tennis;tournoi de tennis
+match;boxe;match de boxe
+championnat;football;championnat de football
+coupe;monde;coupe du monde
+jeux;olympiques;jeux olympiques
+roman;amour;roman d'amour
+film;action;film d'action
+pièce;théâtre;pièce de théâtre
+livre;histoire;livre d'histoire
+manuel;géographie;manuel de géographie
+cours;mathématiques;cours de mathématiques
+leçon;piano;leçon de piano
+professeur;physique;professeur de physique
+maître;philosophie;maître de philosophie
+étudiant;droit;étudiant en droit
+école;commerce;école de commerce
+faculté;médecine;faculté de médecine
+institut;beauté;institut de beauté
+académie;musique;académie de musique
+stage;poterie;stage de poterie
+atelier;écriture;atelier d'écriture
+formation;informatique;formation en informatique
+diplôme;ingénieur;diplôme d'ingénieur
+thèse;sociologie;thèse de sociologie
+recherche;cancer;recherche sur le cancer
+étude;marché;étude de marché
+rapport;activité;rapport d'activité
+mémoire;fin d'étude;mémoire de fin d'étude
+encyclopédie;animaux;encyclopédie des animaux
+dictionnaire;synonymes;dictionnaire des synonymes
+atlas;monde;atlas du monde
+carte;randonnée;carte de randonnée
+guide;voyage;guide de voyage
+magazine;mode;magazine de mode
+revue;presse;revue de presse
+journal;sport;journal de sport
+site;rencontre;site de rencontre
+blog;cuisine;blog de cuisine
+forum;discussion;forum de discussion
+chaîne;histoire;chaîne d'histoire
+émission;variétés;émission de variétés
+reportage;guerre;reportage de guerre
+documentaire;nature;documentaire sur la nature
+film;aventure;film d'aventure
+roman;policier;roman policier
+conte;fées;conte de fées
+fable;animaux;fable d'animaux
+poème;amour;poème d'amour
+chanson;geste;chanson de geste
+musique;chambre;musique de chambre
+pièce;théâtre;pièce de théâtre
+comédie;moeurs;comédie de mœurs
+drame;jalousie;drame de la jalousie
+tragédie;grecque;tragédie grecque
+opéra;rock;opéra rock
+concert;jazz;concert de jazz
+festival;cinéma;festival de cinéma
+salon;automobile;salon de l'automobile
+foire;livre;foire du livre
+exposition;peinture;exposition de peinture
+musée;sciences;musée des sciences
+galerie;art;galerie d'art
+bibliothèque;quartier;bibliothèque de quartier
+conférence;paix;conférence sur la paix
+débat;politique;débat politique
+discours;mariage;discours de mariage
+réunion;famille;réunion de famille
+conseil;classe;conseil de classe
+comité;direction;comité de direction
+commission;enquête;commission d'enquête
+groupe;rock;groupe de rock
+club;échecs;club d'échecs
+équipe;foot;équipe de foot
+association;bienfaisance;association de bienfaisance
+société;consommation;société de consommation
+monde;affaires;monde des affaires
+milieu;mode;milieu de la mode
+secteur;bâtiment;secteur du bâtiment
+branche;industrie;branche de l'industrie
+domaine;santé;domaine de la santé
+champ;vision;champ de vision
+zone;guerre;zone de guerre
+terrain;entente;terrain d'entente
+espace;détente;espace de détente
+salle;attente;salle d'attente
+bureau;tabac;bureau de tabac
+agence;voyage;agence de voyage
+cabinet;avocat;cabinet d'avocat
+étude;notaire;étude de notaire
+clinique;vétérinaire;clinique vétérinaire
+hôpital;enfants;hôpital pour enfants
+maison;retraite;maison de retraite
+centre;aéré;centre aéré
+colonie;vacances;colonie de vacances
+camp;entrainement;camp d'entraînement
+base;loisirs;base de loisirs
+parc;attractions;parc d'attractions
+jardin;plantes;jardin des plantes
+zoo;insectes;zoo d'insectes
+aquarium;requins;aquarium aux requins
+cirque;puces;cirque de puces
+théâtre;marionnettes;théâtre de marionnettes
+cinéma;quartier;cinéma de quartier
+opéra;paris;opéra de Paris
+stade;france;stade de France
+palais;sports;palais des sports
+hall;gare;hall de gare
+quai;métro;quai de métro
+piste;danse;piste de danse
+scène;crime;scène de crime
+lieu;culte;lieu de culte
+maison;dieu;maison de Dieu
+temple;soleil;temple du soleil
+église;village;église du village
+chapelle;sixtine;chapelle Sixtine
+cathédrale;chartres;cathédrale de Chartres
+mosquée;cordoue;mosquée de Cordoue
+synagogue;prague;synagogue de Prague
+professeur;gym;professeur de gym
+maître;nageur;maître nageur
+moniteur;ski;moniteur de ski
+instructeur;vol;instructeur de vol
+coach;vie;coach de vie
+entraîneur;foot;entraîneur de foot
+sélectionneur;équipe;sélectionneur de l'équipe
+capitaine;route;capitaine de route
+pilote;ligne;pilote de ligne
+chauffeur;taxi;chauffeur de taxi
+conducteur;travaux;conducteur de travaux
+chef;chantier;chef de chantier
+directeur;école;directeur d'école
+proviseur;lycée;proviseur de lycée
+recteur;académie;recteur d'académie
+doyen;faculté;doyen de la faculté
+président;république;président de la république
+roi;belges;roi des Belges
+reine;angleterre;reine d'Angleterre
+pape;rome;pape de Rome
+maire;village;maire du village
+député;loire;député de la Loire
+sénateur;rhône;sénateur du Rhône
+ministre;finances;ministre des finances
+secrétaire;état;secrétaire d'état
+ambassadeur;paix;ambassadeur de la paix
+consul;france;consul de France
+juge;paix;juge de paix
+avocat;diable;avocat du diable
+huissier;justice;huissier de justice
+commissaire;priseur;commissaire priseur
+agent;change;agent de change
+courtier;assurance;courtier en assurance
+banquier;famille;banquier de la famille
+assureur;vie;assureur vie
+expert;comptable;expert comptable
+ingénieur;son;ingénieur du son
+technicien;surface;technicien de surface
+ouvrier;bâtiment;ouvrier du bâtiment
+artisan;taxi;artisan taxi
+paysan;danube;paysan du Danube
+marin;eau douce;marin d'eau douce
+soldat;feu;soldat du feu
+guerrier;lumière;guerrier de la lumière
+chevalier;ciel;chevalier du ciel
+aventurier;arche;aventurier de l'arche
+héros;roman;héros de roman
+personnage;fiction;personnage de fiction
+vedette;chanson;vedette de la chanson
+star;cinéma;star de cinéma
+idole;jeunes;idole des jeunes
+fan;rock;fan de rock
+amateur;vin;amateur de vin
+passionné;voitures;passionné de voitures
+collectionneur;timbres;collectionneur de timbres
+spécialiste;insectes;spécialiste des insectes
+expert;art;expert en art
+critique;gastronomique;critique gastronomique
+historien;art;historien de l'art
+géographe;roi;géographe du roi
+mathématicien;génie;mathématicien de génie
+physicien;nucléaire;physicien nucléaire
+chimiste;laboratoire;chimiste de laboratoire
+biologiste;marin;biologiste marin
+astronaute;nasa;astronaute de la NASA
+explorateur;pôles;explorateur des pôles
+boutique;souvenirs;boutique de souvenirs
+magasin;jouets;magasin de jouets
+échoppe;cordonnier;échoppe du cordonnier
+kiosque;fleurs;kiosque à fleurs
+supermarché;quartier;supermarché du quartier
+hypermarché;banlieue;hypermarché de banlieue
+centre;commercial;centre commercial
+galerie;art;galerie d'art
+foire;fouille;foire à la fouille
+marché;puces;marché aux puces
+boulangerie;campagne;boulangerie de campagne
+pâtisserie;luxe;pâtisserie de luxe
+boucherie;chevaline;boucherie chevaline
+charcuterie;traiteur;charcuterie traiteur
+poissonnerie;port;poissonnerie du port
+épicerie;fine;épicerie fine
+fromagerie;alpage;fromagerie d'alpage
+crèmerie;centrale;crèmerie centrale
+confiserie;ancienne;confiserie ancienne
+chocolaterie;belge;chocolaterie belge
+glacier;italien;glacier italien
+salon;thé;salon de thé
+café;gare;café de la gare
+bar;tabac;bar tabac
+bistrot;coin;bistrot du coin
+brasserie;alsacienne;brasserie alsacienne
+restaurant;ouvrier;restaurant ouvrier
+auberge;jeunesse;auberge de jeunesse
+hôtel;ville;hôtel de ville
+motel;route;motel de la route
+camping;flots;camping des flots
+agence;voyage;agence de voyage
+agence;immobilière;agence immobilière
+agence;matrimoniale;agence matrimoniale
+agence;intérim;agence d'intérim
+agence;pub;agence de pub
+cabinet;dentaire;cabinet dentaire
+cabinet;architecte;cabinet d'architecte
+bureau;change;bureau de change
+bureau;poste;bureau de poste
+guichet;gare;guichet de gare
+caisse;épargne;caisse d'épargne
+banque;affaires;banque d'affaires
+compagnie;assurance;compagnie d'assurance
+société;transport;société de transport
+entreprise;nettoyage;entreprise de nettoyage
+usine;textile;usine textile
+atelier;mécanique;atelier de mécanique
+garage;réparation;garage de réparation
+station;service;station service
+pompe;essence;pompe à essence
+parking;aéroport;parking de l'aéroport
+aire;repos;aire de repos
+péage;autoroute;péage d'autoroute
+boutique;mode;boutique de mode
+magasin;chaussures;magasin de chaussures
+chapellerie;dames;chapellerie pour dames
+bijouterie;luxe;bijouterie de luxe
+horlogerie;suisse;horlogerie suisse
+parfumerie;sélective;parfumerie sélective
+pharmacie;garde;pharmacie de garde
+herboristerie;chinoise;herboristerie chinoise
+librairie;ancien;librairie d'ancien
+disquaire;indépendant;disquaire indépendant
+papeterie;scolaire;papeterie scolaire
+mercerie;quartier;mercerie du quartier
+droguerie;village;droguerie du village
+quincaillerie;bâtiment;quincaillerie du bâtiment
+jardinerie;périurbaine;jardinerie périurbaine
+animalerie;exotique;animalerie exotique
+fleuriste;mariage;fleuriste de mariage
+pompes;funèbres;pompes funèbres
+service;après-vente;service après-vente
+rayon;bricolage;rayon bricolage
+rayon;frais;rayon frais
+rayon;librairie;rayon librairie
+rayon;disque;rayon disque
+rayon;jouet;rayon jouet
+rayon;sport;rayon sport
+rayon;femme;rayon femme
+rayon;homme;rayon homme
+rayon;enfant;rayon enfant
+vente;correspondance;vente par correspondance
+achat;ligne;achat en ligne
+commerce;détail;commerce de détail
+commerce;gros;commerce de gros
+import;export;import export
+marché;art;marché de l'art
+bourse;valeurs;bourse des valeurs
+cotation;or;cotation de l'or
+prix;baril;prix du baril
+cours;change;cours du change
+taux;intérêt;taux d'intérêt
+frais;port;frais de port
+taxe;séjour;taxe de séjour
+impôt;fortune;impôt sur la fortune
+loi;marché;loi du marché
+offre;emploi;offre d'emploi
+demande;asile;demande d'asile
+contrat;mariage;contrat de mariage
+police;assurance;police d'assurance
+bail;location;bail de location
+acte;vente;acte de vente
+titre;propriété;titre de propriété
+certificat;garantie;certificat de garantie
+bon;commande;bon de commande
+facture;électricité;facture d'électricité
+note;frais;note de frais
+ticket;caisse;ticket de caisse
+reçu;don;reçu de don
+carte;crédit;carte de crédit
+chèque;vacances;chèque vacances
+ticket;restaurant;ticket restaurant
+bon;achat;bon d'achat
+carte;fidélité;carte de fidélité
+marque;voiture;marque de voiture
+logo;entreprise;logo d'entreprise
+slogan;campagne;slogan de campagne
+affiche;pub;affiche de pub
+spot;télé;spot télé
+jingle;radio;jingle radio
+enseigne;magasin;enseigne de magasin
+vitrine;noël;vitrine de Noël
+étalage;bijoux;étalage de bijoux
+catalogue;jouets;catalogue de jouets
+prospectus;supermarché;prospectus de supermarché
+échantillon;parfum;échantillon de parfum
+test;grossesse;test de grossesse
+essai;route;essai sur route
+démonstration;force;démonstration de force
+promotion;ventes;promotion des ventes
+solde;hiver;solde d'hiver
+rabais;quantité;rabais de quantité
+remise;prix;remise de prix
+ristourne;fidélité;ristourne de fidélité
+prime;départ;prime de départ
+indemnité;chômage;indemnité de chômage
+allocation;logement;allocation logement
+bourse;étude;bourse d'étude
+pension;retraite;pension de retraite
+rente;viagère;rente viagère
+héritage;tante;héritage de la tante
+legs;universel;legs universel
+don;organe;don d'organe
+cadeau;noël;cadeau de Noël
+étrennes;facteur;étrennes du facteur
+pourboire;guide;pourboire du guide
+aumône;pauvre;aumône au pauvre
+quête;église;quête de l'église
+collecte;sang;collecte de sang
+loterie;nationale;loterie nationale
+tombola;école;tombola de l'école
+pari;sportif;pari sportif
+jeu;hasard;jeu de hasard
+casino;jeu;casino de jeu
+cercle;jeu;cercle de jeu
+hippodrome;course;hippodrome de course
+champ;course;champ de course
+terrain;golf;terrain de golf
+court;tennis;court de tennis
+piste;ski;piste de ski
+bassin;natation;bassin de natation
+patinoire;hockey;patinoire de hockey
+boulodrome;pétanque;boulodrome de pétanque
+stand;tir;stand de tir
+salle;boxe;salle de boxe
+dojo;karaté;dojo de karaté
+stade;foot;stade de foot
+arène;corrida;arène de corrida
+circuit;formule 1;circuit de formule 1
+vélodrome;cyclisme;vélodrome de cyclisme
+port;plaisance;port de plaisance
+base;nautique;base nautique
+centre;équestre;centre équestre
+poney;club;poney club
+école;voile;école de voile
+club;plongée;club de plongée
+salle;musculation;salle de musculation
+cours;yoga;cours de yoga
+leçon;tennis;leçon de tennis
+stage;poney;stage de poney
+brevet;pilote;brevet de pilote
+permis;chasse;permis de chasse
+carte;pêche;carte de pêche
+licence;tir;licence de tir
+abonnement;piscine;abonnement à la piscine
+cotisation;club;cotisation au club
+droit;entrée;droit d'entrée
+ticket;cinéma;ticket de cinéma
+billet;concert;billet de concert
+place;théâtre;place de théâtre
+invitation;vernissage;invitation au vernissage
+carton;invitation;carton d'invitation
+faire-part;décès;faire-part de décès
+carte;visite;carte de visite
+badge;accès;badge d'accès
+passe;partout;passe partout
+clé;champs;clé des champs
+code;honneur;code d'honneur
+règle;art;règle de l'art
+loi;série;loi des séries
+principe;précaution;principe de précaution
+théorie;complot;théorie du complot
+hypothèse;travail;hypothèse de travail
+thèse;accident;thèse de l'accident
+preuve;amour;preuve d'amour
+signe;vie;signe de vie
+trace;pneu;trace de pneu
+indice;octane;indice d'octane
+symbole;justice;symbole de la justice
+blason;ville;blason de la ville
+drapeau;régiment;drapeau du régiment
+hymne;joie;hymne à la joie
+livre;cuisine;livre de cuisine
+roman;aventure;roman d'aventure
+polar;suédois;polar suédois
+thriller;politique;thriller politique
+biographie;star;biographie de star
+mémoires;guerre;mémoires de guerre
+essai;philosophique;essai philosophique
+pamphlet;politique;pamphlet politique
+manifeste;surréaliste;manifeste surréaliste
+traité;paix;traité de paix
+code;civil;code civil
+bible;gourmet;bible du gourmet
+coran;croyant;coran du croyant
+torah;juif;torah du juif
+évangile;selon;évangile selon...
+épître;paul;épître de Paul
+sourate;ouverture;sourate de l'ouverture
+psaume;david;psaume de David
+verset;biblique;verset biblique
+commandement;dieu;commandement de Dieu
+loi;jungle;loi de la jungle
+règle;trois;règle de trois
+théorème;thalès;théorème de Thalès
+postulat;euclide;postulat d'Euclide
+axiome;base;axiome de base
+principe;archimède;principe d'Archimède
+loi;gravité;loi de la gravité
+théorie;relativité;théorie de la relativité
+big;bang;big bang (théorie)
+évolution;espèces;évolution des espèces
+sélection;naturelle;sélection naturelle
+chaînon;manquant;chaînon manquant
+effet;serre;effet de serre
+trou;ozone;trou dans la couche d'ozone
+réchauffement;climatique;réchauffement climatique
+crise;énergie;crise de l'énergie
+choc;pétrolier;choc pétrolier
+guerre;étoiles;guerre des étoiles
+bataille;marne;bataille de la Marne
+siège;la rochelle;siège de La Rochelle
+prise;bastille;prise de la Bastille
+serment;jeu de paume;serment du Jeu de Paume
+déclaration;droits;déclaration des droits
+abolition;esclavage;abolition de l'esclavage
+traite;nègres;traite des nègres
+conquête;ouest;conquête de l'ouest
+ruée;or;ruée vers l'or
+guerre;sécession;guerre de Sécession
+crise;29;crise de 29
+jeudi;noir;jeudi noir
+front;populaire;front populaire
+guerre;espagne;guerre d'Espagne
+débarquement;normandie;débarquement de Normandie
+bataille;angleterre;bataille d'Angleterre
+résistance;française;résistance française
+libération;paris;libération de Paris
+guerre;algérie;guerre d'Algérie
+mai;68;mai 68
+chute;mur;chute du mur
+printemps;arabe;printemps arabe
+révolution;oeillets;révolution des œillets
+révolution;culturelle;révolution culturelle
+guerre;froide;guerre froide
+rideau;fer;rideau de fer
+mur;berlin;mur de Berlin
+crise;cuba;crise de Cuba
+guerre;vietnam;guerre du Vietnam
+guerre;golfe;guerre du Golfe
+attentat;world trade center;attentat du World Trade Center
+tsunami;asie;tsunami en Asie
+ouragan;katrina;ouragan Katrina
+séisme;haïti;séisme en Haïti
+accident;tchernobyl;accident de Tchernobyl
+catastrophe;fukushima;catastrophe de Fukushima
+naufrage;titanic;naufrage du Titanic
+disparition;dinosaures;disparition des dinosaures
+âge;pierre;âge de pierre
+âge;bronze;âge de bronze
+âge;fer;âge de fer
+antiquité;grecque;antiquité grecque
+empire;romain;empire romain
+moyen;âge;moyen âge
+temps;modernes;temps modernes
+renaissance;italienne;renaissance italienne
+siècle;or;siècle d'or
+belle;époque;belle époque
+années;folles;années folles
+trente;glorieuses;trente glorieuses
+nouvel;an;nouvel an
+fête;mères;fête des mères
+fête;pères;fête des pères
+saint;valentin;saint valentin
+poisson;avril;poisson d'avril
+fête;travail;fête du travail
+armistice;1918;armistice de 1918
+fête;nationale;fête nationale
+assomption;marie;assomption de Marie
+toussaint;saints;toussaint des saints
+armistice;1945;armistice de 1945
+noël;enfants;noël des enfants
+pâques;cloches;pâques des cloches
+ascension;christ;ascension du Christ
+pentecôte;esprit;pentecôte de l'Esprit
+aid;el-kebir;aïd el-kebir
+ramadan;jeûne;ramadan du jeûne
+yom;kippour;yom kippour
+hanoucca;lumières;hanoucca des lumières
+thanksgiving;dinde;thanksgiving à la dinde
+halloween;citrouille;halloween à la citrouille
+carnaval;rio;carnaval de Rio
+mardi;gras;mardi gras
+fête;musique;fête de la musique
+journée;femme;journée de la femme
+journée;patrimoine;journée du patrimoine
+nuit;musées;nuit des musées
+festival;cannes;festival de Cannes
+festival;avignon;festival d'Avignon
+printemps;bourges;printemps de Bourges
+vieilles;charrues;vieilles charrues
+francofolies;rochelle;francofolies de la Rochelle
+tour;france;tour de France
+giro;italie;giro d'Italie
+vuelta;espagne;vuelta d'Espagne
+paris;roubaix;Paris-Roubaix
+24h;mans;24h du Mans
+bol;or;bol d'or
+grand;prix;grand prix
+rallye;dakar;rallye Dakar
+route;rhum;route du Rhum
+vendée;globe;vendée globe
+coupe;america;coupe de l'America
+roland;garros;Roland Garros
+wimbledon;tournoi;tournoi de Wimbledon
+coupe;davis;coupe Davis
+tournoi;six nations;tournoi des six nations
+super;bowl;super bowl
+nba;basket;NBA de basket
+nhl;hockey;NHL de hockey
+ligue;champions;ligue des champions
+coupe;uefa;coupe UEFA
+euro;foot;euro de foot
+copa;america;copa america
+can;afrique;CAN d'Afrique
+jo;hiver;JO d'hiver
+jo;été;JO d'été
+jeux;paralympiques;jeux paralympiques
+marathon;new york;marathon de New York
+triathlon;nice;triathlon de Nice
+ironman;hawaii;ironman d'Hawaii
+raid;gauloises;raid gauloises
+course;croisière;course de la croisière
+régate;voile;régate de voile
+concours;hippique;concours hippique
+prix;amérique;prix d'Amérique
+arc;triomphe;prix de l'Arc de Triomphe
+jumping;international;jumping international
+corrida;madrid;corrida de Madrid
+feria;nîmes;feria de Nîmes
+fête;bayonne;fête de Bayonne
+oktoberfest;munich;oktoberfest de Munich
+saint;patrick;saint patrick
+nouvel;chinois;nouvel an chinois
+diwali;inde;diwali en Inde
+holi;couleurs;holi des couleurs
+intifada;pierre;intifada des pierres
+marche;sel;marche du sel
+longue;marche;longue marche
+printemps;prague;printemps de Prague
+révolution;velours;révolution de velours
+révolution;orange;révolution orange
+révolution;jasmin;révolution de jasmin
+affaire;dreyfus;affaire Dreyfus
+affaire;collier;affaire du collier
+affaire;dominici;affaire Dominici
+affaire;gregory;affaire Gregory
+affaire;outreau;affaire Outreau
+procès;nuremberg;procès de Nuremberg
+procès;barbie;procès Barbie
+procès;papon;procès Papon
+procès;oj simpson;procès OJ Simpson
+mystère;chambre jaune;mystère de la chambre jaune
+secret;pyramide;secret de la pyramide
+trésor;templiers;trésor des Templiers
+masque;fer;masque de fer
+bête;gévaudan;bête du Gévaudan
+monstre;loch ness;monstre du Loch Ness
+yéti;himalaya;yéti de l'Himalaya
+ovni;roswell;ovni de Roswell
+triangle;bermudes;triangle des Bermudes
+atlantide;continent;Atlantide continent perdu
+eldorado;or;Eldorado de l'or
+graal;coupe;Graal coupe sacrée
+toison;or;toison d'or
+corne;abondance;corne d'abondance
+pomme;discorde;pomme de discorde
+boîte;pandore;boîte de Pandore
+fil;ariane;fil d'Ariane
+épée;damoclès;épée de Damoclès
+talon;achille;talon d'Achille
+cheval;troie;cheval de Troie
+nœud;gordien;nœud gordien
+tonneau;danaïdes;tonneau des Danaïdes
+rocher;sisyphe;rocher de Sisyphe
+supplice;tantale;supplice de Tantale
+lit;procuste;lit de Procuste
+victoire;pyrrhus;victoire à la Pyrrhus
+travail;bénédictin;travail de bénédictin
+travail;hercule;travail d'Hercule
+force;nature;force de la nature
+beauté;diable;beauté du diable
+laideur;péché;laideur du péché
+bonté;âme;bonté d'âme
+méchanceté;gratuite;méchanceté gratuite
+devise;shadok;devise shadok
+slogan;pub;slogan de pub
+cri;guerre;cri de guerre
+chant;sirène;chant des sirènes
+mot;passe;mot de passe
+nom;code;nom de code
+numéro;écrou;numéro d'écrou
+matricule;soldat;matricule de soldat
+référence;produit;référence produit
+marque;fabrique;marque de fabrique
+label;qualité;label de qualité
+appellation;origine;appellation d'origine
+certificat;authenticité;certificat d'authenticité
+garantie;obsèques;garantie obsèques
+contrat;confiance;contrat de confiance
+droit;homme;droit de l'homme
+droit;femme;droit de la femme
+droit;enfant;droit de l'enfant
+droit;animaux;droit des animaux
+droit;travail;droit du travail
+droit;commerce;droit du commerce
+droit;international;droit international
+droit;auteur;droit d'auteur
+liberté;presse;liberté de la presse
+liberté;expression;liberté d'expression
+liberté;culte;liberté de culte
+liberté;mouvement;liberté de mouvement
+égalité;chances;égalité des chances
+égalité;sexes;égalité des sexes
+fraternité;peuples;fraternité des peuples
+laïcité;état;laïcité de l'état
+séparation;pouvoirs;séparation des pouvoirs
+démocratie;directe;démocratie directe
+république;bananière;république bananière
+monarchie;absolue;monarchie absolue
+dictature;militaire;dictature militaire
+régime;totalitaire;régime totalitaire
+communisme;soviétique;communisme soviétique
+capitalisme;sauvage;capitalisme sauvage
+socialisme;visage humain;socialisme à visage humain
+libéralisme;économique;libéralisme économique
+mondialisation;échanges;mondialisation des échanges
+délocalisation;usines;délocalisation d'usines
+chômage;masse;chômage de masse
+précarité;emploi;précarité de l'emploi
+pauvreté;monde;pauvreté dans le monde
+faim;monde;faim dans le monde
+dette;tiers-monde;dette du tiers-monde
+aide;humanitaire;aide humanitaire
+commerce;équitable;commerce équitable
+développement;durable;développement durable
+écologie;politique;écologie politique
+protection;environnement;protection de l'environnement
+sauvegarde;planète;sauvegarde de la planète
+lutte;cancer;lutte contre le cancer
+combat;sida;combat contre le sida
+prévention;routière;prévention routière
+sécurité;sociale;sécurité sociale
+assurance;maladie;assurance maladie
+retraite;répartition;retraite par répartition
+allocations;familiales;allocations familiales
+congé;maternité;congé maternité
+congé;payé;congé payé
+temps;travail;temps de travail
+35;heures;35 heures
+smic;horaire;smic horaire
+revenu;universel;revenu universel
+impôt;fortune;impôt sur la fortune
+taxe;carbone;taxe carbone
+tva;sociale;tva sociale
+déficit;public;déficit public
+dette;souveraine;dette souveraine
+crise;financière;crise financière
+bulle;internet;bulle internet
+krach;boursier;krach boursier
+récession;économique;récession économique
+inflation;galopante;inflation galopante
+pouvoir;achat;pouvoir d'achat
+niveau;vie;niveau de vie
+qualité;vie;qualité de vie
+espérance;vie;espérance de vie
+mortalité;infantile;mortalité infantile
+natalité;baisse;natalité en baisse
+vieillissement;population;vieillissement de la population
+immigration;choisie;immigration choisie
+intégration;réussie;intégration réussie
+laïcité;école;laïcité à l'école
+voile;islamique;voile islamique
+mariage;gay;mariage gay
+adoption;homoparentale;adoption homoparentale
+pma;toutes;PMA pour toutes
+gpa;éthique;GPA éthique
+euthanasie;volontaire;euthanasie volontaire
+fin;vie;fin de vie
+peine;mort;peine de mort
+perpétuité;réelle;perpétuité réelle
+bracelet;électronique;bracelet électronique
+liberté;conditionnelle;liberté conditionnelle
+garde;vue;garde à vue
+détention;provisoire;détention provisoire
+présomption;innocence;présomption d'innocence
+secret;instruction;secret de l'instruction
+indépendance;justice;indépendance de la justice
+réforme;retraites;réforme des retraites
+loi;travail;loi travail
+ordonnance;macron;ordonnance Macron
+49;3;49-3 (article)
+motion;censure;motion de censure
+dissolution;assemblée;dissolution de l'assemblée
+remaniement;ministériel;remaniement ministériel
+cohabitation;politique;cohabitation politique
+élection;présidentielle;élection présidentielle
+législatives;anticipées;législatives anticipées
+municipales;paris;municipales à Paris
+européennes;scrutin;européennes (scrutin)
+référendum;initiative;référendum d'initiative
+abstention;record;abstention record
+vote;blanc;vote blanc
+parti;socialiste;parti socialiste
+droite;républicaine;droite républicaine
+extrême;droite;extrême droite
+gauche;radicale;gauche radicale
+centre;mou;centre mou
+écologistes;verts;écologistes verts
+syndicat;ouvrier;syndicat ouvrier
+patronat;medef;patronat (MEDEF)
+grève;générale;grève générale
+manifestation;rue;manifestation de rue
+blocage;raffineries;blocage des raffineries
+service;minimum;service minimum
+négociation;salariale;négociation salariale
+accord;branche;accord de branche
+convention;collective;convention collective
+code;travail;code du travail
+prud;hommes;prud'hommes
+inspection;travail;inspection du travail
+médecine;travail;médecine du travail
+harcèlement;moral;harcèlement moral
+burn;out;burn out
+souffrance;travail;souffrance au travail
+égalité;salariale;égalité salariale
+plafond;verre;plafond de verre
+discrimination;embauche;discrimination à l'embauche
+cv;anonyme;cv anonyme
+discrimination;positive;discrimination positive
+diversité;entreprise;diversité en entreprise
+rse;responsabilité;RSE (Responsabilité Sociale)
+transition;énergétique;transition énergétique
+bilan;carbone;bilan carbone
+énergie;renouvelable;énergie renouvelable
+nucléaire;civil;nucléaire civil
+gaz;schiste;gaz de schiste
+pétrole;brut;pétrole brut
+éolien;offshore;éolien offshore
+solaire;photovoltaïque;solaire photovoltaïque
+biomasse;énergie;biomasse énergie
+hydrogène;vert;hydrogène vert
+voiture;électrique;voiture électrique
+transport;commun;transport en commun
+mobilité;douce;mobilité douce
+ville;durable;ville durable
+smart;city;smart city
+big;data;big data
+intelligence;artificielle;intelligence artificielle
+réalité;virtuelle;réalité virtuelle
+internet;objets;internet des objets
+impression;3D;impression 3D
+blockchain;bitcoin;blockchain bitcoin
+cybersécurité;données;cybersécurité des données
+protection;vie privée;protection de la vie privée
+rgpd;données;RGPD (données)
+gafam;géants;GAFAM (géants)
+uberisation;économie;uberisation de l'économie
+télétravail;domicile;télétravail à domicile
+coworking;espace;coworking espace
+start-up;nation;start-up nation
+licorne;finance;licorne (finance)
+crowdfunding;financement;crowdfunding financement
+économie;collaborative;économie collaborative
+économie;circulaire;économie circulaire
+commerce;ligne;commerce en ligne
+click;collect;click and collect
+drive;piéton;drive piéton
+livraison;drone;livraison par drone
+magasin;autonome;magasin autonome
+paiement;contact;paiement sans contact
+crypto;monnaie;crypto monnaie
+bitcoin;volatilité;bitcoin volatilité
+nft;art;NFT (art)
+metavers;facebook;metavers Facebook
+web;3;web 3
+5g;réseau;5G réseau
+fibre;optique;fibre optique
+fracture;numérique;fracture numérique
+illectronisme;seniors;illectronisme des seniors
+éducation;nationale;éducation nationale
+réforme;bac;réforme du bac
+parcours;sup;parcours sup
+université;autonomie;université autonomie
+recherche;publique;recherche publique
+fuite;cerveaux;fuite des cerveaux
+francophonie;monde;francophonie dans le monde
+exception;culturelle;exception culturelle
+patrimoine;mondial;patrimoine mondial
+unesco;classement;UNESCO classement
+jeux;olympiques;jeux olympiques
+coupe;monde;coupe du monde
+tour;france;tour de France
+roland;garros;Roland Garros
+super;bowl;Super Bowl
+formule;1;formule 1
+dopage;sport;dopage dans le sport
+paris;sportifs;paris sportifs
+corruption;fifa;corruption FIFA
+fair-play;financier;fair-play financier
+cours;poterie;cours de poterie
+leçon;conduite;leçon de conduite
+stage;survie;stage de survie
+atelier;théâtre;atelier de théâtre
+club;lecture;club de lecture
+groupe;parole;groupe de parole
+réunion;crise;réunion de crise
+débat;idées;débat d'idées
+conversation;salon;conversation de salon
+bavardage;filles;bavardage de filles
+discussion;comptoir;discussion de comptoir
+échange;vues;échange de vues
+conflit;générations;conflit de générations
+querelle;voisinage;querelle de voisinage
+scène;ménage;scène de ménage
+histoire;fous;histoire de fous
+blague;tototo;blague de Toto
+devinette;sphinx;devinette du sphinx
+énigme;policier;énigme de policier
+secret;état;secret d'état
+affaire;famille;affaire de famille
+question;principe;question de principe
+point;honneur;point d'honneur
+sujet;fâcheux;sujet fâcheux
+thème;astral;thème astral
+rubrique;nécrologique;rubrique nécrologique
+page;sport;page des sports
+chronique;mondaine;chronique mondaine
+édito;politique;édito politique
+courrier;cœur;courrier du cœur
+lettre;motivation;lettre de motivation
+cv;vidéo;cv vidéo
+entretien;embauche;entretien d'embauche
+examen;vue;examen de la vue
+test;aptitude;test d'aptitude
+contrôle;maths;contrôle de maths
+épreuve;force;épreuve de force
+concours;beauté;concours de beauté
+compétition;judo;compétition de judo
+match;revanche;match de revanche
+partie;pêche;partie de pêche
+séance;cinéma;séance de cinéma
+épisode;pilote;épisode pilote
+saison;finale;saison finale
+album;reprises;album de reprises
+morceau;bravoure;morceau de bravoure
+tube;été;tube de l'été
+danse;canards;danse des canards
+bal;pompiers;bal des pompiers
+soirée;mousse;soirée mousse
+nuit;noces;nuit de noces
+voyage;noces;voyage de noces
+tour;monde;tour du monde
+croisière;s'amuse;croisière s'amuse
+safari;photo;safari photo
+pèlerinage;mecque;pèlerinage à la Mecque
+mission;humanitaire;mission humanitaire
+campagne;électorale;campagne électorale
+politique;autruche;politique de l'autruche
+loi;série;loi des séries
+règle;grammaire;règle de grammaire
+faute;frappe;faute de frappe
+erreur;jeunesse;erreur de jeunesse
+péché;gourmandise;péché de gourmandise
+crime;lèse-majesté;crime de lèse-majesté
+délit;initié;délit d'initié
+vol;étalage;vol à l'étalage
+trafic;drogue;trafic de drogue
+contrebande;alcool;contrebande d'alcool
+marché;noir;marché noir
+économie;souterraine;économie souterraine
+argent;poche;argent de poche
+monnaie;singe;monnaie de singe
+billet;doux;billet doux
+carte;tendre;carte du Tendre
+pays;merveilles;pays des merveilles
+monde;silence;monde du silence
+univers;impitoyable;univers impitoyable
+vie;château;vie de château
+train;enfer;train d'enfer
+rythme;croisière;rythme de croisière
+vitesse;lumière;vitesse de la lumière
+mur;son;mur du son
+barrière;langue;barrière de la langue
+fosse;lions;fosse aux lions
+panier;crabes;panier de crabes
+nid;guêpes;nid de guêpes
+tissu;mensonges;tissu de mensonges
+montagne;dettes;montagne de dettes
+océan;savoir;océan de savoir
+puits;science;puits de science
+mine;renseignements;mine de renseignements
+source;conflit;source de conflit
+pomme;discorde;pomme de discorde
+cheval;bataille;cheval de bataille
+nerf;guerre;nerf de la guerre
+sinistre;mémoire;sinistre mémoire
+devoir;vacances;devoir de vacances
+cahier;doléances;cahier de doléances
+livre;or;livre d'or

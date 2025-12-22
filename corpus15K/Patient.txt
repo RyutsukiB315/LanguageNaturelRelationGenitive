@@ -1,0 +1,909 @@
+travail;bois;travail du bois
+ouverture;porte;ouverture de la porte
+récolte;blé;récolte du blé
+nettoyage;sol;nettoyage du sol
+lecture;roman;lecture du roman
+analyse;données;analyse des données
+construction;pont;construction du pont
+lavage;voiture;lavage de la voiture
+fermeture;magasin;fermeture du magasin
+écriture;lettre;écriture de la lettre
+résolution;problème;résolution du problème
+défense;territoire;défense du territoire
+invasion;pays;invasion du pays
+éducation;enfants;éducation des enfants
+dressage;chien;dressage du chien
+observation;étoiles;observation des étoiles
+analyse;sang;analyse du sang
+protection;nature;protection de la nature
+pollution;air;pollution de l'air
+contamination;eau;contamination de l'eau
+rénovation;maison;rénovation de la maison
+démolition;immeuble;démolition de l'immeuble
+restauration;tableau;restauration du tableau
+traduction;texte;traduction du texte
+correction;copies;correction des copies
+impression;document;impression du document
+publication;article;publication de l'article
+distribution;courrier;distribution du courrier
+livraison;colis;livraison du colis
+réception;balle;réception de la balle
+conduite;bus;conduite du bus
+pilotage;avion;pilotage de l'avion
+cuisson;viande;cuisson de la viande
+coupe;bois;coupe du bois
+sciage;bûche;sciage de la bûche
+ponçage;parquet;ponçage du parquet
+peinture;volets;peinture des volets
+arrosage;fleurs;arrosage des fleurs
+tonte;pelouse;tonte de la pelouse
+cueillette;champignons;cueillette des champignons
+chasse;cerf;chasse du cerf
+pêche;truite;pêche de la truite
+élevage;bétail;élevage du bétail
+abattage;cochon;abattage du cochon
+fumage;poisson;fumage du poisson
+séchage;linge;séchage du linge
+repassage;chemise;repassage de la chemise
+pliage;drap;pliage du drap
+rangement;boîtes;rangement des boîtes
+tri;déchets;tri des déchets
+recyclage;papier;recyclage du papier
+brûlage;bois;brûlage du bois
+enterrement;trésor;enterrement du trésor
+fouille;site;fouille du site
+exploration;grotte;exploration de la grotte
+visite;musée;visite du musée
+conquête;espace;conquête de l'espace
+découverte;vaccin;découverte du vaccin
+invention;roue;invention de la roue
+création;monde;création du monde
+destruction;anneau;destruction de l'anneau
+libération;peuple;libération du peuple
+oppression;faibles;oppression des faibles
+sauvetage;otage;sauvetage de l'otage
+guérison;malade;guérison du malade
+traitement;maladie;traitement de la maladie
+prévention;risques;prévention des risques
+gestion;crise;gestion de la crise
+organisation;fête;organisation de la fête
+préparation;repas;préparation du repas
+dégustation;vin;dégustation du vin
+digestion;aliments;digestion des aliments
+évaporation;eau;évaporation de l'eau
+réparation;montre;réparation de la montre
+achat;pain;achat du pain
+vente;maison;vente de la maison
+consommation;énergie;consommation d'énergie
+gaspillage;eau;gaspillage de l'eau
+taillage;diamant;taillage du diamant
+surveillance;frontière;surveillance de la frontière
+balayage;couloir;balayage du couloir
+nettoyage;vitre;nettoyage de la vitre
+lessivage;mur;lessivage du mur
+dépoussiérage;meuble;dépoussiérage du meuble
+cirage;chaussure;cirage de la chaussure
+brossage;dent;brossage des dents
+lavage;main;lavage des mains
+séchage;cheveu;séchage des cheveux
+coiffage;cheveu;coiffage des cheveux
+rasage;barbe;rasage de la barbe
+épilation;jambe;épilation des jambes
+maquillage;visage;maquillage du visage
+démaquillage;peau;démaquillage de la peau
+gommage;corps;gommage du corps
+hydratation;peau;hydratation de la peau
+manucure;ongle;manucure des ongles
+coupe;cheveu;coupe des cheveux
+coloration;racine;coloration des racines
+massage;dos;massage du dos
+soin;visage;soin du visage
+tri;linge;tri du linge
+trempage;tache;trempage de la tache
+frottage;tache;frottage de la tache
+rinçage;vaisselle;rinçage de la vaisselle
+essuyage;verre;essuyage du verre
+polissage;argenterie;polissage de l'argenterie
+astiquage;cuivre;astiquage des cuivres
+détartrage;robinet;détartrage du robinet
+débouchage;évier;débouchage de l'évier
+désinfection;plaie;désinfection de la plaie
+aération;chambre;aération de la chambre
+rangement;bureau;rangement du bureau
+classement;papier;classement des papiers
+archivage;dossier;archivage du dossier
+destruction;archive;destruction des archives
+vider;poubelle;vider la poubelle
+remplissage;bouteille;remplissage de la bouteille
+bouchage;trou;bouchage du trou
+colmatage;fuite;colmatage de la fuite
+calfeutrage;fenêtre;calfeutrage de la fenêtre
+isolation;toit;isolation du toit
+ramonage;cheminée;ramonage de la cheminée
+vidange;bassin;vidange du bassin
+curage;fossé;curage du fossé
+fauchage;herbe;fauchage de l'herbe
+tonte;gazon;tonte du gazon
+taille;rosier;taille du rosier
+élagage;arbre;élagage de l'arbre
+abattage;chêne;abattage du chêne
+dessouchage;tronc;dessouchage du tronc
+ramassage;feuille;ramassage des feuilles
+brûlage;déchet;brûlage des déchets
+compostage;épluchure;compostage des épluchures
+arrosage;jardin;arrosage du jardin
+binage;terre;binage de la terre
+labour;champ;labour du champ
+semis;graine;semis des graines
+plantations;fleur;plantation des fleurs
+récolte;fruit;récolte des fruits
+cueillette;cerise;cueillette des cerises
+vendange;raisin;vendange du raisin
+gaulage;noix;gaulage des noix
+glanage;épi;glanage des épis
+battage;blé;battage du blé
+vannage;grain;vannage du grain
+moulure;café;mouture du café
+pressage;olive;pressage des olives
+extraction;jus;extraction du jus
+filtration;eau;filtration de l'eau
+purification;air;purification de l'air
+chauffage;maison;chauffage de la maison
+climatisation;bureau;climatisation du bureau
+éclairage;rue;éclairage de la rue
+décoration;sapin;décoration du sapin
+emballage;cadeau;emballage du cadeau
+déballage;carton;déballage du carton
+ouverture;colis;ouverture du colis
+fermeture;volet;fermeture du volet
+verrouillage;porte;verrouillage de la porte
+déverrouillage;écran;déverrouillage de l'écran
+allumage;feu;allumage du feu
+extinction;lumière;extinction de la lumière
+soufflage;bougie;soufflage de la bougie
+remontage;pendule;remontage de la pendule
+réglage;montre;réglage de la montre
+ajustement;ceinture;ajustement de la ceinture
+laçage;chaussure;laçage de la chaussure
+boutonnage;veste;boutonnage de la veste
+enfilage;perle;enfilage des perles
+tissage;tapis;tissage du tapis
+tricot;pull;tricot du pull
+couture;ourlet;couture de l'ourlet
+reprisage;chaussette;reprisage de la chaussette
+broderie;nappe;broderie de la nappe
+teinture;tissu;teinture du tissu
+décoloration;jeans;décoloration du jeans
+lavage;voiture;lavage de la voiture
+lustrage;carrosserie;lustrage de la carrosserie
+aspiration;miettes;aspiration des miettes
+secouage;tapis;secouage du tapis
+battage;coussin;battage du coussin
+aération;vin;aération du vin
+décantation;vin;décantation du vin
+sabrage;champagne;sabrage du champagne
+service;café;service du café
+débarrassage;table;débarrassage de la table
+dressage;table;dressage de la table
+pliage;serviette;pliage de la serviette
+coupe;pain;coupe du pain
+tartinage;beurre;tartinage du beurre
+trempage;biscuit;trempage du biscuit
+croquage;pomme;croquage de la pomme
+mastication;chewing-gum;mastication du chewing-gum
+succion;pouce;succion du pouce
+lèchage;glace;léchage de la glace
+déglutition;salive;déglutition de la salive
+digestion;repas;digestion du repas
+assimilation;vitamin;assimilation des vitamines
+élimination;toxine;élimination des toxines
+respiration;air;respiration de l'air
+inspiration;parfum;inspiration du parfum
+expiration;fumée;expiration de la fumée
+observation;oiseau;observation des oiseaux
+surveillance;enfant;surveillance de l'enfant
+espionnage;voisin;espionnage du voisin
+filature;suspect;filature du suspect
+traque;gibier;traque du gibier
+poursuite;voleur;poursuite du voleur
+capture;fugitif;capture du fugitif
+arrestation;criminel;arrestation du criminel
+interrogatoire;témoin;interrogatoire du témoin
+jugement;accusé;jugement de l'accusé
+condamnation;coupable;condamnation du coupable
+libération;otage;libération de l'otage
+grâce;prisonnier;grâce du prisonnier
+exécution;ordre;exécution de l'ordre
+respect;règle;respect de la règle
+violation;loi;violation de la loi
+transgression;interdit;transgression de l'interdit
+franchissement;ligne;franchissement de la ligne
+dépassement;limite;dépassement de la limite
+atteinte;sommet;atteinte du sommet
+escalade;montagne;escalade de la montagne
+descente;piste;descente de la piste
+remontée;rivière;remontée de la rivière
+traversée;désert;traversée du désert
+exploration;jungle;exploration de la jungle
+découverte;trésor;découverte du trésor
+invention;vaccin;invention du vaccin
+création;entreprise;création de l'entreprise
+fondation;ville;fondation de la ville
+bâtiment;empire;bâtiment de l'empire
+construction;pont;construction du pont
+édification;mur;édification du mur
+érection;statue;érection de la statue
+installation;logiciel;installation du logiciel
+configuration;réseau;configuration du réseau
+programmation;robot;programmation du robot
+codage;application;codage de l'application
+piratage;site;piratage du site
+sécurisation;donnée;sécurisation des données
+sauvegarde;fichier;sauvegarde du fichier
+restauration;système;restauration du système
+mise à jour;appli;mise à jour de l'appli
+suppression;compte;suppression du compte
+création;profil;création du profil
+validation;formulaire;validation du formulaire
+envoi;message;envoi du message
+réception;colis;réception du colis
+ouverture;pièce jointe;ouverture de la pièce jointe
+lecture;mail;lecture du mail
+écriture;roman;écriture du roman
+rédaction;rapport;rédaction du rapport
+correction;copie;correction de la copie
+traduction;texte;traduction du texte
+impression;photo;impression de la photo
+édition;livre;édition du livre
+publication;article;publication de l'article
+diffusion;film;diffusion du film
+projection;diapo;projection de la diapo
+développement;photo;développement de la photo
+retouche;image;retouche de l'image
+cadrage;photo;cadrage de la photo
+montage;vidéo;montage de la vidéo
+tournage;scène;tournage de la scène
+répétition;rôle;répétition du rôle
+interprétation;personnage;interprétation du personnage
+jouer;musique;jouer de la musique
+accorder;guitare;accorder la guitare
+diriger;orchestre;diriger l'orchestre
+chanter;hymne;chanter l'hymne
+fredonner;air;fredonner un air
+siffler;chanson;siffler une chanson
+écouter;disque;écouter un disque
+regarder;télé;regarder la télé
+voir;spectacle;voir le spectacle
+admirer;paysage;admirer le paysage
+contempler;mer;contempler la mer
+visiter;monument;visiter le monument
+épluchage;pomme de terre;épluchage des pommes de terre
+pelage;orange;pelage de l'orange
+lavage;légume;lavage des légumes
+essorage;salade;essorage de la salade
+découpe;viande;découpe de la viande
+tranchage;pain;tranchage du pain
+hachage;persil;hachage du persil
+ciselage;oignon;ciselage de l'oignon
+écrasement;ail;écrasement de l'ail
+broyage;noix;broyage des noix
+concassage;poivre;concassage du poivre
+rapage;fromage;râpage du fromage
+zestage;citron;zestage du citron
+pressage;fruit;pressage du fruit
+mixage;soupe;mixage de la soupe
+fouettage;crème;fouettage de la crème
+battage;oeuf;battage des œufs
+montage;blanc;montage des blancs
+mélange;ingrédient;mélange des ingrédients
+pétrissage;pâte;pétrissage de la pâte
+étalage;pâte;étalage de la pâte
+roulage;nem;roulage du nem
+façonnage;pain;façonnage du pain
+garniture;pizza;garniture de la pizza
+farcissage;dinde;farcissage de la dinde
+bardage;rôti;bardage du rôti
+ficelage;poulet;ficelage du poulet
+marinade;poisson;marinade du poisson
+assaisonnement;salade;assaisonnement de la salade
+salage;eau;salage de l'eau
+poivrage;steak;poivrage du steak
+sucrage;café;sucrage du café
+beurrage;tartine;beurrage de la tartine
+huilage;moule;huilage du moule
+farinnage;plan;farinage du plan de travail
+panure;escalope;panure de l'escalope
+cuisson;pâtes;cuisson des pâtes
+ébullition;eau;ébullition de l'eau
+frémissement;lait;frémissement du lait
+pochage;oeuf;pochage de l'œuf
+blanchiment;légume;blanchiment des légumes
+saisie;viande;saisie de la viande
+grillade;saucisse;grillade des saucisses
+rôtissage;poulet;rôtissage du poulet
+braisage;boeuf;braisage du bœuf
+mijotage;ragoût;mijotage du ragoût
+reduction;sauce;réduction de la sauce
+liaison;sauce;liaison de la sauce
+épaississement;crème;épaississement de la crème
+éclaircissement;bouillon;éclaircissement du bouillon
+filtrage;jus;filtrage du jus
+tamisage;farine;tamisage de la farine
+égouttage;pâtes;égouttage des pâtes
+démoulage;gâteau;démoulage du gâteau
+glaçage;éclair;glaçage de l'éclair
+nappage;tarte;nappage de la tarte
+saupoudrage;sucre;saupoudrage de sucre
+flambage;crêpe;flambage de la crêpe
+caramélisation;oignon;caramélisation des oignons
+torréfaction;café;torréfaction du café
+infusion;thé;infusion du thé
+macération;fruit;macération des fruits
+fermentation;bière;fermentation de la bière
+distillation;alcool;distillation de l'alcool
+mise;bouteille;mise en bouteille
+conservation;aliment;conservation des aliments
+congélation;viande;congélation de la viande
+décongélation;poisson;décongélation du poisson
+réfrigération;boisson;réfrigération des boissons
+réchauffage;plat;réchauffage du plat
+service;vin;service du vin
+décantation;porto;décantation du porto
+dégustation;fromage;dégustation du fromage
+consommation;produit;consommation du produit
+ingestion;aliment;ingestion de l'aliment
+absorption;liquide;absorption du liquide
+mastication;viande;mastication de la viande
+croquage;chocolat;croquage du chocolat
+succion;glace;succion de la glace
+lèchage;cuillère;léchage de la cuillère
+partage;gâteau;partage du gâteau
+distribution;bonbon;distribution des bonbons
+rationnement;eau;rationnement de l'eau
+stockage;grain;stockage du grain
+approvisionnement;magasin;approvisionnement du magasin
+achat;course;achat des courses
+commande;repas;commande du repas
+livraison;pizza;livraison de la pizza
+paiement;addition;paiement de l'addition
+vérification;date;vérification de la date
+tri;fruit;tri des fruits
+lavage;salade;lavage de la salade
+équeutage;fraise;équeutage des fraises
+dénoyautage;olive;dénoyautage des olives
+épépinage;tomate;épépinage des tomates
+écaillage;poisson;écaillage du poisson
+vidage;volaille;vidage de la volaille
+plumage;canard;plumage du canard
+désossage;gigot;désossage du gigot
+découpe;filet;découpe du filet
+levée;filet;levée des filets
+ouverture;huître;ouverture des huîtres
+cassage;noix;cassage des noix
+décorticage;crevette;décorticage des crevettes
+châtrage;écrevisse;châtrage des écrevisses
+dégorgement;escargot;dégorgement des escargots
+nettoyage;moule;nettoyage des moules
+brossage;truffe;brossage de la truffe
+pesée;farine;pesée de la farine
+mesure;lait;mesure du lait
+dosage;sel;dosage du sel
+incorporation;oeuf;incorporation des œufs
+chemisage;moule;chemisage du moule
+fonçage;moule;fonçage du moule
+piquage;pâte;piquage de la pâte
+dorage;brioche;dorage de la brioche
+rayage;galette;rayage de la galette
+fourrage;chou;fourrage du chou
+montage;pièce montée;montage de la pièce montée
+décoration;bûche;décoration de la bûche
+présentation;plat;présentation du plat
+dressage;assiette;dressage de l'assiette
+nettoyage;table;nettoyage de la table
+lavage;vaisselle;lavage de la vaisselle
+essuyage;couvert;essuyage des couverts
+rangement;course;rangement des courses
+inventaire;stock;inventaire du stock
+commande;fournisseur;commande au fournisseur
+réception;marchandise;réception de la marchandise
+contrôle;qualité;contrôle de la qualité
+étiquetage;prix;étiquetage des prix
+mise;rayon;mise en rayon
+promotion;article;promotion de l'article
+vente;produit;vente du produit
+encaissement;argent;encaissement de l'argent
+rendu;monnaie;rendu de la monnaie
+emballage;article;emballage de l'article
+transport;carton;transport des cartons
+déchargement;camion;déchargement du camion
+conduite;chariot;conduite du chariot
+gerbage;palette;gerbage des palettes
+filmage;palette;filmage de la palette
+chargement;coffre;chargement du coffre
+conduite;caddie;conduite du caddie
+poussée;porte;poussée de la porte
+tirage;poignée;tirage de la poignée
+sonnerie;cloche;sonnerie de la cloche
+frappe;porte;frappe à la porte
+ouverture;courrier;ouverture du courrier
+lecture;journal;lecture du journal
+feuilletage;magazine;feuilletage du magazine
+consultation;menu;consultation du menu
+choix;plat;choix du plat
+appel;serveur;appel du serveur
+réservation;table;réservation de la table
+annulation;commande;annulation de la commande
+règlement;note;règlement de la note
+laisser;pourboire;laisser un pourboire
+remerciement;chef;remerciement du chef
+critique;repas;critique du repas
+recommandation;restaurant;recommandation du restaurant
+fermeture;cuisine;fermeture de la cuisine
+extinction;four;extinction du four
+nettoyage;plan;nettoyage du plan de travail
+désinfection;sol;désinfection du sol
+vidange;friteuse;vidange de la friteuse
+dégivrage;frigo;dégivrage du frigo
+détartrage;cafetière;détartrage de la cafetière
+aiguisage;couteau;aiguisage des couteaux
+affûtage;lame;affûtage de la lame
+remplacement;joint;remplacement du joint
+réparation;mixeur;réparation du mixeur
+achat;électroménager;achat d'électroménager
+installation;lave-vaisselle;installation du lave-vaisselle
+raccordement;gaz;raccordement du gaz
+branchement;four;branchement du four
+mise;marche;mise en marche
+arrêt;machine;arrêt de la machine
+débranchement;appareil;débranchement de l'appareil
+recyclage;emballage;recyclage des emballages
+compostage;déchet;compostage des déchets
+don;nourriture;don de nourriture
+partage;repas;partage du repas
+invitation;ami;invitation des amis
+réception;famille;réception de la famille
+organisation;dîner;organisation du dîner
+planification;menu;planification du menu
+célébration;anniversaire;célébration d'anniversaire
+fête;noël;fête de Noël
+banquet;mariage;banquet de mariage
+pique-nique;herbe;pique-nique sur l'herbe
+barbecue;terrasse;barbecue sur la terrasse
+apéritif;salon;apéritif au salon
+goûter;enfant;goûter des enfants
+petit-déjeuner;lit;petit-déjeuner au lit
+brunch;dimanche;brunch du dimanche
+souper;nuit;souper de la nuit
+jeûne;carême;jeûne du carême
+régime;été;régime d'été
+diète;maladie;diète de maladie
+nutrition;sportif;nutrition du sportif
+alimentation;bébé;alimentation du bébé
+allaitement;nourrisson;allaitement du nourrisson
+sevrage;enfant;sevrage de l'enfant
+biberon;lait;biberon de lait
+purée;carotte;purée de carotte
+compote;poire;compote de poire
+bouillie;céréale;bouillie de céréale
+biscuit;dent;biscuit pour les dents
+vissage;vis;vissage de la vis
+dévissage;écrou;dévissage de l'écrou
+clouage;planche;clouage de la planche
+martelage;clou;martelage du clou
+sciage;bois;sciage du bois
+coupe;tuyau;coupe du tuyau
+perçage;mur;perçage du mur
+forage;trou;forage du trou
+ponçage;meuble;ponçage du meuble
+limage;fer;limage du fer
+rabotage;porte;rabotage de la porte
+dégauchissage;planche;dégauchissage de la planche
+sculpture;bois;sculpture du bois
+gravure;métal;gravure du métal
+ciselage;pierre;ciselage de la pierre
+taille;pierre;taille de la pierre
+maçonnerie;brique;maçonnerie de briques
+cimentage;mur;cimentage du mur
+crépissage;façade;crépissage de la façade
+enduisage;plafond;enduisage du plafond
+lissage;béton;lissage du béton
+coulage;dalle;coulage de la dalle
+ferraillage;fondation;ferraillage des fondations
+pose;carrelage;pose du carrelage
+collage;papier peint;collage du papier peint
+peinture;volet;peinture des volets
+auscultation;patient;auscultation du patient
+examen;malade;examen du malade
+diagnostic;maladie;diagnostic de la maladie
+prescription;traitement;prescription du traitement
+rédaction;ordonnance;rédaction de l'ordonnance
+achat;médicament;achat de médicament
+prise;cachet;prise de cachet
+ingestion;sirop;ingestion de sirop
+injection;vaccin;injection de vaccin
+piqûre;infirmière;piqûre de l'infirmière
+perfusion;antibiotique;perfusion d'antibiotique
+prélèvement;sang;prélèvement de sang
+analyse;urine;analyse d'urine
+biopsie;tissu;biopsie de tissu
+radio;poumon;radio du poumon
+irm;genou;irm du genou
+scanner;crâne;scanner du crâne
+échographie;ventre;échographie du ventre
+mammographie;sein;mammographie du sein
+coloscopie;intestin;coloscopie de l'intestin
+fibroscopie;estomac;fibroscopie de l'estomac
+opération;appendicite;opération de l'appendicite
+ablation;tumeur;ablation de la tumeur
+greffe;coeur;greffe de cœur
+transplantation;rein;transplantation de rein
+transfusion;sang;transfusion de sang
+don;organe;don d'organe
+don;sang;don de sang
+don;sperme;don de sperme
+réanimation;noyé;réanimation du noyé
+massage;cardiaque;massage cardiaque
+bouche-à-bouche;victime;bouche-à-bouche à la victime
+défibrillation;coeur;défibrillation du cœur
+intubation;patient;intubation du patient
+ventilation;artificielle;ventilation artificielle
+sédation;douleur;sédation de la douleur
+anesthésie;générale;anesthésie générale
+réveil;opéré;réveil de l'opéré
+surveillance;constante;surveillance des constantes
+mesure;tension;mesure de la tension
+prise;température;prise de température
+pesée;bébé;pesée du bébé
+mesure;taille;mesure de la taille
+calcul;imc;calcul de l'IMC
+régime;amaigrissant;régime amaigrissant
+perte;poids;perte de poids
+gain;muscle;gain de muscle
+musculation;bras;musculation des bras
+étirement;jambe;étirement des jambes
+échauffement;corps;échauffement du corps
+récupération;effort;récupération de l'effort
+hydratation;sportif;hydratation du sportif
+massage;muscle;massage des muscles
+kinésithérapie;dos;kinésithérapie du dos
+ostéopathie;vertèbre;ostéopathie des vertèbres
+acupuncture;point;acupuncture des points
+homéopathie;granule;homéopathie par granules
+phytothérapie;plante;phytothérapie par les plantes
+aromathérapie;huile;aromathérapie aux huiles
+hypnose;patient;hypnose du patient
+psychanalyse;rêve;psychanalyse des rêves
+thérapie;couple;thérapie de couple
+sevrage;tabac;sevrage du tabac
+cure;désintoxication;cure de désintoxication
+rééducation;marche;rééducation à la marche
+apprentissage;langage;apprentissage du langage
+orthophonie;diction;orthophonie de la diction
+correction;vue;correction de la vue
+port;lunettes;port de lunettes
+pose;lentille;pose de lentilles
+opération;laser;opération au laser
+détartrage;dent;détartrage des dents
+soin;carie;soin de la carie
+extraction;dent;extraction de dent
+pose;couronne;pose de couronne
+orthodontie;mâchoire;orthodontie de la mâchoire
+blanchiment;dent;blanchiment des dents
+brossage;langue;brossage de la langue
+bain;bouche;bain de bouche
+gargarisme;gorge;gargarisme de la gorge
+mouchage;nez;mouchage du nez
+nettoyage;oreille;nettoyage des oreilles
+coupe;ongle;coupe des ongles
+lime;ongle;lime des ongles
+vernis;ongle;vernis des ongles
+soin;pied;soin des pieds
+ponçage;cal;ponçage des cals
+traitement;verrue;traitement de la verrue
+épilation;sourcil;épilation des sourcils
+teinture;cil;teinture des cils
+maquillage;œil;maquillage de l'œil
+application;mascara;application de mascara
+pose;rouge à lèvres;pose de rouge à lèvres
+poudrage;joue;poudrage des joues
+parfumage;cou;parfumage du cou
+habillage;enfant;habillage de l'enfant
+déshabillage;mannequin;déshabillage du mannequin
+essayage;robe;essayage de la robe
+retouche;pantalon;retouche du pantalon
+repassage;chemise;repassage de la chemise
+pliage;linge;pliage du linge
+rangement;armoire;rangement de l'armoire
+lavage;main;lavage à la main
+nettoyage;sec;nettoyage à sec
+détachage;tissu;détachage du tissu
+imperméabilisation;veste;imperméabilisation de la veste
+cirage;botte;cirage des bottes
+réparation;talon;réparation du talon
+changement;semelle;changement de semelle
+laçage;corset;laçage du corset
+serrage;ceinture;serrage de la ceinture
+ajustement;bretelle;ajustement des bretelles
+port;chapeau;port du chapeau
+enlever;gant;enlever les gants
+mettre;écharpe;mettre l'écharpe
+nouer;cravate;nouer la cravate
+fermer;blouson;fermer le blouson
+ouvrir;parapluie;ouvrir le parapluie
+secouer;parapluie;secouer le parapluie
+étendre;linge;étendre le linge
+ramasser;linge;ramasser le linge
+repasser;drap;repasser les draps
+border;lit;border le lit
+faire;lit;faire le lit
+changer;drap;changer les draps
+aérer;couette;aérer la couette
+retourner;matelas;retourner le matelas
+secouer;tapis;secouer le tapis
+aspirer;moquette;aspirer la moquette
+laver;sol;laver le sol
+cirer;parquet;cirer le parquet
+vitrifier;escalier;vitrifier l'escalier
+poncer;poutre;poncer les poutres
+peindre;plafond;peindre le plafond
+tapisser;chambre;tapisser la chambre
+meubler;salon;meubler le salon
+décorer;maison;décorer la maison
+fleurir;balcon;fleurir le balcon
+aménager;combles;aménager les combles
+construire;garage;construire un garage
+agrandir;cuisine;agrandir la cuisine
+démolir;cloison;démolir une cloison
+percer;fenêtre;percer une fenêtre
+murmurer;secret;murmurer un secret
+crier;ordre;crier un ordre
+hurler;peur;hurler de peur
+pleurer;mort;pleurer un mort
+rire;blague;rire d'une blague
+sourire;photo;sourire à la photo
+vernissage;tableau;vernissage du tableau
+lasure;poutre;lasure des poutres
+teinture;bois;teinture du bois
+décapage;peinture;décapage de la peinture
+sablage;façade;sablage de la façade
+jointoyage;brique;jointoyage des briques
+isolation;combles;isolation des combles
+couverture;toit;couverture du toit
+tuilage;toiture;tuilage de la toiture
+ardoisage;toit;ardoisage du toit
+zinguerie;gouttière;zinguerie des gouttières
+plomberie;évacuation;plomberie de l'évacuation
+soudure;tuyau;soudure de tuyau
+brasure;cuivre;brasure du cuivre
+raccordement;eau;raccordement de l'eau
+installation;chaudière;installation de la chaudière
+pose;sanitaire;pose des sanitaires
+fixation;lavabo;fixation du lavabo
+branchement;radiateur;branchement du radiateur
+purge;circuit;purge du circuit
+électricité;maison;électricité de la maison
+câblage;armoire;câblage de l'armoire
+tirage;câble;tirage de câble
+pose;prise;pose de prise
+montage;lustre;montage du lustre
+changement;ampoule;changement d'ampoule
+réparation;fuite;réparation de la fuite
+dépannage;ascenseur;dépannage de l'ascenseur
+entretien;jardin;entretien du jardin
+nettoyage;piscine;nettoyage de la piscine
+traitement;eau;traitement de l'eau
+analyse;ph;analyse du pH
+chloration;bassin;chloration du bassin
+vidange;moteur;vidange du moteur
+remplacement;filtre;remplacement du filtre
+changement;roue;changement de la roue
+gonflage;pneu;gonflage du pneu
+équilibrage;roue;équilibrage de la roue
+parallélisme;train;parallélisme du train
+révision;frein;révision des freins
+purge;frein;purge des freins
+rodage;soupape;rodage des soupapes
+réglage;carburateur;réglage du carburateur
+calage;allumage;calage de l'allumage
+nettoyage;injecteur;nettoyage des injecteurs
+remplacement;bougie;remplacement des bougies
+tension;courroie;tension de la courroie
+graissage;chaîne;graissage de la chaîne
+lubrification;serrure;lubrification de la serrure
+dégrippage;écrou;dégrippage de l'écrou
+déblocage;porte;déblocage de la porte
+ouverture;serrure;ouverture de la serrure
+crochetage;serrure;crochetage de la serrure
+effraction;coffre;effraction du coffre
+cambriolage;maison;cambriolage de la maison
+vol;voiture;vol de voiture
+démontage;meuble;démontage du meuble
+remontage;moteur;remontage du moteur
+assemblage;pièce;assemblage des pièces
+ajustage;mécanique;ajustage mécanique
+usinage;pièce;usinage de la pièce
+tournage;métal;tournage du métal
+fraisage;acier;fraisage de l'acier
+perçage;tôle;perçage de la tôle
+pliage;tôle;pliage de la tôle
+découpe;laser;découpe laser
+emboutissage;carrosserie;emboutissage de carrosserie
+soudure;arc;soudure à l'arc
+forge;fer;forge du fer
+trempe;acier;trempe de l'acier
+recuit;cuivre;recuit du cuivre
+moulage;plastique;moulage du plastique
+injection;polymère;injection de polymère
+extrusion;profilé;extrusion de profilé
+soufflage;verre;soufflage du verre
+taillage;diamant;taillage du diamant
+polissage;lentille;polissage de lentille
+fabrication;objet;fabrication de l'objet
+production;série;production en série
+conception;plan;conception du plan
+dessin;croquis;dessin du croquis
+modélisation;3D;modélisation 3D
+impression;prototype;impression du prototype
+test;produit;test du produit
+contrôle;qualité;contrôle qualité
+validation;norme;validation de la norme
+certification;iso;certification ISO
+brevetage;invention;brevetage de l'invention
+commercialisation;produit;commercialisation du produit
+lancement;fusée;lancement de la fusée
+mise;orbite;mise sur orbite
+pilotage;drone;pilotage du drone
+télécommande;robot;télécommande du robot
+programmation;automate;programmation de l'automate
+réparation;ordinateur;réparation de l'ordinateur
+changement;écran;changement de l'écran
+remplacement;batterie;remplacement de la batterie
+nettoyage;clavier;nettoyage du clavier
+dépoussiérage;tour;dépoussiérage de la tour
+assemblage;pc;assemblage du PC
+connexion;wifi;connexion au wifi
+appariement;bluetooth;appariement bluetooth
+synchronisation;donnée;synchronisation des données
+restauration;usine;restauration d'usine
+formatage;disque;formatage du disque
+partitionnement;disque;partitionnement du disque
+installation;windows;installation de Windows
+configuration;mail;configuration du mail
+sécurisation;réseau;sécurisation du réseau
+cryptage;donnée;cryptage des données
+décryptage;message;décryptage du message
+analyse;virus;analyse de virus
+suppression;malware;suppression de malware
+mise;quarantaine;mise en quarantaine
+nettoyage;disque;nettoyage du disque
+défragmentation;disque;défragmentation du disque
+optimisation;système;optimisation du système
+overclocking;processeur;overclocking du processeur
+refroidissement;serveur;refroidissement du serveur
+hébergement;site;hébergement du site
+référencement;site;référencement du site
+consultation;page;consultation de la page
+téléchargement;fichier;téléchargement du fichier
+upload;vidéo;upload de la vidéo
+streaming;film;streaming du film
+partage;lien;partage du lien
+like;photo;like de la photo
+commentaire;post;commentaire du post
+retweet;info;retweet de l'info
+signalement;abus;signalement d'abus
+blocage;utilisateur;blocage de l'utilisateur
+ajout;ami;ajout d'ami
+suppression;contact;suppression de contact
+création;groupe;création de groupe
+animation;communauté;animation de communauté
+modération;forum;modération du forum
+bannissement;membre;bannissement du membre
+inscription;newsletter;inscription à la newsletter
+désabonnement;service;désabonnement du service
+résiliation;contrat;résiliation du contrat
+renouvellement;abonnement;renouvellement d'abonnement
+ouverture;compte;ouverture de compte
+clôture;compte;clôture de compte
+virement;argent;virement d'argent
+retrait;espece;retrait d'espèces
+dépôt;chèque;dépôt de chèque
+encaissement;chèque;encaissement de chèque
+opposition;carte;opposition sur la carte
+demande;prêt;demande de prêt
+remboursement;crédit;remboursement de crédit
+paiement;loyer;paiement du loyer
+règlement;facture;règlement de la facture
+déclaration;impôt;déclaration d'impôt
+calcul;taxe;calcul de la taxe
+exonération;tva;exonération de TVA
+fraude;fisc;fraude au fisc
+blanchiment;argent;blanchiment d'argent
+investissement;bourse;investissement en bourse
+achat;action;achat d'action
+vente;obligation;vente d'obligation
+spéculation;blé;spéculation sur le blé
+krach;marché;krach du marché
+faillite;banque;faillite de la banque
+redressement;entreprise;redressement de l'entreprise
+liquidation;stock;liquidation du stock
+fusion;groupe;fusion de groupes
+rachat;concurrent;rachat du concurrent
+audit;compte;audit des comptes
+bilan;année;bilan de l'année
+budget;état;budget de l'état
+dette;publique;dette publique
+déficit;commercial;déficit commercial
+croissance;économie;croissance de l'économie
+inflation;prix;inflation des prix
+dévaluation;monnaie;dévaluation de la monnaie
+change;devise;change de devise
+impression;billet;impression de billets
+fabrication;pièce;fabrication de pièces
+contrefaçon;marque;contrefaçon de marque
+saisie;douane;saisie de la douane
+contrôle;identité;contrôle d'identité
+vérification;passeport;vérification du passeport
+tamponnage;visa;tamponnage du visa
+fouille;bagage;fouille des bagages
+embarquement;passager;embarquement des passagers
+décollage;avion;décollage de l'avion
+atterrissage;piste;atterrissage sur la piste
+vol;courrier;vol du courrier
+pilotage;hélicoptère;pilotage de l'hélicoptère
+conduite;train;conduite du train
+arrêt;gare;arrêt en gare
+départ;quai;départ du quai
+arrivée;terminus;arrivée au terminus
+correspondance;métro;correspondance de métro
+compostage;billet;compostage du billet
+fraude;métro;fraude dans le métro
+amende;contrôleur;amende du contrôleur
+achat;ticket;achat de ticket
+rechargement;passe;rechargement du passe
+attente;bus;attente du bus
+montée;voiture;montée en voiture
+descente;marche;descente de la marche
+conduite;auto;conduite de l'auto
+freinage;urgence;freinage d'urgence
+accélération;virage;accélération dans le virage
+dérapage;neige;dérapage sur la neige
+stationnement;interdit;stationnement interdit
+créneau;parking;créneau de parking
+démarrage;côte;démarrage en côte
+calage;moteur;calage du moteur
+passage;vitesse;passage de vitesse
+klaxon;mariage;klaxon de mariage
+appel;phare;appel de phare
+clignotant;droite;clignotant à droite
+doublage;camion;doublage du camion
+croisement;véhicule;croisement de véhicule
+priorité;droite;priorité à droite
+stop;carrefour;stop au carrefour
+feu;rouge;feu rouge
+rond-point;sortie;rond-point de la sortie
+péage;autoroute;péage d'autoroute
+bouchon;départ;bouchon de départ
+accident;route;accident de la route
+constat;amiable;constat amiable
+remorquage;épave;remorquage de l'épave
+réparation;carrosserie;réparation de la carrosserie
+peinture;aile;peinture de l'aile
+changement;pare-brise;changement de pare-brise
+gonflage;pneu;gonflage des pneus
+plein;essence;plein d'essence
+lavage;rouleau;lavage au rouleau
+location;utilitaire;location d'utilitaire
+déménagement;meuble;déménagement des meubles
+transport;colis;transport de colis
+livraison;domicile;livraison à domicile
+réception;lettre;réception de la lettre
+tri;courrier;tri du courrier
+distribution;journal;distribution du journal
+abonnement;magazine;abonnement au magazine
+résiliation;ligne;résiliation de la ligne
+ouverture;dossier;ouverture de dossier
+clôture;enquête;clôture de l'enquête
+classement;affaire;classement de l'affaire
+jugement;divorce;jugement de divorce
+garde;enfant;garde de l'enfant
+pension;alimentaire;pension alimentaire

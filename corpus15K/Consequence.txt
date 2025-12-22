@@ -1,0 +1,1252 @@
+dégâts;tempête;dégâts de la tempête
+retards;circulation;retards de la circulation
+fumée;incendie;fumée de l'incendie
+cendre;volcan;cendre du volcan
+inondation;pluie;inondation de la pluie
+fatigue;voyage;fatigue du voyage
+courbatures;sport;courbatures du sport
+stress;examen;stress de l'examen
+joie;victoire;joie de la victoire
+tristesse;défaite;tristesse de la défaite
+peur;danger;peur du danger
+cicatrice;blessure;cicatrice de la blessure
+ruines;guerre;ruines de la guerre
+bruit;explosion;bruit de l'explosion
+chaleur;été;chaleur de l'été
+froid;hiver;froid de l'hiver
+succès;effort;succès de l'effort
+échec;négligence;échec de la négligence
+rançon;gloire;rançon de la gloire
+fruit;hasard;fruit du hasard
+résultat;match;résultat du match
+impact;choc;impact du choc
+trace;pas;trace de pas
+empreinte;doigt;empreinte de doigt
+écho;montagne;écho de la montagne
+ombre;mur;ombre du mur
+douleur;coup;douleur du coup
+fièvre;infection;fièvre de l'infection
+rougeur;frottement;rougeur du frottement
+vertige;hauteur;vertige de la hauteur
+ivresse;alcool;ivresse de l'alcool
+nausée;houle;nausée de la houle
+morsure;froid;morsure du froid
+brûlure;soleil;brûlure du soleil
+insolation;canicule;insolation de la canicule
+débris;accident;débris de l'accident
+poussière;travaux;poussière des travaux
+vapeur;douche;vapeur de la douche
+odeur;brûlé;odeur de brûlé
+effets;médicament;effets du médicament
+bienfaits;repos;bienfaits du repos
+méfaits;tabac;méfaits du tabac
+montée;eaux;montée des eaux
+fonte;neiges;fonte des neiges
+réchauffement;climat;réchauffement du climat
+chômage;crise;chômage de la crise
+famine;sécheresse;famine de la sécheresse
+soif;désert;soif du désert
+sommeil;épuisement;sommeil de l'épuisement
+sueur;front;sueur du front
+larmes;joie;larmes de joie
+cri;douleur;cri de douleur
+soupir;soulagement;soupir de soulagement
+frisson;peur;frisson de peur
+tremblement;froid;tremblement de froid
+rougissement;honte;rougissement de honte
+pâleur;effroi;pâleur de l'effroi
+sourire;bonheur;sourire du bonheur
+rire;farce;rire de la farce
+applaudissements;public;applaudissements du public
+huées;foule;huées de la foule
+félicitations;jury;félicitations du jury
+blâme;conseil;blâme du conseil
+punition;crime;punition du crime
+récompense;mérite;récompense du mérite
+salaire;peur;salaire de la peur
+coût;vie;coût de la vie
+prix;liberté;prix de la liberté
+rides;âge;rides de l'âge
+usure;temps;usure du temps
+érosion;vent;érosion du vent
+rouille;fer;rouille du fer
+moisissure;humidité;moisissure de l'humidité
+gueule;bois;gueule de bois
+restes;dîner;restes du dîner
+vestiges;passé;vestiges du passé
+survivants;catastrophe;survivants de la catastrophe
+orphelins;guerre;orphelins de la guerre
+héritage;ancêtres;héritage des ancêtres
+leçons;histoire;leçons de l'histoire
+bleu;choc;bleu du choc
+bosse;coup;bosse du coup
+égratignure;chute;égratignure de la chute
+coupure;rasoir;coupure du rasoir
+ampoule;marche;ampoule de la marche
+cor;chaussure;cor de la chaussure
+carie;sucre;carie du sucre
+indigestion;repas;indigestion du repas
+intoxication;fruit;intoxication du fruit
+allergie;pollen;allergie du pollen
+bouton;acné;bouton d'acné
+rougeur;ortie;rougeur de l'ortie
+démangeaison;piqûre;démangeaison de la piqûre
+enflure;venin;enflure du venin
+toux;froid;toux du froid
+rhume;courant d'air;rhume du courant d'air
+angine;virus;angine du virus
+grippe;épidémie;grippe de l'épidémie
+fièvre;maladie;fièvre de la maladie
+frisson;fièvre;frisson de la fièvre
+sueur;effort;sueur de l'effort
+transpiration;chaleur;transpiration de la chaleur
+odeur;transpiration;odeur de transpiration
+mauvaise haleine;ail;mauvaise haleine de l'ail
+tache;soleil;tache du soleil
+ride;expression;ride d'expression
+cerne;insomnie;cerne de l'insomnie
+poche;fatigue;poche de la fatigue
+calvitie;âge;calvitie de l'âge
+cheveu blanc;souci;cheveu blanc du souci
+dent;sagesse;dent de sagesse
+surdité;bruit;surdité du bruit
+acouphène;concert;acouphène du concert
+myopie;écran;myopie de l'écran
+fatigue;lecture;fatigue de la lecture
+crampe;nage;crampe de la nage
+point de côté;course;point de côté de la course
+entorse;faux pas;entorse du faux pas
+fracture;accident;fracture de l'accident
+fêlure;os;fêlure de l'os
+luxation;épaule;luxation de l'épaule
+commotion;choc;commotion du choc
+traumatisme;guerre;traumatisme de la guerre
+cicatrice;césarienne;cicatrice de la césarienne
+trace;brûlure;trace de brûlure
+cloque;frottement;cloque du frottement
+gerçure;vent;gerçure du vent
+crevasse;froid;crevasse du froid
+engelure;neige;engelure de la neige
+chair de poule;froid;chair de poule du froid
+hoquet;repas;hoquet du repas
+rot;boisson;rot de la boisson
+gaz;digestion;gaz de la digestion
+ballonnement;fermentation;ballonnement de la fermentation
+nausée;tournis;nausée du tournis
+vomissement;alcool;vomissement de l'alcool
+gueule de bois;fête;gueule de bois de la fête
+migraine;stress;migraine du stress
+maux de tête;bruit;maux de tête du bruit
+vertige;vide;vertige du vide
+étourdissement;chaleur;étourdissement de la chaleur
+évanouissement;émotion;évanouissement de l'émotion
+malaise;foule;malaise de la foule
+syncope;peur;syncope de la peur
+crise;asthme;crise d'asthme
+étouffement;fumée;étouffement de la fumée
+asphyxie;gaz;asphyxie du gaz
+noyade;inondation;noyade de l'inondation
+électrocution;fil;électrocution du fil
+brûlure;acide;brûlure de l'acide
+irritation;savon;irritation du savon
+eczéma;stress;eczéma du stress
+psoriasis;anxiété;psoriasis de l'anxiété
+verrue;piscine;verrue de la piscine
+mycose;humidité;mycose de l'humidité
+infection;plaie;infection de la plaie
+pus;infection;pus de l'infection
+croûte;blessure;croûte de la blessure
+gangrène;blessure;gangrène de la blessure
+tétanos;rouille;tétanos de la rouille
+rage;morsure;rage de la morsure
+venin;serpent;venin du serpent
+poison;plante;poison de la plante
+overdose;drogue;overdose de drogue
+coma;accident;coma de l'accident
+décès;maladie;décès de la maladie
+mort;vieillesse;mort de la vieillesse
+cadavre;crime;cadavre du crime
+dépouille;guerre;dépouille de la guerre
+squelette;temps;squelette du temps
+cendres;crémation;cendres de la crémation
+deuil;perte;deuil de la perte
+orphelin;drame;orphelin du drame
+veuve;guerre;veuve de la guerre
+solitude;abandon;solitude de l'abandon
+isolement;maladie;isolement de la maladie
+confinement;virus;confinement du virus
+quarantaine;peste;quarantaine de la peste
+vaccin;grippe;vaccin de la grippe
+piqûre;rappel;piqûre du rappel
+effet;secondaire;effet secondaire
+somnolence;cachet;somnolence du cachet
+guérison;traitement;guérison du traitement
+rémission;cancer;rémission du cancer
+convalescence;opération;convalescence de l'opération
+cicatrisation;temps;cicatrisation du temps
+reprise;travail;reprise du travail
+rechute;imprudence;rechute de l'imprudence
+séquelle;accident;séquelle de l'accident
+handicap;naissance;handicap de naissance
+infirmité;guerre;infirmité de la guerre
+paralysie;chute;paralysie de la chute
+amnésie;choc;amnésie du choc
+folie;douleur;folie de la douleur
+délire;fièvre;délire de la fièvre
+hallucination;drogue;hallucination de la drogue
+tremblement;parkinson;tremblement de Parkinson
+perte;mémoire;perte de mémoire
+trouble;vision;trouble de la vision
+bégaiement;timidité;bégaiement de la timidité
+mutisme;trauma;mutisme du trauma
+surdité;âge;surdité de l'âge
+cécité;accident;cécité de l'accident
+boiterie;entorse;boiterie de l'entorse
+bosse;dos;bosse du dos
+obésité;excès;obésité de l'excès
+maigreur;famine;maigreur de la famine
+faim;jeûne;faim du jeûne
+soif;sport;soif du sport
+appétit;marche;appétit de la marche
+satiété;repas;satiété du repas
+digestion;déjeuner;digestion du déjeuner
+sieste;repas;sieste du repas
+réveil;matin;réveil du matin
+insomnie;café;insomnie du café
+cauchemar;film;cauchemar du film
+rêve;sommeil;rêve du sommeil
+ronflement;rhume;ronflement du rhume
+apnée;sommeil;apnée du sommeil
+somnambulisme;stress;somnambulisme du stress
+fatigue;travail;fatigue du travail
+épuisement;course;épuisement de la course
+burn-out;bureau;burn-out du bureau
+dépression;chômage;dépression du chômage
+suicide;désespoir;suicide du désespoir
+larmes;tristesse;larmes de tristesse
+sanglot;chagrin;sanglot du chagrin
+cri;colère;cri de colère
+hurlement;douleur;hurlement de douleur
+plainte;malade;plainte du malade
+gémissement;plaisir;gémissement de plaisir
+soupir;ennui;soupir d'ennui
+bâillement;sommeil;bâillement de sommeil
+étirement;réveil;étirement du réveil
+sursaut;surprise;sursaut de surprise
+réflexe;coup;réflexe du coup
+tic;nervosité;tic de nervosité
+toc;anxiété;toc de l'anxiété
+phobie;araignée;phobie de l'araignée
+peur;noir;peur du noir
+panique;feu;panique du feu
+terreur;guerre;terreur de la guerre
+stress;rentrée;stress de la rentrée
+trac;scène;trac de la scène
+timidité;inconnu;timidité de l'inconnu
+honte;échec;honte de l'échec
+culpabilité;faute;culpabilité de la faute
+remords;crime;remords du crime
+regret;passé;regret du passé
+nostalgie;enfance;nostalgie de l'enfance
+mélancolie;pluie;mélancolie de la pluie
+spleen;dimanche;spleen du dimanche
+cafard;hiver;cafard de l'hiver
+déprime;solitude;déprime de la solitude
+colère;injustice;colère de l'injustice
+rage;impuissance;rage de l'impuissance
+haine;jalousie;haine de la jalousie
+mepris;orgueil;mépris de l'orgueil
+dégoût;odeur;dégoût de l'odeur
+nausée;vue;nausée de la vue
+rejet;greffe;rejet de la greffe
+cendre;feu;cendre du feu
+braise;incendie;braise de l'incendie
+fumée;cigarette;fumée de la cigarette
+suie;cheminée;suie de la cheminée
+charbon;bois;charbon du bois
+poussière;meuble;poussière du meuble
+mouton;lit;mouton du lit
+tache;huile;tache d'huile
+auréole;transpiration;auréole de transpiration
+salissure;boue;salissure de la boue
+claboussure;flaque;éclaboussure de la flaque
+goutte;pluie;goutte de pluie
+buée;souffle;buée du souffle
+givre;froid;givre du froid
+stalactite;grotte;stalactite de la grotte
+rouille;pluie;rouille de la pluie
+vert-de-gris;cuivre;vert-de-gris du cuivre
+oxyde;métal;oxyde du métal
+tartre;eau;tartre de l'eau
+calcaire;robinet;calcaire du robinet
+dépôt;vin;dépôt du vin
+marc;café;marc de café
+écume;vague;écume de la vague
+bave;escargot;bave de l'escargot
+toile;araignée;toile d'araignée
+nid;oiseau;nid de l'oiseau
+galerie;taupe;galerie de la taupe
+terrier;lapin;terrier du lapin
+bouse;vache;bouse de la vache
+crotte;chien;crotte du chien
+fiente;pigeon;fiente du pigeon
+guano;chauve-souris;guano de la chauve-souris
+purin;étable;purin de l'étable
+lisier;porc;lisier du porc
+compost;déchet;compost du déchet
+humus;forêt;humus de la forêt
+terreau;feuille;terreau de feuille
+vase;mare;vase de la mare
+boue;averse;boue de l'averse
+flaque;orage;flaque de l'orage
+inondation;crue;inondation de la crue
+dégât;eaux;dégât des eaux
+fuite;tuyau;fuite du tuyau
+suintement;fissure;suintement de la fissure
+gouttière;toit;gouttière du toit
+courant;air;courant d'air
+appel;air;appel d'air
+tourbillon;vent;tourbillon du vent
+remous;hélice;remous de l'hélice
+sillage;bateau;sillage du bateau
+traînée;avion;traînée de l'avion
+panache;fumée;panache de fumée
+volute;cigare;volute du cigare
+rond;fumée;rond de fumée
+étincelle;silex;étincelle du silex
+éclat;verre;éclat de verre
+bris;glace;bris de glace
+miette;pain;miette de pain
+copeau;bois;copeau de bois
+sciure;coupe;sciure de la coupe
+limaille;fer;limaille de fer
+rognure;ongle;rognure d'ongle
+épluchure;légume;épluchure de légume
+peau;banane;peau de banane
+coque;noix;coque de noix
+pépin;pomme;pépin de pomme
+noyau;cerise;noyau de cerise
+arête;poisson;arête de poisson
+os;côtelette;os de la côtelette
+carcasse;poulet;carcasse du poulet
+squelette;animal;squelette de l'animal
+ruine;château;ruine du château
+débris;explosion;débris de l'explosion
+épave;naufrage;épave du naufrage
+ferraille;voiture;ferraille de la voiture
+rebut;usine;rebut de l'usine
+déchet;consommation;déchet de la consommation
+ordure;ménage;ordure du ménage
+détritus;rue;détritus de la rue
+encombrant;trottoir;encombrant du trottoir
+poubelle;immeuble;poubelle de l'immeuble
+décharge;ville;décharge de la ville
+pollution;industrie;pollution de l'industrie
+smog;ville;smog de la ville
+marée;noire;marée noire
+radioactivité;centrale;radioactivité de la centrale
+trou;couche d'ozone;trou de la couche d'ozone
+réchauffement;effet de serre;réchauffement de l'effet de serre
+fonte;glacier;fonte du glacier
+montée;océan;montée de l'océan
+érosion;côte;érosion de la côte
+avalanche;neige;avalanche de neige
+éboulement;terrain;éboulement de terrain
+glissement;boue;glissement de boue
+faille;séisme;faille du séisme
+crevasse;glace;crevasse de la glace
+cratère;volcan;cratère du volcan
+coulée;lave;coulée de lave
+geyser;source;geyser de la source
+dune;vent;dune du vent
+vague;houle;vague de la houle
+raz-de-marée;séisme;raz-de-marée du séisme
+tsunami;tremblement;tsunami du tremblement
+ouragan;cyclone;ouragan du cyclone
+tornade;orage;tornade de l'orage
+tempête;dépression;tempête de la dépression
+calme;plat;calme plat
+éclaircie;averse;éclaircie de l'averse
+arc-en-ciel;pluie;arc-en-ciel de la pluie
+mirage;chaleur;mirage de la chaleur
+écho;son;écho du son
+réverbération;mur;réverbération du mur
+résonance;caisse;résonance de la caisse
+vibration;corde;vibration de la corde
+oscillation;pendule;oscillation du pendule
+balancement;hamac;balancement du hamac
+tangage;navire;tangage du navire
+roulis;mer;roulis de la mer
+secousse;chaussée;secousse de la chaussée
+sursaut;surprise;sursaut de la surprise
+bond;ressort;bond du ressort
+rebond;balle;rebond de la balle
+ricochet;pierre;ricochet de la pierre
+impact;balle;impact de la balle
+trou;serrure;trou de la serrure
+fente;mur;fente du mur
+lézarde;façade;lézarde de la façade
+fissure;barrage;fissure du barrage
+brèche;muraille;brèche de la muraille
+trouée;nuage;trouée du nuage
+clairière;forêt;clairière de la forêt
+sentier;passage;sentier du passage
+ornière;roue;ornière de la roue
+sillon;charrue;sillon de la charrue
+trace;pas;trace de pas
+empreinte;pied;empreinte de pied
+marque;fer;marque au fer
+tatouage;encre;tatouage à l'encre
+dessin;crayon;dessin au crayon
+peinture;pinceau;peinture au pinceau
+écriture;plume;écriture à la plume
+rature;erreur;rature de l'erreur
+tache;encre;tache d'encre
+paté;stylo;pâté de stylo
+bavure;impression;bavure de l'impression
+coquille;texte;coquille du texte
+faute;orthographe;faute d'orthographe
+erreur;calcul;erreur de calcul
+bug;logiciel;bug du logiciel
+plantage;ordinateur;plantage de l'ordinateur
+panne;moteur;panne de moteur
+crevaison;pneu;crevaison de pneu
+accident;route;accident de la route
+collision;train;collision de train
+déraillement;locomotive;déraillement de la locomotive
+crash;avion;crash d'avion
+chute;vélo;chute de vélo
+gamelle;moto;gamelle de moto
+plongeon;piscine;plongeon dans la piscine
+saut;élastique;saut à l'élastique
+vol;oiseau;vol de l'oiseau
+plané;aigle;plané de l'aigle
+atterrissage;piste;atterrissage sur la piste
+décollage;fusée;décollage de la fusée
+mise;orbite;mise sur orbite
+rentrée;atmosphère;rentrée dans l'atmosphère
+amerrissage;capsule;amerrissage de la capsule
+salaire;travail;salaire du travail
+paie;mois;paie du mois
+prime;rendement;prime de rendement
+bonus;résultat;bonus du résultat
+augmentation;mérite;augmentation au mérite
+promotion;ancienneté;promotion à l'ancienneté
+mutation;service;mutation de service
+licenciement;faute;licenciement pour faute
+mise à pied;erreur;mise à pied pour erreur
+démission;désaccord;démission pour désaccord
+retraite;âge;retraite de l'âge
+pension;invalidité;pension d'invalidité
+allocation;chômage;allocation chômage
+bourse;étude;bourse d'étude
+aide;logement;aide au logement
+impôt;revenu;impôt sur le revenu
+taxe;habitation;taxe d'habitation
+redevance;télé;redevance télé
+frais;dossier;frais de dossier
+facture;électricité;facture d'électricité
+note;restaurant;note du restaurant
+addition;repas;addition du repas
+ticket;caisse;ticket de caisse
+reçu;paiement;reçu de paiement
+quittance;loyer;quittance de loyer
+dette;jeu;dette de jeu
+crédit;consommation;crédit à la consommation
+emprunt;banque;emprunt à la banque
+hypothèque;maison;hypothèque de la maison
+agios;découvert;agios du découvert
+intérêts;épargne;intérêts de l'épargne
+dividende;action;dividende de l'action
+plus-value;vente;plus-value de la vente
+bénéfice;commerce;bénéfice du commerce
+chiffre;affaires;chiffre d'affaires
+perte;exploitation;perte d'exploitation
+déficit;budget;déficit du budget
+faillite;entreprise;faillite de l'entreprise
+banqueroute;fraude;banqueroute par fraude
+krach;bourse;krach de la bourse
+récession;économie;récession de l'économie
+inflation;prix;inflation des prix
+pénurie;essence;pénurie d'essence
+disette;récolte;disette de la récolte
+famine;guerre;famine de la guerre
+abondance;pluie;abondance de la pluie
+surproduction;lait;surproduction de lait
+gaspillage;ressource;gaspillage de ressource
+économie;énergie;économie d'énergie
+richesse;travail;richesse du travail
+fortune;héritage;fortune de l'héritage
+misère;chômage;misère du chômage
+pauvreté;monde;pauvreté du monde
+mendiant;rue;mendiant de la rue
+sdf;crise;sdf de la crise
+expulsion;impayé;expulsion pour impayé
+saisie;huissier;saisie de l'huissier
+enchère;faillite;enchère de faillite
+vente;solde;vente en solde
+achat;impulsion;achat d'impulsion
+dépense;plaisir;dépense de plaisir
+coût;vie;coût de la vie
+prix;gloire;prix de la gloire
+valeur;exemple;valeur de l'exemple
+rançon;succès;rançon du succès
+récompense;effort;récompense de l'effort
+médaille;victoire;médaille de la victoire
+coupe;championnat;coupe du championnat
+trophée;chasse;trophée de chasse
+diplôme;examen;diplôme de l'examen
+certificat;stage;certificat de stage
+brevet;invention;brevet d'invention
+permis;conduire;permis de conduire
+licence;sport;licence de sport
+carte;membre;carte de membre
+badge;accès;badge d'accès
+ticket;entrée;ticket d'entrée
+billet;train;billet de train
+passeport;voyage;passeport pour le voyage
+visa;séjour;visa de séjour
+amende;vitesse;amende pour vitesse
+pv;stationnement;pv de stationnement
+contravention;police;contravention de la police
+sanction;juge;sanction du juge
+peine;prison;peine de prison
+condamnation;procès;condamnation du procès
+acquittement;innocence;acquittement de l'innocence
+libération;caution;libération sous caution
+évasion;prison;évasion de prison
+cavale;fugitif;cavale du fugitif
+arrestation;police;arrestation par la police
+garde à vue;enquête;garde à vue de l'enquête
+interrogatoire;suspect;interrogatoire du suspect
+aveu;coupable;aveu du coupable
+témoignage;vue;témoignage de vue
+preuve;crime;preuve du crime
+indice;scène;indice de la scène
+empreinte;digital;empreinte digitale
+adn;cheveu;adn du cheveu
+mobile;meurtre;mobile du meurtre
+alibi;soir;alibi du soir
+verdict;jury;verdict du jury
+appel;jugement;appel du jugement
+cassation;cour;cassation de la cour
+grâce;président;grâce du président
+amnistie;loi;amnistie de la loi
+loi;parlement;loi du parlement
+décret;ministre;décret du ministre
+arrêté;maire;arrêté du maire
+règlement;intérieur;règlement intérieur
+code;route;code de la route
+charte;éthique;charte éthique
+contrat;mariage;contrat de mariage
+acte;naissance;acte de naissance
+livret;famille;livret de famille
+testament;décès;testament de décès
+héritage;parent;héritage des parents
+legs;grand-mère;legs de la grand-mère
+donation;vivant;donation du vivant
+succession;conflit;succession du conflit
+partage;biens;partage des biens
+divorce;faute;divorce pour faute
+séparation;biens;séparation de biens
+pension;alimentaire;pension alimentaire
+garde;enfant;garde de l'enfant
+droit;visite;droit de visite
+mariage;amour;mariage d'amour
+fiançailles;bague;fiançailles à la bague
+lune de miel;noces;lune de miel des noces
+anniversaire;naissance;anniversaire de naissance
+fête;prénom;fête du prénom
+pot;départ;pot de départ
+crémaillère;maison;crémaillère de la maison
+baptême;eau;baptême de l'eau
+communion;église;communion à l'église
+enterrement;cimetière;enterrement au cimetière
+obsèques;famille;obsèques de la famille
+cérémonie;officielle;cérémonie officielle
+défilé;militaire;défilé militaire
+manifestation;colère;manifestation de la colère
+grève;revendication;grève de revendication
+émeute;faim;émeute de la faim
+révolution;liberté;révolution pour la liberté
+guerre;territoire;guerre de territoire
+bataille;pouvoir;bataille de pouvoir
+siège;ville;siège de la ville
+blocus;port;blocus du port
+embargo;arme;embargo sur les armes
+trêve;noël;trêve de noël
+cessez-le-feu;négociation;cessez-le-feu de la négociation
+armistice;paix;armistice de la paix
+traité;alliance;traité d'alliance
+accord;commerce;accord de commerce
+pacte;sang;pacte de sang
+serment;allégeance;serment d'allégeance
+promesse;don;promesse de don
+vœu;silence;vœu de silence
+engagement;armée;engagement dans l'armée
+enrôlement;force;enrôlement de force
+service;militaire;service militaire
+mission;étranger;mission à l'étranger
+expatriation;travail;expatriation pour le travail
+exil;politique;exil politique
+asile;réfugié;asile de réfugié
+immigration;misère;immigration de la misère
+intégration;société;intégration dans la société
+exclusion;groupe;exclusion du groupe
+racisme;ignorance;racisme de l'ignorance
+haine;peur;haine de la peur
+violence;coup;violence des coups
+insulte;colère;insulte de la colère
+bagarre;rue;bagarre de rue
+duel;honneur;duel d'honneur
+vengeance;affront;vengeance de l'affront
+represaille;attaque;représaille de l'attaque
+punition;bêtise;punition de la bêtise
+fessée;désobéissance;fessée pour désobéissance
+retenue;école;retenue à l'école
+colle;lycée;colle au lycée
+renvoi;élève;renvoi de l'élève
+exclusion;cours;exclusion du cours
+bulletin;note;bulletin de notes
+carnet;correspondance;carnet de correspondance
+agenda;devoirs;agenda de devoirs
+leçon;maître;leçon du maître
+devoir;maison;devoir à la maison
+exercice;maths;exercice de maths
+dictée;français;dictée de français
+rédaction;sujet;rédaction sur un sujet
+dissertation;philo;dissertation de philo
+thèse;recherche;thèse de recherche
+mémoire;fin d'étude;mémoire de fin d'étude
+stage;entreprise;stage en entreprise
+formation;continue;formation continue
+apprentissage;métier;apprentissage du métier
+expérience;vie;expérience de la vie
+savoir;livre;savoir du livre
+connaissance;étude;connaissance de l'étude
+science;nature;science de la nature
+art;création;art de la création
+œuvre;artiste;œuvre de l'artiste
+chef-d'œuvre;génie;chef-d'œuvre du génie
+livre;auteur;livre de l'auteur
+film;réalisateur;film du réalisateur
+musique;compositeur;musique du compositeur
+chanson;chanteur;chanson du chanteur
+danse;chorégraphe;danse du chorégraphe
+tableau;peintre;tableau du peintre
+sculpture;sculpteur;sculpture du sculpteur
+photo;photographe;photo du photographe
+article;journaliste;article du journaliste
+scoop;presse;scoop de la presse
+une;journal;une du journal
+titre;actualité;titre de l'actualité
+nouvelle;monde;nouvelle du monde
+info;télé;info de la télé
+rumeur;bouche;rumeur de bouche à oreille
+ragot;voisin;ragot du voisin
+secret;famille;secret de famille
+confidences;ami;confidences de l'ami
+aveu;faiblesse;aveu de faiblesse
+mensonge;peur;mensonge par peur
+trahison;lâcheté;trahison par lâcheté
+fidélité;amour;fidélité par amour
+dévouement;cause;dévouement à la cause
+sacrifice;enfant;sacrifice pour l'enfant
+don;générosité;don par générosité
+cadeau;noël;cadeau de noël
+étrennes;nouvel an;étrennes du nouvel an
+surprise;anniversaire;surprise d'anniversaire
+fête;amis;fête entre amis
+repas;famille;repas de famille
+banquet;mariage;banquet de mariage
+gala;charité;gala de charité
+bal;fin d'année;bal de fin d'année
+sortie;cinéma;sortie au cinéma
+vacances;été;vacances d'été
+congé;payé;congé payé
+repos;dimanche;repos du dimanche
+loisi;passion;loisir par passion
+hobby;temps libre;hobby du temps libre
+sport;santé;sport pour la santé
+jeu;hasard;jeu de hasard
+gain;loto;gain du loto
+perte;casino;perte au casino
+victoire;match;victoire du match
+défaite;score;défaite au score
+nul;partie;nul de la partie
+revanche;retour;revanche au retour
+belle;finale;belle de la finale
+champion;tournoi;champion du tournoi
+médaille;olympique;médaille olympique
+record;monde;record du monde
+exploit;sportif;exploit sportif
+légende;siècle;légende du siècle
+mythe;histoire;mythe de l'histoire
+héros;roman;héros de roman
+star;cinéma;star de cinéma
+idole;jeune;idole des jeunes
+fan;groupe;fan du groupe
+public;concert;public du concert
+spectateur;stade;spectateur du stade
+auditeur;radio;auditeur de la radio
+lecteur;livre;lecteur du livre
+internaute;web;internaute du web
+abonné;chaîne;abonné de la chaîne
+follower;réseau;follower du réseau
+influenceur;mode;influenceur de la mode
+tendance;marché;tendance du marché
+buzz;internet;buzz d'internet
+virus;ordinateur;virus d'ordinateur
+spam;mail;spam par mail
+piratage;compte;piratage de compte
+vol;données;vol de données
+arnaque;ligne;arnaque en ligne
+fraude;carte;fraude à la carte
+salaire;travail;salaire du travail
+paie;mois;paie du mois
+prime;rendement;prime de rendement
+bonus;résultat;bonus du résultat
+augmentation;mérite;augmentation au mérite
+promotion;ancienneté;promotion à l'ancienneté
+mutation;service;mutation de service
+licenciement;faute;licenciement pour faute
+mise à pied;erreur;mise à pied pour erreur
+démission;désaccord;démission pour désaccord
+retraite;âge;retraite de l'âge
+pension;invalidité;pension d'invalidité
+allocation;chômage;allocation chômage
+bourse;étude;bourse d'étude
+aide;logement;aide au logement
+impôt;revenu;impôt sur le revenu
+taxe;habitation;taxe d'habitation
+redevance;télé;redevance télé
+frais;dossier;frais de dossier
+facture;électricité;facture d'électricité
+note;restaurant;note du restaurant
+addition;repas;addition du repas
+ticket;caisse;ticket de caisse
+reçu;paiement;reçu de paiement
+quittance;loyer;quittance de loyer
+dette;jeu;dette de jeu
+crédit;consommation;crédit à la consommation
+emprunt;banque;emprunt à la banque
+hypothèque;maison;hypothèque de la maison
+agios;découvert;agios du découvert
+intérêts;épargne;intérêts de l'épargne
+dividende;action;dividende de l'action
+plus-value;vente;plus-value de la vente
+bénéfice;commerce;bénéfice du commerce
+chiffre;affaires;chiffre d'affaires
+perte;exploitation;perte d'exploitation
+déficit;budget;déficit du budget
+faillite;entreprise;faillite de l'entreprise
+banqueroute;fraude;banqueroute par fraude
+krach;bourse;krach de la bourse
+récession;économie;récession de l'économie
+inflation;prix;inflation des prix
+pénurie;essence;pénurie d'essence
+disette;récolte;disette de la récolte
+famine;guerre;famine de la guerre
+abondance;pluie;abondance de la pluie
+surproduction;lait;surproduction de lait
+gaspillage;ressource;gaspillage de ressource
+économie;énergie;économie d'énergie
+richesse;travail;richesse du travail
+fortune;héritage;fortune de l'héritage
+misère;chômage;misère du chômage
+pauvreté;monde;pauvreté du monde
+mendiant;rue;mendiant de la rue
+sdf;crise;sdf de la crise
+expulsion;impayé;expulsion pour impayé
+saisie;huissier;saisie de l'huissier
+enchère;faillite;enchère de faillite
+vente;solde;vente en solde
+achat;impulsion;achat d'impulsion
+dépense;plaisir;dépense de plaisir
+coût;vie;coût de la vie
+prix;gloire;prix de la gloire
+valeur;exemple;valeur de l'exemple
+rançon;succès;rançon du succès
+récompense;effort;récompense de l'effort
+médaille;victoire;médaille de la victoire
+coupe;championnat;coupe du championnat
+trophée;chasse;trophée de chasse
+diplôme;examen;diplôme de l'examen
+certificat;stage;certificat de stage
+brevet;invention;brevet d'invention
+permis;conduire;permis de conduire
+licence;sport;licence de sport
+carte;membre;carte de membre
+badge;accès;badge d'accès
+ticket;entrée;ticket d'entrée
+billet;train;billet de train
+passeport;voyage;passeport pour le voyage
+visa;séjour;visa de séjour
+amende;vitesse;amende pour vitesse
+pv;stationnement;pv de stationnement
+contravention;police;contravention de la police
+sanction;juge;sanction du juge
+peine;prison;peine de prison
+condamnation;procès;condamnation du procès
+acquittement;innocence;acquittement de l'innocence
+libération;caution;libération sous caution
+évasion;prison;évasion de prison
+cavale;fugitif;cavale du fugitif
+arrestation;police;arrestation par la police
+garde à vue;enquête;garde à vue de l'enquête
+interrogatoire;suspect;interrogatoire du suspect
+aveu;coupable;aveu du coupable
+témoignage;vue;témoignage de vue
+preuve;crime;preuve du crime
+indice;scène;indice de la scène
+empreinte;digital;empreinte digitale
+adn;cheveu;adn du cheveu
+mobile;meurtre;mobile du meurtre
+alibi;soir;alibi du soir
+verdict;jury;verdict du jury
+appel;jugement;appel du jugement
+cassation;cour;cassation de la cour
+grâce;président;grâce du président
+amnistie;loi;amnistie de la loi
+loi;parlement;loi du parlement
+décret;ministre;décret du ministre
+arrêté;maire;arrêté du maire
+règlement;intérieur;règlement intérieur
+code;route;code de la route
+charte;éthique;charte éthique
+contrat;mariage;contrat de mariage
+acte;naissance;acte de naissance
+livret;famille;livret de famille
+testament;décès;testament de décès
+héritage;parent;héritage des parents
+legs;grand-mère;legs de la grand-mère
+donation;vivant;donation du vivant
+succession;conflit;succession du conflit
+partage;biens;partage des biens
+divorce;faute;divorce pour faute
+séparation;biens;séparation de biens
+pension;alimentaire;pension alimentaire
+garde;enfant;garde de l'enfant
+droit;visite;droit de visite
+mariage;amour;mariage d'amour
+fiançailles;bague;fiançailles à la bague
+lune de miel;noces;lune de miel des noces
+anniversaire;naissance;anniversaire de naissance
+fête;prénom;fête du prénom
+pot;départ;pot de départ
+crémaillère;maison;crémaillère de la maison
+baptême;eau;baptême de l'eau
+communion;église;communion à l'église
+enterrement;cimetière;enterrement au cimetière
+obsèques;famille;obsèques de la famille
+cérémonie;officielle;cérémonie officielle
+défilé;militaire;défilé militaire
+manifestation;colère;manifestation de la colère
+grève;revendication;grève de revendication
+émeute;faim;émeute de la faim
+révolution;liberté;révolution pour la liberté
+guerre;territoire;guerre de territoire
+bataille;pouvoir;bataille de pouvoir
+siège;ville;siège de la ville
+blocus;port;blocus du port
+embargo;arme;embargo sur les armes
+trêve;noël;trêve de noël
+cessez-le-feu;négociation;cessez-le-feu de la négociation
+armistice;paix;armistice de la paix
+traité;alliance;traité d'alliance
+accord;commerce;accord de commerce
+pacte;sang;pacte de sang
+serment;allégeance;serment d'allégeance
+promesse;don;promesse de don
+vœu;silence;vœu de silence
+engagement;armée;engagement dans l'armée
+enrôlement;force;enrôlement de force
+service;militaire;service militaire
+mission;étranger;mission à l'étranger
+expatriation;travail;expatriation pour le travail
+exil;politique;exil politique
+asile;réfugié;asile de réfugié
+immigration;misère;immigration de la misère
+intégration;société;intégration dans la société
+exclusion;groupe;exclusion du groupe
+racisme;ignorance;racisme de l'ignorance
+haine;peur;haine de la peur
+violence;coup;violence des coups
+insulte;colère;insulte de la colère
+bagarre;rue;bagarre de rue
+duel;honneur;duel d'honneur
+vengeance;affront;vengeance de l'affront
+represaille;attaque;représaille de l'attaque
+punition;bêtise;punition de la bêtise
+fessée;désobéissance;fessée pour désobéissance
+retenue;école;retenue à l'école
+colle;lycée;colle au lycée
+renvoi;élève;renvoi de l'élève
+exclusion;cours;exclusion du cours
+bulletin;note;bulletin de notes
+carnet;correspondance;carnet de correspondance
+agenda;devoirs;agenda de devoirs
+leçon;maître;leçon du maître
+devoir;maison;devoir à la maison
+exercice;maths;exercice de maths
+dictée;français;dictée de français
+rédaction;sujet;rédaction sur un sujet
+dissertation;philo;dissertation de philo
+thèse;recherche;thèse de recherche
+mémoire;fin d'étude;mémoire de fin d'étude
+stage;entreprise;stage en entreprise
+formation;continue;formation continue
+apprentissage;métier;apprentissage du métier
+expérience;vie;expérience de la vie
+savoir;livre;savoir du livre
+connaissance;étude;connaissance de l'étude
+science;nature;science de la nature
+art;création;art de la création
+œuvre;artiste;œuvre de l'artiste
+chef-d'œuvre;génie;chef-d'œuvre du génie
+livre;auteur;livre de l'auteur
+film;réalisateur;film du réalisateur
+musique;compositeur;musique du compositeur
+chanson;chanteur;chanson du chanteur
+danse;chorégraphe;danse du chorégraphe
+tableau;peintre;tableau du peintre
+sculpture;sculpteur;sculpture du sculpteur
+photo;photographe;photo du photographe
+article;journaliste;article du journaliste
+scoop;presse;scoop de la presse
+une;journal;une du journal
+titre;actualité;titre de l'actualité
+nouvelle;monde;nouvelle du monde
+info;télé;info de la télé
+rumeur;bouche;rumeur de bouche à oreille
+ragot;voisin;ragot du voisin
+secret;famille;secret de famille
+confidences;ami;confidences de l'ami
+aveu;faiblesse;aveu de faiblesse
+mensonge;peur;mensonge par peur
+trahison;lâcheté;trahison par lâcheté
+fidélité;amour;fidélité par amour
+dévouement;cause;dévouement à la cause
+sacrifice;enfant;sacrifice pour l'enfant
+don;générosité;don par générosité
+cadeau;noël;cadeau de noël
+étrennes;nouvel an;étrennes du nouvel an
+surprise;anniversaire;surprise d'anniversaire
+fête;amis;fête entre amis
+repas;famille;repas de famille
+banquet;mariage;banquet de mariage
+gala;charité;gala de charité
+bal;fin d'année;bal de fin d'année
+sortie;cinéma;sortie au cinéma
+vacances;été;vacances d'été
+congé;payé;congé payé
+repos;dimanche;repos du dimanche
+loisi;passion;loisir par passion
+hobby;temps libre;hobby du temps libre
+sport;santé;sport pour la santé
+jeu;hasard;jeu de hasard
+gain;loto;gain du loto
+perte;casino;perte au casino
+victoire;match;victoire du match
+défaite;score;défaite au score
+nul;partie;nul de la partie
+revanche;retour;revanche au retour
+belle;finale;belle de la finale
+champion;tournoi;champion du tournoi
+médaille;olympique;médaille olympique
+record;monde;record du monde
+exploit;sportif;exploit sportif
+légende;siècle;légende du siècle
+mythe;histoire;mythe de l'histoire
+héros;roman;héros de roman
+star;cinéma;star de cinéma
+idole;jeune;idole des jeunes
+fan;groupe;fan du groupe
+public;concert;public du concert
+spectateur;stade;spectateur du stade
+auditeur;radio;auditeur de la radio
+lecteur;livre;lecteur du livre
+internaute;web;internaute du web
+abonné;chaîne;abonné de la chaîne
+follower;réseau;follower du réseau
+influenceur;mode;influenceur de la mode
+tendance;marché;tendance du marché
+buzz;internet;buzz d'internet
+virus;ordinateur;virus d'ordinateur
+spam;mail;spam par mail
+piratage;compte;piratage de compte
+vol;données;vol de données
+arnaque;ligne;arnaque en ligne
+fraude;carte;fraude à la carte
+joie;réussite;joie de la réussite
+bonheur;amour;bonheur de l'amour
+plaisir;jeu;plaisir du jeu
+satisfaction;devoir;satisfaction du devoir
+fierté;enfant;fierté de l'enfant
+orgueil;victoire;orgueil de la victoire
+vanité;apparence;vanité de l'apparence
+gloire;combat;gloire du combat
+honneur;famille;honneur de la famille
+honte;échec;honte de l'échec
+humiliation;défaite;humiliation de la défaite
+regret;faute;regret de la faute
+remords;péché;remords du péché
+culpabilité;crime;culpabilité du crime
+repentir;pardon;repentir du pardon
+tristesse;départ;tristesse du départ
+chagrin;perte;chagrin de la perte
+deuil;mort;deuil de la mort
+mélancolie;souvenir;mélancolie du souvenir
+nostalgie;passé;nostalgie du passé
+spleen;ennui;spleen de l'ennui
+ennui;attente;ennui de l'attente
+lassitude;répétition;lassitude de la répétition
+dégoût;excès;dégoût de l'excès
+écœurement;injustice;écœurement de l'injustice
+colère;insulte;colère de l'insulte
+rage;impuissance;rage de l'impuissance
+fureur;trahison;fureur de la trahison
+haine;ennemi;haine de l'ennemi
+rancune;offense;rancune de l'offense
+jalousie;succès;jalousie du succès
+envie;bien;envie du bien
+cupidité;argent;cupidité de l'argent
+avarice;peur;avarice de la peur
+peur;danger;peur du danger
+crainte;inconnu;crainte de l'inconnu
+angoisse;avenir;angoisse de l'avenir
+anxiété;attente;anxiété de l'attente
+panique;foule;panique de la foule
+terreur;monstre;terreur du monstre
+effroi;vue;effroi de la vue
+horreur;crime;horreur du crime
+épouvante;récit;épouvante du récit
+surprise;cadeau;surprise du cadeau
+étonnement;nouvelle;étonnement de la nouvelle
+stupeur;révélation;stupeur de la révélation
+choc;annonce;choc de l'annonce
+traumatisme;accident;traumatisme de l'accident
+confusion;bruit;confusion du bruit
+doute;choix;doute du choix
+hésitation;peur;hésitation de la peur
+incertitude;lendemain;incertitude du lendemain
+méfiance;étranger;méfiance de l'étranger
+soupçon;jalousie;soupçon de la jalousie
+paranoïa;complot;paranoïa du complot
+confiance;ami;confiance de l'ami
+foi;dieu;foi en dieu
+croyance;miracle;croyance au miracle
+espoir;guérison;espoir de guérison
+optimisme;nature;optimisme de nature
+pessimisme;expérience;pessimisme de l'expérience
+désespoir;solitude;désespoir de la solitude
+détresse;abandon;détresse de l'abandon
+misère;monde;misère du monde
+pitié;faible;pitié du faible
+compassion;souffrance;compassion pour la souffrance
+charité;pauvre;charité pour le pauvre
+générosité;cœur;générosité du cœur
+bonté;âme;bonté de l'âme
+gentillesse;accueil;gentillesse de l'accueil
+tendresse;geste;tendresse du geste
+affection;parent;affection du parent
+amour;vie;amour de la vie
+passion;jeu;passion du jeu
+désir;objet;désir de l'objet
+plaisir;chair;plaisir de la chair
+extase;musique;extase de la musique
+ivresse;sommet;ivresse du sommet
+vertige;amour;vertige de l'amour
+folie;grandeur;folie des grandeurs
+démence;âge;démence de l'âge
+sagesse;expérience;sagesse de l'expérience
+raison;état;raison d'état
+logique;maths;logique des maths
+bon sens;paysan;bon sens paysan
+intuition;femme;intuition de la femme
+instinct;survie;instinct de survie
+réflexe;défense;réflexe de défense
+automatisme;habitude;automatisme de l'habitude
+habitude;vie;habitude de vie
+coutume;pays;coutume du pays
+tradition;famille;tradition de la famille
+rituel;matin;rituel du matin
+manie;ordre;manie de l'ordre
+obsession;propreté;obsession de la propreté
+vice;jeu;vice du jeu
+vertu;exemple;vertu de l'exemple
+qualité;défaut;qualité du défaut
+défaut;qualité;défaut de la qualité
+force;caractère;force de caractère
+faiblesse;chair;faiblesse de la chair
+courage;opinion;courage de l'opinion
+lâcheté;fuite;lâcheté de la fuite
+bravoure;combat;bravoure au combat
+héroïsme;situation;héroïsme de la situation
+sacrifice;soi;sacrifice de soi
+abnégation;religieuse;abnégation religieuse
+dévouement;malade;dévouement au malade
+fidélité;chien;fidélité du chien
+loyauté;service;loyauté de service
+honnêteté;commerce;honnêteté en commerce
+probité;justice;probité de la justice
+intégrité;homme;intégrité de l'homme
+justice;loi;justice de la loi
+équité;partage;équité du partage
+liberté;penser;liberté de penser
+égalité;droit;égalité de droit
+fraternité;arme;fraternité d'arme
+solidarité;ouvrier;solidarité ouvrière
+union;force;union de la force
+discorde;pomme;discorde de la pomme
+conflit;intérêt;conflit d'intérêt
+guerre;religion;guerre de religion
+paix;braves;paix des braves
+calme;tempête;calme de la tempête
+silence;nuit;silence de la nuit
+bruit;fureur;bruit et fureur
+parole;acte;parole et acte
+cri;coeur;cri du cœur
+murmure;vent;murmure du vent
+chuchotement;confidence;chuchotement de la confidence
+voix;peuple;voix du peuple
+écho;montagne;écho de la montagne
+réponse;question;réponse à la question
+solution;problème;solution du problème
+clé;mystère;clé du mystère
+fin;histoire;fin de l'histoire
+début;monde;début du monde
+milieu;journée;milieu de journée
+bout;tunnel;bout du tunnel
+fond;piscine;fond de la piscine
+surface;eau;surface de l'eau
+haut;affiche;haut de l'affiche
+bas;page;bas de page
+côté;route;côté de la route
+face;monde;face du monde
+dos;mur;dos au mur
+tête;liste;tête de liste
+pied;lettre;pied de la lettre
+main;sac;main dans le sac
+doigt;œil;doigt dans l'œil
+dent;dent;dent pour dent
+oeil;oeil;œil pour œil
+vie;mort;vie à la mort
+mort;vie;mort de la vie
+naissance;enfant;naissance de l'enfant
+création;artiste;création de l'artiste
+destruction;guerre;destruction de la guerre
+construction;maison;construction de la maison
+démolition;immeuble;démolition de l'immeuble
+rénovation;façade;rénovation de la façade
+restauration;tableau;restauration du tableau
+conservation;nature;conservation de la nature
+protection;environnement;protection de l'environnement
+pollution;air;pollution de l'air
+déchet;mer;déchet de la mer
+tri;sélectif;tri sélectif
+recyclage;papier;recyclage du papier
+énergie;renouvelable;énergie renouvelable
+solaire;panneau;solaire du panneau
+éolien;parc;éolien du parc
+nucléaire;centrale;nucléaire de la centrale
+charbon;mine;charbon de la mine
+pétrole;puits;pétrole du puits
+gaz;oduc;gaz du gazoduc
+électricité;barrage;électricité du barrage
+lumière;ampoule;lumière de l'ampoule
+ombre;soleil;ombre du soleil
+nuit;jour;nuit du jour
+jour;nuit;jour de la nuit
+matin;soir;matin du soir
+soir;matin;soir du matin
+midi;minuit;midi à minuit
+heure;été;heure d'été
+minute;silence;minute de silence
+seconde;réflexion;seconde de réflexion
+instant;bonheur;instant de bonheur
+moment;vérité;moment de vérité
+éternité;amour;éternité de l'amour
+jamais;dire;jamais dire
+toujours;aimer;toujours aimer
+souvent;venir;souvent venir
+parfois;rire;parfois rire
+rarement;pleurer;rarement pleurer
+vite;courir;vite courir
+lentement;marcher;lentement marcher
+bien;faire;bien faire
+mal;agir;mal agir
+beaucoup;parler;beaucoup parler
+peu;écouter;peu écouter
+trop;manger;trop manger
+assez;boire;assez boire
+rien;dire;rien dire
+tout;savoir;tout savoir
+personne;voir;personne voir
+quelqu'un;attendre;quelqu'un attendre
+chacun;son;chacun son
+aucun;regret;aucun regret
+plusieurs;fois;plusieurs fois
+nombreux;amis;nombreux amis
+quelques;mots;quelques mots
+différents;avis;différents avis
+mêmes;goûts;mêmes goûts
+autres;gens;autres gens
+seul;monde;seul au monde
+ensemble;vivre;ensemble vivre
+groupe;rock;groupe de rock
+équipe;foot;équipe de foot
+foule;rue;foule de la rue
+peuple;terre;peuple de la terre
+nation;monde;nation du monde
+pays;loi;pays de la loi
+état;droit;état de droit
+ville;habitant;ville de l'habitant
+village;clocher;village du clocher
+maison;mur;maison de murs
+foyer;feu;foyer du feu
+famille;sang;famille du sang
+parent;enfant;parent de l'enfant
+ami;cœur;ami de cœur
+voisin;palier;voisin de palier
+étranger;pays;étranger du pays
+inconnu;bataillon;inconnu du bataillon
+invité;honneur;invité d'honneur
+hôte;maison;hôte de la maison
+visiteur;soir;visiteur du soir
+touriste;ville;touriste de la ville
+voyageur;train;voyageur du train
+passager;avion;passager de l'avion
+conducteur;bus;conducteur du bus
+pilote;course;pilote de course
+capitaine;navire;capitaine du navire
+chef;orchestre;chef d'orchestre
+patron;boîte;patron de la boîte
+employé;bureau;employé de bureau
+ouvrier;usine;ouvrier d'usine
+paysan;champ;paysan du champ
+artisan;atelier;artisan de l'atelier
+commerçant;boutique;commerçant de la boutique
+médecin;hôpital;médecin de l'hôpital
+avocat;barreau;avocat du barreau
+juge;tribunal;juge du tribunal
+policier;commissariat;policier du commissariat
+pompier;caserne;pompier de la caserne
+soldat;régiment;soldat du régiment
+prêtre;paroisse;prêtre de la paroisse
+professeur;école;professeur de l'école
+élève;classe;élève de la classe
+étudiant;fac;étudiant de la fac
+retraité;club;retraité du club
+chômeur;pôle;chômeur du pôle
+bénévole;asso;bénévole de l'asso
+militant;parti;militant du parti
+électeur;urne;électeur de l'urne
+candidat;poste;candidat au poste
+élu;peuple;élu du peuple
+ministre;état;ministre d'état
+président;république;président de la république
+roi;trône;roi du trône
+reine;bal;reine du bal
+prince;charmant;prince charmant
+princesse;pois;princesse au pois

@@ -1,0 +1,937 @@
+A;B;Phrase
+avocat;femme;avocat d'une femme
+chef;groupe;chef du groupe
+ami;Pierre;ami de Pierre
+frère;Jacques;frère de Jacques
+roi;France;roi de France
+président;république;président de la république
+maire;ville;maire de la ville
+voisin;palier;voisin de palier
+ennemi;état;ennemi de l'état
+allié;famille;allié de la famille
+rival;équipe;rival de l'équipe
+adversaire;joueur;adversaire du joueur
+partenaire;jeu;partenaire de jeu
+collègue;bureau;collègue de bureau
+camarade;classe;camarade de classe
+compagnon;route;compagnon de route
+époux;reine;époux de la reine
+femme;boulanger;femme du boulanger
+fils;voisin;fils du voisin
+fille;concierge;fille de la concierge
+père;famille;père de famille
+mère;enfant;mère de l'enfant
+oncle;Paul;oncle de Paul
+tante;Sophie;tante de Sophie
+cousin;marié;cousin du marié
+neveu;ministre;neveu du ministre
+grand-père;Heidi;grand-père de Heidi
+ancêtre;roi;ancêtre du roi
+descendant;prophète;descendant du prophète
+héritier;trône;héritier du trône
+successeur;directeur;successeur du directeur
+prédécesseur;maire;prédécesseur du maire
+assistant;magicien;assistant du magicien
+secrétaire;direction;secrétaire de direction
+adjoint;chef;adjoint du chef
+bras droit;parrain;bras droit du parrain
+disciple;maître;disciple du maître
+élève;professeur;élève du professeur
+mentor;stagiaire;mentor du stagiaire
+tuteur;orphelin;tuteur de l'orphelin
+gardien;phare;gardien du phare
+concierge;immeuble;concierge de l'immeuble
+gouvernante;enfants;gouvernante des enfants
+nounou;bébé;nounou du bébé
+valet;chambre;valet de chambre
+serviteur;roi;serviteur du roi
+esclave;maître;esclave du maître
+sujet;reine;sujet de la reine
+citoyen;monde;citoyen du monde
+habitant;quartier;habitant du quartier
+résident;immeuble;résident de l'immeuble
+membre;club;membre du club
+adhérent;parti;adhérent du parti
+fidèle;église;fidèle de l'église
+fan;chanteur;fan du chanteur
+admirateur;actrice;admirateur de l'actrice
+client;avocat;client de l'avocat
+patient;médecin;patient du médecin
+invité;honneur;invité d'honneur
+hôte;maison;hôte de la maison
+témoin;mariage;témoin du mariage
+parrain;filleul;parrain du filleul
+marraine;guerre;marraine de guerre
+fiancé;Julie;fiancé de Julie
+amant;femme;amant de la femme
+maîtresse;roi;maîtresse du roi
+veuve;capitaine;veuve du capitaine
+orphelin;guerre;orphelin de guerre
+bienfaiteur;humanité;bienfaiteur de l'humanité
+mécène;artistes;mécène des artistes
+guide;aveugle;guide de l'aveugle
+chef;orchestre;chef d'orchestre
+capitaine;équipe;capitaine de l'équipe
+pilote;formule 1;pilote de formule 1
+meneur;revue;meneur de revue
+leader;opinion;leader d'opinion
+patron;entreprise;patron de l'entreprise
+employé;mois;employé du mois
+salarié;usine;salarié de l'usine
+associé;cabinet;associé du cabinet
+fils;boulanger;fils du boulanger
+fille;voisine;fille de la voisine
+père;famille;père de famille
+mère;enfant;mère de l'enfant
+frère;arme;frère d'arme
+soeur;lait;soeur de lait
+oncle;amérique;oncle d'Amérique
+tante;bretagne;tante de Bretagne
+cousin;germain;cousin germain
+neveu;ministre;neveu du ministre
+nièce;directeur;nièce du directeur
+grand-père;heidi;grand-père de Heidi
+grand-mère;chaperon;grand-mère du chaperon
+petit-fils;roi;petit-fils du roi
+petite-fille;sorcière;petite-fille de la sorcière
+beau-père;cendrillon;beau-père de Cendrillon
+belle-mère;blanche-neige;belle-mère de Blanche-Neige
+gendre;idéal;gendre idéal
+bru;famille;bru de la famille
+beau-frère;mari;beau-frère du mari
+belle-soeur;femme;belle-soeur de la femme
+aîné;famille;aîné de la famille
+cadet;soucis;cadet de mes soucis
+benjamin;équipe;benjamin de l'équipe
+jumeau;frère;jumeau du frère
+ancêtre;gaulois;ancêtre gaulois
+descendant;roi;descendant du roi
+aïeul;famille;aïeul de la famille
+parrain;mafia;parrain de la mafia
+marraine;fée;marraine la fée
+filleul;baptême;filleul de baptême
+conjoint;survivant;conjoint survivant
+époux;reine;époux de la reine
+épouse;ambassadeur;épouse de l'ambassadeur
+mari;coiffeuse;mari de la coiffeuse
+femme;ménage;femme de ménage
+compagnon;route;compagnon de route
+concubin;notoire;concubin notoire
+fiancé;jeune fille;fiancé de la jeune fille
+amant;lady;amant de la lady
+maîtresse;maison;maîtresse de maison
+veuf;joyeux;veuf joyeux
+veuve;noire;veuve noire
+orphelin;guerre;orphelin de guerre
+pupille;nation;pupille de la nation
+tuteur;légal;tuteur légal
+curateur;biens;curateur des biens
+héritier;trône;héritier du trône
+successeur;patron;successeur du patron
+prédécesseur;poste;prédécesseur au poste
+ami;enfance;ami d'enfance
+copain;régiment;copain de régiment
+pote;bistrot;pote de bistrot
+camarade;classe;camarade de classe
+connaissance;train;connaissance de train
+relation;affaires;relation d'affaires
+contact;presse;contact de la presse
+voisin;palier;voisin de palier
+voisine;dessus;voisine du dessus
+habitant;quartier;habitant du quartier
+résident;immeuble;résident de l'immeuble
+locataire;appartement;locataire de l'appartement
+propriétaire;maison;propriétaire de la maison
+colocataire;chambre;colocataire de chambre
+hôte;maison;hôte de la maison
+invité;mariage;invité du mariage
+convive;banquet;convive du banquet
+visiteur;soir;visiteur du soir
+passager;clandestin;passager clandestin
+voyageur;commerce;voyageur de commerce
+touriste;japonais;touriste japonais
+étranger;pays;étranger au pays
+autochtone;île;autochtone de l'île
+indigène;forêt;indigène de la forêt
+citoyen;monde;citoyen du monde
+patriote;nation;patriote de la nation
+compatriote;exil;compatriote d'exil
+réfugié;politique;réfugié politique
+exilé;fiscal;exilé fiscal
+immigré;travail;immigré de travail
+sans-papiers;loi;sans-papiers face à la loi
+ennemi;public;ennemi public
+adversaire;politique;adversaire politique
+rival;amour;rival en amour
+concurrent;course;concurrent de la course
+opposant;régime;opposant au régime
+détracteur;projet;détracteur du projet
+critique;art;critique d'art
+censeur;lycée;censeur du lycée
+juge;paix;juge de paix
+arbitre;match;arbitre du match
+médiateur;conflit;médiateur du conflit
+négociateur;crise;négociateur de crise
+avocat;diable;avocat du diable
+défenseur;veuve;défenseur de la veuve
+procureur;république;procureur de la république
+accusé;procès;accusé du procès
+plaignant;affaire;plaignant de l'affaire
+témoin;jéhovah;témoin de Jéhovah
+suspect;numéro un;suspect numéro un
+coupable;crime;coupable du crime
+victime;mode;victime de la mode
+complice;vol;complice du vol
+malfaiteur;bande;malfaiteur de la bande
+criminel;guerre;criminel de guerre
+prisonnier;zenda;prisonnier de Zenda
+détenu;cellule;détenu de la cellule
+gardien;phare;gardien de phare
+geôlier;prison;geôlier de la prison
+bourreau;cœurs;bourreau des cœurs
+patron;boîte;patron de la boîte
+chef;service;chef de service
+directeur;école;directeur d'école
+manager;équipe;manager de l'équipe
+responsable;rayon;responsable de rayon
+supérieur;hiérarchique;supérieur hiérarchique
+subordonné;ordre;subordonné à l'ordre
+employé;banque;employé de banque
+salarié;usine;salarié de l'usine
+ouvrier;bâtiment;ouvrier du bâtiment
+cadre;supérieur;cadre supérieur
+fonctionnaire;état;fonctionnaire de l'état
+agent;secret;agent secret
+stagiaire;café;stagiaire au café
+apprenti;sorcier;apprenti sorcier
+compagnon;devoir;compagnon du devoir
+maître;conférence;maître de conférence
+disciple;léonard;disciple de Léonard
+élève;surdoué;élève surdoué
+étudiant;médecine;étudiant en médecine
+professeur;maths;professeur de maths
+enseignant;cherchant;enseignant chercheur
+instituteur;village;instituteur du village
+formateur;adulte;formateur d'adulte
+coach;sportif;coach sportif
+mentor;jeune;mentor du jeune
+guide;montagne;guide de montagne
+éclaireur;troupe;éclaireur de la troupe
+leader;groupe;leader du groupe
+meneur;jeu;meneur de jeu
+capitaine;équipe;capitaine de l'équipe
+pilote;avion;pilote d'avion
+commandant;bord;commandant de bord
+amiral;flotte;amiral de la flotte
+général;armée;général de l'armée
+colonel;régiment;colonel du régiment
+sergent;recruteur;sergent recruteur
+soldat;inconnu;soldat inconnu
+mercenaire;argent;mercenaire de l'argent
+guerrier;lumière;guerrier de la lumière
+chevalier;table ronde;chevalier de la table ronde
+écuyer;chevalier;écuyer du chevalier
+page;roi;page du roi
+valet;pied;valet de pied
+laquais;comédie;laquais de comédie
+domestique;maison;domestique de la maison
+servante;écarlate;servante écarlate
+bof;famille;bof de la famille
+soupirant;belle;soupirant de la belle
+prétendant;trône;prétendant au trône
+courtisan;roi;courtisan du roi
+favori;reine;favori de la reine
+chouchou;maîtresse;chouchou de la maîtresse
+bouc;émissaire;bouc émissaire
+souffre-douleur;classe;souffre-douleur de la classe
+tête;turc;tête de turc
+leader;opinion;leader d'opinion
+influenceur;réseau;influenceur du réseau
+follower;compte;follower du compte
+abonné;journal;abonné au journal
+lecteur;roman;lecteur du roman
+auditeur;radio;auditeur de la radio
+spectateur;stade;spectateur du stade
+public;concert;public du concert
+fan;chanteur;fan du chanteur
+groupie;star;groupie de la star
+idole;jeunes;idole des jeunes
+héros;roman;héros de roman
+personnage;principal;personnage principal
+figurant;film;figurant du film
+acteur;studio;acteur de studio
+comédien;théâtre;comédien de théâtre
+doublure;cascade;doublure de cascade
+partenaire;jeu;partenaire de jeu
+coéquipier;sport;coéquipier de sport
+associé;cabinet;associé du cabinet
+collaborateur;projet;collaborateur du projet
+collègue;bureau;collègue de bureau
+confrère;médecin;confrère médecin
+client;roi;client roi
+fournisseur;accès;fournisseur d'accès
+prestataire;service;prestataire de service
+commanditaire;crime;commanditaire du crime
+mécène;artiste;mécène de l'artiste
+bienfaiteur;humanité;bienfaiteur de l'humanité
+donateur;musée;donateur du musée
+membre;club;membre du club
+adhérent;parti;adhérent du parti
+sociétaire;comédie;sociétaire de la Comédie
+syndiqué;usine;syndiqué de l'usine
+militant;cause;militant de la cause
+activiste;écologie;activiste de l'écologie
+bénévole;association;bénévole de l'association
+président;république;président de la république
+ministre;intérieur;ministre de l'intérieur
+député;nation;député de la nation
+sénateur;romain;sénateur romain
+maire;village;maire du village
+conseiller;municipal;conseiller municipal
+préfet;région;préfet de région
+ambassadeur;france;ambassadeur de France
+consul;rome;consul de Rome
+diplomate;carrière;diplomate de carrière
+roi;soleil;roi soleil
+reine;angleterre;reine d'Angleterre
+prince;gall;prince de Galles
+princesse;monaco;princesse de Monaco
+duc;bourgogne;duc de Bourgogne
+comte;dracula;comte Dracula
+baron;drogue;baron de la drogue
+seigneur;anneaux;seigneur des anneaux
+vassal;suzerain;vassal du suzerain
+serf;moyen-âge;serf du moyen-âge
+esclave;pharaon;esclave du pharaon
+affranchi;maître;affranchi du maître
+pape;rome;pape de Rome
+cardinal;richelieu;cardinal Richelieu
+évêque;diocèse;évêque du diocèse
+prêtre;paroisse;prêtre de la paroisse
+curé;campagne;curé de campagne
+pasteur;église;pasteur de l'église
+rabbin;synagogue;rabbin de la synagogue
+imam;mosquée;imam de la mosquée
+moine;soldat;moine soldat
+nonne;couvent;nonne du couvent
+fidèle;messe;fidèle de la messe
+croyant;dieu;croyant en dieu
+athée;foi;athée sans foi
+païen;romain;païen romain
+hérétique;dogme;hérétique du dogme
+martyr;foi;martyr de la foi
+saint;patron;saint patron
+ange;gardien;ange gardien
+démon;midi;démon de midi
+diable;vauvert;diable de Vauvert
+gourou;secte;gourou de la secte
+adepte;yoga;adepte du yoga
+prophète;malheur;prophète de malheur
+messie;sauveur;messie sauveur
+docteur;loi;docteur de la loi
+savant;fou;savant fou
+expert;comptable;expert comptable
+spécialiste;question;spécialiste de la question
+technicien;surface;technicien de surface
+ingénieur;son;ingénieur du son
+architecte;univers;architecte de l'univers
+maçon;coeur;maçon du cœur
+plombier;polonais;plombier polonais
+électricien;bâtiment;électricien de bâtiment
+jardinier;dimanche;jardinier du dimanche
+boucher;villette;boucher de la Villette
+boulanger;quartier;boulanger du quartier
+épicier;coin;épicier du coin
+coiffeur;dames;coiffeur pour dames
+couturier;mode;couturier de mode
+tailleur;pierre;tailleur de pierre
+cordonnier;chaussée;cordonnier de la chaussée
+facteur;cheval;facteur Cheval
+pompier;service;pompier de service
+sauveteur;mer;sauveteur en mer
+médecin;famille;médecin de famille
+chirurgien;dentiste;chirurgien dentiste
+infirmier;bloc;infirmier de bloc
+pharmacien;garde;pharmacien de garde
+vétérinaire;zoo;vétérinaire du zoo
+banquier;privé;banquier privé
+assureur;vie;assureur vie
+notaire;famille;notaire de famille
+comptable;entreprise;comptable de l'entreprise
+secrétaire;direction;secrétaire de direction
+standardiste;accueil;standardiste de l'accueil
+livreur;pizza;livreur de pizza
+déménageur;piano;déménageur de piano
+éboueur;ville;éboueur de la ville
+balayeur;rue;balayeur de rue
+concierge;palace;concierge de palace
+réceptionniste;hôtel;réceptionniste d'hôtel
+bagagiste;aéroport;bagagiste d'aéroport
+douanier;frontière;douanier de la frontière
+contrôleur;train;contrôleur de train
+conducteur;bus;conducteur de bus
+chauffeur;taxi;chauffeur de taxi
+routier;sympa;routier sympa
+motard;police;motard de la police
+cycliste;dimanche;cycliste du dimanche
+piéton;passage;piéton du passage
+promeneur;chien;promeneur de chien
+chasseur;prime;chasseur de prime
+pêcheur;lune;pêcheur de lune
+agriculteur;amour;agriculteur de l'amour
+fermier;général;fermier général
+vigneron;indépendant;vigneron indépendant
+éleveur;champion;éleveur de champions
+berger;étoile;berger à l'étoile
+marin;eau douce;marin d'eau douce
+capitaine;fracasse;capitaine Fracasse
+matelot;navire;matelot du navire
+pirate;caraïbes;pirate des Caraïbes
+corsaire;roi;corsaire du roi
+bandit;chemin;bandit de grand chemin
+gangster;chicago;gangster de Chicago
+mafieux;famille;mafieux de la famille
+escroc;haut vol;escroc de haut vol
+voleur;poule;voleur de poules
+cambrioleur;gentleman;cambrioleur gentleman
+tueur;gages;tueur à gages
+espion;froid;espion qui venait du froid
+traître;patrie;traître à la patrie
+rebelle;cause;rebelle sans cause
+révolutionnaire;salon;révolutionnaire de salon
+anarchiste;bombe;anarchiste à la bombe
+terroriste;état;terroriste d'état
+otage;libération;otage de la libération
+négrier;bois;négrier de bois
+bourgeois;gentilhomme;bourgeois gentilhomme
+noble;épée;noble d'épée
+roturier;naissance;roturier de naissance
+paysan;paris;paysan de Paris
+citadin;souche;citadin de souche
+rural;monde;rural du monde
+banlieusard;train;banlieusard du train
+provincial;paris;provincial à Paris
+parisien;tête;parisien tête de chien
+breton;têtu;breton têtu
+corse;fier;corse fier
+basque;bondissant;basque bondissant
+alsacien;cigogne;alsacien à la cigogne
+cht'i;nord;cht'i du nord
+marseillais;vieux port;marseillais du vieux port
+lyonnais;bouchon;lyonnais de bouchon
+américain;paris;américain à Paris
+anglais;jardin;anglais de jardin
+allemand;est;allemand de l'est
+russe;blanc;russe blanc
+chinois;quartier;chinois du quartier
+japonais;touriste;japonais touriste
+indien;ville;indien de la ville
+cow-boy;solitaire;cow-boy solitaire
+indien;plaine;indien des plaines
+inuit;banquise;inuit de la banquise
+touareg;désert;touareg du désert
+bédouin;tente;bédouin sous la tente
+gitan;route;gitan de la route
+manouche;guitare;manouche à la guitare
+rom;camp;rom du camp
+sdf;métro;sdf du métro
+clochard;céleste;clochard céleste
+mendiant;église;mendiant de l'église
+vagabond;dame;vagabond et la dame
+routard;guide;routard du guide
+globe-trotter;monde;globe-trotter du monde
+aventurier;arche;aventurier de l'arche
+explorateur;pôle;explorateur du pôle
+navigateur;solitaire;navigateur solitaire
+astronaute;lune;astronaute sur la lune
+cosmonaute;russe;cosmonaute russe
+spationaute;français;spationaute français
+colon;mars;colon de Mars
+martien;petit;martien petit homme vert
+extraterrestre;maison;extraterrestre téléphone maison
+mutant;x-men;mutant x-men
+zombie;mort;zombie mort-vivant
+vampire;nuit;vampire de la nuit
+loup-garou;lune;loup-garou de la lune
+fantôme;opéra;fantôme de l'opéra
+esprit;forêt;esprit de la forêt
+fée;clochette;fée Clochette
+sorcière;balai;sorcière au balai
+magicien;oz;magicien d'Oz
+enchanteur;merlin;enchanteur Merlin
+devin;village;devin du village
+voyante;boule;voyante à la boule
+astrologue;étoiles;astrologue des étoiles
+médium;esprit;médium des esprits
+guérisseur;main;guérisseur aux mains nues
+rebouteux;os;rebouteux des os
+magnétiseur;fluide;magnétiseur de fluide
+hypnotiseur;spectacle;hypnotiseur de spectacle
+illusionniste;scène;illusionniste de scène
+prestidigitateur;lapin;prestidigitateur au lapin
+jongleur;mots;jongleur de mots
+acrobate;cirque;acrobate de cirque
+clown;triste;clown triste
+auguste;rouge;auguste au nez rouge
+dompteur;fauves;dompteur de fauves
+écuyère;panneau;écuyère à panneau
+trapéziste;volant;trapéziste volant
+funambule;fil;funambule sur le fil
+mime;marceau;mime Marceau
+marionnettiste;fil;marionnettiste à fils
+ventriloque;poupée;ventriloque et sa poupée
+conteur;histoire;conteur d'histoires
+poète;maudit;poète maudit
+écrivain;public;écrivain public
+romancier;succès;romancier à succès
+auteur;compositeur;auteur compositeur
+scénariste;film;scénariste du film
+dramaturge;pièce;dramaturge de la pièce
+essayiste;politique;essayiste politique
+journaliste;terrain;journaliste de terrain
+reporter;guerre;reporter de guerre
+correspondant;local;correspondant local
+paparazzi;star;paparazzi de star
+photographe;mode;photographe de mode
+cinéaste;nouvelle vague;cinéaste de la nouvelle vague
+réalisateur;film;réalisateur de film
+producteur;cinéma;producteur de cinéma
+éditeur;livre;éditeur de livres
+imprimeur;journal;imprimeur de journal
+libraire;ancien;libraire ancien
+bibliothécaire;ville;bibliothécaire de la ville
+archiviste;état;archiviste de l'état
+conservateur;musée;conservateur de musée
+guide;musée;guide de musée
+conférencier;histoire;conférencier en histoire
+traducteur;assermenté;traducteur assermenté
+interprète;conférence;interprète de conférence
+musicien;métro;musicien du métro
+pianiste;bar;pianiste de bar
+violoniste;toit;violoniste sur le toit
+guitarisle;rock;guitariste de rock
+batteur;groupe;batteur du groupe
+bassiste;ombre;bassiste dans l'ombre
+chanteur;charme;chanteur de charme
+crooner;américain;crooner américain
+diva;opéra;diva de l'opéra
+ténor;barreau;ténor du barreau
+soprano;colorature;soprano colorature
+danseur;étoile;danseur étoile
+ballerine;boîte;ballerine de boîte
+chorégraphe;ballet;chorégraphe de ballet
+peintre;dimanche;peintre du dimanche
+sculpteur;argile;sculpteur d'argile
+dessinateur;presse;dessinateur de presse
+illustrateur;jeunesse;illustrateur jeunesse
+graphiste;pub;graphiste de pub
+architecte;paysagiste;architecte paysagiste
+décorateur;intérieur;décorateur d'intérieur
+designer;mobilier;designer de mobilier
+styliste;mode;styliste de mode
+mannequin;podium;mannequin de podium
+modèle;nu;modèle vivant
+maquilleuse;cinéma;maquilleuse de cinéma
+coiffeur;studio;coiffeur de studio
+habilleuse;théâtre;habilleuse de théâtre
+régisseur;scène;régisseur de scène
+éclairagiste;spectacle;éclairagiste de spectacle
+sonorisateur;concert;sonorisateur de concert
+projectionniste;cabine;projectionniste de cabine
+ouvreuse;cinéma;ouvreuse de cinéma
+spectateur;rang;spectateur du premier rang
+auditeur;libre;auditeur libre
+téléspectateur;soir;téléspectateur du soir
+internaute;lambda;internaute lambda
+geek;informatique;geek d'informatique
+hacker;réseau;hacker de réseau
+troll;forum;troll de forum
+modérateur;site;modérateur de site
+administrateur;système;administrateur système
+développeur;web;développeur web
+webmaster;site;webmaster de site
+community;manager;community manager
+data;scientist;data scientist
+startuper;garage;startuper de garage
+entrepreneur;bâtiment;entrepreneur en bâtiment
+investisseur;risque;investisseur à risque
+actionnaire;majoritaire;actionnaire majoritaire
+boursier;état;boursier de l'état
+rentier;sol;rentier du sol
+héritier;fortune;héritier de fortune
+nouveau;riche;nouveau riche
+parvenu;société;parvenu de la société
+dandy;bohème;dandy bohème
+snob;mondain;snob mondain
+bobo;paris;bobo de Paris
+hipster;barbe;hipster à barbe
+punk;chien;punk à chien
+gothique;cimetière;gothique de cimetière
+hippie;fleur;hippie à fleurs
+baba;cool;baba cool
+yuppie;finance;yuppie de la finance
+golden;boy;golden boy
+cadre;dynamique;cadre dynamique
+retraité;actif;retraité actif
+senior;ville;senior de la ville
+junior;entreprise;junior entreprise
+mineur;fond;mineur de fond
+majeur;vacciné;majeur et vacciné
+adulte;responsable;adulte responsable
+adolescent;crise;adolescent en crise
+enfant;choeur;enfant de chœur
+bébé;éprouvette;bébé éprouvette
+nouveau-né;maternité;nouveau-né de la maternité
+prématuré;couveuse;prématuré en couveuse
+jumeau;monozygote;jumeau monozygote
+triplé;gagnant;triplé gagnant
+fils;unique;fils unique
+fille;aînée;fille aînée
+garçon;café;garçon de café
+fillette;modèle;fillette modèle
+gamin;paris;gamin de Paris
+gosse;riche;gosse de riche
+môme;piaf;môme Piaf
+bambin;jouet;bambin au jouet
+chérubin;tableau;chérubin de tableau
+angelot;ciel;angelot du ciel
+diablotin;boîte;diablotin en boîte
+garnement;école;garnement de l'école
+voyou;quartier;voyou du quartier
+racaille;banlieue;racaille de banlieue
+caïd;cité;caïd de la cité
+dealer;coin;dealer du coin
+guetteur;toit;guetteur sur le toit
+passeur;frontière;passeur de frontière
+clandestin;cale;clandestin de la cale
+sans-abri;carton;sans-abri sur le carton
+exclu;système;exclu du système
+marginal;société;marginal de la société
+ermite;montagne;ermite de la montagne
+ascète;désert;ascète du désert
+moine;trappiste;moine trappiste
+religieuse;hôpital;religieuse de l'hôpital
+missionnaire;afrique;missionnaire en Afrique
+pèlerin;compostelle;pèlerin de Compostelle
+croisé;terre sainte;croisé de terre sainte
+templier;ordre;templier de l'ordre
+hospitalier;malte;hospitalier de Malte
+franc-maçon;loge;franc-maçon de loge
+compagnon;tour;compagnon du tour
+membre;confrérie;membre de la confrérie
+chevalier;industrie;chevalier de l'industrie
+capitaine;industrie;capitaine d'industrie
+baron;acier;baron de l'acier
+roi;pétrole;roi du pétrole
+magnat;presse;magnat de la presse
+tycoon;finance;tycoon de la finance
+oligarque;russe;oligarque russe
+milliardaire;excentrique;milliardaire excentrique
+philanthrope;américain;philanthrope américain
+humaniste;renaissance;humaniste de la renaissance
+philosophe;lumières;philosophe des lumières
+sage;tribu;sage de la tribu
+ancien;village;ancien du village
+doyen;faculté;doyen de la faculté
+patriarche;famille;patriarche de la famille
+matriarche;clan;matriarche du clan
+chef;tribu;chef de tribu
+sachem;indien;sachem indien
+gourou;informatique;gourou de l'informatique
+maître;penser;maître à penser
+expert;tribunal;expert du tribunal
+spécialiste;mondial;spécialiste mondial
+référence;matière;référence en la matière
+autorité;domaine;autorité dans le domaine
+sommité;médicale;sommité médicale
+génie;méconnu;génie méconnu
+prodige;piano;prodige du piano
+surdoué;école;surdoué de l'école
+cancre;fond;cancre du fond
+fayot;classe;fayot de la classe
+brute;cour;brute de la cour
+victime;harcèlement;victime de harcèlement
+bouc;émissaire;bouc émissaire
+mouton;panurge;mouton de Panurge
+loup;bergerie;loup dans la bergerie
+renard;poulailler;renard dans le poulailler
+chat;souris;chat et la souris
+chien;chat;chien et chat
+poule;oeuf;poule et l'œuf
+aigle;azur;aigle de l'azur
+lion;jungle;lion de la jungle
+roi;animaux;roi des animaux
+reine;ruche;reine de la ruche
+ouvrière;abeille;ouvrière abeille
+bourdon;fleur;bourdon de la fleur
+cigale;fourmi;cigale et la fourmi
+lièvre;tortue;lièvre et la tortue
+corbeau;renard;corbeau et le renard
+rat;ville;rat de ville
+rat;champ;rat de champ
+souris;verte;souris verte
+loup;agneau;loup et l'agneau
+chèvre;chou;chèvre et le chou
+pigeon;voyageur;pigeon voyageur
+dindon;farce;dindon de la farce
+coq;village;coq du village
+poule;luxe;poule de luxe
+oie;blanche;oie blanche
+vache;lait;vache à lait
+veau;or;veau d'or
+mouton;noir;mouton noir
+brebis;galeuse;brebis galeuse
+ane;baté;âne bâté
+mule;pape;mule du pape
+cheval;troie;cheval de Troie
+étalon;italien;étalon italien
+jument;verte;jument verte
+poulain;écurie;poulain de l'écurie
+cochon;payeur;cochon de payeur
+truie;portée;truie et sa portée
+porc;épic;porc-épic
+sanglier;ardenne;sanglier des Ardennes
+cerf;forêt;cerf de la forêt
+biche;bois;biche aux abois
+faon;bambi;faon Bambi
+ours;mal léché;ours mal léché
+renard;surface;renard des surfaces
+loup;mer;loup de mer
+requin;finance;requin de la finance
+aigle;route;aigle de la route
+faucon;maltais;faucon maltais
+vautour;charogne;vautour de charogne
+rapace;nuit;rapace de nuit
+chouette;effraie;chouette effraie
+hibou;grand duc;hibou grand duc
+alouette;champ;alouette des champs
+hirondelle;printemps;hirondelle de printemps
+rossignol;milanais;rossignol milanais
+merle;moqueur;merle moqueur
+pie;voleuse;pie voleuse
+geai;chêne;geai des chênes
+corbeau;freux;corbeau freux
+moineau;paris;moineau de Paris
+pigeon;argile;pigeon d'argile
+tourterelle;bois;tourterelle des bois
+perroquet;pirate;perroquet du pirate
+cygne;noir;cygne noir
+canard;boiteux;canard boiteux
+oie;sauvage;oie sauvage
+dinde;noël;dinde de Noël
+chapon;réveillon;chapon de réveillon
+poulet;grain;poulet de grain
+coq;combat;coq de combat
+poule;mouillée;poule mouillée
+autruche;tête;autruche la tête dans le sable
+pingouin;banquise;pingouin de la banquise
+manchot;empereur;manchot empereur
+phoque;moine;phoque moine
+otarie;cirque;otarie de cirque
+morse;dent;morse aux dents
+baleine;bosse;baleine à bosse
+cachalot;blanc;cachalot blanc
+dauphin;bleu;dauphin bleu
+orque;épaulard;orque épaulard
+narval;licorne;narval licorne
+requin;marteau;requin marteau
+raie;manta;raie manta
+thon;rouge;thon rouge
+saumon;fumé;saumon fumé
+truite;rivière;truite de rivière
+brochet;étang;brochet d'étang
+carpe;koï;carpe koï
+poisson;chat;poisson chat
+anguille;roche;anguille sous roche
+murène;tropicale;murène tropicale
+hippocampe;cheval;hippocampe cheval marin
+étoile;mer;étoile de mer
+oursin;corse;oursin de Corse
+crabe;pince;crabe aux pinces
+homard;thermidor;homard thermidor
+langouste;cuba;langouste de Cuba
+crevette;grise;crevette grise
+gambas;planche;gambas à la plancha
+moule;frite;moule frite
+huître;cancale;huître de Cancale
+saint-jacques;coquille;Saint-Jacques en coquille
+escargot;bourgogne;escargot de Bourgogne
+limace;salade;limace de salade
+ver;terre;ver de terre
+chenille;papillon;chenille du papillon
+papillon;nuit;papillon de nuit
+abeille;miel;abeille à miel
+guêpe;taille;guêpe à taille fine
+frelon;asiatique;frelon asiatique
+fourmi;rouge;fourmi rouge
+cigale;été;cigale de l'été
+criquet;pèlerin;criquet pèlerin
+sauterelle;verte;sauterelle verte
+mante;religieuse;mante religieuse
+scarabée;doré;scarabée doré
+coccinelle;dieu;coccinelle bête à bon dieu
+mouche;coche;mouche du coche
+moustique;tigre;moustique tigre
+taon;cheval;taon de cheval
+poux;tête;poux de tête
+puce;chien;puce de chien
+tique;bois;tique des bois
+araignée;soir;araignée du soir
+scorpion;désert;scorpion du désert
+mille-pattes;chaussures;mille-pattes à chaussures
+serpent;lunettes;serpent à lunettes
+vipère;aspic;vipère aspic
+couleuvre;collier;couleuvre à collier
+python;royal;python royal
+boa;constrictor;boa constrictor
+anaconda;géant;anaconda géant
+crocodile;dandy;crocodile dandy
+alligator;mississippi;alligator du Mississippi
+lézard;soleil;lézard au soleil
+iguane;vert;iguane vert
+caméléon;couleur;caméléon de couleur
+tortue;géniale;tortue géniale
+grenouille;bœuf;grenouille qui se veut bœuf
+crapaud;prince;crapaud prince charmant
+salamandre;feu;salamandre de feu
+triton;crête;triton à crête
+dragon;komodo;dragon de Komodo
+monstre;lochness;monstre du Loch Ness
+yéti;himalaya;yéti de l'Himalaya
+bigfoot;forêt;bigfoot de la forêt
+chupacabra;chèvre;chupacabra des chèvres
+kraken;mer;kraken des mers
+licorne;légende;licorne de légende
+pégase;aile;pégase ailé
+phénix;cendre;phénix de ses cendres
+griffon;or;griffon d'or
+chimère;rêve;chimère de rêve
+centaure;flèche;centaure à l'arc
+syrène;chant;sirène au chant
+nain;jardin;nain de jardin
+géant;flandres;géant des Flandres
+ogre;enfant;ogre mangeur d'enfants
+troll;pont;troll sous le pont
+gobelin;mine;gobelin de la mine
+elfe;maison;elfe de maison
+fée;marraine;fée marraine
+sorcière;ouest;sorcière de l'ouest
+mage;noir;mage noir
+druide;panoramix;druide Panoramix
+barde;assurancetourix;barde Assurancetourix
+guerrier;conan;guerrier Conan
+barbare;nord;barbare du nord
+amazone;forêt;amazone de la forêt
+valkyrie;wagner;valkyrie de Wagner
+dieu;tonnerre;dieu du tonnerre
+déesse;amour;déesse de l'amour
+titan;ciel;titan du ciel
+cyclope;oeil;cyclope à l'œil
+minotaure;labyrinthe;minotaure du labyrinthe
+méduse;gorgone;méduse la gorgone
+pégase;cheval;pégase le cheval
+hercule;travaux;Hercule et ses travaux
+ulysse;voyage;Ulysse et son voyage
+achille;talon;Achille et son talon
+oedipe;roi;Œdipe roi
+antigone;rebelle;Antigone la rebelle
+prométhée;feu;Prométhée et le feu
+icare;soleil;Icare et le soleil
+narcisse;reflet;Narcisse et son reflet
+écho;voix;Écho et la voix
+orphée;enfer;Orphée aux enfers
+eurydice;ombre;Eurydice l'ombre
+roméo;juliette;Roméo et Juliette
+tristan;iseult;Tristan et Iseult
+lancelot;lac;Lancelot du Lac
+arthur;excalibur;Arthur et Excalibur
+merlin;enchanteur;Merlin l'enchanteur
+guenièvre;reine;Guenièvre la reine
+perceval;gallois;Perceval le Gallois
+galahad;graal;Galahad et le Graal
+robin;bois;Robin des Bois
+marianne;belle;Marianne la belle
+jean;petit;Jean Petit
+frère;tuck;Frère Tuck
+sherif;nottingham;Shérif de Nottingham
+zorro;renard;Zorro le renard
+bernardo;muet;Bernardo le muet
+sergent;garcia;Sergent Garcia
+don;quichotte;Don Quichotte
+sancho;panza;Sancho Panza
+dulcinée;toboso;Dulcinée du Toboso
+cyrano;bergerac;Cyrano de Bergerac
+roxane;précieuse;Roxane la précieuse
+christian;neuvillette;Christian de Neuvillette
+d'artagnan;gascon;D'Artagnan le Gascon
+athos;comte;Athos le comte
+porthos;baron;Porthos le baron
+aramis;abbé;Aramis l'abbé
+milady;winter;Milady de Winter
+richelieu;cardinal;Richelieu le cardinal
+louis;roi;Louis le roi
+anne;autriche;Anne d'Autriche
+mazarin;ministre;Mazarin le ministre
+fouquet;surintendant;Fouquet le surintendant
+colbert;ministre;Colbert le ministre
+louvois;guerre;Louvois à la guerre
+vauban;forteresse;Vauban et ses forteresses
+molière;théâtre;Molière et le théâtre
+racine;tragédie;Racine et la tragédie
+corneille;cid;Corneille et le Cid
+fontaine;fable;La Fontaine et ses fables
+perrault;conte;Perrault et ses contes
+voltaire;philosophe;Voltaire le philosophe
+rousseau;promeneur;Rousseau le promeneur
+diderot;encyclopédie;Diderot et l'encyclopédie
+montesquieu;loi;Montesquieu et la loi
+beaumarchais;figaro;Beaumarchais et Figaro
+hugo;misérables;Hugo et les Misérables
+balzac;comédie;Balzac et la Comédie
+zola;rougon;Zola et les Rougon
+flaubert;bovary;Flaubert et Bovary
+maupassant;nouvelle;Maupassant et la nouvelle
+stendhal;rouge;Stendhal le Rouge
+musset;enfant;Musset l'enfant du siècle
+sand;mare;Sand et la mare
+baudelaire;fleur;Baudelaire et les fleurs
+rimbaud;bateau;Rimbaud et le bateau
+verlaine;sanglot;Verlaine et le sanglot
+mallarmé;coup;Mallarmé et le coup de dés
+apollinaire;pont;Apollinaire sous le pont
+breton;surréalisme;Breton et le surréalisme
+aragon;elsa;Aragon et Elsa
+eluard;liberté;Eluard et la liberté
+prévert;inventaire;Prévert et son inventaire
+camus;étranger;Camus l'étranger
+sartre;nausée;Sartre et la nausée
+beauvoir;sexe;Beauvoir et le deuxième sexe
+duras;amant;Duras et l'amant
+colette;blé;Colette et le blé
+yourcenar;hadrien;Yourcenar et Hadrien
+sagan;bonjour;Sagan et bonjour tristesse
+modiano;rue;Modiano et la rue
+le clézio;désert;Le Clézio et le désert
+houellebecq;carte;Houellebecq et la carte
+nothomb;stupeur;Nothomb et stupeur
+pennac;malaussène;Pennac et Malaussène
+gavalda;ensemble;Gavalda ensemble
+levy;ombre;Levy et l'ombre
+musso;fille;Musso et la fille
+bussi;nymphéas;Bussi et les nymphéas
+thilliez;puzzle;Thilliez et le puzzle
+granger;rivières;Grangé et les rivières
+chattam;âme;Chattam et l'âme
+werber;fourmi;Werber et les fourmis
+barjavel;nuit;Barjavel et la nuit
+damasio;horde;Damasio et la horde
+proust;temps;Proust et le temps
+céline;voyage;Céline et le voyage
+vian;écume;Vian et l'écume
+queneau;zazie;Queneau et Zazie
+perec;disparition;Perec et la disparition
+gary;vie;Gary et la vie
+aajard;gros;Ajar et le gros câlin
+pagnol;gloire;Pagnol et la gloire
+giono;hussard;Giono et le hussard
+cocteau;belle;Cocteau et la belle

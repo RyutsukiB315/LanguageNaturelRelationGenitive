@@ -1,0 +1,1312 @@
+coque;bateau;coque du bateau
+écaille;poisson;écaille du poisson
+pied;chaise;pied de la chaise
+roue;voiture;roue de la voiture
+page;livre;page du livre
+toit;maison;toit de la maison
+branche;arbre;branche de l'arbre
+manche;couteau;manche du couteau
+pétale;fleur;pétale de la fleur
+aile;avion;aile de l'avion
+guidon;vélo;guidon du vélo
+touche;piano;touche de piano
+corde;guitare;corde de guitare
+anse;tasse;anse de la tasse
+cadran;montre;cadran de la montre
+écran;ordinateur;écran de l'ordinateur
+plume;oiseau;plume de l'oiseau
+crinière;lion;crinière du lion
+trompe;éléphant;trompe de l'éléphant
+nageoire;requin;nageoire du requin
+queue;chat;queue du chat
+bec;canard;bec du canard
+patte;chien;patte du chien
+griffe;tigre;griffe du tigre
+dossier;fauteuil;dossier du fauteuil
+tiroir;commode;tiroir de la commode
+marche;escalier;marche de l'escalier
+poignée;porte;poignée de la porte
+serrure;coffre;serrure du coffre
+goulot;bouteille;goulot de la bouteille
+bouchon;carafe;bouchon de la carafe
+lame;épée;lame de l'épée
+pointe;flèche;pointe de la flèche
+manche;balai;manche du balai
+poils;brosse;poils de la brosse
+dent;peigne;dent du peigne
+verre;lunettes;verre de lunettes
+aiguille;boussole;aiguille de la boussole
+cadran;horloge;cadran de l'horloge
+clocher;église;clocher de l'église
+donjon;château;donjon du château
+voile;navire;voile du navire
+hélice;hélicoptère;hélice de l'hélicoptère
+wagon;train;wagon du train
+pédale;bicyclette;pédale de la bicyclette
+selle;cheval;selle du cheval
+bouton;chemise;bouton de la chemise
+col;veste;col de la veste
+manche;pull;manche du pull
+lacet;chaussure;lacet de la chaussure
+talon;botte;talon de la botte
+verre;fenêtre;verre de la fenêtre
+tuile;toiture;tuile de la toiture
+brique;mur;brique du mur
+latte;parquet;latte du parquet
+rayon;roue;rayon de la roue
+guidon;moto;guidon de la moto
+phare;auto;phare de l'auto
+pare-chocs;camion;pare-chocs du camion
+rétroviseur;bus;rétroviseur du bus
+aile;moulin;aile du moulin
+écorce;tronc;écorce du tronc
+racine;plante;racine de la plante
+épine;rose;épine de la rose
+pépin;pomme;pépin de la pomme
+noyau;cerise;noyau de la cerise
+quartier;orange;quartier de l'orange
+peau;banane;peau de la banane
+croute;pain;croute du pain
+mie;pain;mie du pain
+jaune;oeuf;jaune de l'oeuf
+blanc;oeuf;blanc de l'oeuf
+chapitre;roman;chapitre du roman
+vers;poème;vers du poème
+scène;pièce;scène de la pièce
+titre;journal;titre du journal
+refrain;chanson;refrain de la chanson
+touche;clavier;touche du clavier
+souris;ordinateur;souris de l'ordinateur
+fil;téléphone;fil du téléphone
+pupille;oeil;pupille de l'oeil
+iris;regard;iris du regard
+cil;paupière;cil de la paupière
+sourcil;visage;sourcil du visage
+narine;nez;narine du nez
+lobe;oreille;lobe de l'oreille
+lèvre;bouche;lèvre de la bouche
+dent;mâchoire;dent de la mâchoire
+gencive;bouche;gencive de la bouche
+langue;palais;langue du palais
+menton;figure;menton de la figure
+joue;face;joue de la face
+tempe;crâne;tempe du crâne
+nuque;cou;nuque du cou
+pomme d'adam;gorge;pomme d'adam de la gorge
+épaule;buste;épaule du buste
+aisselle;bras;aisselle du bras
+coude;bras;coude du bras
+poignet;main;poignet de la main
+paume;main;paume de la main
+pouce;main;pouce de la main
+index;doigt;index du doigt
+ongle;doigt;ongle du doigt
+phalange;doigt;phalange du doigt
+nombril;ventre;nombril du ventre
+hanche;bassin;hanche du bassin
+fesse;derrière;fesse du derrière
+cuisse;jambe;cuisse de la jambe
+genou;jambe;genou de la jambe
+rotule;genou;rotule du genou
+mollet;jambe;mollet de la jambe
+cheville;pied;cheville du pied
+talon;pied;talon du pied
+orteil;pied;orteil du pied
+plante;pied;plante du pied
+aorte;coeur;aorte du coeur
+ventricule;coeur;ventricule du coeur
+lobe;foie;lobe du foie
+alvéole;poumon;alvéole du poumon
+neurone;cerveau;neurone du cerveau
+synapse;nerf;synapse du nerf
+globule;sang;globule du sang
+plaquette;sang;plaquette du sang
+plasma;sang;plasma du sang
+émail;dent;émail de la dent
+racine;dent;racine de la dent
+couronne;dent;couronne de la dent
+pore;peau;pore de la peau
+grain;beauté;grain de beauté
+tache;rousseur;tache de rousseur
+ride;front;ride du front
+fossette;joue;fossette de la joue
+vertèbre;colonne;vertèbre de la colonne
+côte;cage thoracique;côte de la cage thoracique
+clavicule;épaule;clavicule de l'épaule
+omoplate;dos;omoplate du dos
+fémur;cuisse;fémur de la cuisse
+tibia;jambe;tibia de la jambe
+crâne;squelette;crâne du squelette
+bassin;squelette;bassin du squelette
+moustache;chat;moustache du chat
+coussinet;patte;coussinet de la patte
+griffe;chat;griffe du chat
+queue;chien;queue du chien
+truffe;chien;truffe du chien
+oreille;lapin;oreille du lapin
+pompon;lapin;pompon du lapin
+crinière;cheval;crinière du cheval
+sabot;cheval;sabot du cheval
+garrot;cheval;garrot du cheval
+fianc;vache;flanc de la vache
+pis;vache;pis de la vache
+corne;taureau;corne du taureau
+groin;cochon;groin du cochon
+trompe;éléphant;trompe de l'éléphant
+défense;éléphant;défense de l'éléphant
+ivoire;défense;ivoire de la défense
+bosse;chameau;bosse du chameau
+cou;girafe;cou de la girafe
+rayure;zèbre;rayure du zèbre
+poche;kangourou;poche du kangourou
+plume;oiseau;plume de l'oiseau
+aile;aigle;aile de l'aigle
+bec;perroquet;bec du perroquet
+serre;rapace;serre du rapace
+crête;coq;crête du coq
+ergot;poule;ergot de la poule
+jabot;pigeon;jabot du pigeon
+duvet;canard;duvet du canard
+palme;oie;palme de l'oie
+écaille;poisson;écaille du poisson
+nageoire;dauphin;nageoire du dauphin
+ouïe;truite;ouïe de la truite
+arête;sardine;arête de la sardine
+tentacule;pieuvre;tentacule de la pieuvre
+ventouse;tentacule;ventouse du tentacule
+pince;crabe;pince du crabe
+carapace;tortue;carapace de la tortue
+coquille;escargot;coquille de l'escargot
+antenne;fourmi;antenne de la fourmi
+patte;araignée;patte de l'araignée
+dard;guêpe;dard de la guêpe
+aile;papillon;aile du papillon
+trompe;mouche;trompe de la mouche
+elytre;coccinelle;élytre de la coccinelle
+point;coccinelle;point de la coccinelle
+dard;scorpion;dard du scorpion
+sonnette;serpent;sonnette du serpent
+crochet;vipère;crochet de la vipère
+racine;arbre;racine de l'arbre
+tronc;chêne;tronc du chêne
+écorce;bouleau;écorce du bouleau
+branche;sapin;branche du sapin
+cime;pin;cime du pin
+aiguille;pin;aiguille du pin
+pomme;pin;pomme de pin
+feuille;érable;feuille de l'érable
+nervure;feuille;nervure de la feuille
+bourgeon;branche;bourgeon de la branche
+fleur;pommier;fleur du pommier
+pétale;rose;pétale de la rose
+épine;rose;épine de la rose
+tige;tulipe;tige de la tulipe
+pistil;fleur;pistil de la fleur
+étamine;fleur;étamine de la fleur
+pollen;fleur;pollen de la fleur
+calice;fleur;calice de la fleur
+sépale;fleur;sépale de la fleur
+graine;fruit;graine du fruit
+noyau;abricot;noyau de l'abricot
+pépin;raisin;pépin du raisin
+peau;pêche;peau de la pêche
+chair;fruit;chair du fruit
+zeste;citron;zeste du citron
+quartier;orange;quartier de l'orange
+pulpe;pamplemousse;pulpe du pamplemousse
+queue;cerise;queue de la cerise
+cosse;petit pois;cosse du petit pois
+gousse;ail;gousse d'ail
+tunique;oignon;tunique de l'oignon
+fane;radis;fane du radis
+épluchure;pomme de terre;épluchure de la pomme de terre
+oeil;pomme de terre;oeil de la pomme de terre
+pied;champignon;pied du champignon
+chapeau;champignon;chapeau du champignon
+lamelle;champignon;lamelle du champignon
+mycélium;sol;mycélium du sol
+mousse;rocher;mousse du rocher
+lichen;pierre;lichen de la pierre
+algue;mer;algue de la mer
+récif;corail;récif de corail
+sommet;montagne;sommet de la montagne
+pic;montagne;pic de la montagne
+flanc;colline;flanc de la colline
+pied;falaise;pied de la falaise
+crête;dune;crête de la dune
+cratère;volcan;cratère du volcan
+cheminée;volcan;cheminée du volcan
+rive;fleuve;rive du fleuve
+berges;rivière;berges de la rivière
+lit;ruisseau;lit du ruisseau
+source;torrent;source du torrent
+embouchure;fleuve;embouchure du fleuve
+delta;fleuve;delta du fleuve
+estuaire;fleuve;estuaire du fleuve
+méandre;rivière;méandre de la rivière
+boucle;seine;boucle de la Seine
+plage;île;plage de l'île
+côte;continent;côte du continent
+baie;littoral;baie du littoral
+cap;péninsule;cap de la péninsule
+isthme;terre;isthme de terre
+détroit;mer;détroit de la mer
+fond;océan;fond de l'océan
+surface;eau;surface de l'eau
+écume;vague;écume de la vague
+crête;vague;crête de la vague
+nuage;ciel;nuage du ciel
+rayon;soleil;rayon du soleil
+croissant;lune;croissant de lune
+face;lune;face de la lune
+anneau;saturne;anneau de Saturne
+tache;jupiter;tache de Jupiter
+queue;comète;queue de la comète
+constellation;galaxie;constellation de la galaxie
+étoile;voie lactée;étoile de la Voie Lactée
+roue;voiture;roue de la voiture
+pneu;roue;pneu de la roue
+jante;roue;jante de la roue
+enjoliveur;roue;enjoliveur de la roue
+valve;pneu;valve du pneu
+volant;voiture;volant de la voiture
+klaxon;volant;klaxon du volant
+tableau de bord;voiture;tableau de bord de la voiture
+compteur;vitesse;compteur de vitesse
+jauge;essence;jauge d'essence
+pédale;frein;pédale de frein
+levier;vitesse;levier de vitesse
+siège;passager;siège du passager
+banquette;arrière;banquette arrière
+ceinture;sécurité;ceinture de sécurité
+pare-brise;voiture;pare-brise de la voiture
+essuie-glace;pare-brise;essuie-glace du pare-brise
+rétroviseur;portière;rétroviseur de la portière
+phare;avant;phare avant
+clignotant;aile;clignotant de l'aile
+pare-chocs;arrière;pare-chocs arrière
+coffre;voiture;coffre de la voiture
+capot;moteur;capot du moteur
+bougie;moteur;bougie du moteur
+piston;moteur;piston du moteur
+carburateur;moteur;carburateur du moteur
+pot;échappement;pot d'échappement
+plaque;immatriculation;plaque d'immatriculation
+guidon;vélo;guidon du vélo
+selle;vélo;selle du vélo
+cadre;vélo;cadre du vélo
+fourche;vélo;fourche du vélo
+rayon;roue;rayon de la roue
+chaine;vélo;chaine du vélo
+pignon;vélo;pignon du vélo
+dérailleur;vélo;dérailleur du vélo
+patin;frein;patin de frein
+garde-boue;roue;garde-boue de la roue
+béquille;moto;béquille de la moto
+réservoir;moto;réservoir de la moto
+casque;motard;casque du motard
+visière;casque;visière du casque
+cockpit;avion;cockpit de l'avion
+fuselage;avion;fuselage de l'avion
+aile;avion;aile de l'avion
+réacteur;avion;réacteur de l'avion
+hélice;avion;hélice de l'avion
+train;atterrissage;train d'atterrissage
+hublot;cabine;hublot de la cabine
+boîte noire;avion;boîte noire de l'avion
+queue;avion;queue de l'avion
+gouvernail;avion;gouvernail de l'avion
+rotor;hélicoptère;rotor de l'hélicoptère
+pale;hélice;pale de l'hélice
+patin;hélicoptère;patin de l'hélicoptère
+coque;bateau;coque du bateau
+pont;navire;pont du navire
+mât;voilier;mât du voilier
+voile;mât;voile du mât
+bôme;mât;bôme du mât
+cordage;navire;cordage du navire
+ancre;bateau;ancre du bateau
+hélice;sous-marin;hélice du sous-marin
+périscope;sous-marin;périscope du sous-marin
+locomotive;train;locomotive du train
+wagon;train;wagon du train
+rail;chemin de fer;rail du chemin de fer
+caténaire;voie;caténaire de la voie
+quai;gare;quai de la gare
+toit;maison;toit de la maison
+tuile;toit;tuile du toit
+ardoise;toit;ardoise du toit
+cheminée;toit;cheminée du toit
+antenne;toit;antenne du toit
+gouttière;toit;gouttière du toit
+mur;maison;mur de la maison
+brique;mur;brique du mur
+parpaing;mur;parpaing du mur
+façade;immeuble;façade de l'immeuble
+balcon;façade;balcon de la façade
+fenêtre;mur;fenêtre du mur
+vitre;fenêtre;vitre de la fenêtre
+carreau;fenêtre;carreau de la fenêtre
+volet;fenêtre;volet de la fenêtre
+persienne;fenêtre;persienne de la fenêtre
+store;fenêtre;store de la fenêtre
+rebord;fenêtre;rebord de la fenêtre
+porte;entrée;porte d'entrée
+poignée;porte;poignée de la porte
+serrure;porte;serrure de la porte
+clé;serrure;clé de la serrure
+verrou;porte;verrou de la porte
+gond;porte;gond de la porte
+seuil;porte;seuil de la porte
+paillasson;entrée;paillasson de l'entrée
+sol;pièce;sol de la pièce
+plafond;pièce;plafond de la pièce
+plancher;étage;plancher de l'étage
+latte;parquet;latte du parquet
+carrelage;sol;carrelage du sol
+tapis;salon;tapis du salon
+moquette;chambre;moquette de la chambre
+plinthe;mur;plinthe du mur
+interrupteur;mur;interrupteur du mur
+prise;courant;prise de courant
+ampoule;lampe;ampoule de la lampe
+abat-jour;lampe;abat-jour de la lampe
+fil;lampe;fil de la lampe
+douille;ampoule;douille de l'ampoule
+escalier;immeuble;escalier de l'immeuble
+marche;escalier;marche de l'escalier
+rampe;escalier;rampe de l'escalier
+palier;étage;palier de l'étage
+ascenseur;immeuble;ascenseur de l'immeuble
+bouton;ascenseur;bouton de l'ascenseur
+clocher;église;clocher de l'église
+cloche;clocher;cloche du clocher
+nef;église;nef de l'église
+autel;choeur;autel du choeur
+vitrail;cathédrale;vitrail de la cathédrale
+rosace;façade;rosace de la façade
+crypte;basilique;crypte de la basilique
+donjon;château;donjon du château
+tour;rempart;tour du rempart
+pont-levis;château;pont-levis du château
+créneau;muraille;créneau de la muraille
+douves;château;douves du château
+chapiteau;colonne;chapiteau de la colonne
+fût;colonne;fût de la colonne
+socle;statue;socle de la statue
+pied;table;pied de la table
+plateau;table;plateau de la table
+nappe;table;nappe de la table
+dossier;chaise;dossier de la chaise
+assise;fauteuil;assise du fauteuil
+accoudoir;canapé;accoudoir du canapé
+coussin;sofa;coussin du sofa
+tiroir;bureau;tiroir du bureau
+poignée;tiroir;poignée du tiroir
+étagère;bibliothèque;étagère de la bibliothèque
+porte;armoire;porte de l'armoire
+penderie;placard;penderie du placard
+cintre;penderie;cintre de la penderie
+matelas;lit;matelas du lit
+sommier;lit;sommier du lit
+latte;sommier;latte du sommier
+tête;lit;tête de lit
+drap;lit;drap du lit
+couette;lit;couette du lit
+oreiller;lit;oreiller du lit
+taie;oreiller;taie d'oreiller
+cadran;horloge;cadran de l'horloge
+aiguille;pendule;aiguille de la pendule
+balancier;horloge;balancier de l'horloge
+écran;télévision;écran de télévision
+télécommande;télé;télécommande de la télé
+touche;télécommande;touche de la télécommande
+manche;casserole;manche de la casserole
+couvercle;marmite;couvercle de la marmite
+bec;verseur;bec verseur
+anse;tasse;anse de la tasse
+bord;assiette;bord de l'assiette
+dent;fourchette;dent de la fourchette
+lame;couteau;lame du couteau
+manche;cuillère;manche de la cuillère
+goulot;bouteille;goulot de la bouteille
+bouchon;liège;bouchon de liège
+étiquette;vin;étiquette du vin
+capsule;bière;capsule de la bière
+robinet;évier;robinet de l'évier
+bonde;lavabo;bonde du lavabo
+siphon;évier;siphon de l'évier
+pommeau;douche;pommeau de douche
+flexible;douche;flexible de douche
+rideau;douche;rideau de douche
+abattant;toilette;abattant de toilette
+chasse;eau;chasse d'eau
+cuvette;wc;cuvette des WC
+manche;balai;manche du balai
+poils;brosse;poils de la brosse
+sac;aspirateur;sac de l'aspirateur
+fil;fer;fil de fer
+mine;crayon;mine du crayon
+gomme;crayon;gomme du crayon
+bouchon;stylo;bouchon du stylo
+bille;stylo;bille du stylo
+plume;stylo;plume du stylo
+encre;cartouche;encre de la cartouche
+page;cahier;page du cahier
+marge;page;marge de la page
+ligne;page;ligne de la page
+spirale;carnet;spirale du carnet
+couverture;livre;couverture du livre
+dos;livre;dos du livre
+titre;livre;titre du livre
+chapitre;roman;chapitre du roman
+paragraphe;texte;paragraphe du texte
+phrase;texte;phrase du texte
+mot;phrase;mot de la phrase
+syllabe;mot;syllabe du mot
+lettre;mot;lettre du mot
+voyelle;alphabet;voyelle de l'alphabet
+consonne;alphabet;consonne de l'alphabet
+rime;poème;rime du poème
+strophe;poème;strophe du poème
+vers;poème;vers du poème
+acte;pièce;acte de la pièce
+scène;théâtre;scène de théâtre
+rideau;scène;rideau de la scène
+coulisse;théâtre;coulisse du théâtre
+écran;ordinateur;écran de l'ordinateur
+clavier;ordinateur;clavier de l'ordinateur
+touche;clavier;touche du clavier
+souris;ordinateur;souris de l'ordinateur
+molette;souris;molette de la souris
+câble;alimentation;câble d'alimentation
+batterie;portable;batterie du portable
+chargeur;téléphone;chargeur de téléphone
+carte;mère;carte mère
+disque;dur;disque dur
+puce;électronique;puce électronique
+lentille;caméra;lentille de la caméra
+objectif;appareil photo;objectif de l'appareil photo
+flash;appareil;flash de l'appareil
+déclencheur;photo;déclencheur de la photo
+zoom;objectif;zoom de l'objectif
+bouton;radio;bouton de la radio
+antenne;wifi;antenne wifi
+haut-parleur;enceinte;haut-parleur de l'enceinte
+micro;téléphone;micro du téléphone
+écouteur;casque;écouteur du casque
+archet;violon;archet du violon
+corde;guitare;corde de la guitare
+manche;guitare;manche de la guitare
+caisse;résonance;caisse de résonance
+touche;piano;touche du piano
+pédale;piano;pédale du piano
+bec;saxophone;bec du saxophone
+embouchure;trompette;embouchure de la trompette
+piston;trompette;piston de la trompette
+peau;tambour;peau du tambour
+baguette;batterie;baguette de la batterie
+col;chemise;col de la chemise
+manche;chemise;manche de la chemise
+poignet;chemise;poignet de la chemise
+bouton;gilet;bouton du gilet
+boutonnière;veste;boutonnière de la veste
+poche;pantalon;poche du pantalon
+braguette;pantalon;braguette du pantalon
+ceinture;pantalon;ceinture du pantalon
+passant;ceinture;passant de ceinture
+boucle;ceinture;boucle de ceinture
+ourlet;jupe;ourlet de la jupe
+doublure;manteau;doublure du manteau
+capuche;anorak;capuche de l'anorak
+fermeture;éclair;fermeture éclair
+curseur;zip;curseur du zip
+velcro;basket;velcro de la basket
+lacet;chaussure;lacet de la chaussure
+semelle;botte;semelle de la botte
+talon;escarpin;talon de l'escarpin
+tige;botte;tige de la botte
+languette;tennis;languette de tennis
+monture;lunettes;monture de lunettes
+branche;lunettes;branche de lunettes
+verre;lunettes;verre de lunettes
+cadran;montre;cadran de la montre
+bracelet;montre;bracelet de la montre
+fermoir;collier;fermoir du collier
+perle;collier;perle du collier
+médaille;chaîne;médaille de la chaîne
+chaton;bague;chaton de la bague
+diamant;bague;diamant de la bague
+anse;sac;anse du sac
+bandoulière;sac;bandoulière du sac
+armature;parapluie;armature du parapluie
+manche;parapluie;manche du parapluie
+toile;tente;toile de la tente
+sardine;tente;sardine de la tente
+arceau;tente;arceau de la tente
+filet;raquette;filet de la raquette
+manche;raquette;manche de la raquette
+balle;match;balle de match
+poteau;but;poteau de but
+barre;transversale;barre transversale
+filet;but;filet de but
+crampon;chaussure;crampon de chaussure
+maillot;équipe;maillot de l'équipe
+dossard;coureur;dossard du coureur
+peloton;course;peloton de la course
+étape;tour;étape du tour
+manche;jeu;manche du jeu
+pion;échiquier;pion de l'échiquier
+case;damier;case du damier
+carte;jeu;carte du jeu
+atout;manche;atout de la manche
+as;coeur;as de cœur
+face;dé;face du dé
+point;dé;point du dé
+pièce;puzzle;pièce du puzzle
+brique;lego;brique de Lego
+rail;circuit;rail du circuit
+wagon;train électrique;wagon du train électrique
+barreau;échelle;barreau de l'échelle
+marche;escabeau;marche de l'escabeau
+lame;scie;lame de la scie
+dent;scie;dent de la scie
+manche;marteau;manche du marteau
+tête;clou;tête du clou
+pointe;clou;pointe du clou
+fente;vis;fente de la vis
+pas;vis;pas de la vis
+mors;étau;mors de l'étau
+poignée;tournevis;poignée du tournevis
+lame;rabot;lame du rabot
+mèche;perceuse;mèche de la perceuse
+mandrin;perceuse;mandrin de la perceuse
+interrupteur;perceuse;interrupteur de la perceuse
+rallonge;câble;rallonge du câble
+prise;rallonge;prise de la rallonge
+fusible;compteur;fusible du compteur
+disjoncteur;tableau;disjoncteur du tableau
+joint;robinet;joint du robinet
+flotteur;chasse;flotteur de la chasse
+tuile;toiture;tuile de la toiture
+faîte;toit;faîte du toit
+solive;plancher;solive du plancher
+poutre;charpente;poutre de la charpente
+chevron;toit;chevron du toit
+liteau;toit;liteau du toit
+fondation;maison;fondation de la maison
+dalle;béton;dalle de béton
+moellon;mur;moellon du mur
+crépi;façade;crépi de la façade
+enduit;mur;enduit du mur
+papier;peint;papier peint
+lé;tapisserie;lé de tapisserie
+motif;tissu;motif du tissu
+fibre;tissu;fibre du tissu
+fil;couture;fil de couture
+aiguille;tricot;aiguille de tricot
+maille;filet;maille du filet
+noeud;cravate;noeud de cravate
+boucle;ruban;boucle du ruban
+frange;tapis;frange du tapis
+gland;rideau;gland du rideau
+anneau;rideau;anneau du rideau
+tringle;rideau;tringle à rideau
+lame;store;lame du store
+cordon;store;cordon du store
+barreau;chaise;barreau de chaise
+pied;lit;pied de lit
+tête;lit;tête de lit
+sommier;lit;sommier du lit
+matelas;lit;matelas du lit
+drap;housse;drap housse
+housse;couette;housse de couette
+taie;traversin;taie de traversin
+plume;oreiller;plume d'oreiller
+duvet;couette;duvet de couette
+laine;matelas;laine de matelas
+ressort;sommier;ressort de sommier
+latte;sommier;latte de sommier
+cadre;lit;cadre de lit
+roulette;lit;roulette de lit
+tiroir;lit;tiroir de lit
+tête;vis;tête de vis
+tige;boulon;tige de boulon
+écrou;boulon;écrou du boulon
+rondelle;vis;rondelle de vis
+cheville;mur;cheville du mur
+piton;plafond;piton du plafond
+crochet;porte-manteau;crochet du porte-manteau
+patère;mur;patère du mur
+tête;épingle;tête d'épingle
+chas;aiguille;chas de l'aiguille
+pointe;aiguille;pointe de l'aiguille
+bobine;fil;bobine de fil
+canette;machine;canette de machine
+pédale;machine à coudre;pédale de la machine à coudre
+plateau;balance;plateau de la balance
+aiguille;balance;aiguille de la balance
+poids;balance;poids de la balance
+fléau;balance;fléau de la balance
+globe;lampe;globe de la lampe
+mèche;bougie;mèche de la bougie
+cire;bougie;cire de la bougie
+flamme;bougie;flamme de la bougie
+foyer;cheminée;foyer de la cheminée
+âtre;cheminée;âtre de la cheminée
+manteau;cheminée;manteau de la cheminée
+conduit;cheminée;conduit de la cheminée
+trappe;cheminée;trappe de la cheminée
+chenet;cheminée;chenet de la cheminée
+bûche;feu;bûche du feu
+cendre;feu;cendre du feu
+braise;feu;braise du feu
+étincelle;feu;étincelle du feu
+fumée;feu;fumée du feu
+suie;conduit;suie du conduit
+bistre;cheminée;bistre de la cheminée
+poignée;valise;poignée de la valise
+roulette;valise;roulette de la valise
+serrure;valise;serrure de la valise
+sangle;sac;sangle du sac
+poche;sac;poche du sac
+fermeture;sac;fermeture du sac
+rabat;sac;rabat du sac
+fond;sac;fond du sac
+étiquette;bagage;étiquette de bagage
+sangle;guitare;sangle de la guitare
+mécanique;guitare;mécanique de la guitare
+sillet;guitare;sillet de la guitare
+frette;guitare;frette de la guitare
+rosace;guitare;rosace de la guitare
+chevalet;violon;chevalet du violon
+ouïe;violon;ouïe du violon
+mentonnière;violon;mentonnière du violon
+cordier;violon;cordier du violon
+pavillon;trompette;pavillon de la trompette
+coulisse;trombone;coulisse du trombone
+clavier;accordéon;clavier de l'accordéon
+soufflet;accordéon;soufflet de l'accordéon
+bretelle;accordéon;bretelle de l'accordéon
+anche;clarinette;anche de la clarinette
+corps;flûte;corps de la flûte
+trou;flûte;trou de la flûte
+embouchure;flûte;embouchure de la flûte
+baguette;chef;baguette du chef
+pupitre;musicien;pupitre du musicien
+partition;pupitre;partition sur le pupitre
+mesure;partition;mesure de la partition
+portée;partition;portée de la partition
+clé;sol;clé de sol
+bémol;note;bémol de la note
+dièse;note;dièse de la note
+soupir;partition;soupir de la partition
+point;orgue;point d'orgue
+barre;mesure;barre de mesure
+renvoi;bas de page;renvoi de bas de page
+astérisque;texte;astérisque du texte
+guillemet;citation;guillemet de citation
+parenthèse;phrase;parenthèse de la phrase
+virgule;phrase;virgule de la phrase
+point;phrase;point de la phrase
+point;interrogation;point d'interrogation
+accent;mot;accent du mot
+cédille;ç;cédille du ç
+trait;union;trait d'union
+apostrophe;mot;apostrophe du mot
+espace;mots;espace entre les mots
+marge;cahier;marge du cahier
+en-tête;lettre;en-tête de la lettre
+formule;politesse;formule de politesse
+signature;lettre;signature de la lettre
+post-scriptum;lettre;post-scriptum de la lettre
+adresse;enveloppe;adresse sur l'enveloppe
+timbre;enveloppe;timbre sur l'enveloppe
+cachet;poste;cachet de la poste
+rabat;enveloppe;rabat de l'enveloppe
+colle;timbre;colle du timbre
+dentelure;timbre;dentelure du timbre
+filigrane;billet;filigrane du billet
+bande;magnétique;bande magnétique
+puce;carte;puce de la carte
+code;carte;code de la carte
+numéro;compte;numéro de compte
+rib;banque;rib de la banque
+iban;compte;iban du compte
+bic;banque;bic de la banque
+logo;marque;logo de la marque
+slogan;publicité;slogan de la publicité
+jingle;pub;jingle de la pub
+bannière;site;bannière du site
+menu;site;menu du site
+lien;page;lien de la page
+bouton;page;bouton de la page
+barre;défilement;barre de défilement
+curseur;écran;curseur de l'écran
+icône;bureau;icône du bureau
+fenêtre;logiciel;fenêtre du logiciel
+onglet;navigateur;onglet du navigateur
+barre;tâches;barre des tâches
+fond;écran;fond d'écran
+corbeille;ordinateur;corbeille de l'ordinateur
+dossier;fichier;dossier de fichiers
+fichier;dossier;fichier du dossier
+extension;fichier;extension du fichier
+octet;mémoire;octet de mémoire
+bit;donnée;bit de donnée
+pixel;image;pixel de l'image
+résolution;écran;résolution de l'écran
+luminosité;écran;luminosité de l'écran
+contraste;image;contraste de l'image
+volume;son;volume du son
+basses;musique;basses de la musique
+aigus;son;aigus du son
+fréquence;radio;fréquence de la radio
+onde;radio;onde radio
+signal;wifi;signal wifi
+réseau;mobile;réseau mobile
+barre;réseau;barre de réseau
+puce;téléphone;puce du téléphone
+carte;sim;carte SIM
+coque;téléphone;coque du téléphone
+écran;tactile;écran tactile
+objectif;selfie;objectif à selfie
+flash;téléphone;flash du téléphone
+vibreur;téléphone;vibreur du téléphone
+sonnerie;téléphone;sonnerie du téléphone
+répertoire;contact;répertoire de contacts
+journal;appel;journal d'appels
+messagerie;vocal;messagerie vocale
+boîte;mail;boîte mail
+spam;boîte;spam de la boîte
+pièce;jointe;pièce jointe
+objet;mail;objet du mail
+corps;mail;corps du mail
+signature;mail;signature du mail
+serveur;réseau;serveur du réseau
+cloud;internet;cloud d'internet
+modem;box;modem de la box
+routeur;wifi;routeur wifi
+câble;ethernet;câble ethernet
+fibre;optique;fibre optique
+prise;téléphone;prise de téléphone
+filtre;adsl;filtre adsl
+borne;wifi;borne wifi
+hotspot;public;hotspot public
+code;wifi;code wifi
+mot;passe;mot de passe
+identifiant;compte;identifiant de compte
+login;connexion;login de connexion
+profil;utilisateur;profil utilisateur
+avatar;profil;avatar du profil
+pseudo;jeu;pseudo du jeu
+niveau;jeu;niveau du jeu
+score;partie;score de la partie
+vie;personnage;vie du personnage
+barre;vie;barre de vie
+inventaire;jeu;inventaire du jeu
+carte;monde;carte du monde
+mission;jeu;mission du jeu
+quête;héros;quête du héros
+boss;niveau;boss de niveau
+générique;fin;générique de fin
+crédits;film;crédits du film
+bêtisier;tournage;bêtisier du tournage
+scène;coupée;scène coupée
+bonus;dvd;bonus du DVD
+jaquette;blu-ray;jaquette du Blu-ray
+boîtier;disque;boîtier du disque
+disque;vinyle;disque vinyle
+sillon;disque;sillon du disque
+label;disque;label du disque
+face;disque;face du disque
+piste;album;piste de l'album
+morceau;album;morceau de l'album
+intro;chanson;intro de la chanson
+couplet;chanson;couplet de la chanson
+refrain;chanson;refrain de la chanson
+pont;chanson;pont de la chanson
+solo;guitare;solo de guitare
+outro;chanson;outro de la chanson
+paroles;chanson;paroles de la chanson
+livret;album;livret de l'album
+affiche;tournée;affiche de la tournée
+billet;concert;billet de concert
+fosse;salle;fosse de la salle
+gradin;stade;gradin du stade
+loge;théâtre;loge de théâtre
+balcon;opéra;balcon de l'opéra
+orchestre;salle;orchestre de la salle
+poulailler;théâtre;poulailler du théâtre
+lustre;opéra;lustre de l'opéra
+foyer;théâtre;foyer du théâtre
+vestiaire;salle;vestiaire de la salle
+bar;entracte;bar de l'entracte
+ticket;vestiaire;ticket de vestiaire
+pourboire;ouvreuse;pourboire de l'ouvreuse
+programme;spectacle;programme du spectacle
+critique;pièce;critique de la pièce
+entracte;spectacle;entracte du spectacle
+appel;téléphonique;appel téléphonique
+coup;fil;coup de fil
+tonalité;téléphone;tonalité du téléphone
+bip;répondeur;bip du répondeur
+message;vocal;message vocal
+numéro;masqué;numéro masqué
+indicatif;pays;indicatif du pays
+préfixe;région;préfixe de la région
+annuaire;abonné;annuaire des abonnés
+pages;jaunes;pages jaunes
+renseignement;téléphonique;renseignement téléphonique
+facture;téléphone;facture de téléphone
+forfait;mobile;forfait mobile
+crédit;communication;crédit de communication
+recharge;carte;recharge de carte
+borne;appel;borne d'appel
+cabine;téléphonique;cabine téléphonique
+combiné;téléphone;combiné du téléphone
+cadran;téléphone;cadran du téléphone
+fil;téléphone;fil du téléphone
+écouteur;téléphone;écouteur du téléphone
+micro;téléphone;micro du téléphone
+touche;étoile;touche étoile
+touche;dièse;touche dièse
+touche;bis;touche bis
+cloche;sonnerie;cloche de sonnerie
+vibreur;poche;vibreur dans la poche
+mode;silencieux;mode silencieux
+avion;mode;avion mode
+données;mobiles;données mobiles
+itinérance;données;itinérance des données
+géolocalisation;gps;géolocalisation GPS
+point;intérêt;point d'intérêt
+destination;gps;destination du GPS
+voix;guidage;voix du guidage
+carte;sd;carte SD
+mémoire;interne;mémoire interne
+processeur;smartphone;processeur du smartphone
+ram;mémoire;ram de la mémoire
+capteur;empreinte;capteur d'empreinte
+reconnaissance;faciale;reconnaissance faciale
+verre;trempé;verre trempé
+film;protection;film de protection
+stylet;tablette;stylet de la tablette
+dock;charge;dock de charge
+station;accueil;station d'accueil
+enceinte;bluetooth;enceinte bluetooth
+casque;audio;casque audio
+arceau;casque;arceau du casque
+coussinet;casque;coussinet du casque
+prise;jack;prise jack
+câble;audio;câble audio
+adaptateur;prise;adaptateur de prise
+multiprise;secteur;multiprise secteur
+interrupteur;multiprise;interrupteur de la multiprise
+terre;prise;terre de la prise
+fusible;prise;fusible de la prise
+disjoncteur;différentiel;disjoncteur différentiel
+compteur;électrique;compteur électrique
+relevé;compteur;relevé du compteur
+index;consommation;index de consommation
+heure;creuse;heure creuse
+heure;pleine;heure pleine
+facture;edf;facture EDF
+abonnement;électricité;abonnement d'électricité
+coupure;courant;coupure de courant
+panne;secteur;panne de secteur
+réseau;électrique;réseau électrique
+pylône;haute tension;pylône haute tension
+ligne;tension;ligne de tension
+transformateur;quartier;transformateur de quartier
+centrale;nucléaire;centrale nucléaire
+réacteur;centrale;réacteur de la centrale
+cheminée;usine;cheminée d'usine
+turbine;barrage;turbine de barrage
+vanne;barrage;vanne de barrage
+retenue;eau;retenue d'eau
+lac;barrage;lac de barrage
+éolienne;pale;éolienne à pale
+mât;éolienne;mât de l'éolienne
+nacelle;éolienne;nacelle de l'éolienne
+panneau;solaire;panneau solaire
+cellule;photovoltaïque;cellule photovoltaïque
+onduleur;solaire;onduleur solaire
+batterie;stockage;batterie de stockage
+pompe;chaleur;pompe à chaleur
+unité;extérieure;unité extérieure
+split;clim;split de clim
+télécommande;clim;télécommande de clim
+thermostat;chauffage;thermostat du chauffage
+radiateur;fonte;radiateur en fonte
+robinet;thermostatique;robinet thermostatique
+chaudière;gaz;chaudière à gaz
+brûleur;chaudière;brûleur de la chaudière
+veilleuse;chauffe-eau;veilleuse du chauffe-eau
+ballon;eau chaude;ballon d'eau chaude
+groupe;sécurité;groupe de sécurité
+vase;expansion;vase d'expansion
+circulateur;chauffage;circulateur de chauffage
+purgeur;radiateur;purgeur de radiateur
+poêle;bois;poêle à bois
+vitre;insert;vitre de l'insert
+cendrier;poêle;cendrier du poêle
+buse;fumée;buse de fumée
+conduit;inox;conduit en inox
+chapeau;cheminée;chapeau de cheminée
+souche;toit;souche de toit
+solin;étanchéité;solin d'étanchéité
+tuile;faîtière;tuile faîtière
+closoir;toiture;closoir de toiture
+écran;sous-toiture;écran de sous-toiture
+isolation;combles;isolation des combles
+laine;verre;laine de verre
+pare-vapeur;isolant;pare-vapeur de l'isolant
+placo;mur;placo du mur
+rail;cloison;rail de cloison
+montant;métallique;montant métallique
+vis;placo;vis à placo
+bande;joint;bande à joint
+enduit;lissage;enduit de lissage
+peinture;plafond;peinture de plafond
+couche;apprêt;couche d'apprêt
+rouleau;peinture;rouleau de peinture
+pinceau;rechampir;pinceau à rechampir
+camion;peintre;camion de peintre
+grille;essorage;grille d'essorage
+bâche;protection;bâche de protection
+ruban;masquage;ruban de masquage
+white;spirit;white spirit
+solvant;peinture;solvant de peinture
+diluant;vernis;diluant de vernis
+durcisseur;résine;durcisseur de résine
+catalyseur;colle;catalyseur de colle
+cartouche;silicone;cartouche de silicone
+pistolet;extrudeur;pistolet extrudeur
+buse;canule;buse de canule
+joint;carrelage;joint de carrelage
+croisillon;carreleur;croisillon de carreleur
+colle;carrelage;colle à carrelage
+peigne;colle;peigne à colle
+batte;carreleur;batte de carreleur
+maillet;caoutchouc;maillet en caoutchouc
+niveau;bulle;niveau à bulle
+mètre;ruban;mètre ruban
+crayon;maçon;crayon de maçon
+fil;plomb;fil à plomb
+cordeau;traceur;cordeau traceur
+poudre;bleue;poudre bleue
+règle;maçon;règle de maçon
+truelle;lissante;truelle lissante
+taloche;plastique;taloche en plastique
+auge;gâche;auge de gâche
+sac;ciment;sac de ciment
+sable;rivière;sable de rivière
+gravier;béton;gravier à béton
+bétonnière;chantier;bétonnière de chantier
+cuve;bétonnière;cuve de la bétonnière
+moteur;électrique;moteur électrique
+courroie;transmission;courroie de transmission
+poulie;moteur;poulie du moteur
+engrenage;réducteur;engrenage du réducteur
+roulement;bille;roulement à bille
+axe;rotation;axe de rotation
+goupille;sécurité;goupille de sécurité
+clavette;arbre;clavette de l'arbre
+circlip;axe;circlip de l'axe
+rondelle;frein;rondelle frein
+écrou;papillon;écrou papillon
+boulon;poêlier;boulon poêlier
+vis;aggloméré;vis aggloméré
+tête;fraisée;tête fraisée
+empreinte;cruciforme;empreinte cruciforme
+pointe;clou;pointe du clou
+tête;homme;tête de l'homme
+tête;clou;tête plate du clou
+tige;clou;tige du clou
+agrafe;pistolet;agrafe de pistolet
+rivet;pop;rivet pop
+pince;riveter;pince à riveter
+foret;métal;foret à métal
+meule;disqueuse;meule de disqueuse
+disque;diamant;disque diamant
+papier;verre;papier de verre
+cale;poncer;cale à poncer
+ponceuse;vibrante;ponceuse vibrante
+sac;poussière;sac à poussière
+scie;sauteuse;scie sauteuse
+lame;bois;lame à bois
+guide;parallèle;guide parallèle
+semelle;scie;semelle de la scie
+variateur;vitesse;variateur de vitesse
+bouton;blocage;bouton de blocage
+charbon;moteur;charbon du moteur
+collecteur;induit;collecteur de l'induit
+bobine;stator;bobine du stator
+aimant;rotor;aimant du rotor
+cage;roulement;cage de roulement
+bille;acier;bille d'acier
+graisse;mécanique;graisse mécanique
+huile;moteur;huile moteur
+bidon;huile;bidon d'huile
+entonnoir;plastique;entonnoir en plastique
+chiffon;gras;chiffon gras
+établi;atelier;établi d'atelier
+étau;mors;étau à mors
+enclume;forgeron;enclume de forgeron
+marteau;piqueur;marteau piqueur
+burin;plat;burin plat
+bédane;menuisier;bédane de menuisier
+ciseau;bois;ciseau à bois
+maillet;bois;maillet en bois
+rabot;électrique;rabot électrique
+fer;rabot;fer de rabot
+varlope;menuisier;varlope de menuisier
+vilebrequin;ancien;vilebrequin ancien
+chignole;main;chignole à main
+tarière;bois;tarière à bois
+vrille;main;vrille à main
+tournevis;testeur;tournevis testeur
+pince;coupante;pince coupante
+tenaille;russe;tenaille russe
+clé;molette;clé à molette
+clé;allen;clé allen
+clé;pipe;clé à pipe
+clé;plate;clé plate
+douille;cliquet;douille de cliquet
+barre;force;barre de force
+rallonge;clé;rallonge de clé
+cardan;clé;cardan de clé
+cric;hydraulique;cric hydraulique
+chandelle;voiture;chandelle de voiture
+rampe;levage;rampe de levage
+pont;garage;pont de garage
+fosse;vidange;fosse de vidange
+bac;huile;bac à huile
+filtre;huile;filtre à huile
+filtre;air;filtre à air
+filtre;habitacle;filtre d'habitacle
+filtre;gazole;filtre à gazole
+pompe;injection;pompe à injection
+injecteur;diesel;injecteur diesel
+bougie;préchauffage;bougie de préchauffage
+batterie;voiture;batterie de voiture
+cosse;batterie;cosse de batterie
+câble;démarrage;câble de démarrage
+pince;croco;pince croco
+alternateur;voiture;alternateur de voiture
+démarreur;moteur;démarreur de moteur
+courroie;distribution;courroie de distribution
+galet;tendeur;galet tendeur
+pompe;eau;pompe à eau
+radiateur;moteur;radiateur moteur
+ventilateur;radiateur;ventilateur de radiateur
+sonde;température;sonde de température
+calorstat;circuit;calorstat du circuit
+durite;caoutchouc;durite en caoutchouc
+collier;serrage;collier de serrage
+liquide;refroidissement;liquide de refroidissement
+bocal;expansion;bocal d'expansion
+bouchon;radiateur;bouchon de radiateur
+joint;culasse;joint de culasse
+culasse;moteur;culasse du moteur
+soupape;admission;soupape d'admission
+soupape;échappement;soupape d'échappement
+ressort;soupape;ressort de soupape
+arbre;cames;arbre à cames
+poussoir;hydraulique;poussoir hydraulique
+bielle;piston;bielle de piston
+coussinet;bielle;coussinet de bielle
+vilebrequin;moteur;vilebrequin du moteur
+volant;moteur;volant moteur
+embrayage;disque;embrayage à disque
+butée;embrayage;butée d'embrayage
+boîte;vitesse;boîte de vitesse
+pignon;boîte;pignon de boîte
+synchro;boîte;synchro de boîte
+fourchette;boîte;fourchette de boîte
+levier;vitesse;levier de vitesse
+pommeau;levier;pommeau de levier
+soufflet;levier;soufflet de levier
+arbre;transmission;arbre de transmission
+flector;transmission;flector de transmission
+pont;arrière;pont arrière
+différentiel;pont;différentiel de pont
+cardan;roue;cardan de roue
+soufflet;cardan;soufflet de cardan
+moyeu;roue;moyeu de roue
+roulement;roue;roulement de roue
+disque;frein;disque de frein
+étrier;frein;étrier de frein
+plaquette;frein;plaquette de frein
+tambour;frein;tambour de frein
+mâchoire;frein;mâchoire de frein
+cylindre;roue;cylindre de roue
+maître-cylindre;frein;maître-cylindre de frein
+servo-frein;mastervac;servo-frein mastervac
+pédale;frein;pédale de frein
+contacteur;feux;contacteur de feux
+câble;frein à main;câble de frein à main
+levier;frein à main;levier de frein à main
+jante;alu;jante alu
+pneu;neige;pneu neige
+chambre;air;chambre à air
+valve;schrader;valve schrader
+bouchon;valve;bouchon de valve
+enjoliveur;plastique;enjoliveur plastique
+écrou;roue;écrou de roue
+goujon;roue;goujon de roue
+antivol;roue;antivol de roue
+amortisseur;gaz;amortisseur à gaz
+ressort;suspension;ressort de suspension
+coupelle;amortisseur;coupelle d'amortisseur
+triangle;suspension;triangle de suspension
+rotule;direction;rotule de direction
+biellette;direction;biellette de direction
+crémaillère;direction;crémaillère de direction
+colonne;direction;colonne de direction
+volant;sport;volant sport
+airbag;conducteur;airbag conducteur
+comodo;phare;comodo de phare
+klaxon;avertisseur;klaxon avertisseur
+neiman;clé;neiman à clé
+clé;contact;clé de contact
+télécommande;verrouillage;télécommande de verrouillage
+pile;télécommande;pile de télécommande
+poignée;porte;poignée de porte
+barillet;serrure;barillet de serrure
+loquet;porte;loquet de porte
+lève-vitre;électrique;lève-vitre électrique
+moteur;lève-vitre;moteur de lève-vitre
+vitre;teintée;vitre teintée
+joint;porte;joint de porte
+rétroviseur;électrique;rétroviseur électrique
+miroir;rétroviseur;miroir de rétroviseur
+coque;rétroviseur;coque de rétroviseur
+clignotant;répétiteur;clignotant répétiteur
+aile;avant;aile avant
+pare-chocs;peint;pare-chocs peint
+calandre;chrome;calandre chromée
+logo;capot;logo de capot
+phare;xénon;phare xénon
+ampoule;h7;ampoule H7
+antibrouillard;avant;antibrouillard avant
+plaque;immatriculation;plaque d'immatriculation
+essuie-glace;balai;essuie-glace balai
+bras;essuie-glace;bras d'essuie-glace
+moteur;essuie-glace;moteur d'essuie-glace
+bocal;lave-glace;bocal de lave-glace
+pompe;lave-glace;pompe de lave-glace
+gicleur;capot;gicleur de capot
+pare-brise;chauffant;pare-brise chauffant
+joint;pare-brise;joint de pare-brise
+toit;ouvrant;toit ouvrant
+antenne;requin;antenne requin
+galerie;toit;galerie de toit
+coffre;toit;coffre de toit
+barre;toit;barre de toit
+hayon;arrière;hayon arrière
+vérin;coffre;vérin de coffre
+serrure;coffre;serrure de coffre
+feu;arrière;feu arrière
+feu;stop;feu stop
+feu;recul;feu de recul
+catadioptre;rouge;catadioptre rouge
+attelage;remorque;attelage de remorque
+boule;attelage;boule d'attelage
+prise;remorque;prise de remorque
+roue;secours;roue de secours
+galette;secours;galette de secours
+cric;bord;cric de bord
+manivelle;cric;manivelle de cric
+anneau;remorquage;anneau de remorquage
+gilet;jaune;gilet jaune
+triangle;signalisation;triangle de signalisation
+trousse;secours;trousse de secours
+extincteur;poudre;extincteur à poudre
+constat;amiable;constat amiable
+stylo;bille;stylo bille
+papier;carbone;papier carbone
+carte;grise;carte grise
+assurance;auto;assurance auto
+vignette;contrôle;vignette de contrôle
+permis;conduire;permis de conduire
+points;permis;points de permis
+radar;vitesse;radar de vitesse
+pv;excès;pv d'excès
+amende;forfaitaire;amende forfaitaire
+tribunal;police;tribunal de police
+juge;proximité;juge de proximité
+avocat;défense;avocat de la défense
+plaignant;victime;plaignant victime
+témoin;accident;témoin de l'accident
+expert;assurance;expert d'assurance
+garage;réparation;garage de réparation
+facture;garage;facture de garage
+devis;réparation;devis de réparation
+ordre;réparation;ordre de réparation
+clé;atelier;clé d'atelier
+pont;élévateur;pont élévateur
+compresseur;air;compresseur d'air
+pistolet;peinture;pistolet à peinture
+cabine;peinture;cabine de peinture
+marbre;carrossier;marbre de carrossier
+redressage;châssis;redressage de châssis
+mastic;carrosserie;mastic de carrosserie
+apprêt;peinture;apprêt de peinture
+vernis;finition;vernis de finition
+polish;lustrage;polish de lustrage
+chiffon;microfibre;chiffon microfibre
+peau;chamois;peau de chamois
+éponge;lavage;éponge de lavage
+shampoing;auto;shampoing auto
+seau;eau;seau d'eau
+jet;haute pression;jet haute pression
+rouleau;lavage;rouleau de lavage
+aspirateur;station;aspirateur de station
+gonfleur;pneu;gonfleur de pneu
+manomètre;pression;manomètre de pression
+pistolet;pompe;pistolet de pompe
+ticket;essence;ticket d'essence
+carte;carburant;carte carburant
+borne;paiement;borne de paiement
+caisse;station;caisse de la station
+café;distributeur;café de distributeur
+sandwich;triangle;sandwich triangle
+autoroute;vacances;autoroute des vacances
+péage;ticket;péage à ticket
+télépéage;badge;télépéage par badge
+barrière;péage;barrière de péage
+aire;repos;aire de repos
+toilettes;autoroute;toilettes d'autoroute
+table;pique-nique;table de pique-nique
+poubelle;tri;poubelle de tri
+camion;routier;camion de routier
+cabine;camion;cabine de camion
+couchette;routier;couchette de routier
+tachygraphie;disque;tachygraphe à disque
+remorque;semi;remorque de semi
+bâche;camion;bâche de camion
+citerne;camion;citerne de camion
+benne;camion;benne de camion
+grue;camion;grue de camion
+toupie;béton;toupie à béton
+goulotte;béton;goulotte à béton
+godet;pelle;godet de pelle
+chenille;bulldozer;chenille de bulldozer
+lame;chasse-neige;lame de chasse-neige
+gyrophare;orange;gyrophare orange
+sirène;ambulance;sirène d'ambulance
+civière;ambulance;civière d'ambulance
+brancard;pompier;brancard de pompier
+échelle;grande;échelle de la grande
+lance;incendie;lance d'incendie
+tuyau;pompier;tuyau de pompier
+dévidoir;tuyau;dévidoir de tuyau
+citerne;pompier;citerne de pompier
+casque;pompier;casque de pompier
+veste;feu;veste de feu
+bottes;pompier;bottes de pompier
+bip;urgence;bip d'urgence
+radio;secours;radio de secours
+central;appel;central d'appel
+standard;police;standard de police

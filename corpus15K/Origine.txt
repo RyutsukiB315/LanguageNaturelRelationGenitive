@@ -1,0 +1,1077 @@
+A;B;Phrase
+vin;France;vin de France
+café;Brésil;café du Brésil
+tapis;Orient;tapis d'Orient
+savon;Marseille;savon de Marseille
+tulipe;Hollande;tulipe de Hollande
+mode;Italie;mode d'Italie
+cigare;Havane;cigare de la Havane
+parfum;Grasse;parfum de Grasse
+soie;Lyon;soie de Lyon
+dentelle;Calais;dentelle de Calais
+porcelaine;Limoges;porcelaine de Limoges
+moutarde;Dijon;moutarde de Dijon
+nougat;Montélimar;nougat de Montélimar
+bêtise;Cambrai;bêtise de Cambrai
+pruneau;Agen;pruneau d'Agen
+rillettes;Mans;rillettes du Mans
+saucisse;Francfort;saucisse de Francfort
+jambon;Parme;jambon de Parme
+fromage;Chèvre;fromage de Chèvre
+bière;Belgique;bière de Belgique
+whisky;Écosse;whisky d'Écosse
+vodka;Russie;vodka de Russie
+thé;Chine;thé de Chine
+sirop;Érable;sirop d'érable
+sucre;Cannes;sucre de cannes
+sel;Guérande;sel de Guérande
+piment;Espelette;piment d'Espelette
+vanille;Madagascar;vanille de Madagascar
+cacao;Côte d'Ivoire;cacao de Côte d'Ivoire
+or;Pérou;or du Pérou
+argent;Argentine;argent d'Argentine
+cuivre;Chili;cuivre du Chili
+pétrole;Texas;pétrole du Texas
+gaz;Sibérie;gaz de Sibérie
+charbon;Ruhr;charbon de la Ruhr
+acier;Lorraine;acier de Lorraine
+bois;Ébène;bois d'ébène
+cèdre;Liban;cèdre du Liban
+pin;Landes;pin des Landes
+chêne;Liège;chêne de Liège
+olivier;Provence;olivier de Provence
+lavande;Provence;lavande de Provence
+herbes;Provence;herbes de Provence
+fleur;lys;fleur de lys
+blé;Beauce;blé de la Beauce
+riz;Camargue;riz de Camargue
+huître;Marennes;huître de Marennes
+moule;Bouchot;moule de Bouchot
+saumon;Norvège;saumon de Norvège
+morue;Terre-Neuve;morue de Terre-Neuve
+canard;Sud-Ouest;canard du Sud-Ouest
+poule;Bresse;poule de Bresse
+boeuf;Kobe;boeuf de Kobe
+cheval;Camargue;cheval de Camargue
+chien;Terre-Neuve;chien de Terre-Neuve
+chat;Siam;chat du Siam
+tigre;Sibérie;tigre de Sibérie
+aigle;Rome;aigle de Rome
+chouette;Minerve;chouette de Minerve
+valse;Vienne;valse de Vienne
+théâtre;Boulevard;théâtre de boulevard
+cinéma;Hollywood;cinéma d'Hollywood
+western;Spaghetti;western spaghetti
+cuisine;Terroir;cuisine du terroir
+folklore;Bretagne;folklore de Bretagne
+légende;Arthur;légende d'Arthur
+mythologie;Grèce;mythologie de Grèce
+dieux;Olympe;dieux de l'Olympe
+oracle;Delphes;oracle de Delphes
+momie;Égypte;momie d'Égypte
+vase;Soissons;vase de Soissons
+tapisserie;Bayeux;tapisserie de Bayeux
+tour;Londres;tour de Londres
+mur;Berlin;mur de Berlin
+or;Rhin;or du Rhin
+trésor;Templiers;trésor des Templiers
+secret;Polichinelle;secret de Polichinelle
+noix;Coco;noix de coco
+gomme;Arabique;gomme arabique
+encre;Chine;encre de Chine
+vin;Bordeaux;vin de Bordeaux
+vin;Bourgogne;vin de Bourgogne
+vin;Alsace;vin d'Alsace
+vin;Loire;vin de la Loire
+vin;Rhône;vin du Rhône
+vin;Savoie;vin de Savoie
+vin;Jura;vin du Jura
+vin;Provence;vin de Provence
+vin;Languedoc;vin du Languedoc
+vin;Corse;vin de Corse
+vin;Californie;vin de Californie
+vin;Chili;vin du Chili
+vin;Australie;vin d'Australie
+vin;Tokay;vin de Tokay
+champagne;Reims;champagne de Reims
+champagne;Épernay;champagne d'Épernay
+crémant;Alsace;crémant d'Alsace
+crémant;Bourgogne;crémant de Bourgogne
+cidre;Normandie;cidre de Normandie
+cidre;Bretagne;cidre de Bretagne
+poiré;Domfront;poiré de Domfront
+bière;Belgique;bière de Belgique
+bière;Allemagne;bière d'Allemagne
+bière;Irlande;bière d'Irlande
+bière;Abbaye;bière d'Abbaye
+bière;Trappiste;bière Trappiste
+whisky;Écosse;whisky d'Écosse
+whisky;Irlande;whisky d'Irlande
+whisky;Japon;whisky du Japon
+bourbon;Kentucky;bourbon du Kentucky
+vodka;Pologne;vodka de Pologne
+vodka;Russie;vodka de Russie
+tequila;Mexique;tequila du Mexique
+rhum;Martinique;rhum de Martinique
+rhum;Guadeloupe;rhum de Guadeloupe
+rhum;Cuba;rhum de Cuba
+rhum;Réunion;rhum de la Réunion
+cognac;Charente;cognac de Charente
+armagnac;Gascogne;armagnac de Gascogne
+calvados;Normandie;calvados de Normandie
+gin;Londres;gin de Londres
+porto;Portugal;porto du Portugal
+madère;Portugal;madère du Portugal
+xérès;Espagne;xérès d'Espagne
+marsala;Sicile;marsala de Sicile
+sake;Japon;saké du Japon
+thé;Chine;thé de Chine
+thé;Inde;thé d'Inde
+thé;Ceylan;thé de Ceylan
+thé;Darjeeling;thé de Darjeeling
+thé;Assam;thé d'Assam
+thé;Japon;thé du Japon
+matcha;Kyoto;matcha de Kyoto
+yerba;Maté;yerba maté
+rooibos;Afrique du Sud;rooibos d'Afrique du Sud
+café;Colombie;café de Colombie
+café;Brésil;café du Brésil
+café;Éthiopie;café d'Éthiopie
+café;Guatemala;café du Guatemala
+café;Costa Rica;café du Costa Rica
+café;Jamaïque;café de la Jamaïque
+cacao;Côte d'Ivoire;cacao de Côte d'Ivoire
+cacao;Ghana;cacao du Ghana
+cacao;Équateur;cacao d'Équateur
+chocolat;Suisse;chocolat de Suisse
+chocolat;Belgique;chocolat de Belgique
+vanille;Madagascar;vanille de Madagascar
+vanille;Tahiti;vanille de Tahiti
+vanille;Bourbon;vanille Bourbon
+poivre;Sichuan;poivre du Sichuan
+poivre;Kampot;poivre de Kampot
+poivre;Penja;poivre de Penja
+poivre;Cayenne;poivre de Cayenne
+sel;Guérande;sel de Guérande
+sel;Himalaya;sel de l'Himalaya
+sel;Camargue;sel de Camargue
+fleur;sel;fleur de sel
+moutarde;Dijon;moutarde de Dijon
+moutarde;Meaux;moutarde de Meaux
+vinaigre;Modène;vinaigre de Modène
+vinaigre;Xérès;vinaigre de Xérès
+huile;Provence;huile de Provence
+huile;Grèce;huile de Grèce
+huile;Toscane;huile de Toscane
+huile;Noix;huile de noix
+huile;Colza;huile de colza
+huile;Sésame;huile de sésame
+safran;Iran;safran d'Iran
+safran;Gâtinais;safran du Gâtinais
+piment;Espelette;piment d'Espelette
+paprika;Hongrie;paprika de Hongrie
+curry;Madras;curry de Madras
+cannelle;Ceylan;cannelle de Ceylan
+fromage;Hollande;fromage de Hollande
+fromage;Suisse;fromage de Suisse
+camembert;Normandie;camembert de Normandie
+brie;Meaux;brie de Meaux
+brie;Melun;brie de Melun
+roquefort;Aveyron;roquefort de l'Aveyron
+comté;Jura;comté du Jura
+gruyère;Fribourg;gruyère de Fribourg
+emmental;Savoie;emmental de Savoie
+beaufort;Savoie;beaufort de Savoie
+reblochon;Savoie;reblochon de Savoie
+abondance;Savoie;abondance de Savoie
+tomme;Savoie;tomme de Savoie
+cantal;Auvergne;cantal d'Auvergne
+salers;Auvergne;salers d'Auvergne
+saint-nectaire;Auvergne;saint-nectaire d'Auvergne
+bleu;Auvergne;bleu d'Auvergne
+fourme;Ambert;fourme d'Ambert
+munster;Alsace;munster d'Alsace
+maroilles;Thiérache;maroilles de la Thiérache
+ossau-iraty;Pyrénées;ossau-iraty des Pyrénées
+picodon;Drôme;picodon de la Drôme
+pelardon;Cévennes;pélardon des Cévennes
+cabécou;Rocamadour;cabécou de Rocamadour
+chabichou;Poitou;chabichou du Poitou
+sainte-maure;Touraine;sainte-maure de Touraine
+crottin;Chavignol;crottin de Chavignol
+époisses;Bourgogne;époisses de Bourgogne
+langres;Champagne;langres de Champagne
+livarot;Normandie;livarot de Normandie
+pont-l'évêque;Normandie;pont-l'évêque de Normandie
+neufchâtel;Normandie;neufchâtel de Normandie
+morbier;Jura;morbier du Jura
+mont;d'Or;mont d'Or
+raclette;Valais;raclette du Valais
+tête;Moine;tête de Moine
+vacherin;Mont-d'Or;vacherin du Mont-d'Or
+appenzeller;Suisse;appenzeller de Suisse
+stilton;Angleterre;stilton d'Angleterre
+cheddar;Somerset;cheddar du Somerset
+parmesan;Italie;parmesan d'Italie
+gorgonzola;Italie;gorgonzola d'Italie
+mozzarella;Campanie;mozzarella de Campanie
+ricotta;Italie;ricotta d'Italie
+pecorino;Romano;pecorino Romano
+feta;Grèce;feta de Grèce
+halloumi;Chypre;halloumi de Chypre
+manchego;Espagne;manchego d'Espagne
+gouda;Hollande;gouda de Hollande
+edam;Hollande;edam de Hollande
+mimolette;Lille;mimolette de Lille
+crème;Isigny;crème d'Isigny
+beurre;Charentes;beurre des Charentes
+beurre;Echiré;beurre d'Echiré
+jambon;Bayonne;jambon de Bayonne
+jambon;Parme;jambon de Parme
+jambon;Serrano;jambon Serrano
+jambon;Iberico;jambon Iberico
+jambon;Aoste;jambon d'Aoste
+jambon;Westphalie;jambon de Westphalie
+jambon;York;jambon d'York
+jambon;Paris;jambon de Paris
+saucisse;Francfort;saucisse de Francfort
+saucisse;Strasbourg;saucisse de Strasbourg
+saucisse;Toulouse;saucisse de Toulouse
+saucisse;Morteau;saucisse de Morteau
+saucisse;Montbéliard;saucisse de Montbéliard
+saucisson;Lyon;saucisson de Lyon
+saucisson;Arles;saucisson d'Arles
+chorizo;Espagne;chorizo d'Espagne
+salami;Milan;salami de Milan
+mortadelle;Bologne;mortadelle de Bologne
+coppa;Corse;coppa de Corse
+figatellu;Corse;figatellu de Corse
+andouille;Guémené;andouille de Guémené
+andouillette;Troyes;andouillette de Troyes
+boudin;Antilles;boudin des Antilles
+rillettes;Mans;rillettes du Mans
+foie;Strasbourg;foie gras de Strasbourg
+tripes;Caen;tripes de Caen
+cassoulet;Castelnaudary;cassoulet de Castelnaudary
+choucroute;Alsace;choucroute d'Alsace
+bouillabaisse;Marseille;bouillabaisse de Marseille
+ratatouille;Nice;ratatouille de Nice
+salade;Nice;salade de Nice
+quiche;Lorraine;quiche de Lorraine
+potée;Auvergne;potée d'Auvergne
+aligot;Aubrac;aligot de l'Aubrac
+crêpe;Bretagne;crêpe de Bretagne
+galette;Sarrasin;galette de Sarrasin
+kouign-amann;Douarnenez;kouign-amann de Douarnenez
+far;Bretagne;far de Bretagne
+gaufre;Liège;gaufre de Liège
+gaufre;Bruxelles;gaufre de Bruxelles
+macaron;Nancy;macaron de Nancy
+macaron;Amiens;macaron d'Amiens
+bêtise;Cambrai;bêtise de Cambrai
+nougat;Montélimar;nougat de Montélimar
+calisson;Aix;calisson d'Aix
+berlingot;Carpentras;berlingot de Carpentras
+violette;Toulouse;violette de Toulouse
+praline;Montargis;praline de Montargis
+dragée;Verdun;dragée de Verdun
+pastille;Vichy;pastille de Vichy
+biscuit;Reims;biscuit de Reims
+madeleine;Commercy;madeleine de Commercy
+canelé;Bordeaux;cannelé de Bordeaux
+tarte;Tatin;tarte Tatin
+tarte;Tropezienne;tarte de Saint-Tropez
+paris;Brest;paris-brest
+saint;Honoré;saint-honoré
+forêt;Noire;forêt noire
+pudding;Angleterre;pudding d'Angleterre
+tiramisu;Italie;tiramisu d'Italie
+panettone;Milan;panettone de Milan
+gaspacho;Andalousie;gaspacho d'Andalousie
+paella;Valence;paella de Valence
+pizza;Naples;pizza de Naples
+pâte;Bologne;pâte de Bologne
+risotto;Milan;risotto de Milan
+couscous;Maghreb;couscous du Maghreb
+tajine;Maroc;tajine du Maroc
+sushi;Japon;sushi du Japon
+tempura;Japon;tempura du Japon
+kimchi;Corée;kimchi de Corée
+nem;Vietnam;nem du Vietnam
+pho;Vietnam;pho du Vietnam
+pad;Thaï;pad thaï
+curry;Inde;curry d'Inde
+naan;Inde;naan d'Inde
+tandoori;Inde;tandoori d'Inde
+houmous;Liban;houmous du Liban
+falafel;Moyen-Orient;falafel du Moyen-Orient
+kebab;Turquie;kebab de Turquie
+loukoum;Turquie;loukoum de Turquie
+baklava;Grèce;baklava de Grèce
+moussaka;Grèce;moussaka de Grèce
+tzatziki;Grèce;tzatziki de Grèce
+goulash;Hongrie;goulash de Hongrie
+bortsch;Ukraine;bortsch d'Ukraine
+blini;Russie;blini de Russie
+caviar;Caspienne;caviar de la Caspienne
+saumon;Norvège;saumon de Norvège
+saumon;Écosse;saumon d'Écosse
+hareng;Baltique;hareng de la Baltique
+morue;Terre-Neuve;morue de Terre-Neuve
+homard;Bretagne;homard de Bretagne
+huître;Marennes;huître de Marennes
+huître;Arcachon;huître d'Arcachon
+huître;Cancale;huître de Cancale
+moule;Bouchot;moule de Bouchot
+escargot;Bourgogne;escargot de Bourgogne
+poulet;Bresse;poulet de Bresse
+canard;Landes;canard des Landes
+agneau;Sisteron;agneau de Sisteron
+agneau;Pré-salé;agneau de pré-salé
+boeuf;Kobe;bœuf de Kobe
+boeuf;Charolles;bœuf de Charolles
+boeuf;Aubrac;bœuf de l'Aubrac
+porc;Noir;porc noir de Bigorre
+veau;Limousin;veau du Limousin
+truffe;Périgord;truffe du Périgord
+truffe;Alba;truffe d'Alba
+champignon;Paris;champignon de Paris
+cèpe;Bordeaux;cèpe de Bordeaux
+lentille;Puy;lentille du Puy
+haricot;Tarbes;haricot de Tarbes
+coco;Paimpol;coco de Paimpol
+oignon;Roscoff;oignon de Roscoff
+ail;Lautrec;ail de Lautrec
+échalote;Bretagne;échalote de Bretagne
+chou;Bruxelles;chou de Bruxelles
+endive;Nord;endive du Nord
+asperge;Argenteuil;asperge d'Argenteuil
+artichaut;Bretagne;artichaut de Bretagne
+piment;Jamaïque;piment de la Jamaïque
+pomme;Limousin;pomme du Limousin
+noix;Grenoble;noix de Grenoble
+pruneau;Agen;pruneau d'Agen
+mirabelle;Lorraine;mirabelle de Lorraine
+quetsche;Alsace;quetsche d'Alsace
+abricot;Roussillon;abricot du Roussillon
+pêche;Vigne;pêche de vigne
+melon;Cavaillon;melon de Cavaillon
+melon;Charentes;melon des Charentes
+fraise;Périgord;fraise du Périgord
+fraise;Carpentras;fraise de Carpentras
+citron;Menton;citron de Menton
+orange;Jaffa;orange de Jaffa
+orange;Séville;orange de Séville
+banane;Guadeloupe;banane de Guadeloupe
+ananas;Victoria;ananas Victoria
+litchi;Réunion;litchi de la Réunion
+datte;Tunisie;datte de Tunisie
+figue;Smyrne;figue de Smyrne
+raisin;Corinthe;raisin de Corinthe
+soie;Lyon;soie de Lyon
+soie;Chine;soie de Chine
+velours;Gênes;velours de Gênes
+dentelle;Calais;dentelle de Calais
+dentelle;Bruges;dentelle de Bruges
+dentelle;Chantilly;dentelle de Chantilly
+dentelle;Alençon;dentelle d'Alençon
+dentelle;Puy;dentelle du Puy
+tulle;Tulle;tulle de Tulle
+toile;Jouy;toile de Jouy
+toile;Nîmes;toile de Nîmes
+tartan;Écosse;tartan d'Écosse
+tweed;Harris;tweed Harris
+laine;Shetland;laine des Shetland
+laine;Mérinos;laine Mérinos
+laine;Angora;laine Angora
+laine;Alpaga;laine d'Alpaga
+cachemire;Cachemire;cachemire du Cachemire
+mohair;Turquie;mohair de Turquie
+coton;Égypte;coton d'Égypte
+lin;Normandie;lin de Normandie
+chanvre;Inde;chanvre d'Inde
+jute;Bengale;jute du Bengale
+sisal;Mexique;sisal du Mexique
+raphia;Madagascar;raphia de Madagascar
+cuir;Russie;cuir de Russie
+cuir;Cordoue;cuir de Cordoue
+maroquin;Maroc;maroquin du Maroc
+daim;Suède;daim de Suède
+nubuck;Amérique;nubuck d'Amérique
+tapis;Perse;tapis de Perse
+tapis;Orient;tapis d'Orient
+tapis;Aubusson;tapis d'Aubusson
+tapisserie;Bayeux;tapisserie de Bayeux
+tapisserie;Gobelins;tapisserie des Gobelins
+porcelaine;Limoges;porcelaine de Limoges
+porcelaine;Sèvres;porcelaine de Sèvres
+porcelaine;Chine;porcelaine de Chine
+porcelaine;Saxe;porcelaine de Saxe
+porcelaine;Delft;porcelaine de Delft
+faïence;Moustiers;faïence de Moustiers
+faïence;Gien;faïence de Gien
+faïence;Quimper;faïence de Quimper
+faïence;Rouen;faïence de Rouen
+céramique;Vallauris;céramique de Vallauris
+poterie;Anduze;poterie d'Anduze
+verre;Murano;verre de Murano
+verre;Bohême;verre de Bohême
+cristal;Baccarat;cristal de Baccarat
+cristal;Saint-Louis;cristal de Saint-Louis
+cristal;Arques;cristal d'Arques
+cristal;Swarovski;cristal Swarovski
+émail;Limoges;émail de Limoges
+émail;Longwy;émail de Longwy
+couteau;Laguiole;couteau de Laguiole
+couteau;Thiers;couteau de Thiers
+couteau;Opinel;couteau Opinel
+couteau;Suisse;couteau suisse
+acier;Damas;acier de Damas
+acier;Sheffield;acier de Sheffield
+acier;Suède;acier de Suède
+acier;Lorraine;acier de Lorraine
+fer;Suède;fer de Suède
+cuivre;Chili;cuivre du Chili
+étain;Cornouailles;étain de Cornouailles
+or;Incas;or des Incas
+argent;Potosi;argent de Potosi
+mercure;Almaden;mercure d'Almaden
+marbre;Carrare;marbre de Carrare
+marbre;Paros;marbre de Paros
+marbre;Sienne;marbre de Sienne
+granit;Bretagne;granit de Bretagne
+granit;Vosges;granit des Vosges
+pierre;Volvic;pierre de Volvic
+pierre;Caen;pierre de Caen
+pierre;Bourgogne;pierre de Bourgogne
+tuffeau;Loire;tuffeau de la Loire
+ardoise;Angers;ardoise d'Angers
+ardoise;Pays de Galles;ardoise du Pays de Galles
+grès;Vosges;grès des Vosges
+craie;Champagne;craie de Champagne
+kaolin;Limoges;kaolin de Limoges
+ocre;Roussillon;ocre de Roussillon
+terre;Sienne;terre de Sienne
+terre;Ombre;terre d'Ombre
+bleu;Outremer;bleu d'Outremer
+bleu;Prusse;bleu de Prusse
+bleu;Cobalt;bleu de Cobalt
+bleu;Klein;bleu Klein
+bleu;Chartres;bleu de Chartres
+rouge;Pompéi;rouge de Pompéi
+jaune;Naples;jaune de Naples
+vert;Véronèse;vert Véronèse
+bois;Ébène;bois d'ébène
+bois;Rose;bois de rose
+bois;Santal;bois de santal
+teck;Birmanie;teck de Birmanie
+acajou;Cuba;acajou de Cuba
+cèdre;Liban;cèdre du Liban
+pin;Landes;pin des Landes
+sapin;Nord;sapin du Nord
+chêne;Tronçais;chêne de Tronçais
+liège;Portugal;liège du Portugal
+bambou;Chine;bambou de Chine
+rotin;Malaisie;rotin de Malaisie
+ivoire;Afrique;ivoire d'Afrique
+ambre;Baltique;ambre de la Baltique
+jade;Chine;jade de Chine
+opale;Australie;opale d'Australie
+turquoise;Perse;turquoise de Perse
+lapis-lazuli;Afghanistan;lapis-lazuli d'Afghanistan
+diamant;Anvers;diamant d'Anvers (taille)
+diamant;Kimberley;diamant de Kimberley
+rubis;Birmanie;rubis de Birmanie
+saphir;Ceylan;saphir de Ceylan
+émeraude;Colombie;émeraude de Colombie
+perle;Tahiti;perle de Tahiti
+perle;Japon;perle du Japon
+parfum;Grasse;parfum de Grasse
+essence;Lavande;essence de lavande
+rose;Damas;rose de Damas
+jasmin;Grasse;jasmin de Grasse
+ylang-ylang;Comores;ylang-ylang des Comores
+patchouli;Inde;patchouli d'Inde
+vétiver;Haïti;vétiver d'Haïti
+encens;Oman;encens d'Oman
+myrrhe;Yémen;myrrhe du Yémen
+gomme;Arabique;gomme arabique
+savon;Marseille;savon de Marseille
+savon;Alep;savon d'Alep
+savon;Noir;savon noir
+bougie;Aurillac;bougie d'Aurillac
+papier;Chine;papier de Chine
+papier;Japon;papier du Japon
+papier;Canson;papier Canson
+papier;Angoulême;papier d'Angoulême
+papier;Arménie;papier d'Arménie
+encre;Chine;encre de Chine
+crayon;Papier;crayon de papier
+violon;Crémone;violon de Crémone
+guitare;Espagne;guitare d'Espagne
+cor;Alpes;cor des Alpes
+tambour;Bronx;tambour du Bronx
+orgue;Barbarie;orgue de Barbarie
+accordéon;Musette;accordéon musette
+cornemuse;Écosse;cornemuse d'Écosse
+harpe;Celtique;harpe celtique
+flûte;Pan;flûte de Pan
+piano;Queue;piano à queue
+meuble;Boule;meuble Boulle
+style;Empire;style Empire
+style;Louis XV;style Louis XV
+style;Rococo;style Rococo
+style;Baroque;style Baroque
+style;Gothique;style Gothique
+style;Roman;style Roman
+maison;Colombage;maison à colombages
+chalet;Suisse;chalet suisse
+yourte;Mongolie;yourte de Mongolie
+igloo;Inuit;igloo inuit
+case;Africaine;case africaine
+tipi;Indien;tipi indien
+boubou;Afrique;boubou d'Afrique
+sari;Inde;sari d'Inde
+kimono;Japon;kimono du Japon
+kilt;Écosse;kilt d'Écosse
+poncho;Pérou;poncho du Pérou
+sombrero;Mexique;sombrero du Mexique
+panama;Équateur;chapeau Panama
+boulier;Chine;boulier de Chine
+poupée;Russe;poupée russe
+marionnette;Prague;marionnette de Prague
+masque;Venise;masque de Venise
+théâtre;Kabuki;théâtre Kabuki
+théâtre;Nô;théâtre Nô
+opéra;Pékin;opéra de Pékin
+ballet;Russe;ballet russe
+danse;Ventre;danse du ventre
+tango;Argentin;tango argentin
+samba;Brésil;samba du Brésil
+flamenco;Andalousie;flamenco d'Andalousie
+valse;Vienne;valse de Vienne
+jazz;Nouvelle-Orléans;jazz de la Nouvelle-Orléans
+blues;Delta;blues du Delta
+rock;Anglais;rock anglais
+musique;Celtique;musique celtique
+chant;Grégorien;chant grégorien
+langue;Molière;langue de Molière
+langue;Shakespeare;langue de Shakespeare
+langue;Goethe;langue de Goethe
+langue;Dante;langue de Dante
+langue;Cervantès;langue de Cervantès
+alphabet;Latin;alphabet latin
+alphabet;Grec;alphabet grec
+alphabet;Cyrillique;alphabet cyrillique
+chiffre;Arabe;chiffre arabe
+chiffre;Romain;chiffre romain
+calendrier;Julien;calendrier julien
+calendrier;Grégorien;calendrier grégorien
+chat;Siam;chat du Siam (Siamois)
+chat;Perse;chat persan
+chat;Chartreux;chat des Chartreux
+chat;Abyssinie;chat abyssin
+chat;Bengal;chat du Bengal
+chat;Maine;chat Maine Coon
+chat;Norvège;chat norvégien
+chien;Terre-Neuve;chien de Terre-Neuve
+chien;Saint-Bernard;chien du Saint-Bernard
+chien;Labrador;chien du Labrador
+chien;Dalmatie;chien dalmatien
+chien;Chihuahua;chien de Chihuahua
+chien;Pékin;pékinois
+berger;Allemagne;berger allemand
+berger;Belgique;berger belge
+berger;Beauceron;berger de Beauce
+berger;Brie;berger de Brie
+berger;Pyrénées;berger des Pyrénées
+berger;Anatolie;berger d'Anatolie
+berger;Australie;berger australien
+dogue;Allemagne;dogue allemand
+dogue;Bordeaux;dogue de Bordeaux
+dogue;Tibet;dogue du Tibet
+braque;Weimar;braque de Weimar
+épagneul;Breton;épagneul breton
+cocker;Anglais;cocker anglais
+bouledogue;Français;bouledogue français
+lévrier;Afghan;lévrier afghan
+lévrier;Irlande;lévrier irlandais
+terrier;Ecosse;terrier écossais
+fox;terrier;fox-terrier
+cheval;Camargue;cheval de Camargue
+cheval;Arabe;cheval arabe
+cheval;Andalou;cheval andalou
+cheval;Frison;cheval frison
+cheval;Perche;percheron
+cheval;Ardennes;ardennais
+cheval;Comtois;comtois
+poney;Shetland;poney shetland
+poney;Landes;poney des Landes
+poney;Connemara;poney connemara
+âne;Poitou;âne du Poitou
+âne;Provence;âne de Provence
+âne;Cotentin;âne du Cotentin
+vache;Normandie;vache normande
+vache;Aubrac;vache d'Aubrac
+vache;Salers;vache de Salers
+vache;Charolles;vache charolaise
+vache;Limousin;vache limousine
+vache;Holstein;vache Holstein
+vache;Jersey;vache jersiaise
+vache;Highland;vache Highland
+mouton;Ouessant;mouton d'Ouessant
+mouton;Mérinos;mouton mérinos
+mouton;Suffolk;mouton Suffolk
+chèvre;Angora;chèvre angora
+chèvre;Cachemire;chèvre cachemire
+chèvre;Alpes;chèvre alpine
+cochon;Vietnam;cochon du Vietnam
+porc;Gascogne;porc de Gascogne
+poule;Bresse;poule de Bresse
+poule;Soie;poule soie
+poule;Sussex;poule Sussex
+canard;Barbarie;canard de Barbarie
+oie;Toulouse;oie de Toulouse
+dindon;Amérique;dindon d'Amérique
+lapin;Flandres;lapin des Flandres
+lapin;Garenne;lapin de garenne
+ours;Kodiak;ours kodiak
+ours;Polaire;ours polaire
+tigre;Bengale;tigre du Bengale
+tigre;Sibérie;tigre de Sibérie
+tigre;Sumatra;tigre de Sumatra
+lion;Atlas;lion de l'Atlas
+éléphant;Afrique;éléphant d'Afrique
+éléphant;Asie;éléphant d'Asie
+rhinocéros;Java;rhinocéros de Java
+gorille;Montagne;gorille de montagne
+macaque;Japon;macaque du Japon
+lémurien;Madagascar;lémurien de Madagascar
+diable;Tasmanie;diable de Tasmanie
+dragon;Komodo;dragon de Komodo
+tortue;Galapagos;tortue des Galapagos
+tortue;Floride;tortue de Floride
+aigle;Royal;aigle royal
+faucon;Pèlerin;faucon pèlerin
+chouette;Laponie;chouette lapone
+cygne;Trompette;cygne trompette
+oie;Bernache;oie bernache
+canard;Colvert;canard colvert
+perroquet;Gabon;gris du Gabon
+ara;Hyacinthe;ara hyacinthe
+cane;Corse;cane corso
+saumon;Atlantique;saumon atlantique
+truite;Fario;truite fario
+crabe;Kamtchatka;crabe du Kamtchatka
+homard;Américain;homard américain
+escargot;Bourgogne;escargot de Bourgogne
+mouche;Tsé-tsé;mouche tsé-tsé
+frelon;Asie;frelon asiatique
+coccinelle;Asie;coccinelle asiatique
+abeille;Noire;abeille noire
+tulipe;Hollande;tulipe de Hollande
+rose;Damas;rose de Damas
+lys;Vallée;lys de la vallée
+violette;Parme;violette de Parme
+géranium;Alsace;géranium d'Alsace
+lavande;Provence;lavande de Provence
+edelweiss;Alpes;edelweiss des Alpes
+cèdre;Liban;cèdre du Liban
+pin;Maritime;pin maritime
+sapin;Nordmann;sapin Nordmann
+érable;Sucre;érable à sucre
+séquoia;Géant;séquoia géant
+baobab;Afrique;baobab d'Afrique
+eucalyptus;Australie;eucalyptus d'Australie
+bonsaï;Japon;bonsaï du Japon
+cactus;Mexique;cactus du Mexique
+bambou;Chine;bambou de Chine
+lotus;Sacré;lotus sacré
+papyrus;Nil;papyrus du Nil
+dieu;Olympe;dieu de l'Olympe
+dieu;Nil;dieu du Nil
+dieu;Stade;dieu du stade
+mythologie;Grèce;mythologie de Grèce
+mythologie;Nordique;mythologie nordique
+mythologie;Égypte;mythologie d'Égypte
+légende;Arthur;légende d'Arthur
+légende;Siècles;légende des siècles
+conte;Perrault;conte de Perrault
+conte;Grimm;conte de Grimm
+conte;Andersen;conte d'Andersen
+fable;Fontaine;fable de La Fontaine
+fable;Ésope;fable d'Ésope
+tragédie;Grecque;tragédie grecque
+comédie;Italienne;comédie italienne
+théâtre;Nô;théâtre Nô
+théâtre;Kabuki;théâtre Kabuki
+théâtre;Boulevard;théâtre de boulevard
+cinéma;Muet;cinéma muet
+cinéma;Parlant;cinéma parlant
+western;Spaghetti;western spaghetti
+film;Noir;film noir
+nouvelle;Vague;nouvelle vague
+réalimse;Italien;réalisme italien
+expressionnisme;Allemand;expressionnisme allemand
+impressionnisme;Français;impressionnisme français
+renaissance;Italienne;renaissance italienne
+siècle;Lumières;siècle des Lumières
+révolution;Française;révolution française
+révolution;Russe;révolution russe
+révolution;Industrielle;révolution industrielle
+guerre;Troie;guerre de Troie
+guerre;Cent Ans;guerre de Cent Ans
+guerre;Sécession;guerre de Sécession
+guerre;Étoiles;guerre des étoiles (Star Wars)
+bataille;Marathon;bataille de Marathon
+bataille;Waterloo;bataille de Waterloo
+bataille;Verdun;bataille de Verdun
+traité;Versailles;traité de Versailles
+édit;Nantes;édit de Nantes
+code;Hammourabi;code d'Hammourabi
+code;Civil;code civil
+loi;Talion;loi du talion
+serment;Jeu de Paume;serment du Jeu de Paume
+appel;18 Juin;appel du 18 juin
+mur;Son;mur du son
+mur;Berlin;mur de Berlin
+rideau;Fer;rideau de fer
+guerre;Froide;guerre froide
+peste;Noire;peste noire
+grippe;Espagnole;grippe espagnole
+feu;Saint-Elme;feu de Saint-Elme
+tour;Babel;tour de Babel
+jardins;Babylone;jardins de Babylone
+colosse;Rhodes;colosse de Rhodes
+phare;Alexandrie;phare d'Alexandrie
+temple;Artémis;temple d'Artémis
+mausolée;Halicarnasse;mausolée d'Halicarnasse
+statue;Zeus;statue de Zeus
+arche;Noé;arche de Noé
+cheval;Troie;cheval de Troie
+talon;Achille;talon d'Achille
+épée;Damoclès;épée de Damoclès
+nœud;Gordien;nœud gordien
+tonneau;Danaïdes;tonneau des Danaïdes
+supplice;Tantale;supplice de Tantale
+rocher;Sisyphe;rocher de Sisyphe
+fil;Ariane;fil d'Ariane
+boîte;Pandore;boîte de Pandore
+toile;Pénélope;toile de Pénélope
+lit;Procuste;lit de Procuste
+victoire;Samothrace;victoire de Samothrace
+vénus;Milo;vénus de Milo
+mona;Lisa;Mona Lisa
+joconde;Vinci;Joconde de Vinci
+penseur;Rodin;penseur de Rodin
+david;Michel-Ange;David de Michel-Ange
+baiser;Klimt;Baiser de Klimt
+cri;Munch;Cri de Munch
+guernica;Picasso;Guernica de Picasso
+tournesols;Van Gogh;tournesols de Van Gogh
+nymphéas;Monet;nymphéas de Monet
+sacre;Napoléon;sacre de Napoléon
+radeau;Méduse;radeau de la Méduse
+liberté;Peuple;liberté guidant le peuple
+déjeuner;Herbe;déjeuner sur l'herbe
+moulin;Galette;moulin de la galette
+bar;Folies-Bergère;bar aux Folies-Bergère
+vin;Médoc;vin du Médoc
+vin;Saint-Émilion;vin de Saint-Émilion
+vin;Pomerol;vin de Pomerol
+vin;Sauternes;vin de Sauternes
+vin;Margaux;vin de Margaux
+vin;Pauillac;vin de Pauillac
+vin;Graves;vin des Graves
+vin;Beaujolais;vin du Beaujolais
+vin;Muscadet;vin de Muscadet
+vin;Chinon;vin de Chinon
+vin;Sancerre;vin de Sancerre
+vin;Cahors;vin de Cahors
+vin;Madiran;vin de Madiran
+vin;Jurançon;vin de Jurançon
+vin;Gaillac;vin de Gaillac
+vin;Bandol;vin de Bandol
+vin;Minervois;vin du Minervois
+vin;Corbières;vin des Corbières
+vin;Fitou;vin de Fitou
+vin;Riesling;vin de Riesling
+vin;Gewurztraminer;vin de Gewurztraminer
+vin;Sylvaner;vin de Sylvaner
+vin;Tokay;vin de Tokay
+vin;Porto;vin de Porto
+vin;Xérès;vin de Xérès
+vin;Madère;vin de Madère
+vin;Marsala;vin de Marsala
+vin;Samos;vin de Samos
+vin;Retsina;vin de Retsina
+vin;Chianti;vin de Chianti
+vin;Barolo;vin de Barolo
+vin;Asti;vin d'Asti
+vin;Rioja;vin de la Rioja
+vin;Malaga;vin de Malaga
+bière;Munich;bière de Munich
+bière;Pilsen;bière de Pilsen
+bière;Dublin;bière de Dublin
+bière;Alsace;bière d'Alsace
+bière;Nord;bière du Nord
+cidre;Cornouailles;cidre de Cornouailles
+cidre;Pays d'Auge;cidre du Pays d'Auge
+poiré;Domfront;poiré de Domfront
+kirsch;Fougerolles;kirsch de Fougerolles
+génépi;Alpes;génépi des Alpes
+chartreuse;Voiron;chartreuse de Voiron
+bénédictine;Fécamp;bénédictine de Fécamp
+anisette;Bordeaux;anisette de Bordeaux
+menthe;Pastille;menthe Pastille
+eau;Vichy;eau de Vichy
+eau;Perrier;eau de Perrier
+eau;Evian;eau d'Evian
+eau;Volvic;eau de Volvic
+eau;Vittel;eau de Vittel
+eau;Contrex;eau de Contrex
+eau;Badoit;eau de Badoit
+eau;Lourdes;eau de Lourdes
+eau;Jourdain;eau du Jourdain
+sel;Himalaya;sel de l'Himalaya
+sel;Camargue;sel de Camargue
+sel;Ile de Ré;sel de l'Ile de Ré
+sel;Noirmoutier;sel de Noirmoutier
+poivre;Cayenne;poivre de Cayenne
+poivre;Jamaïque;poivre de la Jamaïque
+poivre;Kampot;poivre de Kampot
+poivre;Penja;poivre de Penja
+curry;Madras;curry de Madras
+safran;Gâtinais;safran du Gâtinais
+safran;Quercy;safran du Quercy
+piment;Espelette;piment d'Espelette
+moutarde;Meaux;moutarde de Meaux
+vinaigre;Xérès;vinaigre de Xérès
+vinaigre;Balsamique;vinaigre balsamique
+vinaigre;Cidre;vinaigre de cidre
+huile;Noix;huile de noix
+huile;Colza;huile de colza
+huile;Pépins;huile de pépins de raisin
+huile;Argan;huile d'argan
+huile;Palme;huile de palme
+huile;Coco;huile de coco
+sirop;Agave;sirop d'agave
+sucre;Betterave;sucre de betterave
+sucre;Coco;sucre de coco
+miel;Sapin;miel de sapin
+miel;Lavande;miel de lavande
+miel;Châtaignier;miel de châtaignier
+miel;Acacia;miel d'acacia
+miel;Tilleul;miel de tilleul
+confiture;Lait;confiture de lait
+crème;Marron;crème de marron
+pâte;Coing;pâte de coing
+gelée;Groseille;gelée de groseille
+fromage;Corse;fromage de Corse
+fromage;Pyrénées;fromage des Pyrénées
+brocciu;Corse;brocciu corse
+tome;Bauges;tome des Bauges
+bleu;Gex;bleu de Gex
+bleu;Causses;bleu des Causses
+bleu;Vercors;bleu du Vercors
+chabichou;Poitou;chabichou du Poitou
+pouligny;Saint-Pierre;pouligny-saint-pierre
+selles;Cher;selles-sur-cher
+valençay;Berry;valençay du Berry
+langres;Champagne;langres de Champagne
+chaource;Champagne;chaource de Champagne
+époisses;Bourgogne;époisses de Bourgogne
+livarot;Normandie;livarot de Normandie
+pont-l'évêque;Normandie;pont-l'évêque de Normandie
+neufchâtel;Bray;neufchâtel du Bray
+morbier;Jura;morbier du Jura
+abondance;Savoie;abondance de Savoie
+beaufort;Savoie;beaufort de Savoie
+chevrotin;Aravis;chevrotin des Aravis
+rigotte;Condrieu;rigotte de Condrieu
+pelardon;Cévennes;pélardon des Cévennes
+picodon;Drôme;picodon de la Drôme
+rocamadour;Quercy;rocamadour du Quercy
+salers;Cantal;salers du Cantal
+laguiole;Aubrac;laguiole de l'Aubrac
+ossau;Iraty;ossau-iraty
+mimolette;Lille;mimolette de Lille
+boulette;Avesnes;boulette d'Avesnes
+curé;Nantais;curé nantais
+trappe;Echourgnac;trappe d'Echourgnac
+saint;Marcellin;saint-marcellin
+saint;Félicien;saint-félicien
+brillat;Savarin;brillat-savarin
+vacherin;Mont d'Or;vacherin du Mont d'Or
+gruyère;Suisse;gruyère suisse
+tête;Moine;tête de moine
+cheddar;Anglais;cheddar anglais
+stilton;Anglais;stilton anglais
+gouda;Hollande;gouda de Hollande
+edam;Hollande;edam de Hollande
+feta;Grecque;feta grecque
+parmesan;Italien;parmesan italien
+gorgonzola;Italien;gorgonzola italien
+mascarpone;Italien;mascarpone italien
+ricotta;Italienne;ricotta italienne
+pecorino;Romano;pecorino romano
+manchego;Espagnol;manchego espagnol
+poule;Soie;poule soie
+poule;Houdan;poule de Houdan
+poule;Marans;poule de Marans
+poule;Gâtinaise;poule gâtinaise
+poule;Faverolles;poule de Faverolles
+coq;Bruyère;coq de bruyère
+canard;Barbarie;canard de Barbarie
+oie;Toulouse;oie de Toulouse
+dindon;Sologne;dindon de Sologne
+pigeon;Ramier;pigeon ramier
+lapin;Angora;lapin angora
+lapin;Garenne;lapin de garenne
+lièvre;Europe;lièvre d'Europe
+cerf;Elaphe;cerf élaphe
+daim;Europe;daim d'Europe
+chevreuil;Sibérie;chevreuil de Sibérie
+bouquetin;Alpes;bouquetin des Alpes
+chamois;Pyrénées;chamois des Pyrénées (isard)
+marmotte;Alpes;marmotte des Alpes
+ours;Brun;ours brun
+ours;Kodiak;ours kodiak
+loup;Gris;loup gris
+renard;Polaire;renard polaire
+lynx;Boréal;lynx boréal
+chat;Siamois;chat siamois
+chat;Persan;chat persan
+chat;Chartreux;chat chartreux
+chat;Angora;chat angora
+chat;Bengal;chat du Bengal
+chat;Bombay;chat de Bombay
+chat;Ceylan;chat de Ceylan
+chat;Abyssin;chat abyssin
+chat;Birmanie;sacré de Birmanie
+chat;Sibérie;chat sibérien
+chien;Berger;chien de berger
+chien;Chasse;chien de chasse
+chien;Traîneau;chien de traîneau
+chien;Garde;chien de garde
+berger;Allemand;berger allemand
+berger;Belge;berger belge
+berger;Australien;berger australien
+berger;Pyrénées;berger des Pyrénées
+berger;Beauce;berger de Beauce (Beauceron)
+berger;Brie;berger de Brie (Briard)
+berger;Picardie;berger picard
+bouvier;Bernois;bouvier bernois
+bouvier;Flandres;bouvier des Flandres
+dogue;Allemand;dogue allemand
+dogue;Argentin;dogue argentin
+dogue;Bordeaux;dogue de Bordeaux
+dogue;Tibet;dogue du Tibet
+mâtin;Naples;mâtin de Naples
+saint;Bernard;saint-bernard
+terre;Neuve;terre-neuve
+leonberg;Allemagne;leonberg
+husky;Sibérie;husky de Sibérie
+malamute;Alaska;malamute de l'Alaska
+samoyède;Sibérie;samoyède
+chow;Chow;chow-chow
+spitz;Nain;spitz nain
+braque;Weimar;braque de Weimar
+braque;Hongrois;braque hongrois
+épagneul;Breton;épagneul breton
+cocker;Anglais;cocker anglais
+cocker;Américain;cocker américain
+setter;Irlandais;setter irlandais
+setter;Anglais;setter anglais
+retriever;Labrador;labrador retriever
+retriever;Golden;golden retriever
+caniche;Royal;caniche royal
+basset;Artesien;basset artésien
+beagle;Anglais;beagle
+dalmatien;Dalmatie;dalmatien
+chihuahua;Mexique;chihuahua
+pékinois;Chine;pékinois
+shih;Tzu;shih tzu
+lévrier;Afghan;lévrier afghan
+lévrier;Persan;lévrier persan (saluki)
+lévrier;Russe;lévrier russe (barzoï)
+cheval;Arabe;cheval arabe
+cheval;Frison;cheval frison
+cheval;Andalou;cheval andalou
+cheval;Lusitanien;cheval lusitanien
+cheval;Islandais;cheval islandais
+cheval;Fjord;cheval fjord
+cheval;Percheron;percheron
+cheval;Boulonnais;boulonnais
+cheval;Comtois;comtois
+cheval;Breton;breton
+cheval;Ardennais;ardennais
+cheval;Camargue;cheval de Camargue
+poney;Shetland;poney shetland
+poney;Welsh;poney welsh
+poney;Connemara;poney connemara
+poney;Landais;poney landais
+vache;Aubrac;vache d'Aubrac
+vache;Salers;vache de Salers
+vache;Limousine;vache limousine
+vache;Charolaise;vache charolaise
+vache;Normande;vache normande
+vache;Montbéliarde;vache montbéliarde
+vache;Abondance;vache d'Abondance
+vache;Tarine;vache tarine
+vache;Vosgienne;vache vosgienne
+vache;Holstein;vache Holstein
+vache;Jersey;vache jersiaise
+vache;Highland;vache Highland
+mouton;Mérinos;mouton mérinos
+mouton;Suffolk;mouton Suffolk
+mouton;Ouessant;mouton d'Ouessant
+chèvre;Angora;chèvre angora
+chèvre;Alpine;chèvre alpine
+porc;Basque;porc basque
+porc;Gascon;porc gascon
+porc;Corse;porc corse
+truite;Fario;truite fario
+saumon;Fontaine;saumon de fontaine
+brochet;Nord;brochet du Nord
+silure;Glane;silure glane
+écrevisse;Louisiane;écrevisse de Louisiane
+crabe;Neiges;crabe des neiges
+crabe;Royal;crabe royal
+homard;Américain;homard américain
+langouste;Rouge;langouste rouge
+crevette;Impériale;crevette impériale
+huître;Belon;huître de Belon
+moule;Espagne;moule d'Espagne
+oursin;Galice;oursin de Galice
+corail;Rouge;corail rouge
+nacre;Perle;nacre de perle
+éponge;Mer;éponge de mer
+laine;Shetland;laine Shetland
+laine;Mohair;laine mohair
+laine;Vigogne;laine de vigogne
+coton;Égypte;coton d'Égypte
+soie;Sauvage;soie sauvage
+dentelle;Chantilly;dentelle de Chantilly
+dentelle;Bruges;dentelle de Bruges
+point;Croix;point de croix
+toile;Nîmes;toile de Nîmes (denim)
+toile;Jouy;toile de Jouy
+velours;Gênes;velours de Gênes
+cuir;Russie;cuir de Russie
+maroquin;Maroc;maroquin
+daim;Suède;daim (suède)
+papier;Canson;papier Canson
+papier;Bristol;papier Bristol
+papier;Japon;papier Japon
+papier;Soie;papier de soie
+papier;Verre;papier de verre
+papier;Musique;papier à musique
+encre;Chine;encre de Chine
+bleu;Prusse;bleu de Prusse
+bleu;Outremer;bleu d'outremer
+bleu;Cobalt;bleu de cobalt
+rouge;Pompéi;rouge Pompéi
+jaune;Naples;jaune de Naples
+vert;Véronèse;vert Véronèse
+terre;Sienne;terre de Sienne

@@ -1,0 +1,926 @@
+tour;Pise;tour de Pise
+désert;Algérie;désert d'Algérie
+mur;Chine;mur de Chine
+pyramide;Égypte;pyramide d'Égypte
+canaux;Venise;canaux de Venise
+jardins;Babylone;jardins de Babylone
+phare;Alexandrie;phare d'Alexandrie
+colosse;Rhodes;colosse de Rhodes
+baie;Rio;baie de Rio
+port;Marseille;port de Marseille
+plage;Nice;plage de Nice
+gare;Lyon;gare de Lyon
+métro;Paris;métro de Paris
+aéroport;Roissy;aéroport de Roissy
+château;Versailles;château de Versailles
+palais;Élysée;palais de l'Élysée
+lion;savane;lion de la savane
+monstre;Loch Ness;monstre du Loch Ness
+dames;bois;dames du bois
+ermite;forêt;ermite de la forêt
+bête;Gévaudan;bête du Gévaudan
+tigre;Bengale;tigre du Bengale
+ours;Pyrénées;ours des Pyrénées
+loup;Wall Street;loup de Wall Street
+fantôme;opéra;fantôme de l'opéra
+bossu;Notre-Dame;bossu de Notre-Dame
+barbier;Séville;barbier de Séville
+bourgeois;Calais;bourgeois de Calais
+demoiselles;Avignon;demoiselles d'Avignon
+train;banlieue;train de banlieue
+bus;ville;bus de ville
+rat;champs;rat des champs
+rat;villes;rat des villes
+souris;laboratoire;souris de laboratoire
+poisson;rivière;poisson de rivière
+fruit;mer;fruit de mer
+fleur;jardin;fleur de jardin
+plante;intérieur;plante d'intérieur
+oiseau;paradis;oiseau de paradis
+singe;zoo;singe de zoo
+requin;récif;requin de récif
+corail;barrière;corail de la barrière
+lumières;ville;lumières de la ville
+brumes;Avalon;brumes d'Avalon
+soleil;minuit;soleil de minuit
+neiges;Kilimandjaro;neiges du Kilimandjaro
+sables;temps;sables du temps
+rochers;Étretat;rochers d'Étretat
+falaise;Moher;falaise de Moher
+mont;Saint-Michel;mont du Saint-Michel
+aiguille;Midi;aiguille du Midi
+pont;Avignon;pont d'Avignon
+arènes;Nîmes;arènes de Nîmes
+remparts;Carcassonne;remparts de Carcassonne
+marché;Noël;marché de Noël
+foire;Trône;foire du Trône
+festival;Cannes;festival de Cannes
+carnaval;Rio;carnaval de Rio
+marathon;New York;marathon de New York
+tour;France;tour de France
+grand prix;Monaco;grand prix de Monaco
+dieu;stade;dieu du stade
+génie;lampe;génie de la lampe
+diable;Vauvert;diable de Vauvert
+prisonnier;Alcatraz;prisonnier d'Alcatraz
+comte;Monte-Cristo;comte de Monte-Cristo
+sorcières;Salem;sorcières de Salem
+or;Rhin;or du Rhin
+perle;Antilles;perle des Antilles
+venise;Nord;venise du Nord
+toits;Paris;toits de Paris
+rues;San Francisco;rues de San Francisco
+mur;lamentations;mur des lamentations
+jardin;Eden;jardin d'Eden
+tour;Babel;tour de Babel
+ville;lumière;ville lumière
+pays;Merveilles;pays des Merveilles
+magicien;Oz;magicien d'Oz
+belle;bois dormant;belle au bois dormant
+héroïne;roman;héroïne de roman
+tour;Londres;tour de Londres
+mur;Berlin;mur de Berlin
+canal;Suez;canal de Suez
+canal;Panama;canal de Panama
+mont;Blanc;mont Blanc
+lac;Léman;lac Léman
+baie;Somme;baie de Somme
+dune;Pilat;dune du Pilat
+gorges;Verdon;gorges du Verdon
+chutes;Niagara;chutes du Niagara
+grand;canyon;grand canyon
+mont;Fuji;mont Fuji
+mer;Morte;mer Morte
+mer;Rouge;mer Rouge
+mer;Noire;mer Noire
+océan;Pacifique;océan Pacifique
+cap;Nord;cap Nord
+pôle;Sud;pôle Sud
+jungle;Calais;jungle de Calais
+forêt;Noire;forêt Noire
+forêt;Amazonie;forêt d'Amazonie
+bois;Boulogne;bois de Boulogne
+parc;Yellowstone;parc de Yellowstone
+jardin;Luxembourg;jardin du Luxembourg
+place;Concorde;place de la Concorde
+place;Rouge;place Rouge
+avenue;Champs-Élysées;avenue des Champs-Élysées
+promenade;Anglais;promenade des Anglais
+pont;Arts;pont des Arts
+pont;Gard;pont du Gard
+viaduc;Millau;viaduc de Millau
+château;Loire;château de la Loire
+palais;Papes;palais des Papes
+basilique;Saint-Pierre;basilique Saint-Pierre
+cathédrale;Chartres;cathédrale de Chartres
+abbaye;Mont-Saint-Michel;abbaye du Mont-Saint-Michel
+sanctuaire;Lourdes;sanctuaire de Lourdes
+mur;Lamentations;mur des Lamentations
+dôme;Invalides;dôme des Invalides
+arche;Défense;arche de la Défense
+stade;France;stade de France
+parc;Princes;parc des Princes
+vélodrome;Marseille;vélodrome de Marseille
+festival;Avignon;festival d'Avignon
+foire;Paris;foire de Paris
+salon;Agriculture;salon de l'Agriculture
+carnaval;Venise;carnaval de Venise
+fête;Bière;fête de la bière
+corrida;Séville;corrida de Séville
+grand prix;Monza;grand prix de Monza
+rallye;Monte-Carlo;rallye de Monte-Carlo
+tournoi;Wimbledon;tournoi de Wimbledon
+roland;garros;Roland Garros
+marathon;Boston;marathon de Boston
+ascension;Everest;ascension de l'Everest
+traversée;Manche;traversée de la Manche
+route;Soie;route de la Soie
+route;Vins;route des vins
+route;66;route 66
+muraille;Chine;muraille de Chine
+cité;Interdite;cité Interdite
+temple;Soleil;temple du Soleil
+pyramide;Soleil;pyramide du Soleil
+machu;picchu;Machu Picchu
+statue;Rio;statue de Rio
+pain;Sucre;pain de Sucre
+chutes;Iguazu;chutes d'Iguazu
+désert;Gobi;désert de Gobi
+désert;Atacama;désert d'Atacama
+vallée;Mort;vallée de la Mort
+terre;Feu;terre de Feu
+cap;Bonne-Espérance;cap de Bonne-Espérance
+corne;Afrique;corne de l'Afrique
+golfe;Mexique;golfe du Mexique
+baie;Ha Long;baie d'Ha Long
+mont;Olympe;mont Olympe
+acropole;Athènes;acropole d'Athènes
+ruines;Pompéi;ruines de Pompéi
+tour;Belém;tour de Belém
+porte;Brandebourg;porte de Brandebourg
+parlement;Européen;parlement européen
+siège;ONU;siège de l'ONU
+pentagone;Washington;pentagone de Washington
+maison;Blanche;maison Blanche
+kremlin;Moscou;kremlin de Moscou
+place;Tiananmen;place Tiananmen
+opéra;Sydney;opéra de Sydney
+pont;Golden Gate;pont du Golden Gate
+statue;Liberté;statue de la Liberté
+central;park;Central Park
+broadway;New York;Broadway à New York
+quartier;Latin;quartier Latin
+marais;Paris;Marais à Paris
+montmartre;Paris;Montmartre à Paris
+notting;hill;Notting Hill
+soho;Londres;Soho à Londres
+bronx;New York;Bronx à New York
+harlem;New York;Harlem à New York
+beverly;hills;Beverly Hills
+hollywood;Los Angeles;Hollywood à Los Angeles
+silicon;valley;Silicon Valley
+las;vegas;Las Vegas
+miami;beach;Miami Beach
+copacabana;Rio;Copacabana à Rio
+waikiki;Hawaii;Waikiki à Hawaii
+bondi;beach;Bondi Beach
+phuket;Thaïlande;Phuket en Thaïlande
+bali;Indonésie;Bali en Indonésie
+tahiti;Polynésie;Tahiti en Polynésie
+bora;bora;Bora Bora
+seychelles;Océan Indien;Seychelles dans l'Océan Indien
+maldives;Océan Indien;Maldives dans l'Océan Indien
+canaries;Atlantique;Canaries dans l'Atlantique
+açores;Atlantique;Açores dans l'Atlantique
+bermudes;Atlantique;Bermudes dans l'Atlantique
+bahamas;Caraïbes;Bahamas dans les Caraïbes
+antilles;Françaises;Antilles françaises
+réunion;Océan Indien;Réunion dans l'Océan Indien
+guadeloupe;Caraïbes;Guadeloupe dans les Caraïbes
+martinique;Caraïbes;Martinique dans les Caraïbes
+guyane;Amazonie;Guyane en Amazonie
+corse;Méditerranée;Corse en Méditerranée
+sardaigne;Italie;Sardaigne en Italie
+sicile;Italie;Sicile en Italie
+crète;Grèce;Crète en Grèce
+chypre;Méditerranée;Chypre en Méditerranée
+malte;Méditerranée;Malte en Méditerranée
+ibiza;Baléares;Ibiza aux Baléares
+majorque;Baléares;Majorque aux Baléares
+minorque;Baléares;Minorque aux Baléares
+capri;Italie;Capri en Italie
+elba;Italie;Elbe en Italie
+zanzibar;Tanzanie;Zanzibar en Tanzanie
+madagascar;Afrique;Madagascar en Afrique
+sri;lanka;Sri Lanka
+tasmanie;Australie;Tasmanie en Australie
+nouvelle;zélande;Nouvelle-Zélande
+île;Pâques;île de Pâques
+galapagos;Équateur;Galapagos en Équateur
+patagonie;Argentine;Patagonie en Argentine
+laponie;Finlande;Laponie en Finlande
+provence;France;Provence en France
+bretagne;France;Bretagne en France
+normandie;France;Normandie en France
+alsace;France;Alsace en France
+bourgogne;France;Bourgogne en France
+aquitaine;France;Aquitaine en France
+auvergne;France;Auvergne en France
+savoie;France;Savoie en France
+vendée;France;Vendée en France
+charente;France;Charente en France
+dordogne;France;Dordogne en France
+lot;France;Lot en France
+aveyron;France;Aveyron en France
+ardèche;France;Ardèche en France
+lozère;France;Lozère en France
+cantal;France;Cantal en France
+corrèze;France;Corrèze en France
+creuse;France;Creuse en France
+vosges;France;Vosges en France
+jura;France;Jura en France
+alpes;France;Alpes en France
+pyrénées;France;Pyrénées en France
+cévennes;France;Cévennes en France
+morvan;France;Morvan en France
+luberon;France;Luberon en France
+camargue;France;Camargue en France
+brière;France;Brière en France
+sologne;France;Sologne en France
+beauce;France;Beauce en France
+brie;France;Brie en France
+picardie;France;Picardie en France
+flandres;Belgique;Flandres en Belgique
+wallonie;Belgique;Wallonie en Belgique
+bavière;Allemagne;Bavière en Allemagne
+forêt;noire;Forêt Noire
+tyrol;Autriche;Tyrol en Autriche
+toscane;Italie;Toscane en Italie
+ombrie;Italie;Ombrie en Italie
+lombardie;Italie;Lombardie en Italie
+piémont;Italie;Piémont en Italie
+vénétie;Italie;Vénétie en Italie
+calabre;Italie;Calabre en Italie
+pouilles;Italie;Pouilles en Italie
+catalogne;Espagne;Catalogne en Espagne
+andalousie;Espagne;Andalousie en Espagne
+castille;Espagne;Castille en Espagne
+galice;Espagne;Galice en Espagne
+algarve;Portugal;Algarve au Portugal
+madère;Portugal;Madère au Portugal
+écosse;Royaume-Uni;Écosse au Royaume-Uni
+galles;Royaume-Uni;Galles au Royaume-Uni
+irlande;Nord;Irlande du Nord
+cornouailles;Angleterre;Cornouailles en Angleterre
+highlands;Écosse;Highlands en Écosse
+connemara;Irlande;Connemara en Irlande
+fjords;Norvège;fjords de Norvège
+geysers;Islande;geysers d'Islande
+volcans;Auvergne;volcans d'Auvergne
+châteaux;Cathares;châteaux cathares
+plages;Débarquement;plages du Débarquement
+grottes;Lascaux;grottes de Lascaux
+gouffre;Padirac;gouffre de Padirac
+futuroscope;Poitiers;Futuroscope de Poitiers
+puy;Fou;Puy du Fou
+parc;Astérix;parc Astérix
+disneyland;Paris;Disneyland Paris
+marineland;Antibes;Marineland d'Antibes
+zoo;Beauval;zoo de Beauval
+jardin;Plantes;jardin des Plantes
+musée;Orsay;musée d'Orsay
+musée;Grévin;musée Grévin
+centre;Pompidou;centre Pompidou
+opéra;Bastille;opéra Bastille
+théâtre;Odéon;théâtre de l'Odéon
+comédie;Française;Comédie Française
+olympia;Paris;Olympia de Paris
+zénith;Paris;Zénith de Paris
+bercy;Paris;Bercy à Paris
+stade;Vélodrome;stade Vélodrome
+geoffroy;guichard;Geoffroy Guichard
+parc;Leschure;parc Lescure
+la;beaujoire;la Beaujoire
+bollaert;Lens;Bollaert à Lens
+circuit;Mans;circuit du Mans
+circuit;Magny-Cours;circuit de Magny-Cours
+circuit;Spa;circuit de Spa
+circuit;Monaco;circuit de Monaco
+hippodrome;Vincennes;hippodrome de Vincennes
+hippodrome;Longchamp;hippodrome de Longchamp
+hippodrome;Chantilly;hippodrome de Chantilly
+casino;Deauville;casino de Deauville
+casino;Enghien;casino d'Enghien
+thermes;Vichy;thermes de Vichy
+thermes;Dax;thermes de Dax
+thalasso;Quiberon;thalasso de Quiberon
+station;Courchevel;station de Courchevel
+station;Chamonix;station de Chamonix
+station;Megève;station de Megève
+station;Val d'Isère;station de Val d'Isère
+station;Tignes;station de Tignes
+station;Avoriaz;station d'Avoriaz
+station;La Plagne;station de La Plagne
+station;Les Arcs;station des Arcs
+lit;chambre;lit de la chambre
+armoire;chambre;armoire de la chambre
+commode;chambre;commode de la chambre
+table;chevet;table de chevet
+lampe;chevet;lampe de chevet
+réveil;table;réveil sur la table
+miroir;salle de bain;miroir de la salle de bain
+douche;salle de bain;douche de la salle de bain
+baignoire;salle de bain;baignoire de la salle de bain
+lavabo;salle de bain;lavabo de la salle de bain
+robinet;évier;robinet de l'évier
+serviette;bain;serviette de bain
+tapis;bain;tapis de bain
+brosse;dents;brosse à dents
+savon;porte-savon;savon sur le porte-savon
+canapé;salon;canapé du salon
+fauteuil;salon;fauteuil du salon
+table;basse;table basse
+télé;salon;télé du salon
+tapis;salon;tapis du salon
+rideau;fenêtre;rideau de fenêtre
+volet;fenêtre;volet de fenêtre
+coussin;canapé;coussin du canapé
+lampe;salon;lampe de salon
+vase;table;vase sur la table
+cadre;mur;cadre au mur
+tableau;mur;tableau au mur
+horloge;mur;horloge murale
+table;cuisine;table de cuisine
+chaise;cuisine;chaise de cuisine
+frigo;cuisine;frigo de cuisine
+four;cuisine;four de cuisine
+évier;cuisine;évier de cuisine
+placard;cuisine;placard de cuisine
+tiroir;cuisine;tiroir de cuisine
+poubelle;cuisine;poubelle de cuisine
+balai;placard;balai du placard
+aspirateur;placard;aspirateur du placard
+casserole;feu;casserole sur le feu
+poêle;gazinière;poêle sur la gazinière
+assiette;placard;assiette du placard
+verre;placard;verre du placard
+couvert;tiroir;couvert du tiroir
+nappe;table;nappe sur la table
+torchon;cuisine;torchon de cuisine
+bureau;pièce;bureau de la pièce
+chaise;bureau;chaise de bureau
+ordinateur;bureau;ordinateur de bureau
+lampe;bureau;lampe de bureau
+bibliothèque;bureau;bibliothèque du bureau
+livre;étagère;livre sur l'étagère
+dossier;tiroir;dossier dans le tiroir
+stylo;pot;stylo dans le pot
+papier;imprimante;papier dans l'imprimante
+corbeille;papier;corbeille à papier
+porte;entrée;porte d'entrée
+tapis;entrée;tapis d'entrée
+paillasson;seuil;paillasson du seuil
+porte-manteau;entrée;porte-manteau de l'entrée
+miroir;entrée;miroir de l'entrée
+clé;vide-poche;clé dans le vide-poche
+parapluie;porte-parapluie;parapluie dans le porte-parapluie
+escalier;maison;escalier de la maison
+rampe;escalier;rampe d'escalier
+marche;escalier;marche d'escalier
+palier;étage;palier de l'étage
+couloir;étage;couloir de l'étage
+grenier;haut;grenier d'en haut
+cave;bas;cave d'en bas
+vin;cave;vin de la cave
+carton;grenier;carton du grenier
+garage;voiture;garage à voiture
+établi;garage;établi du garage
+outil;boîte;outil dans la boîte
+vélo;garage;vélo dans le garage
+jardin;maison;jardin de la maison
+pelouse;jardin;pelouse du jardin
+arbre;jardin;arbre du jardin
+fleur;massif;fleur du massif
+haie;jardin;haie du jardin
+portail;jardin;portail du jardin
+clôture;jardin;clôture du jardin
+boîte;lettres;boîte aux lettres
+sonnette;portail;sonnette du portail
+terrasse;maison;terrasse de la maison
+salon;jardin;salon de jardin
+parasol;terrasse;parasol de terrasse
+barbecue;jardin;barbecue du jardin
+transat;piscine;transat de piscine
+eau;piscine;eau de la piscine
+échelle;piscine;échelle de piscine
+pot;fleur;pot de fleur
+balcon;appartement;balcon de l'appartement
+fenêtre;toit;fenêtre de toit
+lucarne;grenier;lucarne du grenier
+cheminée;toit;cheminée sur le toit
+antenne;toit;antenne sur le toit
+tuile;toit;tuile du toit
+gouttière;toit;gouttière du toit
+mur;maison;mur de la maison
+crépi;façade;crépi de la façade
+volet;roulant;volet roulant
+store;banne;store banne
+lampe;jardin;lampe de jardin
+nain;jardin;nain de jardin
+abri;jardin;abri de jardin
+cabane;fond;cabane du fond
+serre;jardin;serre du jardin
+potager;jardin;potager du jardin
+légume;potager;légume du potager
+fruit;verger;fruit du verger
+pomme;pommier;pomme du pommier
+cerise;cerisier;cerise du cerisier
+poire;poirier;poire du poirier
+pêche;pêcher;pêche du pêcher
+prune;prunier;prune du prunier
+noix;noyer;noix du noyer
+noisette;noisetier;noisette du noisetier
+fraise;bois;fraise des bois
+mûre;ronce;mûre de ronce
+champignon;forêt;champignon de la forêt
+fleur;champs;fleur des champs
+blé;champ;blé du champ
+maïs;champ;maïs du champ
+tournesol;champ;tournesol du champ
+vigne;coteau;vigne du coteau
+raisin;vigne;raisin de la vigne
+foin;grange;foin de la grange
+paille;étable;paille de l'étable
+grain;silo;grain du silo
+farine;moulin;farine du moulin
+pain;four;pain du four
+eau;puits;eau du puits
+eau;source;eau de source
+eau;rivière;eau de rivière
+eau;pluie;eau de pluie
+eau;mer;eau de mer
+eau;robinet;eau du robinet
+eau;bouteille;eau en bouteille
+lait;ferme;lait de la ferme
+oeuf;poule;oeuf de la poule
+miel;ruche;miel de la ruche
+vin;tonneau;vin du tonneau
+cidre;bouteille;cidre en bouteille
+bière;pression;bière pression
+café;cafetière;café de la cafetière
+thé;théière;thé de la théière
+sucre;sucrier;sucre du sucrier
+sel;salière;sel de la salière
+poivre;poivrière;poivre de la poivrière
+huile;bouteille;huile en bouteille
+vinaigre;bouteille;vinaigre en bouteille
+moutarde;pot;moutarde en pot
+confiture;pot;confiture en pot
+cornichon;bocal;cornichon en bocal
+sardine;boîte;sardine en boîte
+thon;boîte;thon en boîte
+petit pois;conserve;petit pois en conserve
+pâte;paquet;pâte en paquet
+riz;sac;riz en sac
+farine;sac;farine en sac
+sucre;boîte;sucre en boîte
+biscuit;boîte;biscuit en boîte
+bonbon;bocal;bonbon en bocal
+chocolat;tablette;chocolat en tablette
+glace;congélateur;glace du congélateur
+yaourt;frigo;yaourt du frigo
+beurre;frigo;beurre du frigo
+fromage;cloche;fromage sous cloche
+fruit;corbeille;fruit dans la corbeille
+pain;huche;pain dans la huche
+viande;boucher;viande du boucher
+poisson;poissonnier;poisson du poissonnier
+légume;marché;légume du marché
+fleur;fleuriste;fleur du fleuriste
+journal;kiosque;journal du kiosque
+pain;boulangerie;pain de la boulangerie
+gâteau;pâtisserie;gâteau de la pâtisserie
+médicament;pharmacie;médicament de la pharmacie
+timbre;poste;timbre de la poste
+argent;banque;argent de la banque
+livre;librairie;livre de la librairie
+disque;disquaire;disque du disquaire
+vêtement;magasin;vêtement du magasin
+chaussure;boutique;chaussure de la boutique
+meuble;magasin;meuble du magasin
+jouet;coffre;jouet du coffre
+poupée;maison;poupée de la maison
+ours;lit;ours sur le lit
+lion;savane;lion de la savane
+tigre;jungle;tigre de la jungle
+ours;montagne;ours de la montagne
+loup;forêt;loup de la forêt
+renard;bois;renard des bois
+cerf;forêt;cerf de la forêt
+sanglier;maquis;sanglier du maquis
+écureuil;arbre;écureuil de l'arbre
+oiseau;nid;oiseau du nid
+aigle;ciel;aigle du ciel
+faucon;montagne;faucon de la montagne
+hibou;nuit;hibou de la nuit
+chouette;grange;chouette de la grange
+souris;trou;souris du trou
+rat;égout;rat d'égout
+chat;gouttière;chat de gouttière
+chien;niche;chien de la niche
+cheval;écurie;cheval de l'écurie
+vache;pré;vache du pré
+mouton;bergerie;mouton de la bergerie
+chèvre;montagne;chèvre de la montagne
+cochon;ferme;cochon de la ferme
+poule;basse-cour;poule de la basse-cour
+canard;mare;canard de la mare
+oie;ferme;oie de la ferme
+lapin;clapier;lapin de clapier
+poisson;bocal;poisson de bocal
+poisson;rivière;poisson de rivière
+poisson;mer;poisson de mer
+requin;océan;requin de l'océan
+baleine;large;baleine du large
+dauphin;baie;dauphin de la baie
+crabe;rocher;crabe de rocher
+crevette;sable;crevette de sable
+moule;bouchot;moule de bouchot
+huître;parc;huître de parc
+escargot;jardin;escargot de jardin
+limace;salade;limace de la salade
+ver;terre;ver de terre
+abeille;ruche;abeille de la ruche
+guêpe;nid;guêpe du nid
+fourmi;fourmilière;fourmi de la fourmilière
+araignée;toile;araignée de la toile
+mouche;vitre;mouche sur la vitre
+moustique;marais;moustique de marais
+papillon;fleur;papillon de fleur
+libellule;étang;libellule d'étang
+grenouille;mare;grenouille de la mare
+crapaud;jardin;crapaud du jardin
+lézard;mur;lézard du mur
+serpent;désert;serpent du désert
+vipère;pierres;vipère des pierres
+crocodile;fleuve;crocodile du fleuve
+alligator;marais;alligator des marais
+chameau;désert;chameau du désert
+dromadaire;sable;dromadaire des sables
+scorpion;dune;scorpion des dunes
+cactus;désert;cactus du désert
+palmier;oasis;palmier de l'oasis
+sapin;montagne;sapin de la montagne
+edelweiss;alpes;edelweiss des Alpes
+marmotte;alpage;marmotte des alpages
+chamois;rocher;chamois des rochers
+bouquetin;crête;bouquetin des crêtes
+loutre;rivière;loutre de rivière
+castor;barrage;castor du barrage
+héron;étang;héron de l'étang
+cygne;lac;cygne du lac
+flamant;rose;flamant de Camargue
+cigogne;clocher;cigogne du clocher
+hirondelle;printemps;hirondelle du printemps
+moineau;ville;moineau des villes
+pigeon;place;pigeon de la place
+goéland;port;goéland du port
+mouette;plage;mouette de la plage
+albatros;mer;albatros de la mer
+pingouin;banquise;pingouin de la banquise
+manchot;antarctique;manchot de l'Antarctique
+ours;polaire;ours polaire
+phoque;banquise;phoque de la banquise
+renne;laponie;renne de Laponie
+élan;forêt;élan de la forêt
+bison;plaine;bison des plaines
+kangourou;australie;kangourou d'Australie
+koala;eucalyptus;koala de l'eucalyptus
+panda;chine;panda de Chine
+bambou;forêt;bambou de la forêt
+singe;branche;singe de la branche
+gorille;montagne;gorille de la montagne
+chimpanzé;forêt;chimpanzé de la forêt
+lémurien;madagascar;lémurien de Madagascar
+perroquet;île;perroquet des îles
+toucan;jungle;toucan de la jungle
+colibri;fleur;colibri de la fleur
+mygale;amazonie;mygale d'Amazonie
+piranha;fleuve;piranha du fleuve
+hippopotame;rivière;hippopotame de la rivière
+rhinocéros;savane;rhinocéros de la savane
+éléphant;afrique;éléphant d'Afrique
+girafe;acacia;girafe de l'acacia
+zèbre;plaine;zèbre de la plaine
+gazelle;désert;gazelle du désert
+autruche;savane;autruche de la savane
+hyène;brousse;hyène de la brousse
+vautour;charogne;vautour de charogne
+condor;andes;condor des Andes
+lama;pérou;lama du Pérou
+alpaga;montagne;alpaga de la montagne
+yak;tibet;yak du Tibet
+chèvre;cachemire;chèvre du Cachemire
+tigre;sibérie;tigre de Sibérie
+panthère;neiges;panthère des neiges
+loup;steppe;loup des steppes
+cheval;przewalski;cheval de Przewalski
+mustang;ouest;mustang de l'ouest
+buffle;eau;buffle d'eau
+dragon;komodo;dragon de Komodo
+diable;tasmanie;diable de Tasmanie
+kiwi;nouvelle-zélande;kiwi de Nouvelle-Zélande
+dodo;maurice;dodo de Maurice
+tortue;galapagos;tortue des Galapagos
+iguane;marin;iguane marin
+fou;bassan;fou de Bassan
+macareux;falaise;macareux des falaises
+crabe;cocotier;crabe de cocotier
+bernard;l'ermite;bernard l'ermite
+étoile;mer;étoile de mer
+corail;récif;corail du récif
+anémone;mer;anémone de mer
+méduse;plage;méduse de la plage
+plancton;surface;plancton de surface
+abysse;fond;abysse du fond
+monstre;abysses;monstre des abysses
+vin;Bordeaux;vin de Bordeaux
+vin;Bourgogne;vin de Bourgogne
+vin;Alsace;vin d'Alsace
+vin;Loire;vin de la Loire
+vin;Rhône;vin du Rhône
+champagne;Reims;champagne de Reims
+cognac;Charente;cognac de Charente
+armagnac;Gascogne;armagnac de Gascogne
+cidre;Normandie;cidre de Normandie
+cidre;Bretagne;cidre de Bretagne
+bière;Belgique;bière de Belgique
+bière;Allemagne;bière d'Allemagne
+bière;Irlande;bière d'Irlande
+whisky;Écosse;whisky d'Écosse
+vodka;Russie;vodka de Russie
+tequila;Mexique;tequila du Mexique
+rhum;Antilles;rhum des Antilles
+porto;Portugal;porto du Portugal
+chianti;Italie;chianti d'Italie
+rioja;Espagne;rioja d'Espagne
+thé;Chine;thé de Chine
+thé;Inde;thé d'Inde
+thé;Ceylan;thé de Ceylan
+café;Brésil;café du Brésil
+café;Colombie;café de Colombie
+café;Éthiopie;café d'Éthiopie
+chocolat;Suisse;chocolat suisse
+chocolat;Belgique;chocolat belge
+cacao;Afrique;cacao d'Afrique
+vanille;Madagascar;vanille de Madagascar
+vanille;Tahiti;vanille de Tahiti
+poivre;Sichuan;poivre du Sichuan
+curry;Inde;curry d'Inde
+safran;Espagne;safran d'Espagne
+piment;Espelette;piment d'Espelette
+sel;Guérande;sel de Guérande
+moutarde;Dijon;moutarde de Dijon
+vinaigre;Orléans;vinaigre d'Orléans
+huile;Provence;huile de Provence
+olive;Nyons;olive de Nyons
+noix;Grenoble;noix de Grenoble
+pruneau;Agen;pruneau d'Agen
+melon;Cavaillon;melon de Cavaillon
+fraise;Périgord;fraise du Périgord
+abricot;Roussillon;abricot du Roussillon
+pomme;Limousin;pomme du Limousin
+citron;Menton;citron de Menton
+orange;Valence;orange de Valence
+truffe;Périgord;truffe du Périgord
+champignon;Paris;champignon de Paris
+lentille;Puy;lentille du Puy
+haricot;Tarbais;haricot tarbais
+oignon;Roscoff;oignon de Roscoff
+ail;Lautrec;ail de Lautrec
+chou;Bruxelles;chou de Bruxelles
+endive;Nord;endive du Nord
+asperge;Argenteuil;asperge d'Argenteuil
+pomme;terre;Noirmoutier;pomme de terre de Noirmoutier
+riz;Camargue;riz de Camargue
+pâte;Italie;pâte d'Italie
+pizza;Naples;pizza de Naples
+paella;Valence;paella de Valence
+couscous;Maroc;couscous du Maroc
+sushi;Japon;sushi du Japon
+nem;Vietnam;nem du Vietnam
+curry;Thaïlande;curry de Thaïlande
+burger;Amérique;burger d'Amérique
+poutine;Québec;poutine du Québec
+tacos;Mexique;tacos du Mexique
+feijoada;Brésil;feijoada du Brésil
+asado;Argentine;asado d'Argentine
+fish;chips;fish and chips
+choucroute;Alsace;choucroute d'Alsace
+cassoulet;Castelnaudary;cassoulet de Castelnaudary
+bouillabaisse;Marseille;bouillabaisse de Marseille
+ratatouille;Nice;ratatouille de Nice
+salade;Niçoise;salade niçoise
+quiche;Lorraine;quiche lorraine
+potée;Auvergne;potée auvergnate
+aligot;Aubrac;aligot de l'Aubrac
+fondue;Savoie;fondue de Savoie
+raclette;Valais;raclette du Valais
+gratin;Dauphinois;gratin dauphinois
+boeuf;Bourguignon;bœuf bourguignon
+coq;vin;coq au vin
+canard;Sud-Ouest;canard du Sud-Ouest
+foie;gras;foie gras
+magret;Landes;magret des Landes
+poulet;Bresse;poulet de Bresse
+jambon;Bayonne;jambon de Bayonne
+jambon;Parme;jambon de Parme
+jambon;Aoste;jambon d'Aoste
+saucisse;Toulouse;saucisse de Toulouse
+saucisse;Strasbourg;saucisse de Strasbourg
+saucisse;Morteau;saucisse de Morteau
+andouille;Guémené;andouille de Guémené
+andouillette;Troyes;andouillette de Troyes
+boudin;Antilles;boudin des Antilles
+rillettes;Mans;rillettes du Mans
+foie;Strasbourg;foie de Strasbourg
+escargot;Bourgogne;escargot de Bourgogne
+huître;Marennes;huître de Marennes
+moule;Bouchot;moule de bouchot
+camembert;Normandie;camembert de Normandie
+brie;Meaux;brie de Meaux
+roquefort;Aveyron;roquefort de l'Aveyron
+comté;Jura;comté du Jura
+reblochon;Savoie;reblochon de Savoie
+cantal;Auvergne;cantal d'Auvergne
+maroilles;Nord;maroilles du Nord
+munster;Alsace;munster d'Alsace
+gorgonzola;Italie;gorgonzola d'Italie
+parmesan;Reggio;parmesan de Reggio
+mozarella;Bufala;mozzarella di Bufala
+feta;Grèce;feta de Grèce
+cheddar;Angleterre;cheddar d'Angleterre
+gouda;Hollande;gouda de Hollande
+emmental;Suisse;emmental suisse
+gruyère;Fribourg;gruyère de Fribourg
+crêpe;Bretagne;crêpe de Bretagne
+galette;Sarrasin;galette de sarrasin
+gaufre;Liège;gaufre de Liège
+gaufre;Bruxelles;gaufre de Bruxelles
+kouign;amann;kouign amann
+far;breton;far breton
+éclair;chocolat;éclair au chocolat
+macaron;Paris;macaron de Paris
+bêtise;Cambrai;bêtise de Cambrai
+nougat;Montélimar;nougat de Montélimar
+calisson;Aix;calisson d'Aix
+violette;Toulouse;violette de Toulouse
+bergamote;Nancy;bergamote de Nancy
+praline;Montargis;praline de Montargis
+dragée;Verdun;dragée de Verdun
+berlingot;Carpentras;berlingot de Carpentras
+pastille;Vichy;pastille de Vichy
+biscuit;Reims;biscuit de Reims
+madeleine;Commercy;madeleine de Commercy
+canelé;Bordeaux;cannelé de Bordeaux
+tarte;Tatin;tarte Tatin
+tarte;Tropezienne;tarte tropézienne
+paris;Brest;paris-brest
+saint;Honoré;saint-honoré
+école;quartier;école du quartier
+lycée;ville;lycée de la ville
+collège;secteur;collège du secteur
+faculté;droit;faculté de droit
+université;Sorbonne;université de la Sorbonne
+campus;universitaire;campus universitaire
+bibliothèque;municipale;bibliothèque municipale
+médiathèque;centre;médiathèque du centre
+musée;Louvre;musée du Louvre
+cinéma;quartier;cinéma de quartier
+théâtre;boulevard;théâtre de boulevard
+opéra;Garnier;opéra Garnier
+salle;concert;salle de concert
+stade;municipal;stade municipal
+piscine;olympique;piscine olympique
+gymnase;collège;gymnase du collège
+parc;exposition;parc des expositions
+palais;congrès;palais des congrès
+mairie;arrondissement;mairie d'arrondissement
+hôtel;ville;hôtel de ville
+préfecture;département;préfecture de département
+tribunal;instance;tribunal d'instance
+palais;justice;palais de justice
+cour;assises;cour d'assises
+commissariat;police;commissariat de police
+gendarmerie;nationale;gendarmerie nationale
+caserne;pompier;caserne de pompiers
+hôpital;nord;hôpital nord
+clinique;privée;clinique privée
+maternité;régionale;maternité régionale
+maison;retraite;maison de retraite
+crèche;municipale;crèche municipale
+centre;aéré;centre aéré
+colonie;vacances;colonie de vacances
+camp;scout;camp scout
+auberge;jeunesse;auberge de jeunesse
+hôtel;passe;hôtel de passe
+motel;route;motel de la route
+camping;flots;camping des flots
+village;vacances;village de vacances
+club;vacances;club de vacances
+résidence;secondaire;résidence secondaire
+maison;campagne;maison de campagne
+appartement;ski;appartement de ski
+studio;mer;studio à la mer
+bureau;poste;bureau de poste
+banque;France;banque de France
+caisse;épargne;caisse d'épargne
+agence;voyage;agence de voyage
+agence;immobilière;agence immobilière
+cabinet;médical;cabinet médical
+cabinet;avocat;cabinet d'avocat
+étude;notaire;étude de notaire
+salon;coiffure;salon de coiffure
+institut;beauté;institut de beauté
+salle;sport;salle de sport
+boulangerie;coin;boulangerie du coin
+boucherie;chevaline;boucherie chevaline
+charcuterie;traiteur;charcuterie traiteur
+poissonnerie;port;poissonnerie du port
+épicerie;nuit;épicerie de nuit
+supermarché;zone;supermarché de la zone
+hypermarché;centre;hypermarché du centre
+centre;commercial;centre commercial
+galerie;marchande;galerie marchande
+marché;couvert;marché couvert
+halles;centrales;halles centrales
+foire;fouille;foire à la fouille
+brocante;dimanche;brocante du dimanche
+vide;grenier;vide-grenier
+enchère;Drouot;enchère de Drouot
+salle;vente;salle des ventes
+usine;gaz;usine à gaz
+centrale;électrique;centrale électrique
+raffinerie;pétrole;raffinerie de pétrole
+entrepôt;stockage;entrepôt de stockage
+port;commerce;port de commerce
+port;plaisance;port de plaisance
+port;pêche;port de pêche
+gare;routière;gare routière
+station;métro;station de métro
+arrêt;bus;arrêt de bus
+station;taxi;station de taxi
+parking;souterrain;parking souterrain
+garage;réparation;garage de réparation
+station;service;station service
+aire;autoroute;aire d'autoroute
+péage;autoroute;péage d'autoroute
+poste;frontière;poste frontière
+douane;aéroport;douane de l'aéroport
+ambassade;américaine;ambassade américaine
+consulat;général;consulat général
+siège;social;siège social
+succursale;locale;succursale locale
+filiale;étrangère;filiale étrangère
+atelier;artiste;atelier d'artiste
+studio;enregistrement;studio d'enregistrement
+plateau;télé;plateau télé
+loge;artiste;loge de l'artiste
+coulisse;spectacle;coulisse du spectacle
+podium;défilé;podium de défilé
+piste;cirque;piste de cirque
+arène;combat;arène de combat
+ring;boxe;ring de boxe
+tatami;judo;tatami de judo
+court;tennis;court de tennis
+terrain;foot;terrain de foot
+green;golf;green de golf
+piste;ski;piste de ski
+bassin;natation;bassin de natation
+plongeoir;haut;plongeoir du haut
+ligne;départ;ligne de départ
+ligne;arrivée;ligne d'arrivée
+salle;attente;salle d'attente
+salle;réunion;salle de réunion
+salle;classe;salle de classe
+cour;récréation;cour de récréation
+réfectoire;cantine;réfectoire de la cantine
+dortoir;internat;dortoir de l'internat
+cellule;moine;cellule de moine
+cellule;prison;cellule de prison
+cachot;château;cachot du château
+oubliettes;forteresse;oubliettes de la forteresse
+donjon;château;donjon du château
+tour;guet;tour de guet
+rempart;ville;rempart de la ville
+fossé;château;fossé du château
+pont;levis;pont levis
+porte;ville;porte de la ville
+place;village;place du village
+fontaine;place;fontaine de la place
+lavoir;communal;lavoir communal
+église;village;église du village
+cimetière;communal;cimetière communal
+tombe;soldat;tombe du soldat
+caveau;famille;caveau de famille
+monument;morts;monument aux morts

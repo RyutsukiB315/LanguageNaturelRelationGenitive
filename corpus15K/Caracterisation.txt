@@ -1,0 +1,902 @@
+sagesse;vieillard;sagesse du vieillard
+sournoiserie;politicien;sournoiserie du politicien
+blancheur;neige;blancheur de la neige
+courage;soldat;courage du soldat
+beauté;paysage;beauté du paysage
+intelligence;enfant;intelligence de l'enfant
+vitesse;lumière;vitesse de la lumière
+poids;camion;poids du camion
+douceur;peau;douceur de la peau
+force;lion;force du lion
+clarté;eau;clarté de l'eau
+obscurité;nuit;obscurité de la nuit
+hauteur;tour;hauteur de la tour
+profondeur;océan;profondeur de l'océan
+largeur;rue;largeur de la rue
+finesse;sable;finesse du sable
+chaleur;soleil;chaleur du soleil
+froideur;marbre;froideur du marbre
+dureté;diamant;dureté du diamant
+souplesse;gymnaste;souplesse du gymnaste
+lenteur;tortue;lenteur de la tortue
+rapidité;guépard;rapidité du guépard
+élégance;robe;élégance de la robe
+richesse;roi;richesse du roi
+pauvreté;mendiant;pauvreté du mendiant
+tristesse;regard;tristesse du regard
+joie;visage;joie du visage
+colère;dieu;colère du dieu
+bonté;âme;bonté de l'âme
+méchanceté;sorcière;méchanceté de la sorcière
+fidélité;chien;fidélité du chien
+ruse;renard;ruse du renard
+tétutesse;âne;têtutesse de l'âne
+innocence;bébé;innocence du bébé
+pureté;air;pureté de l'air
+fraîcheur;matin;fraîcheur du matin
+rondeur;ballon;rondeur du ballon
+acidité;citron;acidité du citron
+douceur;miel;douceur du miel
+amertume;café;amertume du café
+parfum;rose;parfum de la rose
+odeur;soufre;odeur du soufre
+bruit;moteur;bruit du moteur
+silence;bibliothèque;silence de la bibliothèque
+éclat;bijou;éclat du bijou
+transparence;vitre;transparence de la vitre
+complexité;problème;complexité du problème
+simplicité;solution;simplicité de la solution
+fragilité;cristal;fragilité du cristal
+solidité;roc;solidité du roc
+agilité;chat;agilité du chat
+lourdeur;plomb;lourdeur du plomb
+légèreté;plume;légèreté de la plume
+éclat;rire;éclat du rire
+gravité;situation;gravité de la situation
+importance;décision;importance de la décision
+valeur;trésor;valeur du trésor
+durée;voyage;durée du voyage
+rareté;pierre;rareté de la pierre
+abondance;récolte;abondance de la récolte
+fermeté;matelas;fermeté du matelas
+confort;fauteuil;confort du fauteuil
+puissance;moteur;puissance du moteur
+efficacité;médicament;efficacité du médicament
+dangerosité;virus;dangerosité du virus
+toxicité;produit;toxicité du produit
+viscosité;huile;viscosité de l'huile
+élasticité;caoutchouc;élasticité du caoutchouc
+brillance;cheveux;brillance des cheveux
+pâleur;visage;pâleur du visage
+rougeur;joue;rougeur de la joue
+taille;vêtement;taille du vêtement
+pointure;chaussure;pointure de la chaussure
+longueur;film;longueur du film
+épaisseur;mur;épaisseur du mur
+humidité;air;humidité de l'air
+sécheresse;désert;sécheresse du désert
+fertilité;sol;fertilité du sol
+aridité;terre;aridité de la terre
+violence;choc;violence du choc
+rugosité;écorce;rugosité de l'écorce
+polissage;marbre;polissage du marbre
+transparence;eau;transparence de l'eau
+opacité;brouillard;opacité du brouillard
+fluidité;mouvement;fluidité du mouvement
+viscosité;sirop;viscosité du sirop
+densité;population;densité de la population
+porosité;éponge;porosité de l'éponge
+élasticité;ressort;élasticité du ressort
+rigidité;cadavre;rigidité du cadavre
+flexibilité;bambou;flexibilité du bambou
+malléabilité;argile;malléabilité de l'argile
+ductilité;cuivre;ductilité du cuivre
+friabilité;craie;friabilité de la craie
+dureté;acier;dureté de l'acier
+mollesse;oreiller;mollesse de l'oreiller
+douceur;velours;douceur du velours
+rêche;papier;rêche du papier
+piquant;cactus;piquant du cactus
+tranchant;lame;tranchant de la lame
+finesse;dentelle;finesse de la dentelle
+épaisseur;blindage;épaisseur du blindage
+lourdeur;atmosphère;lourdeur de l'atmosphère
+légèreté;brise;légèreté de la brise
+poids;fardeau;poids du fardeau
+masse;planète;masse de la planète
+volume;son;volume du son
+envergure;aigle;envergure de l'aigle
+taille;géant;taille du géant
+petitesse;atome;petitesse de l'atome
+immensité;galaxie;immensité de la galaxie
+infinité;univers;infinité de l'univers
+profondeur;gouffre;profondeur du gouffre
+altitude;montagne;altitude de la montagne
+latitude;position;latitude de la position
+longitude;lieu;longitude du lieu
+verticalité;mur;verticalité du mur
+horizontalité;horizon;horizontalité de l'horizon
+courbure;banane;courbure de la banane
+rondeur;ventre;rondeur du ventre
+circularité;cercle;circularité du cercle
+angle;coin;angle du coin
+symétrie;visage;symétrie du visage
+asymétrie;forme;asymétrie de la forme
+régularité;métronome;régularité du métronome
+irrégularité;terrain;irrégularité du terrain
+stabilité;bâtiment;stabilité du bâtiment
+instabilité;chimique;instabilité du chimique
+équilibre;balance;équilibre de la balance
+déséquilibre;force;déséquilibre de la force
+résistance;matériau;résistance du matériau
+faiblesse;structure;faiblesse de la structure
+étanchéité;toit;étanchéité du toit
+perméabilité;frontière;perméabilité de la frontière
+solubilité;sel;solubilité du sel
+saturation;couleur;saturation de la couleur
+teinte;peinture;teinte de la peinture
+nuance;gris;nuance de gris
+clarté;jour;clarté du jour
+obscurité;cave;obscurité de la cave
+pénombre;soir;pénombre du soir
+éclat;diamant;éclat du diamant
+brillance;vernis;brillance du vernis
+matité;teint;matité du teint
+reflet;miroir;reflet du miroir
+luminosité;écran;luminosité de l'écran
+intensité;lumière;intensité de la lumière
+chaleur;feu;chaleur du feu
+fraîcheur;cave;fraîcheur de la cave
+froideur;glace;froideur de la glace
+tiédeur;bain;tiédeur du bain
+température;four;température du four
+canicule;été;canicule de l'été
+glaciation;pôle;glaciation du pôle
+aridité;désert;aridité du désert
+humidité;jungle;humidité de la jungle
+sécheresse;peau;sécheresse de la peau
+moiteur;main;moiteur de la main
+salinité;mer;salinité de la mer
+acidité;vinaigre;acidité du vinaigre
+amertume;endive;amertume de l'endive
+douceur;sucre;douceur du sucre
+saveur;plat;saveur du plat
+goût;fruit;goût du fruit
+arôme;café;arôme du café
+parfum;fleur;parfum de la fleur
+odeur;poubelle;odeur de la poubelle
+puanteur;égout;puanteur de l'égout
+fragrance;parfum;fragrance du parfum
+sonorité;voix;sonorité de la voix
+timbre;instrument;timbre de l'instrument
+tonalité;musique;tonalité de la musique
+rythme;danse;rythme de la danse
+cadence;marche;cadence de la marche
+tempo;morceau;tempo du morceau
+fréquence;radio;fréquence de la radio
+vibration;corde;vibration de la corde
+résonance;salle;résonance de la salle
+écho;valée;écho de la vallée
+silence;nuit;silence de la nuit
+bruit;ville;bruit de la ville
+vacarme;chantier;vacarme du chantier
+brouhaha;foule;brouhaha de la foule
+tumulte;tempête;tumulte de la tempête
+calme;lac;calme du lac
+agitation;mer;agitation de la mer
+turbulence;vol;turbulence du vol
+vélocité;balle;vélocité de la balle
+lenteur;escargot;lenteur de l'escargot
+rapidité;éclair;rapidité de l'éclair
+vivacité;esprit;vivacité de l'esprit
+inertie;corps;inertie du corps
+accélération;voiture;accélération de la voiture
+freinage;camion;freinage du camion
+élan;sauteur;élan du sauteur
+rebond;balle;rebond de la balle
+adhérence;pneu;adhérence du pneu
+glissance;verglas;glissance du verglas
+frottement;tissu;frottement du tissu
+usure;temps;usure du temps
+fatigue;métal;fatigue du métal
+corrosion;fer;corrosion du fer
+rouille;clou;rouille du clou
+moisissure;pain;moisissure du pain
+pourriture;fruit;pourriture du fruit
+fraîcheur;poisson;fraîcheur du poisson
+péremption;date;péremption de la date
+validité;ticket;validité du ticket
+conformité;norme;conformité de la norme
+légalité;acte;légalité de l'acte
+nullité;contrat;nullité du contrat
+authenticité;tableau;authenticité du tableau
+falsification;document;falsification du document
+originalité;idée;originalité de l'idée
+banalité;quotidien;banalité du quotidien
+rareté;ressource;rareté de la ressource
+abondance;bien;abondance du bien
+manque;argent;manque d'argent
+excès;zèle;excès de zèle
+totalité;somme;totalité de la somme
+partie;tout;partie du tout
+fraction;nombre;fraction du nombre
+pourcentage;remise;pourcentage de la remise
+moyenne;classe;moyenne de la classe
+médiane;salaire;médiane du salaire
+écart;type;écart du type
+sommet;courbe;sommet de la courble
+creux;vague;creux de la vague
+pente;toit;pente du toit
+inclinaison;tour;inclinaison de la tour
+axe;rotation;axe de rotation
+centre;cercle;centre du cercle
+rayon;sphère;rayon de la sphère
+diamètre;tuyau;diamètre du tuyau
+périmètre;zone;périmètre de la zone
+surface;carré;surface du carré
+aire;jeu;aire de jeu
+superficie;pays;superficie du pays
+contenance;bouteille;contenance de la bouteille
+capacité;réservoir;capacité du réservoir
+débit;rivière;débit de la rivière
+pression;pneu;pression du pneu
+tension;câble;tension du câble
+voltage;batterie;voltage de la batterie
+ampérage;fusible;ampérage du fusible
+puissance;moteur;puissance du moteur
+énergie;soleil;énergie du soleil
+force;vent;force du vent
+vigueur;plante;vigueur de la plante
+vitalité;corps;vitalité du corps
+santé;fer;santé de fer
+maladie;siècle;maladie du siècle
+gravité;blessure;gravité de la blessure
+bénignité;tumeur;bénignité de la tumeur
+virulence;virus;virulence du virus
+contagiosité;grippe;contagiosité de la grippe
+immunité;groupe;immunité de groupe
+vulnérabilité;système;vulnérabilité du système
+sensibilité;capteur;sensibilité du capteur
+précision;montre;précision de la montre
+exactitude;calcul;exactitude du calcul
+erreur;mesure;erreur de mesure
+incertitude;résultat;incertitude du résultat
+fiabilité;source;fiabilité de la source
+stabilité;connexion;stabilité de la connexion
+vitesse;téléchargement;vitesse de téléchargement
+qualité;image;qualité de l'image
+résolution;écran;résolution de l'écran
+définition;vidéo;définition de la vidéo
+contraste;photo;contraste de la photo
+zoom;objectif;zoom de l'objectif
+focale;lentille;focale de la lentille
+ouverture;diaphragme;ouverture du diaphragme
+bonté;cœur;bonté du cœur
+méchanceté;loup;méchanceté du loup
+gentillesse;voisin;gentillesse du voisin
+cruauté;tyran;cruauté du tyran
+générosité;mécène;générosité du mécène
+avarice;harpagon;avarice d'Harpagon
+radinerie;oncle;radinerie de l'oncle
+prodigalité;héritier;prodigalité de l'héritier
+sagesse;ancien;sagesse de l'ancien
+folie;roi;folie du roi
+démence;vieillard;démence du vieillard
+intelligence;génie;intelligence du génie
+bêtise;âne;bêtise de l'âne
+stupidité;acte;stupidité de l'acte
+idiotie;propos;idiotie du propos
+naïveté;enfant;naïveté de l'enfant
+crédulité;public;crédulité du public
+ruse;renard;ruse du renard
+malice;singe;malice du singe
+finesse;stratège;finesse du stratège
+subtilité;analyse;subtilité de l'analyse
+grossièreté;personnage;grossièreté du personnage
+vulgarité;langage;vulgarité du langage
+politesse;hôte;politesse de l'hôte
+courtoisie;chevalier;courtoisie du chevalier
+galanterie;homme;galanterie de l'homme
+impolitesse;vendeur;impolitesse du vendeur
+insolence;élève;insolence de l'élève
+arrogance;vainqueur;arrogance du vainqueur
+hauteur;vue;hauteur de vue
+mépris;regard;mépris du regard
+dédain;réponse;dédain de la réponse
+orgueil;noble;orgueil du noble
+vanité;star;vanité de la star
+modestie;savant;modestie du savant
+humilité;moine;humilité du moine
+fierté;parent;fierté du parent
+honneur;famille;honneur de la famille
+dignité;homme;dignité de l'homme
+honte;famille;honte de la famille
+culpabilité;accusé;culpabilité de l'accusé
+innocence;victime;innocence de la victime
+courage;soldat;courage du soldat
+bravoure;guerrier;bravoure du guerrier
+héroïsme;pompier;héroïsme du pompier
+lâcheté;traître;lâcheté du traître
+peur;enfant;peur de l'enfant
+angoisse;examen;angoisse de l'examen
+anxiété;patient;anxiété du patient
+panique;foule;panique de la foule
+terreur;population;terreur de la population
+calme;pilote;calme du pilote
+sang-froid;chirurgien;sang-froid du chirurgien
+sérénité;bouddha;sérénité du bouddha
+patience;ange;patience d'ange
+impatience;enfant;impatience de l'enfant
+colère;dieu;colère du dieu
+rage;dent;rage de dent
+fureur;tempête;fureur de la tempête
+irritation;peau;irritation de la peau
+agacement;voix;agacement de la voix
+énervement;conducteur;énervement du conducteur
+frustration;joueur;frustration du joueur
+déception;fan;déception du fan
+tristesse;chanson;tristesse de la chanson
+mélancolie;poète;mélancolie du poète
+nostalgie;passé;nostalgie du passé
+chagrin;amoureux;chagrin de l'amoureux
+douleur;perte;douleur de la perte
+souffrance;malade;souffrance du malade
+misère;monde;misère du monde
+détresse;naufragé;détresse du naufragé
+joie;vivre;joie de vivre
+bonheur;couple;bonheur du couple
+félicité;éternelle;félicité éternelle
+allégresse;fête;allégresse de la fête
+euphorie;victoire;euphorie de la victoire
+enthousiasme;jeunesse;enthousiasme de la jeunesse
+optimisme;candidat;optimisme du candidat
+pessimisme;philosophe;pessimisme du philosophe
+réalisme;politique;réalisme politique
+cynisme;époque;cynisme de l'époque
+ironie;sort;ironie du sort
+sarcasme;ton;sarcasme du ton
+humour;situation;humour de la situation
+sérieux;affaire;sérieux de l'affaire
+gravité;ton;gravité du ton
+légèreté;être;légèreté de l'être
+frivolité;dame;frivolité de la dame
+inconstance;cœur;inconstance du cœur
+fidélité;chien;fidélité du chien
+loyauté;ami;loyauté de l'ami
+trahison;judas;trahison de Judas
+duplicité;espion;duplicité de l'espion
+hypocrisie;société;hypocrisie de la société
+franchise;camarade;franchise du camarade
+sincérité;aveu;sincérité de l'aveu
+honnêteté;commerçant;honnêteté du commerçant
+intégrité;juge;intégrité du juge
+probité;fonctionnaire;probité du fonctionnaire
+corruption;système;corruption du système
+vice;joueur;vice du joueur
+vertu;femme;vertu de la femme
+chasteté;prêtre;chasteté du prêtre
+luxure;débauché;luxure du débauché
+gourmandise;chat;gourmandise du chat
+envie;voisin;envie du voisin
+jalousie;mari;jalousie du mari
+paresse;koala;paresse du koala
+fainéantise;élève;fainéantise de l'élève
+oisiveté;rentier;oisiveté du rentier
+activité;fourmi;activité de la fourmi
+zèle;employé;zèle de l'employé
+ardeur;tâche;ardeur à la tâche
+passion;métier;passion du métier
+vocation;médecin;vocation du médecin
+ambition;jeune;ambition du jeune
+arrivisme;cadre;arrivisme du cadre
+détermination;champion;détermination du champion
+volonté;fer;volonté de fer
+persévérance;chercheur;persévérance du chercheur
+opiniâtreté;défense;opiniâtreté de la défense
+entêtement;mule;entêtement de la mule
+obstination;âne;obstination de l'âne
+témérité;aventurier;témérité de l'aventurier
+prudence;conducteur;prudence du conducteur
+méfiance;animal;méfiance de l'animal
+confiance;soi;confiance en soi
+assurance;pas;assurance du pas
+timidité;amoureux;timidité de l'amoureux
+réserve;anglais;réserve de l'anglais
+discrétion;valet;discrétion du valet
+curiosité;pie;curiosité de la pie
+indiscrétion;voisine;indiscrétion de la voisine
+bavardage;concierge;bavardage de la concierge
+silence;moine;silence du moine
+éloquence;tribun;éloquence du tribun
+rhétorique;discours;rhétorique du discours
+charisme;leader;charisme du leader
+autorité;chef;autorité du chef
+pouvoir;roi;pouvoir du roi
+influence;lobby;influence du lobby
+prestige;uniforme;prestige de l'uniforme
+réputation;établissement;réputation de l'établissement
+célébrité;acteur;célébrité de l'acteur
+anonymat;foule;anonymat de la foule
+solitude;poète;solitude du poète
+isolement;prisonnier;isolement du prisonnier
+sociabilité;homme;sociabilité de l'homme
+convivialité;repas;convivialité du repas
+hospitalité;gens;hospitalité des gens
+chaleur;accueil;chaleur de l'accueil
+froideur;réception;froideur de la réception
+indifférence;passant;indifférence du passanr
+compassion;infirmière;compassion de l'infirmière
+pitié;pauvre;pitié du pauvre
+charité;chrétien;charité du chrétien
+empathie;psychologue;empathie du psychologue
+amour;mère;amour de la mère
+tendresse;geste;tendresse du geste
+passion;amant;passion de l'amant
+désir;chair;désir de la chair
+attirance;aimant;attirance de l'aimant
+répulsion;insecte;répulsion de l'insecte
+dégoût;nourriture;dégoût de la nourriture
+haine;ennemi;haine de l'ennemi
+rancune;vaincu;rancune du vaincu
+vengeance;corse;vengeance corse
+pardon;offense;pardon de l'offense
+oubli;temps;oubli du temps
+mémoire;éléphant;mémoire d'éléphant
+souvenir;enfance;souvenir d'enfance
+imagination;auteur;imagination de l'auteur
+créativité;artiste;créativité de l'artiste
+talent;musicien;talent du musicien
+don;ciel;don du ciel
+génie;inventeur;génie de l'inventeur
+compétence;expert;compétence de l'expert
+expérience;ancien;expérience de l'ancien
+savoir;livre;savoir du livre
+connaissance;monde;connaissance du monde
+ignorance;loi;ignorance de la loi
+culture;générale;culture générale
+éducation;enfant;éducation de l'enfant
+politesse;roi;politesse des rois
+charme;discret;charme discret
+beauté;paysage;beauté du paysage
+laideur;péché;laideur du péché
+grâce;danseuse;grâce de la danseuse
+élégance;style;élégance du style
+chic;parisien;chic parisien
+glamour;star;glamour de la star
+prestance;officier;prestance de l'officier
+allure;sportive;allure sportive
+démarche;féline;démarche féline
+voix;roque;voix roque
+regard;perçant;regard perçant
+sourire;enjôleur;sourire enjôleur
+valeur;argent;valeur de l'argent
+prix;essence;prix de l'essence
+coût;vie;coût de la vie
+montant;facture;montant de la facture
+tarif;poste;tarif de la poste
+taux;change;taux de change
+intérêt;emprunt;intérêt de l'emprunt
+capital;société;capital de la société
+budget;état;budget de l'état
+déficit;commerce;déficit du commerce
+dette;pays;dette du pays
+bénéfice;doute;bénéfice du doute
+perte;vitesse;perte de vitesse
+profit;crime;profit du crime
+richesse;nation;richesse de la nation
+pauvreté;langage;pauvreté du langage
+misère;monde;misère du monde
+prospérité;entreprise;prospérité de l'entreprise
+croissance;économie;croissance de l'économie
+récession;marché;récession du marché
+inflation;prix;inflation des prix
+crise;nerfs;crise de nerfs
+faillite;système;faillite du système
+succès;opération;succès de l'opération
+échec;mission;échec de la mission
+réussite;examen;réussite de l'examen
+gloire;héros;gloire du héros
+renommée;artiste;renommée de l'artiste
+popularité;président;popularité du président
+légitimité;pouvoir;légitimité du pouvoir
+souveraineté;peuple;souveraineté du peuple
+liberté;presse;liberté de la presse
+égalité;chances;égalité des chances
+fraternité;hommes;fraternité des hommes
+justice;paix;justice de paix
+équité;jugement;équité du jugement
+droit;sol;droit du sol
+devoir;mémoire;devoir de mémoire
+loi;jungle;loi de la jungle
+règle;jeu;règle du jeu
+code;honneur;code d'honneur
+norme;sécurité;norme de sécurité
+principe;précaution;principe de précaution
+théorie;complot;théorie du complot
+hypothèse;travail;hypothèse de travail
+thèse;doctorat;thèse de doctorat
+argument;masse;argument de masse
+preuve;amour;preuve d'amour
+indice;confiance;indice de confiance
+signe;temps;signe des temps
+symbole;paix;symbole de la paix
+sens;vie;sens de la vie
+signification;rêve;signification du rêve
+but;voyage;but du voyage
+objectif;caméra;objectif de la caméra
+finalité;action;finalité de l'action
+cause;effet;cause de l'effet
+raison;état;raison d'état
+motif;absences;motif d'absence
+origine;monde;origine du monde
+source;problème;source du problème
+racine;mal;racine du mal
+base;données;base de données
+fondement;société;fondement de la société
+structure;atome;structure de l'atome
+organisation;travail;organisation du travail
+plan;ville;plan de la ville
+schéma;tactique;schéma tactique
+méthode;lecture;méthode de lecture
+système;solaire;système solaire
+réseau;routier;réseau routier
+chaîne;froid;chaîne du froid
+lien;sang;lien du sang
+relation;confiance;relation de confiance
+connexion;internet;connexion internet
+communication;non-verbale;communication non-verbale
+information;continue;information continue
+rumeur;ville;rumeur de la ville
+nouvelle;jour;nouvelle du jour
+message;espoir;message d'espoir
+langue;bois;langue de bois
+parole;honneur;parole d'honneur
+discours;méthode;discours de la méthode
+écrit;main;écrit de la main
+style;auteur;style de l'auteur
+ton;voix;ton de la voix
+forme;fond;forme du fond
+contenu;livre;contenu du livre
+sujet;roi;sujet du roi
+thème;soirée;thème de la soirée
+intrigue;roman;intrigue du roman
+suspense;film;suspense du film
+chute;histoire;chute de l'histoire
+morale;fable;morale de la fable
+leçon;vie;leçon de vie
+exemple;passé;exemple du passé
+modèle;vertu;modèle de vertu
+copie;original;copie de l'original
+imitation;cuir;imitation cuir
+contrefaçon;sac;contrefaçon de sac
+fraude;fiscale;fraude fiscale
+vol;étalage;vol à l'étalage
+crime;passionnel;crime passionnel
+délit;fuite;délit de fuite
+peine;mort;peine de mort
+sanction;exemplaire;sanction exemplaire
+amende;honorable;amende honorable
+prison;vie;prison à vie
+liberté;conditionnelle;liberté conditionnelle
+sécurité;emploi;sécurité de l'emploi
+danger;mort;danger de mort
+risque;métier;risque du métier
+menace;fantôme;menace fantôme
+protection;enfance;protection de l'enfance
+défense;droits;défense des droits
+attaque;panique;attaque de panique
+agression;visuelle;agression visuelle
+violence;conjugale;violence conjugale
+paix;âme;paix de l'âme
+guerre;étoiles;guerre des étoiles
+bataille;marne;bataille de la Marne
+victoire;musique;victoire de la musique
+défaite;cuisante;défaite cuisante
+armistice;novembre;armistice de novembre
+traité;versailles;traité de Versailles
+alliance;peuples;alliance des peuples
+union;force;union fait la force
+séparation;corps;séparation de corps
+divorce;amiable;divorce amiable
+mariage;amour;mariage d'amour
+fiançailles;longues;fiançailles longues
+célibat;prêtre;célibat du prêtre
+veuvage;joyeuse;veuve joyeuse
+parenté;spirituelle;parenté spirituelle
+filiation;directe;filiation directe
+adoption;plénière;adoption plénière
+tutelle;état;tutelle de l'état
+majorité;sexuelle;majorité sexuelle
+minorité;visible;minorité visible
+nationalité;française;nationalité française
+citoyenneté;européenne;citoyenneté européenne
+identité;nationale;identité nationale
+passeport;biométrique;passeport biométrique
+visa;touristique;visa touristique
+frontière;naturelle;frontière naturelle
+territoire;occupé;territoire occupé
+pays;merveilles;pays des merveilles
+région;parisienne;région parisienne
+ville;lumière;ville lumière
+village;global;village global
+quartier;latin;quartier latin
+rue;paix;rue de la paix
+adresse;ip;adresse IP
+code;postal;code postal
+numéro;chance;numéro de la chance
+étage;noble;étage noble
+porte;étoiles;porte des étoiles
+clé;sol;clé de sol
+serrure;cœur;serrure du cœur
+fenêtre;cour;fenêtre sur cour
+toit;monde;toit du monde
+mur;son;mur du son
+sol;mars;sol de Mars
+plafond;verre;plafond de verre
+cave;vin;cave à vin
+grenier;souvenirs;grenier aux souvenirs
+jardin;eden;jardin d'Eden
+parc;jurassique;parc jurassique
+place;marché;place du marché
+monument;morts;monument aux morts
+statue;liberté;statue de la liberté
+tour;controle;tour de contrôle
+pont;rivière;pont de la rivière
+route;rhum;route du rhum
+chemin;dames;chemin des dames
+sentier;guerre;sentier de la guerre
+autoroute;soleil;autoroute du soleil
+voies;seigneur;voies du seigneur
+rail;sécurité;rail de sécurité
+gare;nord;gare du nord
+port;salut;port du salut
+aéroport;nice;aéroport de Nice
+avion;chasse;avion de chasse
+bateau;ivre;bateau ivre
+voiture;peuple;voiture du peuple
+vélo;appartement;vélo d'appartement
+moto;cross;moto cross
+camion;poubelle;camion poubelle
+train;vie;train de vie
+métro;boulot;métro boulot dodo
+bus;scolaire;bus scolaire
+taxi;brousse;taxi brousse
+fusée;ariane;fusée Ariane
+satellite;espion;satellite espion
+sonde;spatiale;sonde spatiale
+station;orbitale;station orbitale
+vaisseau;fantôme;vaisseau fantôme
+étoile;berger;étoile du berger
+soleil;minuit;soleil de minuit
+lune;miel;lune de miel
+planète;singes;planète des singes
+comète;halley;comète de Halley
+météore;pegase;météore de Pégase
+galaxie;andromède;galaxie d'Andromède
+univers;étendu;univers étendu
+espace;vital;espace vital
+temps;perdu;temps perdu
+heure;vérité;heure de vérité
+minute;silence;minute de silence
+seconde;chance;seconde chance
+instant;présent;instant présent
+moment;solitude;moment de solitude
+période;essai;période d'essai
+époque;formidable;époque formidable
+siècle;lumières;siècle des lumières
+millénaire;prochain;millénaire prochain
+éternité;instant;éternité d'un instant
+jamais;dire;jamais dire jamais
+toujours;aimer;toujours aimer
+souvent;femme;souvent femme varie
+parfois;je;parfois je
+rarement;il;rarement il
+rougeur;cou;rougeur du cou
+blancheur;lys;blancheur du lys
+noirceur;âme;noirceur de l'âme
+verdeur;langage;verdeur du langage
+bleuissement;ciel;bleuissement du ciel
+jaunissement;feuille;jaunissement de la feuille
+coloration;cheveux;coloration des cheveux
+décoloration;tissu;décoloration du tissu
+transparence;robe;transparence de la robe
+opacité;gestion;opacité de la gestion
+flou;artistique;flou artistique
+netteté;image;netteté de l'image
+contraste;saisissant;contraste saisissant
+saturation;marché;saturation du marché
+luminosité;pièce;luminosité de la pièce
+obscurité;propos;obscurité du propos
+ombre;doute;ombre d'un doute
+lumière;espoir;lumière d'espoir
+rayon;soleil;rayon de soleil
+éclat;voix;éclat de voix
+reflet;eau;reflet de l'eau
+miroir;âme;miroir de l'âme
+image;père;image du père
+ressemblance;frappante;ressemblance frappante
+différence;taille;différence de taille
+similitude;cas;similitude des cas
+analogie;biologique;analogie biologique
+comparaison;raison;comparaison n'est pas raison
+métaphore;filée;métaphore filée
+allégorie;caverne;allégorie de la caverne
+symbole;justice;symbole de la justice
+signe;croix;signe de croix
+indice;protection;indice de protection
+trace;pneu;trace de pneu
+empreinte;carbone;empreinte carbone
+marque;fabrication;marque de fabrication
+sceau;secret;sceau du secret
+signature;électronique;signature électronique
+griffe;couturier;griffe du couturier
+style;vestimentaire;style vestimentaire
+mode;avion;mode avion
+tendance;lourde;tendance lourde
+vogue;actuelle;vogue actuelle
+démodé;vieux;démodé du vieux
+vintage;look;vintage look
+neuf;état;neuf d'état
+vieux;monde;vieux monde
+ancien;régime;ancien régime
+moderne;art;art moderne
+contemporain;droit;droit contemporain
+futur;proche;futur proche
+passé;simple;passé simple
+présent;indicatif;présent de l'indicatif
+antérieur;futur;futur antérieur
+postérieur;train;train postérieur
+ simultanéité;action;simultanéité de l'action
+succession;trône;succession au trône
+chronologie;faits;chronologie des faits
+histoire;drôle;histoire drôle
+légende;urbaine;légende urbaine
+mythe;fondateur;mythe fondateur
+conte;fées;conte de fées
+fable;animaux;fable des animaux
+roman;noir;roman noir
+nouvelle;cuisine;nouvelle cuisine
+poésie;pure;poésie pure
+théâtre;boulevard;théâtre de boulevard
+cinéma;muet;cinéma muet
+photo;classe;photo de classe
+peinture;huile;peinture à l'huile
+sculpture;bois;sculpture sur bois
+architecture;navale;architecture navale
+musique;chambre;musique de chambre
+danse;salon;danse de salon
+chant;cygne;chant du cygne
+opéra;bouffe;opéra bouffe
+concert;rock;concert de rock
+festival;cannes;festival de Cannes
+cirque;soleil;cirque du soleil
+zoo;humain;zoo humain
+musée;cire;musée de cire
+galerie;glaces;galerie des glaces
+bibliothèque;rose;bibliothèque rose
+librairie;ancienne;librairie ancienne
+école;vie;école de la vie
+collège;électoral;collège électoral
+lycée;professionnel;lycée professionnel
+faculté;médecine;faculté de médecine
+université;été;université d'été
+classe;neige;classe de neige
+cours;magistral;cours magistral
+leçon;choses;leçon de choses
+examen;conscience;examen de conscience
+concours;circonstances;concours de circonstances
+diplôme;état;diplôme d'état
+certificat;décès;certificat de décès
+attestation;honneur;attestation sur l'honneur
+permis;chasse;permis de chasse
+licence;poétique;licence poétique
+master;class;master class
+doctorat;lettres;doctorat de lettres
+recherche;emploi;recherche d'emploi
+découverte;amérique;découverte de l'Amérique
+invention;écriture;invention de l'écriture
+création;monde;création du monde
+fabrication;française;fabrication française
+production;masse;production de masse
+consommation;ménage;consommation des ménages
+vente;enchères;vente aux enchères
+achat;impulsif;achat impulsif
+échange;marchandise;échange de marchandise
+troc;plantes;troc de plantes
+don;organe;don d'organe
+partage;connexion;partage de connexion
+prêt;porter;prêt à porter
+emprunt;russe;emprunt russe
+dette;publique;dette publique
+crédit;impôt;crédit d'impôt
+banque;sang;banque du sang
+bourse;valeurs;bourse des valeurs
+argent;sale;argent sale
+or;noir;or noir
+diamant;brut;diamant brut
+rubis;sang;rubis sur l'ongle
+émeraude;vert;vert émeraude
+saphir;bleu;bleu saphir
+perle;culture;perle de culture
+bijou;famille;bijou de famille
+collier;perles;collier de perles
+bague;fiançailles;bague de fiançailles
+bracelet;montre;bracelet de montre
+boucle;oreille;boucle d'oreille
+broche;grand-mère;broche de grand-mère
+montre;gousset;montre à gousset
+lunettes;soleil;lunettes de soleil
+chapeau;paille;chapeau de paille
+casquette;marin;casquette de marin
+bonnet;âne;bonnet d'âne
+écharpe;soie;écharpe de soie
+gants;boxe;gants de boxe
+manteau;fourrure;manteau de fourrure
+veste;cuir;veste en cuir
+chemise;nuit;chemise de nuit
+pantalon;velours;pantalon de velours
+jupe;plissée;jupe plissée
+robe;mariée;robe de mariée
+costume;bain;costume de bain
+chaussures;sport;chaussures de sport
+bottes;sept lieues;bottes de sept lieues
+sandales;cuir;sandales de cuir
+chaussettes;laine;chaussettes de laine
+bas;résille;bas résille
+collant;opaque;collant opaque
+slip;bain;slip de bain
+maillot;jaune;maillot jaune
+pyjama;rayé;pyjama rayé
+linge;corps;linge de corps
+tissu;mensonges;tissu de mensonges
+toile;fond;toile de fond
+coton;tige;coton tige
+laine;verre;laine de verre
+soie;dentaire;soie dentaire
+cuir;chevelu;cuir chevelu
+peau;chagrin;peau de chagrin
+fourrure;synthétique;fourrure synthétique
+plume;oie;plume d'oie
+duvet;canard;duvet de canard
+écaille;tortue;écaille de tortue
+os;poulet;os de poulet
+ivoire;éléphant;ivoire d'éléphant
+corne;brume;corne de brume
+bois;justice;bois de justice
+pierre;philosophale;pierre philosophale
+fer;lance;fer de lance
+acier;trempé;acier trempé
+cuivre;jaune;cuivre jaune
+bronze;art;bronze d'art
+argent;massif;argent massif
+or;fin;or fin
+platine;disque;disque de platine
+plomb;aile;plomb dans l'aile
+zinc;bar;zinc du bar
+aluminium;papier;papier aluminium
+titane;prothèse;prothèse en titane
+carbone;fibre;fibre de carbone
+plastique;fou;plastique fou
+caoutchouc;naturel;caoutchouc naturel
+verre;contact;verre de contact
+cristal;roche;cristal de roche
+céramique;art;céramique d'art
+porcelaine;limoges;porcelaine de Limoges
+terre;cuite;terre cuite
+brique;rouge;brique rouge
+béton;armé;béton armé
+ciment;prompt;ciment prompt
+plâtre;paris;plâtre de Paris
+chaux;vive;chaux vive
+sable;fin;sable fin
+gravier;route;gravier de la route
+goudron;plume;goudron et plumes
+asphalte;jungles;jungle d'asphalte
+marbre;carrare;marbre de Carrare
+granit;breton;granit breton
+ardoise;toit;ardoise du toit
+tuile;canal;tuile canal
+paille;fer;paille de fer
+foin;botte;botte de foin
+chanvre;corde;corde de chanvre
+lin;graine;graine de lin

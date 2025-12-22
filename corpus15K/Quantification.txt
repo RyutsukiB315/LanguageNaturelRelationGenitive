@@ -1,0 +1,1191 @@
+brin;herbe;brin d'herbe
+minute;attente;minute d'attente
+kilo;pommes;kilo de pommes
+litre;eau;litre d'eau
+tasse;café;tasse de café
+verre;lait;verre de lait
+pincée;sel;pincée de sel
+groupe;touristes;groupe de touristes
+foule;gens;foule de gens
+troupeau;moutons;troupeau de moutons
+meute;loups;meute de loups
+bande;amis;bande d'amis
+équipe;joueurs;équipe de joueurs
+paire;chaussures;paire de chaussures
+douzaine;oeufs;douzaine d'oeufs
+centaine;personnes;centaine de personnes
+millier;étoiles;millier d'étoiles
+tas;feuilles;tas de feuilles
+pile;livres;pile de livres
+monceau;ruines;monceau de ruines
+goutte;pluie;goutte de pluie
+flaque;boue;flaque de boue
+grain;sable;grain de sable
+miette;pain;miette de pain
+tranche;jambon;tranche de jambon
+morceau;sucre;morceau de sucre
+part;gâteau;part de gâteau
+zeste;citron;zeste de citron
+quartier;pomme;quartier de pomme
+gousse;ail;gousse d'ail
+botte;radis;botte de radis
+bouquet;fleurs;bouquet de fleurs
+gerbe;blé;gerbe de blé
+rangée;sièges;rangée de sièges
+file;voitures;file de voitures
+panier;fruits;panier de fruits
+caisse;outils;caisse d'outils
+sac;billes;sac de billes
+boîte;chocolats;boîte de chocolats
+paquet;cigarettes;paquet de cigarettes
+tablette;chocolat;tablette de chocolat
+rouleau;papier;rouleau de papier
+bobine;fil;bobine de fil
+pelote;laine;pelote de laine
+bouteille;vin;bouteille de vin
+pichet;eau;pichet d'eau
+baril;pétrole;baril de pétrole
+tonne;charbon;tonne de charbon
+gramme;farine;gramme de farine
+mètre;tissu;mètre de tissu
+kilomètre;route;kilomètre de route
+hectare;forêt;hectare de forêt
+arpent;terre;arpent de terre
+cuillerée;sirop;cuillerée de sirop
+poignée;main;poignée de main
+brasée;bois;brasée de bois
+nuée;oiseaux;nuée d'oiseaux
+banc;poissons;banc de poissons
+essaim;abeilles;essaim d'abeilles
+fourmilière;insectes;fourmilière d'insectes
+armée;soldats;armée de soldats
+flotte;navires;flotte de navires
+escadrille;avions;escadrille d'avions
+collection;timbres;collection de timbres
+série;questions;série de questions
+liste;noms;liste de noms
+répertoire;numéros;répertoire de numéros
+chapelet;injures;chapelet d'injures
+montagne;dettes;montagne de dettes
+océan;larmes;océan de larmes
+parcelle;terrain;parcelle de terrain
+fragment;roche;fragment de roche
+éclat;verre;éclat de verre
+lambeau;peau;lambeau de peau
+brin;muguet;brin de muguet
+touffe;cheveux;touffe de cheveux
+mèche;cheveux;mèche de cheveux
+larme;vin;larme de vin
+soupçon;vérité;soupçon de vérité
+rayon;soleil;rayon de soleil
+verre;eau;verre d'eau
+verre;vin;verre de vin
+verre;lait;verre de lait
+verre;bière;verre de bière
+verre;jus;verre de jus
+tasse;thé;tasse de thé
+tasse;café;tasse de café
+tasse;chocolat;tasse de chocolat
+tasse;tisane;tasse de tisane
+bol;soupe;bol de soupe
+bol;riz;bol de riz
+bol;céréales;bol de céréales
+bol;air;bol d'air
+assiette;pâtes;assiette de pâtes
+assiette;charcuterie;assiette de charcuterie
+assiette;fromage;assiette de fromage
+assiette;frites;assiette de frites
+plat;résistance;plat de résistance
+plat;nouilles;plat de nouilles
+bouteille;eau;bouteille d'eau
+bouteille;vin;bouteille de vin
+bouteille;champagne;bouteille de champagne
+bouteille;huile;bouteille d'huile
+bouteille;lait;bouteille de lait
+bouteille;gaz;bouteille de gaz
+bouteille;parfum;bouteille de parfum
+flacon;parfum;flacon de parfum
+flacon;sirop;flacon de sirop
+flacon;vitamines;flacon de vitamines
+carafe;eau;carafe d'eau
+carafe;vin;carafe de vin
+pichet;cidre;pichet de cidre
+pichet;bière;pichet de bière
+broc;eau;broc d'eau
+cruche;eau;cruche d'eau
+bidon;essence;bidon d'essence
+bidon;huile;bidon d'huile
+bidon;lessive;bidon de lessive
+baril;pétrole;baril de pétrole
+baril;poudre;baril de poudre
+fût;bière;fût de bière
+fût;chêne;fût de chêne
+tonneau;vin;tonneau de vin
+tonneau;rhum;tonneau de rhum
+barrique;vin;barrique de vin
+citerne;eau;citerne d'eau
+citerne;gaz;citerne de gaz
+réservoir;essence;réservoir d'essence
+seau;eau;seau d'eau
+seau;charbon;seau de charbon
+seau;sable;seau de sable
+seau;champagne;seau de champagne
+bassine;eau;bassine d'eau
+bassine;confiture;bassine de confiture
+cuve;fioul;cuve de fioul
+cuve;vin;cuve de vin
+baignoire;mousse;baignoire de mousse
+piscine;boules;piscine de boules
+pot;confiture;pot de confiture
+pot;miel;pot de miel
+pot;moutarde;pot de moutarde
+pot;crème;pot de crème
+pot;yaourt;pot de yaourt
+pot;fleurs;pot de fleurs
+pot;colle;pot de colle
+pot;peinture;pot de peinture
+bocal;cornichons;bocal de cornichons
+bocal;poissons;bocal de poissons
+bocal;olives;bocal d'olives
+boîte;chocolats;boîte de chocolats
+boîte;biscuits;boîte de biscuits
+boîte;conserves;boîte de conserves
+boîte;sardines;boîte de sardines
+boîte;thon;boîte de thon
+boîte;allumettes;boîte d'allumettes
+boîte;chaussures;boîte de chaussures
+boîte;outils;boîte d'outils
+boîte;gants;boîte de gants
+boîte;lettres;boîte de lettres
+boîte;pandore;boîte de Pandore
+caisse;pommes;caisse de pommes
+caisse;vin;caisse de vin
+caisse;munitions;caisse de munitions
+caisse;outils;caisse d'outils
+caisse;épargne;caisse d'épargne
+carton;livres;carton de livres
+carton;déménagement;carton de déménagement
+carton;lait;carton de lait
+brique;lait;brique de lait
+brique;jus;brique de jus
+paquet;cigarettes;paquet de cigarettes
+paquet;bonbons;paquet de bonbons
+paquet;café;paquet de café
+paquet;pâtes;paquet de pâtes
+paquet;farine;paquet de farine
+paquet;lessive;paquet de lessive
+paquet;mouchoirs;paquet de mouchoirs
+sachet;thé;sachet de thé
+sachet;levure;sachet de levure
+sachet;graines;sachet de graines
+sachet;bonbons;sachet de bonbons
+sachet;lavande;sachet de lavande
+sac;pommes de terre;sac de pommes de terre
+sac;charbon;sac de charbon
+sac;ciment;sac de ciment
+sac;farine;sac de farine
+sac;riz;sac de riz
+sac;billes;sac de billes
+sac;sport;sac de sport
+sac;voyage;sac de voyage
+sac;main;sac de main
+sac;dos;sac de dos
+valise;billets;valise de billets
+valise;vêtements;valise de vêtements
+malle;souvenirs;malle de souvenirs
+malle;trésors;malle de trésors
+coffre;jouets;coffre de jouets
+coffre;bijoux;coffre de bijoux
+écrin;bijoux;écrin de bijoux
+étui;lunettes;étui de lunettes
+étui;violon;étui de violon
+housse;guitare;housse de guitare
+housse;couette;housse de couette
+panier;fruits;panier de fruits
+panier;légumes;panier de légumes
+panier;linge;panier de linge
+panier;crabe;panier de crabes
+corbeille;pain;corbeille de pain
+corbeille;fruits;corbeille de fruits
+corbeille;papier;corbeille de papier
+cagette;légumes;cagette de légumes
+barquette;fraises;barquette de fraises
+barquette;frites;barquette de frites
+tube;dentifrice;tube de dentifrice
+tube;colle;tube de colle
+tube;peinture;tube de peinture
+tube;vitamines;tube de vitamines
+rouleau;papier;rouleau de papier
+rouleau;scotch;rouleau de scotch
+rouleau;moquette;rouleau de moquette
+rouleau;tissu;rouleau de tissu
+bobine;fil;bobine de fil
+bobine;film;bobine de film
+pelote;laine;pelote de laine
+pelote;ficelle;pelote de ficelle
+écheveau;laine;écheveau de laine
+tablette;chocolat;tablette de chocolat
+tablette;médicament;tablette de médicament
+plaquette;beurre;plaquette de beurre
+plaquette;chocolat;plaquette de chocolat
+motte;beurre;motte de beurre
+motte;terre;motte de terre
+pain;glace;pain de glace
+pain;savon;pain de savon
+pain;sucre;pain de sucre
+barre;chocolat;barre de chocolat
+barre;céréales;barre de céréales
+barre;fer;barre de fer
+lingot;or;lingot d'or
+pièce;monnaie;pièce de monnaie
+pièce;bœuf;pièce de bœuf
+tranche;pain;tranche de pain
+tranche;jambon;tranche de jambon
+tranche;vie;tranche de vie
+tranche;gâteau;tranche de gâteau
+morceau;sucre;morceau de sucre
+morceau;pain;morceau de pain
+morceau;bois;morceau de bois
+morceau;musique;morceau de musique
+miette;pain;miette de pain
+miette;thon;miette de thon
+grain;sable;grain de sable
+grain;sel;grain de sel
+grain;riz;grain de riz
+grain;blé;grain de blé
+grain;maïs;grain de maïs
+grain;folie;grain de folie
+grain;beauté;grain de beauté
+graine;champion;graine de champion
+pépin;raisin;pépin de raisin
+noyau;cerise;noyau de cerise
+gousse;ail;gousse d'ail
+gousse;vanille;gousse de vanille
+tête;ail;tête d'ail
+quartier;pomme;quartier de pomme
+quartier;orange;quartier d'orange
+quartier;lune;quartier de lune
+zeste;citron;zeste de citron
+zeste;orange;zeste d'orange
+brin;herbe;brin d'herbe
+brin;paille;brin de paille
+brin;muguet;brin de muguet
+brin;laine;brin de laine
+brin;causette;brin de causette
+pincée;sel;pincée de sel
+pincée;poivre;pincée de poivre
+poignée;main;poignée de main
+poignée;cerises;poignée de cerises
+poignée;sable;poignée de sable
+poignée;porte;poignée de porte
+brassée;fleurs;brassée de fleurs
+brassée;bois;brassée de bois
+botte;foin;botte de foin
+botte;paille;botte de paille
+botte;radis;botte de radis
+botte;poireaux;botte de poireaux
+botte;asperges;botte d'asperges
+bouquet;fleurs;bouquet de fleurs
+bouquet;roses;bouquet de roses
+bouquet;persil;bouquet de persil
+bouquet;garni;bouquet de garni
+gerbe;blé;gerbe de blé
+gerbe;fleurs;gerbe de fleurs
+fagot;bois;fagot de bois
+filet;eau;filet d'eau
+filet;voix;filet de voix
+filet;huile;filet d'huile
+filet;vinaigre;filet de vinaigre
+filet;citron;filet de citron
+goutte;eau;goutte d'eau
+goutte;pluie;goutte de pluie
+goutte;sang;goutte de sang
+goutte;sueur;goutte de sueur
+larme;vin;larme de vin
+larme;joie;larme de joie
+perle;pluie;perle de pluie
+perle;sueur;perle de sueur
+flaque;eau;flaque d'eau
+flaque;boue;flaque de boue
+flaque;sang;flaque de sang
+mare;sang;mare de sang
+océan;larmes;océan de larmes
+rivière;diamants;rivière de diamants
+pluie;éloges;pluie d'éloges
+avalanche;cadeaux;avalanche de cadeaux
+montagne;dettes;montagne de dettes
+monceau;ruines;monceau de ruines
+tas;feuilles;tas de feuilles
+tas;bois;tas de bois
+tas;pierres;tas de pierres
+pile;livres;pile de livres
+pile;assiettes;pile d'assiettes
+pile;dossiers;pile de dossiers
+amas;étoiles;amas d'étoiles
+amas;cellules;amas de cellules
+touffe;herbe;touffe d'herbe
+touffe;cheveux;touffe de cheveux
+mèche;cheveux;mèche de cheveux
+boucle;cheveux;boucle de cheveux
+copeau;bois;copeau de bois
+limaille;fer;limaille de fer
+sciure;bois;sciure de bois
+poussière;étoile;poussière d'étoile
+nuage;lait;nuage de lait
+nuage;fumée;nuage de fumée
+nuage;poussière;nuage de poussière
+boule;neige;boule de neige
+boule;feu;boule de feu
+boule;gomme;boule de gomme
+boule;glace;boule de glace
+cube;glace;cube de glace
+cube;bouillon;cube de bouillon
+pavé;saumon;pavé de saumon
+pavé;rue;pavé de rue
+dalle;béton;dalle de béton
+plaque;verglas;plaque de verglas
+plaque;chocolat;plaque de chocolat
+feuille;papier;feuille de papier
+feuille;arbre;feuille d'arbre
+feuille;salade;feuille de salade
+pétale;rose;pétale de rose
+lamelle;champignon;lamelle de champignon
+aiguille;pin;aiguille de pin
+épine;rose;épine de rose
+branche;lunettes;branche de lunettes
+branche;famille;branche de la famille
+tronc;arbre;tronc d'arbre
+bûche;bois;bûche de bois
+stère;bois;stère de bois
+corde;bois;corde de bois
+rame;papier;rame de papier
+liasse;billets;liasse de billets
+rouleau;printemps;rouleau de printemps
+foule;gens;foule de gens
+groupe;touristes;groupe de touristes
+groupe;rock;groupe de rock
+bande;amis;bande d'amis
+bande;voleurs;bande de voleurs
+gang;malfaiteurs;gang de malfaiteurs
+équipe;foot;équipe de foot
+équipe;ouvriers;équipe d'ouvriers
+équipe;chercheurs;équipe de chercheurs
+tribu;indiens;tribu d'indiens
+tribu;nomades;tribu de nomades
+clan;écossais;clan d'écossais
+famille;artistes;famille d'artistes
+dynastie;rois;dynastie de rois
+lignée;champions;lignée de champions
+troupe;théâtre;troupe de théâtre
+troupe;danseurs;troupe de danseurs
+compagnie;soldats;compagnie de soldats
+régiment;infanterie;régiment d'infanterie
+bataillon;chasseurs;bataillon de chasseurs
+armée;soldats;armée de soldats
+armée;ombres;armée des ombres
+légion;honneur;légion d'honneur
+cohorte;romains;cohorte de romains
+phalange;grecs;phalange de grecs
+horde;sauvages;horde de sauvages
+horde;touristes;horde de touristes
+meute;loups;meute de loups
+meute;chiens;meute de chiens
+meute;journalistes;meute de journalistes
+troupeau;moutons;troupeau de moutons
+troupeau;vaches;troupeau de vaches
+troupeau;éléphants;troupeau d'éléphants
+cheptel;bétail;cheptel de bétail
+harde;cerfs;harde de cerfs
+harde;sangliers;harde de sangliers
+compagnie;perdrix;compagnie de perdrix
+volée;moineaux;volée de moineaux
+volée;plombs;volée de plombs
+volée;bois;volée de bois (vert)
+nuée;oiseaux;nuée d'oiseaux
+nuée;sauterelles;nuée de sauterelles
+essaim;abeilles;essaim d'abeilles
+essaim;guêpes;essaim de guêpes
+ruche;abeilles;ruche d'abeilles
+fourmilière;fourmis;fourmilière de fourmis
+colonie;vacances;colonie de vacances
+colonie;fourmis;colonie de fourmis
+colonie;pingouins;colonie de pingouins
+banc;poissons;banc de poissons
+banc;sardines;banc de sardines
+banc;requins;banc de requins
+banc;brouillard;banc de brouillard
+portée;chiots;portée de chiots
+portée;chatons;portée de chatons
+nid;vipères;nid de vipères
+nid;espions;nid d'espions
+nid;poule;nid de poule
+couvée;poussins;couvée de poussins
+attelage;chiens;attelage de chiens
+attelage;chevaux;attelage de chevaux
+écurie;course;écurie de course
+flotte;navires;flotte de navires
+flotte;véhicules;flotte de véhicules
+escadre;avions;escadre d'avions
+escadrille;chasse;escadrille de chasse
+convoi;camions;convoi de camions
+convoi;exceptionnel;convoi exceptionnel
+cortège;mariage;cortège de mariage
+cortège;manifestants;cortège de manifestants
+défilé;mode;défilé de mode
+défilé;chars;défilé de chars
+procession;religieuse;procession religieuse
+file;attente;file d'attente
+file;voitures;file de voitures
+queue;leu;queue leu leu
+chapelet;saucisses;chapelet de saucisses
+chapelet;îles;chapelet d'îles
+collier;perles;collier de perles
+rang;oignons;rang d'oignons
+rangée;sièges;rangée de sièges
+rangée;arbres;rangée d'arbres
+allée;arbres;allée d'arbres
+haie;honneur;haie d'honneur
+haie;spectateurs;haie de spectateurs
+mur;briques;mur de briques
+mur;silence;mur de silence
+chaîne;montagnes;chaîne de montagnes
+chaîne;télévision;chaîne de télévision
+chaîne;magasins;chaîne de magasins
+réseau;ferré;réseau ferré
+réseau;social;réseau social
+réseau;espions;réseau d'espions
+cercle;amis;cercle d'amis
+cercle;jeu;cercle de jeu
+club;sport;club de sport
+association;malfaiteurs;association de malfaiteurs
+syndicat;copropriétaires;syndicat de copropriétaires
+conseil;ministres;conseil des ministres
+conseil;administration;conseil d'administration
+comité;direction;comité de direction
+commission;enquête;commission d'enquête
+jury;assises;jury d'assises
+assemblée;nationale;assemblée nationale
+parlement;européen;parlement européen
+congrès;médecins;congrès de médecins
+conférence;presse;conférence de presse
+séminaire;entreprise;séminaire d'entreprise
+réunion;famille;réunion de famille
+classe;élèves;classe d'élèves
+promo;étudiants;promo d'étudiants
+fournée;pain;fournée de pain
+fournée;diplômés;fournée de diplômés
+génération;miterrand;génération Mitterrand
+vague;froid;vague de froid
+vague;chaleur;vague de chaleur
+vague;immigration;vague d'immigration
+marée;humaine;marée humaine
+flux;migratoire;flux migratoire
+afflux;touristes;afflux de touristes
+masse;air;masse d'air
+masse;informations;masse d'informations
+faisceau;lumière;faisceau de lumière
+faisceau;indices;faisceau d'indices
+gerbe;étincelles;gerbe d'étincelles
+pluie;météorites;pluie de météorites
+averse;grêle;averse de grêle
+tempête;neige;tempête de neige
+tempête;sable;tempête de sable
+rafale;vent;rafale de vent
+coup;vent;coup de vent
+bouffée;air;bouffée d'air
+bouffée;chaleur;bouffée de chaleur
+soupçon;jalousie;soupçon de jalousie
+brin;jasetterie;brin de causette
+parcelle;vérité;parcelle de vérité
+once;courage;once de courage
+atome;bon sens;atome de bon sens
+grain;sable;grain de sable (dans l'engrenage)
+ombre;doute;ombre d'un doute
+lueur;espoir;lueur d'espoir
+rayon;soleil;rayon de soleil
+éclat;rire;éclat de rire
+éclat;voix;éclat de voix
+torrent;injures;torrent d'injures
+flot;paroles;flot de paroles
+avalanche;problèmes;avalanche de problèmes
+cascade;événements;cascade d'événements
+série;noire;série noire
+suite;nombres;suite de nombres
+liste;courses;liste de courses
+liste;invités;liste d'invités
+répertoire;adresses;répertoire d'adresses
+catalogue;jouets;catalogue de jouets
+menu;fêtes;menu de fêtes
+carte;vins;carte des vins
+atlas;monde;atlas du monde
+dictionnaire;mots;dictionnaire de mots
+encyclopédie;savoir;encyclopédie du savoir
+anthologie;poésie;anthologie de poésie
+recueil;nouvelles;recueil de nouvelles
+album;photos;album de photos
+album;timbres;album de timbres
+collection;pièces;collection de pièces
+collection;art;collection d'art
+musée;horreurs;musée des horreurs
+exposition;peinture;exposition de peinture
+galerie;portraits;galerie de portraits
+bibliothèque;livres;bibliothèque de livres
+discothèque;disques;discothèque de disques
+vidéothèque;films;vidéothèque de films
+ludothèque;jeux;ludothèque de jeux
+pharmacie;garde;pharmacie de garde
+trousse;toilette;trousse de toilette
+trousse;secours;trousse de secours
+nécessaire;couture;nécessaire de couture
+boîte;couture;boîte de couture
+jeu;clés;jeu de clés
+jeu;cartes;jeu de cartes
+jeu;société;jeu de société
+set;table;set de table
+service;vaisselle;service de vaisselle
+service;thé;service à thé
+ménagère;argent;ménagère en argent
+batterie;cuisine;batterie de cuisine
+panoplie;zorron;panoplie de Zorro
+équipement;ski;équipement de ski
+matériel;camping;matériel de camping
+attirail;pêche;attirail de pêche
+barda;soldat;barda du soldat
+fourbi;militaire;fourbi militaire
+trouvaille;brocante;trouvaille de brocante
+butin;cambriolage;butin du cambriolage
+magot;avare;magot de l'avare
+trésor;pirate;trésor de pirate
+fortune;mer;fortune de mer
+capital;sympathie;capital sympathie
+fonds;commerce;fonds de commerce
+stock;marchandises;stock de marchandises
+réserve;indiens;réserve d'indiens
+réserve;chasse;réserve de chasse
+parc;attractions;parc d'attractions
+parc;huîtres;parc à huîtres
+parc;automobiles;parc automobile
+jardin;enfants;jardin d'enfants
+forêt;sapins;forêt de sapins
+champ;bataille;champ de bataille
+champ;blé;champ de blé
+désert;Gobi;désert de Gobi
+désert;sel;désert de sel
+océan;Atlantique;océan Atlantique
+mer;Nord;mer du Nord
+lac;Côme;lac de Côme
+étang;grenouilles;étang aux grenouilles
+rivière;diamants;rivière de diamants
+fleuve;Amour;fleuve Amour
+source;jeunesse;source de jouvence
+fontaine;jouvence;fontaine de jouvence
+puits;science;puits de science
+mine;or;mine d'or
+mine;crayon;mine de crayon
+carrière;marbre;carrière de marbre
+gisement;pétrole;gisement de pétrole
+nappe;phréatique;nappe phréatique
+couche;ozone;couche d'ozone
+strate;géologique;strate géologique
+bloc;béton;bloc de béton
+brique;lait;brique de lait
+dalle;écran;dalle d'écran
+tuile;toit;tuile de toit
+ardoise;toit;ardoise de toit
+planche;salut;planche de salut
+bâton;maréchal;bâton de maréchal
+baguette;pain;baguette de pain
+baguette;magique;baguette magique
+canne;sucre;canne à sucre
+tige;fleur;tige de fleur
+tronc;arbre;tronc d'arbre
+souche;arbre;souche d'arbre
+racine;cheveu;racine de cheveu
+bulbe;tulipe;bulbe de tulipe
+graine;star;graine de star
+noyau;famille;noyau familial
+cellule;crise;cellule de crise
+atome;hydrogène;atome d'hydrogène
+molécule;eau;molécule d'eau
+particule;élémentaire;particule élémentaire
+électron;libre;électron libre
+proton;noyau;proton du noyau
+neutron;atome;neutron de l'atome
+photon;lumière;photon de lumière
+kilo;plumes;kilo de plumes
+kilo;plomb;kilo de plomb
+livre;beurre;livre de beurre
+tonne;acier;tonne d'acier
+quintal;blé;quintal de blé
+gramme;or;gramme d'or
+milligramme;médicament;milligramme de médicament
+once;or;once d'or
+carat;diamant;carat de diamant
+litre;lait;litre de lait
+litre;essence;litre d'essence
+pinte;bière;pinte de bière
+galon;essence;galon d'essence
+baril;pétrole;baril de pétrole
+mètre;ruban;mètre de ruban
+centimètre;couture;centimètre de couture
+millimètre;pluie;millimètre de pluie
+kilomètre;heure;kilomètre par heure
+mile;marin;mile marin
+pied;nez;pied de nez
+pouce;terrain;pouce de terrain
+coudée;franche;coudée franche
+lieue;marche;lieue de marche
+arpent;vigne;arpent de vigne
+hectare;forêt;hectare de forêt
+are;jardin;are de jardin
+mètre carré;surface;mètre carré de surface
+mètre cube;béton;mètre cube de béton
+stère;bois;stère de bois
+corde;bois;corde de bois
+degré;alcool;degré d'alcool
+degré;température;degré de température
+volt;tension;volt de tension
+watt;puissance;watt de puissance
+ampère;intensité;ampère d'intensité
+ohm;résistance;ohm de résistance
+hertz;fréquence;hertz de fréquence
+decibel;bruit;décibel de bruit
+calorie;repas;calorie de repas
+joule;énergie;joule d'énergie
+newton;force;newton de force
+pascal;pression;pascal de pression
+bar;pression;bar de pression
+atmosphére;pression;atmosphère de pression
+noeud;vitesse;nœud de vitesse
+mach;vitesse;mach de vitesse
+année;lumière;année de lumière
+seconde;répit;seconde de répit
+minute;silence;minute de silence
+heure;colle;heure de colle
+jour;fête;jour de fête
+semaine;bonté;semaine de bonté
+mois;marie;mois de marie
+an;grâce;an de grâce
+siècle;lumières;siècle des lumières
+millénaire;paix;millénaire de paix
+ère;glaciaire;ère glaciaire
+époque;victorienne;époque victorienne
+période;essai;période d'essai
+laps;temps;laps de temps
+instant;bonheur;instant de bonheur
+moment;vérité;moment de vérité
+éternité;attente;éternité d'attente
+paire;chaussures;paire de chaussures
+paire;gants;paire de gants
+paire;lunettes;paire de lunettes
+paire;rois;paire de rois
+paire;as;paire d'as
+paire;jumeaux;paire de jumeaux
+couple;danseurs;couple de danseurs
+couple;amoureux;couple d'amoureux
+duo;chanteurs;duo de chanteurs
+trio;jazz;trio de jazz
+quatuor;cordes;quatuor à cordes
+quintette;vent;quintette à vent
+dizaine;oeufs;dizaine d'œufs
+douzaine;huîtres;douzaine d'huîtres
+quinzaine;jours;quinzaine de jours
+vingtaine;élèves;vingtaine d'élèves
+cinquantaine;années;cinquantaine d'années
+centaine;pas;centaine de pas
+millier;étoiles;millier d'étoiles
+million;dollars;million de dollars
+milliard;habitants;milliard d'habitants
+multitude;gens;multitude de gens
+foule;sentiments;foule de sentiments
+pléthore;candidats;pléthore de candidats
+profusion;fleurs;profusion de fleurs
+abondance;biens;abondance de biens
+excès;zèle;excès de zèle
+surplus;bagages;surplus de bagages
+reste;repas;reste de repas
+moitié;prix;moitié de prix
+tiers;monde;tiers monde
+quart;heure;quart d'heure
+demi;bière;demi de bière
+demi;sel;demi sel
+tout;monde;tout le monde
+rien;tout;rien du tout
+peu;chose;peu de chose
+beaucoup;bruit;beaucoup de bruit
+trop;plein;trop plein
+assez;temps;assez de temps
+tant;mieux;tant mieux
+plusieurs;fois;plusieurs fois
+quelques;mots;quelques mots
+aucun;doute;aucun doute
+chaque;jour;chaque jour
+tous;jours;tous les jours
+majorité;voix;majorité des voix
+minorité;blocage;minorité de blocage
+unanimité;jury;unanimité du jury
+totalité;somme;totalité de la somme
+ensemble;oeuvres;ensemble des œuvres
+partie;plaisir;partie de plaisir
+fraction;seconde;fraction de seconde
+portion;camembert;portion de camembert
+segment;droite;segment de droite
+bout;ficelle;bout de ficelle
+bout;tunnel;bout du tunnel
+fin;monde;fin du monde
+début;aim;début de la faim
+milieu;nuit;milieu de la nuit
+centre;terre;centre de la terre
+coeur;ville;cœur de la ville
+fond;poche;fond de la poche
+surface;eau;surface de l'eau
+sommet;gloire;sommet de la gloire
+bas;page;bas de page
+haut;forme;haut de forme
+niveau;mer;niveau de la mer
+degré;alcool;degré d'alcool
+taux;intérêt;taux d'intérêt
+pourcentage;réussite;pourcentage de réussite
+moyenne;saison;moyenne de saison
+médiane;salaire;médiane des salaires
+écart;type;écart type
+quota;laitier;quota laitier
+ration;survie;ration de survie
+dose;café;dose de café
+dose;homéopathique;dose homéopathique
+posologie;médicament;posologie du médicament
+mesure;précautions;mesure de précaution
+taille;guêpe;taille de guêpe
+format;poche;format de poche
+dimension;historique;dimension historique
+volume;sonore;volume sonore
+masse;air;masse d'air
+poids;mots;poids des mots
+charge;travail;charge de travail
+fardeau;dette;fardeau de la dette
+capacité;accueil;capacité d'accueil
+contenu;assiette;contenu de l'assiette
+contenant;plastique;contenant en plastique
+envergure;aigle;envergure de l'aigle
+portée;musique;portée de musique
+portée;chiots;portée de chiots
+calibre;arme;calibre de l'arme
+jauge;essence;jauge d'essence
+niveau;huile;niveau d'huile
+pression;pneu;pression du pneu
+tension;nerveuse;tension nerveuse
+fréquence;radio;fréquence radio
+vitesse;croisière;vitesse de croisière
+allure;marche;allure de marche
+rythme;scolaire;rythme scolaire
+cadence;infernale;cadence infernale
+tempo;musique;tempo de la musique
+pulsation;coeur;pulsation du cœur
+battement;ailes;battement d'ailes
+cycle;lunaire;cycle lunaire
+phase;jeu;phase de jeu
+étape;tour;étape du tour
+palier;décompression;palier de décompression
+degré;parenté;degré de parenté
+niveau;vie;niveau de vie
+classe;affaire;classe affaire
+rang;oignons;rang d'oignons
+ordre;médecins;ordre des médecins
+série;télé;série télé
+saison;amours;saison des amours
+épisode;guerre;épisode de guerre
+chapitre;histoire;chapitre de l'histoire
+tome;encyclopédie;tome de l'encyclopédie
+volume;pléiade;volume de la Pléiade
+numéro;cirque;numéro de cirque
+édition;spéciale;édition spéciale
+tirage;sort;tirage au sort
+exemplaire;unique;exemplaire unique
+copie;original;copie de l'original
+double;clés;double des clés
+paire;manches;paire de manches
+jeu;jambes;jeu de jambes
+set;table;set de table
+assortiment;charcuterie;assortiment de charcuterie
+panoplie;outils;panoplie d'outils
+gamme;produits;gamme de produits
+palette;couleurs;palette de couleurs
+éventail;possibilités;éventail de possibilités
+choix;armes;choix des armes
+sélection;naturelle;sélection naturelle
+échantillon;gratuit;échantillon gratuit
+spécimen;rare;spécimen rare
+modèle;réduit;modèle réduit
+type;femme;type de femme
+genre;humain;genre humain
+espèce;menacée;espèce menacée
+race;chien;race de chien
+variété;pomme;variété de pomme
+catégorie;poids;catégorie de poids
+famille;produits;famille de produits
+branche;métier;branche de métier
+secteur;activité;secteur d'activité
+domaine;compétence;domaine de compétence
+champ;vision;champ de vision
+aire;jeu;aire de jeu
+zone;confort;zone de confort
+région;parisienne;région parisienne
+territoire;occupé;territoire occupé
+espace;vert;espace vert
+lieu;dit;lieu dit
+place;parking;place de parking
+poste;frontière;poste frontière
+point;vue;point de vue
+angle;tir;angle de tir
+axe;routière;axe routier
+rayon;soleil;rayon de soleil
+cercle;vicyeux;cercle vicieux
+carré;agneau;carré d'agneau
+triangle;or;triangle d'or
+pyramide;âges;pyramide des âges
+sphère;privée;sphère privée
+cube;bouillon;cube de bouillon
+tube;été;tube de l'été
+ligne;conduite;ligne de conduite
+trait;caractère;trait de caractère
+point;détail;point de détail
+tache;huile;tache d'huile
+marque;respect;marque de respect
+signe;croix;signe de croix
+symbole;paix;symbole de paix
+indice;octane;indice d'octane
+taux;change;taux de change
+cours;bourse;cours de la bourse
+montant;facture;montant de la facture
+somme;argent;somme d'argent
+total;points;total des points
+solde;compte;solde de compte
+reste;monnaie;reste de monnaie
+appoint;liquide;appoint en liquide
+change;bébé;change de bébé
+mise;prix;mise à prix
+enchère;marteau;enchère au marteau
+cote;popularité;cote de popularité
+valeur;refuge;valeur refuge
+prix;ami;prix d'ami
+coût;revient;coût de revient
+tarif;nuit;tarif de nuit
+budget;vacances;budget vacances
+dépense;inutile;dépense inutile
+frais;port;frais de port
+impôt;revenu;impôt sur le revenu
+taxe;séjour;taxe de séjour
+amende;stationnement;amende de stationnement
+prime;risque;prime de risque
+bonus;malus;bonus malus
+solde;tout;solde de tout compte
+rabais;quantité;rabais de quantité
+remise;peine;remise de peine
+réduction;vitesse;réduction de vitesse
+gain;temps;gain de temps
+perte;mémoire;perte de mémoire
+profit;doute;profit du doute
+bénéfice;net;bénéfice net
+chiffre;affaires;chiffre d'affaires
+nombre;or;nombre d'or
+compte;rebours;compte à rebours
+décompte;voix;décompte des voix
+calcul;mental;calcul mental
+mesure;audience;mesure d'audience
+estimation;bien;estimation du bien
+évaluation;dégâts;évaluation des dégâts
+inventaire;vert;inventaire à la Prévert
+recensement;population;recensement de la population
+sondage;opinion;sondage d'opinion
+statistique;chômage;statistique du chômage
+probabilité;pluie;probabilité de pluie
+chance;cocu;chance de cocu
+risque;incendie;risque d'incendie
+danger;mort;danger de mort
+menace;fantôme;menace fantôme
+peur;bleue;peur bleue
+crainte;dieu;crainte de dieu
+angoisse;page;angoisse de la page blanche
+stress;examen;stress de l'examen
+trac;scène;trac de la scène
+panique;bord;panique à bord
+terreur;rouge;terreur rouge
+horreur;vide;horreur du vide
+dégoût;vie;dégoût de la vie
+haine;cordiale;haine cordiale
+amour;propre;amour propre
+passion;triste;passion triste
+désir;avenir;désir d'avenir
+envie;fraise;envie de fraise
+besoin;argent;besoin d'argent
+manque;pot;manque de pot
+défaut;fabrication;défaut de fabrication
+excès;vitesse;excès de vitesse
+abus;confiance;abus de confiance
+usage;faux;usage de faux
+emploi;temps;emploi du temps
+utilisation;données;utilisation des données
+consommation;ménages;consommation des ménages
+production;masse;production de masse
+vente;correspondance;vente par correspondance
+achat;crédit;achat à crédit
+location;voiture;location de voiture
+prêt;porter;prêt à porter
+emprunt;russe;emprunt russe
+dette;jeu;dette de jeu
+créance;douteuse;créance douteuse
+avoir;fiscal;avoir fiscal
+patrimoine;génétique;patrimoine génétique
+fortune;mer;fortune de mer
+capital;risque;capital risque
+fonds;pension;fonds de pension
+action;bouse;action en bourse
+obligation;état;obligation d'état
+intérêt;général;intérêt général
+dividende;paix;dividende de la paix
+rente;situation;rente de situation
+revers;médaille;revers de la médaille
+face;cachée;face cachée
+côté;obscur;côté obscur
+bord;mer;bord de mer
+rive;gauche;rive gauche
+berge;seine;berge de la Seine
+plage;galets;plage de galets
+dune;sable;dune de sable
+falaise;craie;falaise de craie
+pic;pollution;pic de pollution
+sommet;état;sommet de l'état
+col;cygne;col de cygne
+vallée;larmes;vallée de larmes
+plaine;jeux;plaine de jeux
+plateau;télé;plateau télé
+bassin;emploi;bassin d'emploi
+lit;rivière;lit de rivière
+cours;eau;cours d'eau
+flot;paroles;flot de paroles
+courant;air;courant d'air
+marée;noire;marée noire
+vague;succès;vague de succès
+onde;choc;onde de choc
+remous;politique;remous politique
+tourbillon;vie;tourbillon de la vie
+gouffre;financier;gouffre financier
+abîme;science;abîme de science
+précipice;fiscal;précipice fiscal
+chute;rein;chute de rein
+envol;lyrique;envol lyrique
+montée;lait;montée de lait
+baisse;régime;baisse de régime
+pic;croissance;pic de croissance
+creux;vague;creux de la vague
+seuil;tolérance;seuil de tolérance
+plafond;verre;plafond de verre
+plancher;vaches;plancher des vaches
+mur;son;mur du son
+porte;sortie;porte de sortie
+fenêtre;tir;fenêtre de tir
+issue;secours;issue de secours
+passage;niveau;passage à niveau
+voie;garage;voie de garage
+chemin;croix;chemin de croix
+route;rhum;route du rhum
+autoroute;soleil;autoroute du soleil
+piste;étoiles;piste aux étoiles
+sentier;guerre;sentier de la guerre
+impasse;politique;impasse politique
+carrefour;ambitions;carrefour des ambitions
+rond-point;champs;rond-point des Champs
+place;marché;place du marché
+square;quartier;square du quartier
+parc;princes;parc des princes
+jardin;délices;jardin des délices
+champ;honneur;champ d'honneur
+pré;carré;pré carré
+prairie;petite;petite maison dans la prairie
+pelouse;interdite;pelouse interdite
+gazon;maudit;gazon maudit
+herbe;chat;herbe à chat
+fleur;âge;fleur de l'âge
+fruit;passion;fruit de la passion
+arbre;vie;arbre de vie
+racine;mal;racine du mal
+branche;morte;branche morte
+feuille;route;feuille de route
+graine;violence;graine de violence
+noyau;dur;noyau dur
+pépin;physique;pépin physique
+écorce;terrestre;écorce terrestre
+sève;bouleau;sève de bouleau
+bois;justice;bois de justice
+forêt;vierge;forêt vierge
+jungle;urbaine;jungle urbaine
+désert;tartares;désert des tartares
+oasis;paix;oasis de paix
+source;ennuis;source d'ennuis
+fontaine;jouvence;fontaine de jouvence
+puits;pétrole;puits de pétrole
+mine;crayon;mine de crayon
+carrière;militaire;carrière militaire
+grotte;lascaux;grotte de Lascaux
+caverne;ali;caverne d'Ali Baba
+nid;aigle;nid d'aigle
+terrier;lapin;terrier du lapin
+tanière;loup;tanière du loup
+repaire;brigands;repaire de brigands
+refuge;animaux;refuge pour animaux
+asile;fous;asile de fous
+sanctuaire;baleines;sanctuaire de baleines
+temple;soleil;temple du soleil
+église;village;église du village
+chapelle;sixtine;chapelle Sixtine
+cathédrale;chartres;cathédrale de Chartres
+mosquée;paris;mosquée de Paris
+synagogue;prague;synagogue de Prague
+pagode;or;pagode d'or
+monastère;shaolin;monastère de Shaolin
+couvent;oiseaux;couvent des oiseaux
+abbaye;rose;abbaye de la rose
+prieuré;sion;prieuré de Sion
+ermitage;russe;ermitage russe
+palais;papes;palais des papes
+château;cartes;château de cartes
+manoir;hanté;manoir hanté
+forteresse;volante;forteresse volante
+citadelle;vertige;citadelle du vertige
+bastion;résistance;bastion de la résistance
+rempart;contre;rempart contre
+muraille;chine;muraille de Chine
+tour;contrôle;tour de contrôle
+phare;ouest;phare de l'ouest
+moulin;rouge;moulin rouge
+pont;arts;pont des arts
+viaduc;millau;viaduc de Millau
+tunnel;manche;tunnel sous la manche
+barrage;castor;barrage de castor
+digue;rompus;digue rompue
+écluse;canal;écluse du canal
+port;attache;port d'attache
+quai;brumes;quai des brumes
+gare;nord;gare du nord
+aéroport;nice;aéroport de Nice
+aérodrome;privé;aérodrome privé
+héliport;monaco;héliport de Monaco
+station;métro;station de métro
+arrêt;bus;arrêt de bus
+parking;payant;parking payant
+garage;solidaire;garage solidaire
+atelier;écriture;atelier d'écriture
+usine;gaz;usine à gaz
+fabrique;héros;fabrique de héros
+manufacture;tabac;manufacture de tabac
+laboratoire;idées;laboratoire d'idées
+cabinet;curiosités;cabinet de curiosités
+bureau;pleurs;bureau des pleurs
+agence;risques;agence tous risques
+banque;sang;banque du sang
+poste;police;poste de police
+mairie;arrondissement;mairie d'arrondissement
+préfecture;police;préfecture de police
+ministère;guerre;ministère de la guerre
+ambassade;france;ambassade de France
+consulat;général;consulat général
+siège;onu;siège de l'ONU
+quartier;général;quartier général
+base;arrière;base arrière
+camp;base;camp de base
+bivouac;étoiles;bivouac sous les étoiles
+tente;oxygène;tente à oxygène
+camping;paradis;camping paradis
+hôtel;ville;hôtel de ville
+motel;bates;motel Bates
+auberge;espagnole;auberge espagnole
+gîte;couvert;gîte et le couvert
+refuge;montagne;refuge de montagne
+cabane;pêcheur;cabane de pêcheur
+hutte;chasse;hutte de chasse
+igloo;glace;igloo de glace
+tipi;indien;tipi indien
+yourte;mongole;yourte mongole
+case;oncle;case de l'oncle Tom
+bungalow;plage;bungalow de plage
+villa;médicis;villa Médicis
+manoir;baskerville;manoir des Baskerville
+château;sable;château de sable
+palais;glaces;palais des glaces
+tour;ivoire;tour d'ivoire
+donjon;dragon;donjon du dragon
+cachot;oubliettes;cachot des oubliettes
+prison;femmes;prison de femmes
+cellule;grise;cellule grise
+cage;dorée;cage dorée
+volière;oiseaux;volière d'oiseaux
+aquarium;poissons;aquarium de poissons
+vivarium;serpents;vivarium de serpents
+terrarium;lézards;terrarium de lézards
+serre;aigles;serre d'aigles
+jardin;eden;jardin d'Eden
+potager;roi;potager du roi
+verger;pommiers;verger de pommiers
+vigne;seigneur;vigne du seigneur
+champ;possibles;champ des possibles
+pré;carré;pré carré
+pelouse;stade;pelouse du stade
+gazon;anglais;gazon anglais
+herbe;tendre;herbe tendre
+fleur;sel;fleur de sel
+fruit;défendu;fruit défendu
+graine;folie;graine de folie
+racine;carrée;racine carrée
+souche;fiscale;souche fiscale
+tronc;commun;tronc commun
+branche;voisine;branche voisine
+feuille;chou;feuille de chou
+pétale;fleur;pétale de fleur
+épine;pied;épine du pied
+aiguille;botte;aiguille dans une botte de foin
+paille;fer;paille de fer
+foin;bruit;foin de bruit
+blé;herbe;blé en herbe
+grain;sel;grain de sel
+farine;blé;farine de blé
+pain;quotidien;pain quotidien
+miette;thon;miette de thon
+croûte;terrestre;croûte terrestre
+mie;pain;mie de pain
+pâte;dentifrice;pâte de dentifrice
+tarte;crème;tarte à la crème
+gâteau;riz;gâteau de riz
+biscuit;sec;biscuit sec
+bonbon;menthe;bonbon à la menthe
+chocolat;noir;chocolat noir
+cacao;poudre;cacao en poudre
+café;crème;café crème
+thé;citron;thé au citron
+sucre;glace;sucre glace
+sel;marin;sel marin
+poivre;gris;poivre gris
+épice;cuisine;épice de cuisine
+huile;coude;huile de coude
+vinaigre;cidre;vinaigre de cidre
+moutarde;nez;moutarde au nez
+sauce;tomate;sauce tomate
+jus;chaussette;jus de chaussette
+sirop;rue;sirop de la rue
+soupe;grimace;soupe à la grimace
+potage;légumes;potage de légumes
+bouillon;culture;bouillon de culture
+purée;pois;purée de pois
+frite;graisse;frite de graisse
+viande;saoule;viande saoule
+poisson;avril;poisson d'avril
+oeuf;colomb;œuf de Colomb
+lait;chaux;lait de chaux
+beurre;noir;beurre noir
+fromage;chèvre;fromage de chèvre
+crème;finesse;crème de la finesse
+yaourt;fruit;yaourt au fruit
+glace;vanille;glace à la vanille
+sorbet;citron;sorbet citron
+fruit;mer;fruit de mer
+légume;sec;légume sec
+salade;fruit;salade de fruits

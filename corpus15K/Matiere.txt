@@ -1,0 +1,975 @@
+cuillère;bois;cuillère de bois
+trône;fer;trône de fer
+mur;brique;mur de brique
+statue;cire;statue de cire
+maison;paille;maison de paille
+chemise;soie;chemise de soie
+bague;or;bague d'or
+table;marbre;table de marbre
+sac;plastique;sac de plastique
+toit;tuile;toit de tuile
+gobelet;carton;gobelet de carton
+poutre;acier;poutre d'acier
+fil;cuivre;fil de cuivre
+bouteille;verre;bouteille de verre
+médaille;bronze;médaille de bronze
+pull;laine;pull de laine
+écharpe;cachemire;écharpe de cachemire
+semelle;caoutchouc;semelle de caoutchouc
+boîte;métal;boîte de métal
+gant;cuir;gant de cuir
+collier;perles;collier de perles
+portail;aluminium;portail d'aluminium
+bloc;béton;bloc de béton
+planche;chêne;planche de chêne
+coque;noix;coque de noix
+pantalon;lin;pantalon de lin
+vasque;pierre;vasque de pierre
+cœur;artichaut;cœur d'artichaut
+montagne;granit;montagne de granit
+barre;chocolat;barre de chocolat
+cube;glace;cube de glace
+dent;ivoire;dent d'ivoire
+lame;rasoir;lame de rasoir
+tissu;coton;tissu de coton
+monnaie;argent;monnaie d'argent
+couronne;lauriers;couronne de lauriers
+pont;singe;pont de singe
+tour;ivoire;tour d'ivoire
+bonhomme;neige;bonhomme de neige
+château;sable;château de sable
+chemin;terre;chemin de terre
+palais;glace;palais de glace
+boule;gomme;boule de gomme
+nuage;lait;nuage de lait
+montre;or;montre d'or
+cercueil;plomb;cercueil de plomb
+armure;écailles;armure d'écailles
+rideau;velours;rideau de velours
+tapis;laine;tapis de laine
+banc;pierre;banc de pierre
+toile;jute;toile de jute
+corde;chanvre;corde de chanvre
+squelette;os;squelette d'os
+prothèse;silicone;prothèse de silicone
+implant;titane;implant de titane
+coque;plastique;coque de plastique
+jeton;plastique;jeton de plastique
+perle;verre;perle de verre
+statue;sel;statue de sel
+poupée;chiffon;poupée de chiffon
+soldat;plomb;soldat de plomb
+jambe;bois;jambe de bois
+cheval;Troie;cheval de Troie
+colosse;argile;colosse d'argile
+veau;or;veau d'or
+dents;scie;dents de scie
+barre;fer;barre de fer
+clou;girofle;clou de girofle
+pomme;pin;pomme de pin
+eau;roche;eau de roche
+langue;bois;langue de bois
+nerfs;acier;nerfs d'acier
+volonté;fer;volonté de fer
+cœur;pierre;cœur de pierre
+gueule;bois;gueule de bois
+tête;lard;tête de lard
+estomac;autruche;estomac d'autruche
+larmes;crocodile;larmes de crocodile
+ours;peluche;ours de peluche
+canard;plastique;canard de plastique
+table;bois;table de bois
+chaise;paille;chaise de paille
+mur;pierre;mur de pierre
+maison;brique;maison de brique
+toit;tuile;toit de tuile
+fenêtre;verre;fenêtre de verre
+portail;fer;portail de fer
+grille;acier;grille d'acier
+bijou;or;bijou d'or
+bague;argent;bague d'argent
+médaille;bronze;médaille de bronze
+statue;marbre;statue de marbre
+sculpture;glace;sculpture de glace
+vase;porcelaine;vase de porcelaine
+assiette;faïence;assiette de faïence
+pot;terre;pot de terre
+bouteille;plastique;bouteille de plastique
+sac;papier;sac de papier
+boîte;carton;boîte de carton
+coffre;chêne;coffre de chêne
+armoire;noyer;armoire de noyer
+lit;acajou;lit d'acajou
+drap;lin;drap de lin
+chemise;coton;chemise de coton
+pull;laine;pull de laine
+écharpe;soie;écharpe de soie
+manteau;fourrure;manteau de fourrure
+veste;cuir;veste de cuir
+chaussure;daim;chaussure de daim
+botte;caoutchouc;botte de caoutchouc
+semelle;crêpe;semelle de crêpe
+talon;liège;talon de liège
+chapeau;feutre;chapeau de feutre
+casquette;toile;casquette de toile
+gant;velours;gant de velours
+robe;satin;robe de satin
+ruban;taffetas;ruban de taffetas
+fil;nylon;fil de nylon
+corde;chanvre;corde de chanvre
+câble;cuivre;câble de cuivre
+fil;fer;fil de fer
+barre;mine;barre de mine
+poutre;béton;poutre de béton
+dalle;ciment;dalle de ciment
+carrelage;grès;carrelage de grès
+brique;terre cuite;brique de terre cuite
+tuile;ardoise;tuile d'ardoise
+tuyau;plomb;tuyau de plomb
+robinet;laiton;robinet de laiton
+poignée;zamak;poignée de zamak
+couvert;inox;couvert d'inox
+casserole;aluminium;casserole d'aluminium
+poêle;téfal;poêle de téfal
+verre;cristal;verre de cristal
+carafe;eau;carafe d'eau
+gobelet;plastique;gobelet de plastique
+pailles;bambou;pailles de bambou
+panier;osier;panier d'osier
+fauteuil;rotin;fauteuil de rotin
+tapis;jonc;tapis de jonc
+natte;roseau;natte de roseau
+balai;genêt;balai de genêt
+brosse;poil;brosse de poil
+éponge;végétal;éponge végétale
+savon;marseille;savon de Marseille
+bougie;cire;bougie de cire
+lampe;huile;lampe d'huile
+phare;iode;phare d'iode
+bombe;hydrogène;bombe d'hydrogène
+centrale;charbon;centrale de charbon
+usine;gaz;usine de gaz
+moteur;essence;moteur d'essence
+réservoir;fuel;réservoir de fuel
+poêle;mazout;poêle de mazout
+chauffage;bois;chauffage de bois
+barbecue;charbon;barbecue de charbon
+four;brique;four de brique
+pain;mie;pain de mie
+gâteau;riz;gâteau de riz
+pâte;amande;pâte d'amande
+sirop;érable;sirop d'érable
+sucre;canne;sucre de canne
+sel;mer;sel de mer
+huile;olive;huile d'olive
+vinaigre;cidre;vinaigre de cidre
+moutarde;dijon;moutarde de Dijon
+vin;paille;vin de paille
+bière;blé;bière de blé
+jus;pomme;jus de pomme
+sirop;fraise;sirop de fraise
+glace;vanille;glace de vanille
+sorbet;citron;sorbet de citron
+bonbon;miel;bonbon de miel
+pastille;menthe;pastille de menthe
+gomme;arabique;gomme arabique
+colle;poisson;colle de poisson
+encre;chine;encre de Chine
+crayon;papier;crayon de papier
+mine;graphite;mine de graphite
+craie;calcaire;craie de calcaire
+tableau;ardoise;tableau d'ardoise
+banc;pierre;banc de pierre
+autel;granit;autel de granit
+tombe;marbre;tombe de marbre
+croix;bois;croix de bois
+cercueil;sapin;cercueil de sapin
+linceul;toile;linceul de toile
+urne;céramique;urne de céramique
+monnaie;bronze;monnaie de bronze
+pièce;or;pièce d'or
+lingot;argent;lingot d'argent
+billet;banque;billet de banque
+carte;plastique;carte de plastique
+puce;silicium;puce de silicium
+fibre;optique;fibre optique
+écran;plasma;écran de plasma
+coque;noix;coque de noix
+noyau;pêche;noyau de pêche
+pépin;raisin;pépin de raisin
+zeste;orange;zeste d'orange
+peau;banane;peau de banane
+écorce;bouleau;écorce de bouleau
+feuille;tabac;feuille de tabac
+brin;herbe;brin d'herbe
+botte;foin;botte de foin
+sac;grain;sac de grain
+farine;blé;farine de blé
+poudre;riz;poudre de riz
+flocon;avoine;flocon d'avoine
+semoule;couscous;semoule de couscous
+pâte;papier;pâte de papier
+mousse;raser;mousse de raser
+crème;jour;crème de jour
+lait;coco;lait de coco
+beurre;karité;beurre de karité
+huile;palme;huile de palme
+cire;abeille;cire d'abeille
+miel;acacia;miel d'acacia
+gelée;groseille;gelée de groseille
+confiture;abricot;confiture d'abricot
+compote;pomme;compote de pomme
+purée;pomme de terre;purée de pomme de terre
+soupe;légume;soupe de légume
+bouillon;poule;bouillon de poule
+fond;veau;fond de veau
+sauce;tomate;sauce de tomate
+jus;viande;jus de viande
+blanc;oeuf;blanc d'œuf
+jaune;oeuf;jaune d'œuf
+coquille;oeuf;coquille d'œuf
+aile;poulet;aile de poulet
+cuisse;grenouille;cuisse de grenouille
+pied;cochon;pied de cochon
+tête;veau;tête de veau
+langue;bœuf;langue de bœuf
+rognon;veau;rognon de veau
+foie;gras;foie gras
+boudin;noir;boudin noir
+saucisson;sec;saucisson sec
+jambon;pays;jambon de pays
+filet;mignon;filet mignon
+pavé;saumon;pavé de saumon
+dos;cabillaud;dos de cabillaud
+queue;lotte;queue de lotte
+oeuf;lump;œuf de lump
+caviar;esturgeon;caviar d'esturgeon
+dent;requin;dent de requin
+défense;mammouth;défense de mammouth
+corne;brume;corne de brume
+os;seiche;os de seiche
+écaille;tortue;écaille de tortue
+plume;paon;plume de paon
+duvet;oie;duvet d'oie
+laine;alpaga;laine d'alpaga
+poil;chameau;poil de chameau
+crin;cheval;crin de cheval
+soie;ver;soie de ver
+toile;araignée;toile d'araignée
+nid;hirondelle;nid d'hirondelle
+ruche;paille;ruche de paille
+barrage;castor;barrage de castor
+terrier;renard;terrier de renard
+coquille;saint-jacques;coquille de Saint-Jacques
+perle;culture;perle de culture
+nacre;bouton;nacre de bouton
+corail;rouge;corail rouge
+ambre;jaune;ambre jaune
+jais;noir;jais noir
+onyx;noir;onyx noir
+rubis;rouge;rubis rouge
+saphir;bleu;saphir bleu
+émeraude;verte;émeraude verte
+diamant;brut;diamant brut
+quartz;rose;quartz rose
+sable;fin;sable fin
+gravier;rivière;gravier de rivière
+terre;glaise;terre glaise
+argile;verte;argile verte
+boue;rouge;boue rouge
+limon;nil;limon du Nil
+cendre;volcan;cendre de volcan
+lave;fusion;lave de fusion
+roche;volcanique;roche volcanique
+pierre;ponce;pierre ponce
+charbon;bois;charbon de bois
+suie;cheminée;suie de cheminée
+poussière;étoile;poussière d'étoile
+sable;lune;sable de lune
+glace;banquise;glace de banquise
+neige;éternelle;neige éternelle
+givre;matin;givre du matin
+rosée;aube;rosée de l'aube
+brume;mer;brume de mer
+nuage;gaz;nuage de gaz
+air;montagne;air de montagne
+vent;sable;vent de sable
+pluie;acide;pluie acide
+eau;source;eau de source
+lait;chaux;lait de chaux
+encre;sympathique;encre sympathique
+vernis;ongle;vernis d'ongle
+laque;cheveux;laque de cheveux
+gel;coiffant;gel coiffant
+shampoing;oeuf;shampoing aux œufs
+savon;noir;savon noir
+lessive;soude;lessive de soude
+eau;javel;eau de javel
+alcool;brûler;alcool à brûler
+essence;térébenthine;essence de térébenthine
+huile;lin;huile de lin
+cire;parqueter;cire à parqueter
+colle;bois;colle à bois
+mastique;vitrier;mastic de vitrier
+enduit;lissage;enduit de lissage
+plâtre;paris;plâtre de Paris
+chaux;vive;chaux vive
+béton;armé;béton armé
+bitume;route;bitume de route
+goudron;plume;goudron de plume
+asphalte;ville;asphalte de ville
+caoutchouc;pneu;caoutchouc de pneu
+latex;gant;latex de gant
+vinyle;disque;vinyle de disque
+nylon;bas;nylon de bas
+polyester;chemise;polyester de chemise
+acrylique;pull;acrylique de pull
+viscose;doublure;viscose de doublure
+velours;côte;velours de côte
+jean;toile;jean de toile
+denim;veste;denim de veste
+tulle;voile;tulle de voile
+dentelle;calais;dentelle de Calais
+broderie;anglaise;broderie anglaise
+tapisserie;bayeux;tapisserie de Bayeux
+papier;soie;papier de soie
+carton;pâte;carton pâte
+bois;ébène;bois d'ébène
+fer;forgé;fer forgé
+fonte;grise;fonte grise
+acier;trempé;acier trempé
+chrome;dur;chrome dur
+nickel;pur;nickel pur
+zinc;toiture;zinc de toiture
+étain;soldat;étain de soldat
+plomb;fondu;plomb fondu
+mercure;thermomètre;mercure de thermomètre
+uranium;enrichi;uranium enrichi
+plutonium;militaire;plutonium militaire
+oxygène;air;oxygène de l'air
+hydrogène;gaz;hydrogène de gaz
+hélium;ballon;hélium de ballon
+néon;tube;néon de tube
+soufre;allumette;soufre d'allumette
+phosphore;cerveau;phosphore du cerveau
+calcium;os;calcium d'os
+fer;sang;fer du sang
+sel;larme;sel de larme
+eau;bénite;eau bénite
+pain;azyme;pain azyme
+vin;messe;vin de messe
+huile;sainte;huile sainte
+encens;église;encens d'église
+myrrhe;mage;myrrhe de mage
+or;encens;or d'encens
+alliance;or;alliance d'or
+médaille;argent;médaille d'argent
+chaîne;platine;chaîne de platine
+boucle;oreille;boucle d'oreille
+broche;rubis;broche de rubis
+diadème;saphir;diadème de saphir
+sceptre;émeraude;sceptre d'émeraude
+coupe;cristal;coupe de cristal
+vase;opaline;vase d'opaline
+lustre;pampilles;lustre de pampilles
+miroir;tain;miroir de tain
+vitrail;plomb;vitrail de plomb
+cloche;bronze;cloche de bronze
+canon;fonte;canon de fonte
+boulet;fer;boulet de fer
+armure;acier;armure d'acier
+cotte;mailles;cotte de mailles
+épée;damas;épée de damas
+lame;tole;lame de tôle
+poignard;silex;poignard de silex
+pointe;obsidienne;pointe d'obsidienne
+hache;pierre;hache de pierre
+bélier;chêne;bélier de chêne
+bouclier;airain;bouclier d'airain
+casque;cuir;casque de cuir
+tunique;lin;tunique de lin
+toge;laine;toge de laine
+sandale;sparte;sandale de sparte
+ceinture;corde;ceinture de corde
+fouet;lanières;fouet de lanières
+menottes;acier;menottes d'acier
+barreau;fer;barreau de fer
+chaîne;vélo;chaîne de vélo
+cadre;carbone;cadre de carbone
+jante;alu;jante d'alu
+pneu;gomme;pneu de gomme
+chambre;latex;chambre de latex
+guidon;chrome;guidon de chrome
+selle;cuir;selle de cuir
+pédale;plastique;pédale de plastique
+rayon;inox;rayon d'inox
+pare-chocs;résine;pare-chocs de résine
+tableau;bord;tableau de bord
+volant;moumoute;volant de moumoute
+siège;tissu;siège de tissu
+housse;nylon;housse de nylon
+bâche;plastique;bâche de plastique
+tente;toile;tente de toile
+piquet;bois;piquet de bois
+sardine;métal;sardine de métal
+matelas;mousse;matelas de mousse
+duvet;plume;duvet de plume
+oreiller;synthétique;oreiller de synthétique
+drap;flanelle;drap de flanelle
+couverture;laine;couverture de laine
+édredon;plumes;édredon de plumes
+taie;coton;taie de coton
+serviette;papier;serviette de papier
+nappe;toile;nappe de toile
+torchon;fil;torchon de fil
+mouchoir;batiste;mouchoir de batiste
+voile;tulle;voile de tulle
+robe;taffetas;robe de taffetas
+jupon;dentelle;jupon de dentelle
+corset;baleine;corset de baleine
+bas;nylon;bas de nylon
+collant;mousseline;collant de mousseline
+jarretelle;élastique;jarretelle d'élastique
+soutien-gorge;satin;soutien-gorge de satin
+culotte;coton;culotte de coton
+chemise;popeline;chemise de popeline
+col;amidon;col d'amidon
+cravate;soie;cravate de soie
+noeud;papillon;nœud de papillon
+gilet;flanelle;gilet de flanelle
+veston;drap;veston de drap
+pantalon;velours;pantalon de velours
+jean;denim;jean de denim
+salopette;bleu;salopette de bleu
+tablier;cuir;tablier de cuir
+blouse;nylon;blouse de nylon
+chapeau;paille;chapeau de paille
+casquette;drap;casquette de drap
+béret;feutre;béret de feutre
+bonnet;laine;bonnet de laine
+toque;fourrure;toque de fourrure
+écharpe;mohair;écharpe de mohair
+châle;cachemire;châle de cachemire
+gant;chevreau;gant de chevreau
+moufle;tricot;moufle de tricot
+ceinture;croco;ceinture de croco
+sac;lézard;sac de lézard
+valise;carton;valise de carton
+malle;osier;malle d'osier
+panier;rotin;panier de rotin
+cabas;jute;cabas de jute
+filet;coton;filet de coton
+bouchon;liège;bouchon de liège
+capsule;aluminium;capsule d'aluminium
+boîte;fer;boîte de fer
+bidon;tôle;bidon de tôle
+tonneau;chêne;tonneau de chêne
+barrique;bois;barrique de bois
+cuve;inox;cuve d'inox
+citerne;béton;citerne de béton
+bouteille;grès;bouteille de grès
+pot;terre;pot de terre
+jardinière;ciment;jardinière de ciment
+bac;plastique;bac de plastique
+poubelle;galva;poubelle de galva
+sac;vinyle;sac de vinyle
+film;étirable;film étirable
+papier;alu;papier d'alu
+barquette;polystyrène;barquette de polystyrène
+gobelet;carton;gobelet de carton
+assiette;carton;assiette de carton
+couvert;bambou;couvert de bambou
+pailles;papier;pailles de papier
+serviette;intissé;serviette d'intissé
+nappe;papier;nappe de papier
+confetti;papier;confetti de papier
+serpentin;papier;serpentin de papier
+ballon;baudruche;ballon de baudruche
+guirlande;électrique;guirlande électrique
+boule;verre;boule de verre
+sujet;sucre;sujet de sucre
+fève;porcelaine;fève de porcelaine
+couronne;galette;couronne de galette
+bûche;glace;bûche de glace
+oeuf;chocolat;œuf de chocolat
+poule;chocolat;poule de chocolat
+lapin;sucre;lapin de sucre
+cloche;chocolat;cloche de chocolat
+pièce;chocolat;pièce de chocolat
+billet;monopoly;billet de monopoly
+jeton;nacre;jeton de nacre
+dé;ivoire;dé d'ivoire
+pion;bois;pion de bois
+échiquier;marbre;échiquier de marbre
+carte;carton;carte de carton
+tapis;feutre;tapis de feutre
+billard;ardoise;billard d'ardoise
+queue;billard;queue de billard
+boule;billard;boule de billard
+raquette;bois;raquette de bois
+cordage;boyau;cordage de boyau
+volant;plume;volant de plume
+balle;caoutchouc;balle de caoutchouc
+ballon;cuir;ballon de cuir
+maillot;synthétique;maillot de synthétique
+crampon;alu;crampon d'alu
+sifflet;métal;sifflet de métal
+coupe;argent;coupe d'argent
+médaille;vermeil;médaille de vermeil
+podium;bois;podium de bois
+ski;fibre;ski de fibre
+bâton;carbone;bâton de carbone
+luge;plastique;luge de plastique
+patin;acier;patin d'acier
+bouée;plastique;bouée de plastique
+planche;polystyrène;planche de polystyrène
+coque;noix;coque de noix
+bouchon;plastique;bouchon de plastique
+flotteur;balsa;flotteur de balsa
+hameçon;acier;hameçon d'acier
+fil;nylon;fil de nylon
+canne;bambou;canne de bambou
+nas;osier;nasse d'osier
+panier;jonc;panier de jonc
+chapeau;paille;chapeau de paille
+espadrille;corde;espadrille de corde
+toile;transat;toile de transat
+parasol;toile;parasol de toile
+château;sable;château de sable
+pâté;sable;pâté de sable
+seau;plastique;seau de plastique
+pelle;plastique;pelle de plastique
+râteau;fer;râteau de fer
+brouette;bois;brouette de bois
+arrosoir;zinc;arrosoir de zinc
+pot;terracotta;pot de terracotta
+tuteur;bambou;tuteur de bambou
+lien;rafia;lien de rafia
+étiquette;ardoise;étiquette d'ardoise
+allée;gravier;allée de gravier
+bordure;buis;bordure de buis
+mur;pierre;mur de pierre
+muret;brique;muret de brique
+pilier;béton;pilier de béton
+portail;pvc;portail de PVC
+grillage;fer;grillage de fer
+clôture;bois;clôture de bois
+barrière;métal;barrière de métal
+banc;teck;banc de teck
+table;fer;table de fer
+chaise;plastique;chaise de plastique
+coussin;tissu;coussin de tissu
+hamac;filet;hamac de filet
+cabane;planche;cabane de planche
+abri;tôle;abri de tôle
+toit;chaume;toit de chaume
+gouttière;cuivre;gouttière de cuivre
+descente;zinc;descente de zinc
+chien;assis;chien assis
+fenêtre;bois;fenêtre de bois
+volet;roulant;volet roulant
+persienne;métal;persienne de métal
+store;tissu;store de tissu
+rideau;voile;rideau de voile
+double;rideau;double rideau
+tringle;laiton;tringle de laiton
+anneau;bois;anneau de bois
+embout;verre;embout de verre
+poignée;porcelaine;poignée de porcelaine
+plaque;émail;plaque d'émail
+numéro;faïence;numéro de faïence
+sonnette;laiton;sonnette de laiton
+paillasson;coco;paillasson de coco
+balai;coco;balai de coco
+brosse;chiendent;brosse de chiendent
+pelle;fer;pelle de fer
+seau;émail;seau d'émail
+bassine;zing;bassine de zinc
+lessiveuse;galva;lessiveuse de galva
+fil;linge;fil de linge
+épingle;bois;épingle de bois
+fer;repasser;fer de repasser
+table;formica;table de formica
+tabouret;moumoute;tabouret de moumoute
+buffet;formica;buffet de formica
+évier;grès;évier de grès
+plan;travail;plan de travail
+crédence;inox;crédence d'inox
+hotte;verre;hotte de verre
+plaque;fonte;plaque de fonte
+fourneau;fonte;fourneau de fonte
+poêle;acier;poêle d'acier
+wok;fonte;wok de fonte
+casserole;inox;casserole d'inox
+cocotte;aluminium;cocotte d'aluminium
+plat;terre;plat de terre
+terrine;grès;terrine de grès
+moule;fer;moule de fer
+tourtière;verre;tourtière de verre
+saladier;bois;saladier de bois
+coupe;fruit;coupe de fruit
+corbeille;pain;corbeille de pain
+planche;découper;planche de découper
+rouleau;pâtisserie;rouleau de pâtisserie
+cuillère;bois;cuillère de bois
+spatule;silicone;spatule de silicone
+fouet;métal;fouet de métal
+passoire;plastique;passoire de plastique
+entonnoir;fer;entonnoir de fer
+bocal;verre;bocal de verre
+bouchon;caoutchouc;bouchon de caoutchouc
+joint;orange;joint d'orange
+conserve;fer;conserve de fer
+ouvre-boîte;acier;ouvre-boîte d'acier
+tire-bouchon;bois;tire-bouchon de bois
+décapsuleur;métal;décapsuleur de métal
+dessous;plat;dessous de plat
+manique;tissu;manique de tissu
+gant;four;gant de four
+tablier;coton;tablier de coton
+torchon;lin;torchon de lin
+serpillère;gaufre;serpillère de gaufre
+éponge;mer;éponge de mer
+laine;acier;laine d'acier
+savon;paillette;savon de paillette
+lessive;poudre;lessive de poudre
+adoucissant;liquide;adoucissant de liquide
+javel;pastille;javel de pastille
+sel;régénérant;sel de régénérant
+cire;abeille;cire d'abeille
+encaustique;térébenthine;encaustique de térébenthine
+vernis;tampon;vernis de tampon
+lasure;eau;lasure d'eau
+peinture;huile;peinture d'huile
+aquarelle;eau;aquarelle d'eau
+gouache;tube;gouache de tube
+acrylique;pot;acrylique de pot
+pastel;craie;pastel de craie
+fusain;bois;fusain de bois
+mine;plomb;mine de plomb
+encre;gel;encre de gel
+plume;oie;plume d'oie
+porte-plume;bois;porte-plume de bois
+buvard;papier;buvard de papier
+cahier;papier;cahier de papier
+carnet;moleskine;carnet de moleskine
+classeur;carton;classeur de carton
+chemise;plastique;chemise de plastique
+pochette;papier;pochette de papier
+enveloppe;kraft;enveloppe de kraft
+colis;carton;colis de carton
+ficelle;sisal;ficelle de sisal
+scotch;plastique;scotch de plastique
+colle;amidon;colle d'amidon
+gomme;mie;gomme de mie
+règle;fer;règle de fer
+compas;laiton;compas de laiton
+équerre;plastique;équerre de plastique
+rapporteur;métal;rapporteur de métal
+loupe;verre;loupe de verre
+lunettes;écaille;lunettes d'écaille
+monture;titane;monture de titane
+verre;organique;verre d'organique
+lentille;contact;lentille de contact
+oeil;verre;œil de verre
+jambe;bois;jambe de bois
+crochet;fer;crochet de fer
+dent;or;dent d'or
+plombage;mercure;plombage de mercure
+couronne;céramique;couronne de céramique
+appareil;résine;appareil de résine
+bague;acier;bague d'acier
+broche;platine;broche de platine
+clou;titane;clou de titane
+vis;inox;vis d'inox
+plaque;métal;plaque de métal
+fil;soie;fil de soie
+agrafes;fer;agrafes de fer
+pansement;tissu;pansement de tissu
+coton;hydrophile;coton d'hydrophile
+gaze;stérile;gaze de stérile
+plâtre;paris;plâtre de paris
+résine;synthétique;résine de synthétique
+attelle;alu;attelle d'alu
+béquille;bois;béquille de bois
+fauteuil;roulant;fauteuil de roulant
+lit;médical;lit de médical
+drap;examen;drap d'examen
+blouse;coton;blouse de coton
+masque;papier;masque de papier
+charlotte;plastique;charlotte de plastique
+gant;latex;gant de latex
+seringue;verre;seringue de verre
+aiguille;acier;aiguille d'acier
+fiole;verre;fiole de verre
+tube;essai;tube d'essai
+bouchon;liège;bouchon de liège
+étiquette;papier;étiquette de papier
+ordonnance;papier;ordonnance de papier
+carte;vitale;carte de vitale
+feuille;soin;feuille de soin
+billet;doux;billet de doux
+lettre;amour;lettre d'amour
+poème;vers;poème de vers
+roman;gare;roman de gare
+livre;poche;livre de poche
+album;photo;album de photo
+journal;papier;journal de papier
+magazine;glacé;magazine de glacé
+affiche;papier;affiche de papier
+tract;prospectus;tract de prospectus
+flyer;carton;flyer de carton
+carte;visite;carte de visite
+menu;plastifié;menu de plastifié
+addition;papier;addition de papier
+ticket;caisse;ticket de caisse
+reçu;carte;reçu de carte
+chèque;papier;chèque de papier
+liasse;billet;liasse de billet
+sac;toile;sac de toile
+bourse;cuir;bourse de cuir
+coffre;acier;coffre d'acier
+lingot;or;lingot d'or
+pépite;or;pépite d'or
+poussière;or;poussière d'or
+vison;fourrure;vison de fourrure
+renard;argenté;renard d'argenté
+astrakan;laine;astrakan de laine
+mouton;retourné;mouton de retourné
+daim;velours;daim de velours
+cuir;vachette;cuir de vachette
+peau;bête;peau de bête
+tapis;brosse;tapis de brosse
+serpillière;coton;serpillière de coton
+chiffon;laine;chiffon de laine
+loque;tissu;loque de tissu
+haillon;misère;haillon de misère
+froc;moine;froc de moine
+bure;laine;bure de laine
+soutane;drap;soutane de drap
+aube;lin;aube de lin
+chape;plomb;chape de plomb
+mitre;carton;mitre de carton
+crosse;bois;crosse de bois
+autel;bois;autel de bois
+calice;or;calice d'or
+ciboire;argent;ciboire d'argent
+ostensoir;soleil;ostensoir de soleil
+encensoir;cuivre;encensoir de cuivre
+bénitier;marbre;bénitier de marbre
+confessionnal;chêne;confessionnal de chêne
+banc;église;banc d'église
+chaire;pierre;chaire de pierre
+orgue;tuyau;orgue de tuyau
+vitrail;couleur;vitrail de couleur
+rosace;pierre;rosace de pierre
+gargouille;grès;gargouille de grès
+flèche;plomb;flèche de plomb
+coq;fer;coq de fer
+croix;pierre;croix de pierre
+tombe;granit;tombe de granit
+caveau;famille;caveau de famille
+stèle;marbre;stèle de marbre
+plaque;souvenir;plaque de souvenir
+couronne;fleur;couronne de fleur
+cercueil;chêne;cercueil de chêne
+urne;cinéraire;urne de cinéraire
+suaire;lin;suaire de lin
+linceul;blanc;linceul de blanc
+squelette;os;squelette d'os
+crâne;os;crâne d'os
+dent;sagesse;dent de sagesse
+cheveu;ange;cheveu d'ange
+ongle;pied;ongle de pied
+corne;pied;corne de pied
+sabot;cheval;sabot de cheval
+fer;âne;fer d'âne
+selle;cuir;selle de cuir
+bridon;cuir;bridon de cuir
+mors;acier;mors d'acier
+cravache;cuir;cravache de cuir
+bombe;velours;bombe de velours
+toque;jockey;toque de jockey
+casaque;soie;casaque de soie
+botte;cavalier;botte de cavalier
+éperon;argent;éperon d'argent
+étrier;fer;étrier de fer
+box;planche;box de planche
+paille;blé;paille de blé
+foin;luzerne;foin de luzerne
+avoine;grain;avoine de grain
+orge;perlé;orge de perlé
+blé;dur;blé de dur
+seigle;noir;seigle de noir
+sarrasin;noir;sarrasin de noir
+maïs;jaune;maïs de jaune
+riz;blanc;riz de blanc
+sel;gris;sel de gris
+poivre;noir;poivre de noir
+sucre;blanc;sucre de blanc
+cassonade;brune;cassonade de brune
+miel;sapin;miel de sapin
+sirop;glucose;sirop de glucose
+caramel;beurre;caramel de beurre
+chocolat;lait;chocolat de lait
+cacao;poudre;cacao de poudre
+café;grain;café de grain
+thé;feuille;thé de feuille
+infusion;tilleul;infusion de tilleul
+tisane;camomille;tisane de camomille
+verveine;menthe;verveine de menthe
+lait;chèvre;lait de chèvre
+crème;fraîche;crème de fraîche
+beurre;doux;beurre de doux
+fromage;brebis;fromage de brebis
+yaourt;nature;yaourt de nature
+faisselle;vache;faisselle de vache
+petit;suisse;petit de suisse
+flan;oeuf;flan d'œuf
+mousse;chocolat;mousse de chocolat
+île;flottante;île de flottante
+crème;anglaise;crème d'anglaise
+riz;lait;riz de lait
+gâteau;semoule;gâteau de semoule
+tarte;pomme;tarte de pomme
+clafoutis;cerise;clafoutis de cerise
+baba;rhum;baba de rhum
+forêt;noire;forêt de noire
+éclair;café;éclair de café
+religieuse;chocolat;religieuse de chocolat
+millefeuille;crème;millefeuille de crème
+croissant;beurre;croissant de beurre
+pain;chocolat;pain de chocolat
+brioche;sucre;brioche de sucre
+chausson;pomme;chausson de pomme
+palmier;sucre;palmier de sucre
+galette;roi;galette de roi
+crêpe;sucre;crêpe de sucre
+gaufre;chantilly;gaufre de chantilly
+beignet;pomme;beignet de pomme
+churros;sucre;churros de sucre
+nougat;montélimar;nougat de montélimar
+praline;rose;praline de rose
+dragée;amande;dragée d'amande
+berlingot;nantes;berlingot de nantes
+bêtise;cambrai;bêtise de cambrai
+calisson;aix;calisson d'aix
+fruit;pâte;fruit de pâte
+marron;glacé;marron de glacé
+orange;confite;orange de confite
+citron;givré;citron de givré
+poire;belle;poire de belle
+pêche;melba;pêche de melba
+coupe;glacée;coupe de glacée
+banana;split;banana de split
+chocolat;liégeois;chocolat de liégeois
+café;viennois;café de viennois
+irish;coffee;irish de coffee
+kir;royal;kir de royal
+gin;tonic;gin de tonic
+vodka;orange;vodka d'orange
+rhum;coca;rhum de coca
+whisky;glace;whisky de glace
+pastis;eau;pastis d'eau
+bière;pression;bière de pression
+cidre;doux;cidre de doux
+vin;rouge;vin de rouge
+champagne;brut;champagne de brut
+eau;source;eau de source
+jus;fruit;jus de fruit
+sirop;menthe;sirop de menthe
+soda;cola;soda de cola
+limonade;citron;limonade de citron
+diabolo;fraise;diabolo de fraise
+lait;fraise;lait de fraise
+cacao;chaud;cacao de chaud
+thé;citron;thé de citron
+soupe;oignon;soupe d'oignon
+potage;légume;potage de légume
+bouillon;cube;bouillon de cube
+velouté;champignon;velouté de champignon
+bisque;homard;bisque de homard
+gratinée;lyonnaise;gratinée de lyonnaise
+purée;mousseline;purée de mousseline
+frite;maison;frite de maison
+pomme;vapeur;pomme de vapeur
+riz;pilaf;riz de pilaf
+pâte;fraîche;pâte de fraîche
+gnocchi;pomme;gnocchi de pomme
+pizza;royale;pizza de royale
+quiche;lorraine;quiche de lorraine
+tourte;viande;tourte de viande
+bouchée;reine;bouchée de reine
+vol;vent;vol de vent
+croque;monsieur;croque de monsieur
+sandwich;jambon;sandwich de jambon
+panini;fromage;panini de fromage
+kebab;salade;kebab de salade
+burger;frite;burger de frite
+hot;dog;hot de dog
+nuggets;poulet;nuggets de poulet
+wings;épicé;wings d'épicé
+tacos;boeuf;tacos de bœuf
+fajitas;poulet;fajitas de poulet
+chili;con;chili de con
+paella;valencienne;paella de valencienne
+couscous;royal;couscous de royal
+tajine;agneau;tajine d'agneau
+curry;poule;curry de poule
+sushi;saumon;sushi de saumon
+maki;thon;maki de thon
+sashimi;dorade;sashimi de dorade
+nem;porc;nem de porc
+rouleau;printemps;rouleau de printemps
+riz;cantonais;riz de cantonais
+porc;aigre;porc d'aigre
+canard;laqué;canard de laqué
+boeuf;oignon;bœuf d'oignon
+poulet;basquaise;poulet de basquaise
+lapin;moutarde;lapin de moutarde
+veau;marengo;veau de marengo
+blanquette;veau;blanquette de veau
+daube;provencale;daube de provençale
+pot;feu;pot de feu
+boeuf;bourguignon;bœuf de bourguignon
+choucroute;garnie;choucroute de garnie
+cassoulet;oie;cassoulet d'oie
+aligot;saucisse;aligot de saucisse
+fondue;savoyarde;fondue de savoyarde
+raclette;charcuterie;raclette de charcuterie
+tartiflette;reblochon;tartiflette de reblochon
+gratin;dauphinois;gratin de dauphinois
+hachis;parmentier;hachis de parmentier
+tomate;farcie;tomate de farcie
+poivron;farci;poivron de farci
+chou;farci;chou de farci
+aubergine;parmigiana;aubergine de parmigiana
+lasagne;bolognaise;lasagne de bolognaise
+spaghetti;carbonara;spaghetti de carbonara
+tagliatelle;saumon;tagliatelle de saumon
+penne;arrabiata;penne d'arrabiata
+ravioli;viande;ravioli de viande
+tortellini;fromage;tortellini de fromage
+gnocchi;pesto;gnocchi de pesto
+risotto;champignon;risotto de champignon
+polenta;cremeuse;polenta de crémeuse
+ratatouille;niçoise;ratatouille de niçoise
+tian;légume;tian de légume
+salade;composée;salade de composée
+taboulé;libanais;taboulé de libanais
+houmous;pois;houmous de pois
+tsatsiki;concombre;tsatsiki de concombre
+guacamole;avocat;guacamole d'avocat
+tarama;oeuf;tarama d'œuf
+caviar;aubergine;caviar d'aubergine
+tapenade;olive;tapenade d'olive
+anchoïade;anchois;anchoïade d'anchois
+rillettes;oie;rillettes d'oie
+terrine;campagne;terrine de campagne
+foie;canard;foie de canard
+saumon;fumé;saumon de fumé
+truite;fumée;truite de fumée
+hareng;pomme;hareng de pomme
+sardine;huile;sardine d'huile
+thon;catalane;thon de catalane
+maquereau;vin;maquereau de vin

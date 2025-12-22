@@ -1,0 +1,1121 @@
+portrait;Van Gogh;portrait de Van Gogh
+gâteau;pâtissier;gâteau du pâtissier
+roman;Zola;roman de Zola
+film;Spielberg;film de Spielberg
+symphonie;Beethoven;symphonie de Beethoven
+théorie;Einstein;théorie d'Einstein
+chanson;Brel;chanson de Brel
+loi;Newton;loi de Newton
+théorème;Pythagore;théorème de Pythagore
+fables;La Fontaine;fables de La Fontaine
+toile;Picasso;toile de Picasso
+sculpture;Rodin;sculpture de Rodin
+opéra;Mozart;opéra de Mozart
+pièce;Molière;pièce de Molière
+recette;grand-mère;recette de grand-mère
+pain;boulanger;pain du boulanger
+meuble;menuisier;meuble du menuisier
+costume;couturier;costume du couturier
+plat;chef;plat du chef
+vin;vigneron;vin du vigneron
+miel;apiculteur;miel de l'apiculteur
+film;Godard;film de Godard
+album;Beatles;album des Beatles
+poème;Baudelaire;poème de Baudelaire
+conte;Perrault;conte de Perrault
+comédie;Shakespeare;comédie de Shakespeare
+essai;Montaigne;essai de Montaigne
+pensées;Pascal;pensées de Pascal
+confessions;Rousseau;confessions de Rousseau
+mémoires;Churchill;mémoires de Churchill
+discours;Luther King;discours de Luther King
+code;Napoléon;code de Napoléon
+serment;Hippocrate;serment d'Hippocrate
+principe;Archimède;principe d'Archimède
+constante;Planck;constante de Planck
+nombre;Avogadro;nombre d'Avogadro
+loi;Ohm;loi d'Ohm
+effet;Doppler;effet Doppler
+maladie;Parkinson;maladie de Parkinson
+syndrome;Stockholm;syndrome de Stockholm
+maladie;Alzheimer;maladie d'Alzheimer
+nœud;Gordien;nœud de Gordien
+lit;Procuste;lit de Procuste
+épée;Damoclès;épée de Damoclès
+boîte;Pandore;boîte de Pandore
+fil;Ariane;fil d'Ariane
+talon;Achille;talon d'Achille
+supplice;Tantale;supplice de Tantale
+rocher;Sisyphe;rocher de Sisyphe
+tonneau;Danaïdes;tonneau des Danaïdes
+tour;Eiffel;tour Eiffel
+pyramide;Khéops;pyramide de Khéops
+jardins;Le Nôtre;jardins de Le Nôtre
+cathédrale;Gaudí;cathédrale de Gaudí
+requiem;Verdi;requiem de Verdi
+ballet;Tchaïkovski;ballet de Tchaïkovski
+valse;Chopin;valse de Chopin
+sonate;Bach;sonate de Bach
+fresque;Michel-Ange;fresque de Michel-Ange
+déjeuner;Manet;déjeuner de Manet
+baisers;Klimt;baisers de Klimt
+nymphéas;Monet;nymphéas de Monet
+tournesols;Van Gogh;tournesols de Van Gogh
+penseur;Rodin;penseur de Rodin
+david;Michel-Ange;david de Michel-Ange
+affiche;Toulouse-Lautrec;affiche de Toulouse-Lautrec
+invention;Edison;invention d'Edison
+découverte;Christophe Colomb;découverte de Christophe Colomb
+voyages;Gulliver;voyages de Gulliver
+aventures;Tintin;aventures de Tintin
+sanctuaire;Athéna;sanctuaire d'Athéna
+temple;Salomon;temple de Salomon
+arche;Noé;arche de Noé
+tour;Magellan;tour de Magellan
+comète;Halley;comète de Halley
+télescope;Hubble;télescope de Hubble
+pas;Armstrong;pas d'Armstrong
+héritage;tante;héritage de la tante
+legs;donateur;legs du donateur
+misérables;Hugo;misérables de Hugo
+étranger;Camus;étranger de Camus
+peste;Camus;peste de Camus
+avare;Molière;avare de Molière
+cid;Corneille;cid de Corneille
+phèdre;Racine;phèdre de Racine
+fleurs du mal;Baudelaire;fleurs du mal de Baudelaire
+dormeur du val;Rimbaud;dormeur du val de Rimbaud
+pont mirabeau;Apollinaire;pont mirabeau d'Apollinaire
+petit prince;Saint-Exupéry;petit prince de Saint-Exupéry
+tour du monde;Verne;tour du monde de Verne
+vingt mille lieues;Verne;vingt mille lieues de Verne
+trois mousquetaires;Dumas;trois mousquetaires de Dumas
+comte de monte-cristo;Dumas;comte de monte-cristo de Dumas
+madame bovary;Flaubert;madame bovary de Flaubert
+bel-ami;Maupassant;bel-ami de Maupassant
+germinal;Zola;germinal de Zola
+recherche;Proust;recherche de Proust
+écume des jours;Vian;écume des jours de Vian
+nausée;Sartre;nausée de Sartre
+deuxième sexe;Beauvoir;deuxième sexe de Beauvoir
+antigone;Anouilh;antigone d'Anouilh
+rhinocéros;Ionesco;rhinocéros de Ionesco
+attendant godot;Beckett;attendant godot de Beckett
+cyrano;Rostand;cyrano de Rostand
+horla;Maupassant;horla de Maupassant
+rouge et le noir;Stendhal;rouge et le noir de Stendhal
+chartreuse;Stendhal;chartreuse de Stendhal
+gargantua;Rabelais;gargantua de Rabelais
+essais;Montaigne;essais de Montaigne
+candide;Voltaire;candide de Voltaire
+encyclopédie;Diderot;encyclopédie de Diderot
+contrat social;Rousseau;contrat social de Rousseau
+mariage de figaro;Beaumarchais;mariage de figaro de Beaumarchais
+liaisons dangereuses;Laclos;liaisons dangereuses de Laclos
+princesse de clèves;Lafayette;princesse de clèves de Lafayette
+lettres persanes;Montesquieu;lettres persanes de Montesquieu
+esprit des lois;Montesquieu;esprit des lois de Montesquieu
+atala;Chateaubriand;atala de Chateaubriand
+méditations;Lamartine;méditations de Lamartine
+loreleï;Apollinaire;loreleï d'Apollinaire
+yeux d'elsa;Aragon;yeux d'elsa d'Aragon
+liberté;Eluard;liberté d'Eluard
+paroles;Prévert;paroles de Prévert
+antimémoires;Malraux;antimémoires de Malraux
+mémoires d'outre-tombe;Chateaubriand;mémoires d'outre-tombe de Chateaubriand
+journal;Frank;journal de Frank
+harry potter;Rowling;harry potter de Rowling
+seigneur des anneaux;Tolkien;seigneur des anneaux de Tolkien
+hobbit;Tolkien;hobbit de Tolkien
+shining;King;shining de King
+ça;King;ça de King
+da vinci code;Brown;da vinci code de Brown
+alchimiste;Coelho;alchimiste de Coelho
+parfum;Süskind;parfum de Süskind
+nom de la rose;Eco;nom de la rose d'Eco
+cent ans de solitude;Márquez;cent ans de solitude de Márquez
+métamorphose;Kafka;métamorphose de Kafka
+procès;Kafka;procès de Kafka
+1984;Orwell;1984 d'Orwell
+ferme des animaux;Orwell;ferme des animaux d'Orwell
+meilleur des mondes;Huxley;meilleur des mondes de Huxley
+gatsby;Fitzgerald;gatsby de Fitzgerald
+vieil homme;Hemingway;vieil homme d'Hemingway
+raisins de la colère;Steinbeck;raisins de la colère de Steinbeck
+souris et des hommes;Steinbeck;souris et des hommes de Steinbeck
+attrape-coeurs;Salinger;attrape-coeurs de Salinger
+lolita;Nabokov;lolita de Nabokov
+maître et marguerite;Boulgakov;maître et marguerite de Boulgakov
+crime et châtiment;Dostoïevski;crime et châtiment de Dostoïevski
+frères karamazov;Dostoïevski;frères karamazov de Dostoïevski
+guerre et paix;Tolstoï;guerre et paix de Tolstoï
+anna karénine;Tolstoï;anna karénine de Tolstoï
+oncle vania;Tchekhov;oncle vania de Tchekhov
+cerisaie;Tchekhov;cerisaie de Tchekhov
+divine comédie;Dante;divine comédie de Dante
+décaméron;Boccace;décaméron de Boccace
+prince;Machiavel;prince de Machiavel
+don quichotte;Cervantès;don quichotte de Cervantès
+faust;Goethe;faust de Goethe
+souffrances du jeune werther;Goethe;souffrances du jeune werther de Goethe
+ainsi parlait zarathoustra;Nietzsche;ainsi parlait zarathoustra de Nietzsche
+capital;Marx;capital de Marx
+manifeste;Marx;manifeste de Marx
+interprétation des rêves;Freud;interprétation des rêves de Freud
+être et le néant;Sartre;être et le néant de Sartre
+critique de la raison pure;Kant;critique de la raison pure de Kant
+léviathan;Hobbes;léviathan de Hobbes
+utopie;More;utopie de More
+éloge de la folie;Érasme;éloge de la folie d'Érasme
+république;Platon;république de Platon
+banquet;Platon;banquet de Platon
+éthique;Spinoza;éthique de Spinoza
+pensées;Pascal;pensées de Pascal
+joconde;Vinci;joconde de Vinci
+cène;Vinci;cène de Vinci
+homme de vitruve;Vinci;homme de vitruve de Vinci
+jugement dernier;Michel-Ange;jugement dernier de Michel-Ange
+pieta;Michel-Ange;pieta de Michel-Ange
+école d'athènes;Raphaël;école d'athènes de Raphaël
+naissance de vénus;Botticelli;naissance de vénus de Botticelli
+ronde de nuit;Rembrandt;ronde de nuit de Rembrandt
+jeune fille à la perle;Vermeer;jeune fille à la perle de Vermeer
+laitière;Vermeer;laitière de Vermeer
+ménines;Velázquez;ménines de Velázquez
+tres de mayo;Goya;tres de mayo de Goya
+radeau de la méduse;Géricault;radeau de la méduse de Géricault
+liberté guidant le peuple;Delacroix;liberté guidant le peuple de Delacroix
+voyageur contemplant une mer de nuages;Friedrich;voyageur contemplant une mer de nuages de Friedrich
+bain turc;Ingres;bain turc d'Ingres
+olympia;Manet;olympia de Manet
+impression soleil levant;Monet;impression soleil levant de Monet
+déjeuner des canotiers;Renoir;déjeuner des canotiers de Renoir
+bal du moulin de la galette;Renoir;bal du moulin de la galette de Renoir
+petite danseuse;Degas;petite danseuse de Degas
+nuit étoilée;Van Gogh;nuit étoilée de Van Gogh
+chambre;Van Gogh;chambre de Van Gogh
+cri;Munch;cri de Munch
+demoiselles d'avignon;Picasso;demoiselles d'avignon de Picasso
+guernica;Picasso;guernica de Picasso
+persistance de la mémoire;Dali;persistance de la mémoire de Dali
+grand masturbateur;Dali;grand masturbateur de Dali
+fils de l'homme;Magritte;fils de l'homme de Magritte
+ceci n'est pas une pipe;Magritte;ceci n'est pas une pipe de Magritte
+baiser;Klimt;baiser de Klimt
+carré blanc sur fond blanc;Malevitch;carré blanc sur fond blanc de Malevitch
+composition VIII;Kandinsky;composition VIII de Kandinsky
+fontaine;Duchamp;fontaine de Duchamp
+roue de bicyclette;Duchamp;roue de bicyclette de Duchamp
+campbell's soup;Warhol;campbell's soup de Warhol
+marilyn;Warhol;marilyn de Warhol
+fille au ballon;Banksy;fille au ballon de Banksy
+hymne à la joie;Beethoven;hymne à la joie de Beethoven
+lettre à élise;Beethoven;lettre à élise de Beethoven
+sonate au clair de lune;Beethoven;sonate au clair de lune de Beethoven
+petite musique de nuit;Mozart;petite musique de nuit de Mozart
+flûte enchantée;Mozart;flûte enchantée de Mozart
+noces de figaro;Mozart;noces de figaro de Mozart
+quatre saisons;Vivaldi;quatre saisons de Vivaldi
+toccata;Bach;toccata de Bach
+art de la fugue;Bach;art de la fugue de Bach
+messie;Haendel;messie de Haendel
+sacre du printemps;Stravinsky;sacre du printemps de Stravinsky
+boléro;Ravel;boléro de Ravel
+prélude à l'après-midi d'un faune;Debussy;prélude à l'après-midi d'un faune de Debussy
+clair de lune;Debussy;clair de lune de Debussy
+gymnopédies;Satie;gymnopédies de Satie
+planètes;Holst;planètes de Holst
+chevauchée des valkyries;Wagner;chevauchée des valkyries de Wagner
+anneau du nibelung;Wagner;anneau du nibelung de Wagner
+carmen;Bizet;carmen de Bizet
+traviata;Verdi;traviata de Verdi
+nabucco;Verdi;nabucco de Verdi
+barbier de séville;Rossini;barbier de séville de Rossini
+guillaume tell;Rossini;guillaume tell de Rossini
+lac des cygnes;Tchaïkovski;lac des cygnes de Tchaïkovski
+casse-noisette;Tchaïkovski;casse-noisette de Tchaïkovski
+beau danube bleu;Strauss;beau danube bleu de Strauss
+marche de radetzky;Strauss;marche de radetzky de Strauss
+rhapsody in blue;Gershwin;rhapsody in blue de Gershwin
+pierre et le loup;Prokofiev;pierre et le loup de Prokofiev
+carmina burana;Orff;carmina burana d'Orff
+adagio;Albinoni;adagio d'Albinoni
+canon;Pachelbel;canon de Pachelbel
+ave maria;Schubert;ave maria de Schubert
+truite;Schubert;truite de Schubert
+nocturnes;Chopin;nocturnes de Chopin
+marche funèbre;Chopin;marche funèbre de Chopin
+rêve d'amour;Liszt;rêve d'amour de Liszt
+danse macabre;Saint-Saëns;danse macabre de Saint-Saëns
+carnaval des animaux;Saint-Saëns;carnaval des animaux de Saint-Saëns
+apprenti sorcier;Dukas;apprenti sorcier de Dukas
+thriller;Jackson;thriller de Jackson
+billie jean;Jackson;billie jean de Jackson
+bohemian rhapsody;Queen;bohemian rhapsody de Queen
+we will rock you;Queen;we will rock you de Queen
+imagine;Lennon;imagine de Lennon
+yesterday;Beatles;yesterday des Beatles
+let it be;Beatles;let it be des Beatles
+hey jude;Beatles;hey jude des Beatles
+satisfaction;Stones;satisfaction des Stones
+paint it black;Stones;paint it black des Stones
+stairway to heaven;Led Zeppelin;stairway to heaven de Led Zeppelin
+hotel california;Eagles;hotel california des Eagles
+smells like teen spirit;Nirvana;smells like teen spirit de Nirvana
+billie bossa nova;Eilish;billie bossa nova d'Eilish
+shape of you;Sheeran;shape of you de Sheeran
+rolling in the deep;Adele;rolling in the deep d'Adele
+hymne à l'amour;Piaf;hymne à l'amour de Piaf
+vie en rose;Piaf;vie en rose de Piaf
+ne me quitte pas;Brel;ne me quitte pas de Brel
+amsterdam;Brel;amsterdam de Brel
+bohème;Aznavour;bohème d'Aznavour
+emmenez-moi;Aznavour;emmenez-moi d'Aznavour
+javanaise;Gainsbourg;javanaise de Gainsbourg
+bonnie and clyde;Gainsbourg;bonnie and clyde de Gainsbourg
+mistral gagnant;Renaud;mistral gagnant de Renaud
+allumer le feu;Hallyday;allumer le feu de Hallyday
+marie;Hallyday;marie de Hallyday
+comme d'habitude;Claude François;comme d'habitude de Claude François
+alexandrie alexandra;Claude François;alexandrie alexandra de Claude François
+été indien;Dassin;été indien de Dassin
+champs-élysées;Dassin;champs-élysées de Dassin
+lac du connemara;Sardou;lac du connemara de Sardou
+envie d'aimer;Obispo;envie d'aimer d'Obispo
+savoir aimer;Pagny;savoir aimer de Pagny
+pour que tu m'aimes encore;Dion;pour que tu m'aimes encore de Dion
+my heart will go on;Dion;my heart will go on de Dion
+temps modernes;Chaplin;temps modernes de Chaplin
+dictateur;Chaplin;dictateur de Chaplin
+kid;Chaplin;kid de Chaplin
+oiseaux;Hitchcock;oiseaux de Hitchcock
+psychose;Hitchcock;psychose de Hitchcock
+sueurs froides;Hitchcock;sueurs froides de Hitchcock
+parrain;Coppola;parrain de Coppola
+apocalypse now;Coppola;apocalypse now de Coppola
+taxi driver;Scorsese;taxi driver de Scorsese
+affranchis;Scorsese;affranchis de Scorsese
+loup de wall street;Scorsese;loup de wall street de Scorsese
+pulp fiction;Tarantino;pulp fiction de Tarantino
+kill bill;Tarantino;kill bill de Tarantino
+inglourious basterds;Tarantino;inglourious basterds de Tarantino
+schindler's list;Spielberg;schindler's list de Spielberg
+et;Spielberg;et de Spielberg
+dents de la mer;Spielberg;dents de la mer de Spielberg
+jurassic park;Spielberg;jurassic park de Spielberg
+indiana jones;Spielberg;indiana jones de Spielberg
+star wars;Lucas;star wars de Lucas
+avatar;Cameron;avatar de Cameron
+titanic;Cameron;titanic de Cameron
+terminator;Cameron;terminator de Cameron
+alien;Scott;alien de Scott
+gladiator;Scott;gladiator de Scott
+blade runner;Scott;blade runner de Scott
+2001;Kubrick;2001 de Kubrick
+orange mécanique;Kubrick;orange mécanique de Kubrick
+shining;Kubrick;shining de Kubrick
+full metal jacket;Kubrick;full metal jacket de Kubrick
+inception;Nolan;inception de Nolan
+interstellar;Nolan;interstellar de Nolan
+dark knight;Nolan;dark knight de Nolan
+seigneur des anneaux;Jackson;seigneur des anneaux de Jackson
+matrix;Wachowski;matrix des Wachowski
+fight club;Fincher;fight club de Fincher
+seven;Fincher;seven de Fincher
+social network;Fincher;social network de Fincher
+grand bleu;Besson;grand bleu de Besson
+cinquième élément;Besson;cinquième élément de Besson
+léon;Besson;léon de Besson
+fabuleux destin d'amélie poulain;Jeunet;fabuleux destin d'amélie poulain de Jeunet
+intouchables;Nakache;intouchables de Nakache
+ch'tis;Boon;ch'tis de Boon
+grande vadrouille;Oury;grande vadrouille d'Oury
+corniaud;Oury;corniaud d'Oury
+tontons flingueurs;Lautner;tontons flingueurs de Lautner
+dîner de cons;Veber;dîner de cons de Veber
+auberge espagnole;Klapisch;auberge espagnole de Klapisch
+haine;Kassovitz;haine de Kassovitz
+pianiste;Polanski;pianiste de Polanski
+théorème;Thalès;théorème de Thalès
+principe;Pascal;principe de Pascal
+loi;Mariotte;loi de Mariotte
+tableau;Mendeleïev;tableau de Mendeleïev
+échelle;Richter;échelle de Richter
+échelle;Celsius;échelle de Celsius
+échelle;Fahrenheit;échelle de Fahrenheit
+classification;Linné;classification de Linné
+théorie de l'évolution;Darwin;théorie de l'évolution de Darwin
+loi;Mendel;loi de Mendel
+vaccin;Pasteur;vaccin de Pasteur
+bacille;Koch;bacille de Koch
+rayons X;Röntgen;rayons X de Röntgen
+radioactivité;Becquerel;radioactivité de Becquerel
+radium;Curie;radium de Curie
+polonium;Curie;polonium de Curie
+théorie de la relativité;Einstein;théorie de la relativité d'Einstein
+chat;Schrödinger;chat de Schrödinger
+principe d'incertitude;Heisenberg;principe d'incertitude de Heisenberg
+boson;Higgs;boson de Higgs
+télescope;Galilée;télescope de Galilée
+lois du mouvement;Kepler;lois du mouvement de Kepler
+comète;Halley;comète de Halley
+pendule;Foucault;pendule de Foucault
+effet;Joule;effet Joule
+cage;Faraday;cage de Faraday
+bobine;Tesla;bobine de Tesla
+courant alternatif;Tesla;courant alternatif de Tesla
+ampoule;Edison;ampoule d'Edison
+phonographe;Edison;phonographe d'Edison
+téléphone;Bell;téléphone de Bell
+dynamite;Nobel;dynamite de Nobel
+presse;Gutenberg;presse de Gutenberg
+machine à vapeur;Watt;machine à vapeur de Watt
+montgolfière;Montgolfier;montgolfière des Montgolfier
+braille;Braille;braille de Braille
+code;Morse;code Morse
+moteur;Diesel;moteur Diesel
+avion;Wright;avion des Wright
+avion;Ader;avion d'Ader
+cinématographe;Lumière;cinématographe des Lumière
+pneu;Michelin;pneu Michelin
+tour;Eiffel;tour Eiffel
+viaduc;Millau;viaduc de Millau
+pyramide;Louvre;pyramide du Louvre
+musée;Guggenheim;musée Guggenheim
+opéra;Garnier;opéra Garnier
+bibliothèque;Mitterrand;bibliothèque Mitterrand
+centre;Pompidou;centre Pompidou
+barbier;Séville;barbier de Séville
+bossu;Notre-Dame;bossu de Notre-Dame
+fantôme;Opéra;fantôme de l'Opéra
+monstre;Frankenstein;monstre de Frankenstein
+créature;Dracula;créature de Dracula
+sherlock;Doyle;sherlock de Doyle
+hercule poirot;Christie;hercule poirot de Christie
+maigret;Simenon;maigret de Simenon
+arsène lupin;Leblanc;arsène lupin de Leblanc
+james bond;Fleming;james bond de Fleming
+tarzan;Burroughs;tarzan de Burroughs
+mickey;Disney;mickey de Disney
+donald;Disney;donald de Disney
+tintin;Hergé;tintin d'Hergé
+astérix;Goscinny;astérix de Goscinny
+lucky luke;Morris;lucky luke de Morris
+gaston lagaffe;Franquin;gaston lagaffe de Franquin
+spirou;Rob-Vel;spirou de Rob-Vel
+schtroumpfs;Peyo;schtroumpfs de Peyo
+titeuf;Zep;titeuf de Zep
+mafalda;Quino;mafalda de Quino
+snoopy;Schulz;snoopy de Schulz
+garfield;Davis;garfield de Davis
+simpson;Groening;simpson de Groening
+superman;Siegel;superman de Siegel
+batman;Kane;batman de Kane
+spiderman;Lee;spiderman de Lee
+x-men;Lee;x-men de Lee
+avengers;Lee;avengers de Lee
+star wars;Lucas;star wars de Lucas
+indiana jones;Lucas;indiana jones de Lucas
+et;Spielberg;et de Spielberg
+jurassic park;Crichton;jurassic park de Crichton
+game of thrones;Martin;game of thrones de Martin
+fondation;Asimov;fondation d'Asimov
+robots;Asimov;robots d'Asimov
+dune;Herbert;dune de Herbert
+neuromancien;Gibson;neuromancien de Gibson
+ubik;Dick;ubik de Dick
+blade runner;Dick;blade runner de Dick
+rapport;stagiaire;rapport du stagiaire
+thèse;doctorant;thèse du doctorant
+mémoire;étudiant;mémoire de l'étudiant
+copie;élève;copie de l'élève
+dissertation;lycéen;dissertation du lycéen
+exposé;collégien;exposé du collégien
+dessin;enfant;dessin de l'enfant
+gribouillage;bébé;gribouillage du bébé
+courrier;facteur;courrier du facteur
+mail;expéditeur;mail de l'expéditeur
+lettre;correspondant;lettre du correspondant
+sms;ado;sms de l'ado
+tweet;influenceur;tweet de l'influenceur
+post;blogueur;post du blogueur
+story;instagrammeur;story de l'instagrammeur
+vidéo;youtubeur;vidéo du youtubeur
+vlog;voyageur;vlog du voyageur
+selfie;touriste;selfie du touriste
+photo;photographe;photo du photographe
+album;famille;album de la famille
+film;vacancier;film du vacancier
+diapo;grand-père;diapo du grand-père
+recette;cuisinier;recette du cuisinier
+menu;restaurateur;menu du restaurateur
+carte;chef;carte du chef
+plat;traiteur;plat du traiteur
+gâteau;pâtissier;gâteau du pâtissier
+pièce montée;mariés;pièce montée des mariés
+pain;boulanger;pain du boulanger
+baguette;artisan;baguette de l'artisan
+croissant;tourier;croissant du tourier
+chocolat;chocolatier;chocolat du chocolatier
+praliné;confiseur;praliné du confiseur
+glace;glacier;glace du glacier
+sorbet;artisan;sorbet de l'artisan
+vin;vigneron;vin du vigneron
+cuvée;propriétaire;cuvée du propriétaire
+bière;brasseur;bière du brasseur
+cidre;fermier;cidre du fermier
+jus;producteur;jus du producteur
+miel;apiculteur;miel de l'apiculteur
+fromage;affineur;fromage de l'affineur
+saucisson;charcutier;saucisson du charcutier
+rôti;boucher;rôti du boucher
+filet;poissonnier;filet du poissonnier
+bouquet;fleuriste;bouquet du fleuriste
+composition;artiste;composition de l'artiste
+jardin;paysagiste;jardin du paysagiste
+parc;jardinier;parc du jardinier
+plan;architecte;plan de l'architecte
+maquette;urbaniste;maquette de l'urbaniste
+maison;maçon;maison du maçon
+mur;bricoleur;mur du bricoleur
+toit;couvreur;toit du couvreur
+charpente;charpentier;charpente du charpentier
+meuble;ébéniste;meuble de l'ébéniste
+chaise;menuisier;chaise du menuisier
+ferronnerie;forgeron;ferronnerie du forgeron
+vitrail;maître-verrier;vitrail du maître-verrier
+poterie;potier;poterie du potier
+céramique;céramiste;céramique du céramiste
+bijou;joaillier;bijou du joaillier
+bague;orfèvre;bague de l'orfèvre
+montre;horloger;montre de l'horloger
+vêtement;couturier;vêtement du couturier
+robe;styliste;robe du styliste
+costume;tailleur;costume du tailleur
+chapeau;chapelier;chapeau du chapelier
+chaussure;cordonnier;chaussure du cordonnier
+botte;bottier;botte du bottier
+sac;maroquinier;sac du maroquinier
+parfum;nez;parfum du nez
+coiffure;coiffeur;coiffure du coiffeur
+coupe;barbier;coupe du barbier
+maquillage;esthéticienne;maquillage de l'esthéticienne
+tatouage;tatoueur;tatouage du tatoueur
+piercing;perceur;piercing du perceur
+ordonnance;médecin;ordonnance du médecin
+diagnostic;spécialiste;diagnostic du spécialiste
+bilan;comptable;bilan du comptable
+audit;auditeur;audit de l'auditeur
+contrat;avocat;contrat de l'avocat
+acte;notaire;acte du notaire
+jugement;juge;jugement du juge
+loi;législateur;loi du législateur
+décret;ministre;décret du ministre
+arrêté;maire;arrêté du maire
+circulaire;préfet;circulaire du préfet
+rapport;expert;rapport de l'expert
+devis;artisan;devis de l'artisan
+facture;commerçant;facture du commerçant
+ticket;vendeur;ticket du vendeur
+addition;serveur;addition du serveur
+programme;développeur;programme du développeur
+site;webmaster;site du webmaster
+appli;codeur;appli du codeur
+jeu;game designer;jeu du game designer
+article;journaliste;article du journaliste
+reportage;reporter;reportage du reporter
+édito;rédacteur;édito du rédacteur
+une;maquettiste;une du maquettiste
+dessin;caricaturiste;dessin du caricaturiste
+pub;publicitaire;pub du publicitaire
+affiche;graphiste;affiche du graphiste
+logo;designer;logo du designer
+slogan;concepteur;slogan du concepteur
+campagne;marketeur;campagne du marketeur
+stratégie;dirigeant;stratégie du dirigeant
+politique;gouvernement;politique du gouvernement
+réforme;président;réforme du président
+manif;syndicat;manif du syndicat
+grève;salarié;grève du salarié
+révolution;peuple;révolution du peuple
+découverte;explorateur;découverte de l'explorateur
+invention;ingénieur;invention de l'ingénieur
+brevet;inventeur;brevet de l'inventeur
+innovation;start-up;innovation de la start-up
+projet;équipe;projet de l'équipe
+décision;chef;décision du chef
+ordre;commandant;ordre du commandant
+plan;stratège;plan du stratège
+bataille;général;bataille du général
+victoire;armée;victoire de l'armée
+traité;diplomate;traité du diplomate
+accord;négociateur;accord du négociateur
+discours;orateur;discours de l'orateur
+homélie;prêtre;homélie du prêtre
+sermon;pasteur;sermon du pasteur
+conférence;savant;conférence du savant
+cours;professeur;cours du professeur
+leçon;instituteur;leçon de l'instituteur
+conseil;mentor;conseil du mentor
+avis;consultant;avis du consultant
+verdict;jury;verdict du jury
+note;critique;note du critique
+étoile;guide;étoile du guide
+palme;festival;palme du festival
+oscar;académie;oscar de l'académie
+médaille;comité;médaille du comité
+coupe;fédération;coupe de la fédération
+record;champion;record du champion
+performance;athlète;performance de l'athlète
+exploit;héros;exploit du héros
+œuvre;créateur;œuvre du créateur
+chef-d'œuvre;maître;chef-d'œuvre du maître
+nana;Zola;nana de Zola
+bête humaine;Zola;bête humaine de Zola
+assommoir;Zola;assommoir de Zola
+au bonheur des dames;Zola;au bonheur des dames de Zola
+père goriot;Balzac;père goriot de Balzac
+eugénie grandet;Balzac;eugénie grandet de Balzac
+illusions perdues;Balzac;illusions perdues de Balzac
+cousin pons;Balzac;cousin pons de Balzac
+peau de chagrin;Balzac;peau de chagrin de Balzac
+notre-dame de paris;Hugo;notre-dame de paris de Hugo
+rernani;Hugo;hernani de Hugo
+châtiments;Hugo;châtiments de Hugo
+contemplations;Hugo;contemplations de Hugo
+légende des siècles;Hugo;légende des siècles de Hugo
+salambô;Flaubert;salambô de Flaubert
+éducation sentimentale;Flaubert;éducation sentimentale de Flaubert
+bouvard et pécuchet;Flaubert;bouvard et pécuchet de Flaubert
+boule de suif;Maupassant;boule de suif de Maupassant
+une vie;Maupassant;une vie de Maupassant
+pierre et jean;Maupassant;pierre et jean de Maupassant
+tartuffe;Molière;tartuffe de Molière
+dom juan;Molière;dom juan de Molière
+misanthrope;Molière;misanthrope de Molière
+malade imaginaire;Molière;malade imaginaire de Molière
+bourgeois gentilhomme;Molière;bourgeois gentilhomme de Molière
+horace;Corneille;horace de Corneille
+cinna;Corneille;cinna de Corneille
+polyeucte;Corneille;polyeucte de Corneille
+britannicus;Racine;britannicus de Racine
+andromaque;Racine;andromaque de Racine
+bérénice;Racine;bérénice de Racine
+iphigénie;Racine;iphigénie de Racine
+jeu de l'amour et du hasard;Marivaux;jeu de l'amour et du hasard de Marivaux
+fausses confidences;Marivaux;fausses confidences de Marivaux
+barbier de séville;Beaumarchais;barbier de séville de Beaumarchais
+confessions;Rousseau;confessions de Rousseau
+émile;Rousseau;émile de Rousseau
+nouvelle héloïse;Rousseau;nouvelle héloïse de Rousseau
+zadig;Voltaire;zadig de Voltaire
+micromégas;Voltaire;micromégas de Voltaire
+traité sur la tolérance;Voltaire;traité sur la tolérance de Voltaire
+neveu de rameau;Diderot;neveu de rameau de Diderot
+jacques le fataliste;Diderot;jacques le fataliste de Diderot
+manon lescaut;Prévost;manon lescaut de Prévost
+paul et virginie;Bernardin de Saint-Pierre;paul et virginie de Bernardin de Saint-Pierre
+adolphe;Constant;adolphe de Constant
+carmen;Mérimée;carmen de Mérimée
+colomba;Mérimée;colomba de Mérimée
+voyage au centre de la terre;Verne;voyage au centre de la terre de Verne
+île mystérieuse;Verne;île mystérieuse de Verne
+michel strogoff;Verne;michel strogoff de Verne
+reine margot;Dumas;reine margot de Dumas
+comtesse de ségur;Ségur;comtesse de ségur de Ségur
+grand meaulnes;Alain-Fournier;grand meaulnes d'Alain-Fournier
+poil de carotte;Renard;poil de carotte de Renard
+guerre des boutons;Pergaud;guerre des boutons de Pergaud
+appel de la forêt;London;appel de la forêt de London
+croc-blanc;London;croc-blanc de London
+martin eden;London;martin eden de London
+tom sawyer;Twain;tom sawyer de Twain
+huckleberry finn;Twain;huckleberry finn de Twain
+mobydick;Melville;mobydick de Melville
+bartleby;Melville;bartleby de Melville
+lettre écarlate;Hawthorne;lettre écarlate de Hawthorne
+feuilles d'herbe;Whitman;feuilles d'herbe de Whitman
+corbeau;Poe;corbeau de Poe
+histoires extraordinaires;Poe;histoires extraordinaires de Poe
+double assassinat;Poe;double assassinat de Poe
+dracula;Stoker;dracula de Stoker
+frankenstein;Shelley;frankenstein de Shelley
+portrait de dorian gray;Wilde;portrait de dorian gray de Wilde
+importance d'être constant;Wilde;importance d'être constant de Wilde
+ulysse;Joyce;ulysse de Joyce
+gens de dublin;Joyce;gens de dublin de Joyce
+vers les phares;Woolf;vers les phares de Woolf
+mrs dalloway;Woolf;mrs dalloway de Woolf
+1984;Orwell;1984 d'Orwell
+ferme des animaux;Orwell;ferme des animaux d'Orwell
+meilleur des mondes;Huxley;meilleur des mondes de Huxley
+fahrenheit 451;Bradbury;fahrenheit 451 de Bradbury
+chroniques martiennes;Bradbury;chroniques martiennes de Bradbury
+fondation;Asimov;fondation d'Asimov
+robots;Asimov;robots d'Asimov
+dune;Herbert;dune de Herbert
+2001;Clarke;2001 de Clarke
+neuroromancien;Gibson;neuroromancien de Gibson
+ubik;Dick;ubik de Dick
+androïdes rêvent-ils de moutons électriques;Dick;androïdes rêvent-ils de moutons électriques de Dick
+seigneur des anneaux;Tolkien;seigneur des anneaux de Tolkien
+hobbit;Tolkien;hobbit de Tolkien
+silmarillion;Tolkien;silmarillion de Tolkien
+lion la sorcière et l'armoire;Lewis;lion la sorcière et l'armoire de Lewis
+trône de fer;Martin;trône de fer de Martin
+harry potter;Rowling;harry potter de Rowling
+da vinci code;Brown;da vinci code de Brown
+anges et démons;Brown;anges et démons de Brown
+millénium;Larsson;millénium de Larsson
+misery;King;misery de King
+carrie;King;carrie de King
+ligne verte;King;ligne verte de King
+fléau;King;fléau de King
+cimetierre;King;cimetierre de King
+cri;Munch;cri de Munch
+nuit étoilée;Van Gogh;nuit étoilée de Van Gogh
+terrasse de café;Van Gogh;terrasse de café de Van Gogh
+chambre;Van Gogh;chambre de Van Gogh
+iris;Van Gogh;iris de Van Gogh
+nymphéas;Monet;nymphéas de Monet
+gare saint-lazare;Monet;gare saint-lazare de Monet
+déjeuner sur l'herbe;Manet;déjeuner sur l'herbe de Manet
+olympia;Manet;olympia de Manet
+bar des folies bergère;Manet;bar des folies bergère de Manet
+bal du moulin de la galette;Renoir;bal du moulin de la galette de Renoir
+danse à la ville;Renoir;danse à la ville de Renoir
+petite danseuse;Degas;petite danseuse de Degas
+absinthe;Degas;absinthe de Degas
+pommes;Cézanne;pommes de Cézanne
+montagne sainte-victoire;Cézanne;montagne sainte-victoire de Cézanne
+joconde;Vinci;joconde de Vinci
+cène;Vinci;cène de Vinci
+dame à l'hermine;Vinci;dame à l'hermine de Vinci
+saint jean-baptiste;Vinci;saint jean-baptiste de Vinci
+plafond;Michel-Ange;plafond de Michel-Ange
+jugement dernier;Michel-Ange;jugement dernier de Michel-Ange
+pieta;Michel-Ange;pieta de Michel-Ange
+david;Michel-Ange;david de Michel-Ange
+école d'athènes;Raphaël;école d'athènes de Raphaël
+madone;Raphaël;madone de Raphaël
+naissance de vénus;Botticelli;naissance de vénus de Botticelli
+printemps;Botticelli;printemps de Botticelli
+ronde de nuit;Rembrandt;ronde de nuit de Rembrandt
+leçon d'anatomie;Rembrandt;leçon d'anatomie de Rembrandt
+jeune fille à la perle;Vermeer;jeune fille à la perle de Vermeer
+laitière;Vermeer;laitière de Vermeer
+astronome;Vermeer;astronome de Vermeer
+ménines;Velázquez;ménines de Velázquez
+tres de mayo;Goya;tres de mayo de Goya
+maja nue;Goya;maja nue de Goya
+saturne dévorant un de ses fils;Goya;saturne dévorant un de ses fils de Goya
+radeau de la méduse;Géricault;radeau de la méduse de Géricault
+liberté guidant le peuple;Delacroix;liberté guidant le peuple de Delacroix
+mort de sardanapale;Delacroix;mort de sardanapale de Delacroix
+sacre;David;sacre de David
+marat assassiné;David;marat assassiné de David
+serment des horaces;David;serment des horaces de David
+grande odalisque;Ingres;grande odalisque d'Ingres
+bain turc;Ingres;bain turc d'Ingres
+demoiselles d'avignon;Picasso;demoiselles d'avignon de Picasso
+guernica;Picasso;guernica de Picasso
+femme qui pleure;Picasso;femme qui pleure de Picasso
+vie;Picasso;vie de Picasso
+persistance de la mémoire;Dali;persistance de la mémoire de Dali
+montres molles;Dali;montres molles de Dali
+trahison des images;Magritte;trahison des images de Magritte
+fils de l'homme;Magritte;fils de l'homme de Magritte
+empire des lumières;Magritte;empire des lumières de Magritte
+fontaine;Duchamp;fontaine de Duchamp
+roue de bicyclette;Duchamp;roue de bicyclette de Duchamp
+marilyn;Warhol;marilyn de Warhol
+soupe campbell;Warhol;soupe campbell de Warhol
+baiser;Klimt;baiser de Klimt
+arbre de vie;Klimt;arbre de vie de Klimt
+composition VIII;Kandinsky;composition VIII de Kandinsky
+jaune rouge bleu;Kandinsky;jaune rouge bleu de Kandinsky
+carré noir;Malevitch;carré noir de Malevitch
+carré blanc;Malevitch;carré blanc de Malevitch
+porte de l'enfer;Rodin;porte de l'enfer de Rodin
+penseur;Rodin;penseur de Rodin
+baiser;Rodin;baiser de Rodin
+bourgeois de calais;Rodin;bourgeois de calais de Rodin
+homme qui marche;Giacometti;homme qui marche de Giacometti
+femme debout;Giacometti;femme debout de Giacometti
+nana;Saint Phalle;nana de Saint Phalle
+fontaine stravinsky;Tinguely;fontaine stravinsky de Tinguely
+araignée;Bourgeois;araignée de Bourgeois
+chien ballon;Koons;chien ballon de Koons
+requin;Hirst;requin de Hirst
+hymne à la joie;Beethoven;hymne à la joie de Beethoven
+lettre à élise;Beethoven;lettre à élise de Beethoven
+sonate au clair de lune;Beethoven;sonate au clair de lune de Beethoven
+pastorale;Beethoven;pastorale de Beethoven
+héroïque;Beethoven;héroïque de Beethoven
+petite musique de nuit;Mozart;petite musique de nuit de Mozart
+marche turque;Mozart;marche turque de Mozart
+requiem;Mozart;requiem de Mozart
+flûte enchantée;Mozart;flûte enchantée de Mozart
+noces de figaro;Mozart;noces de figaro de Mozart
+don giovanni;Mozart;don giovanni de Mozart
+ave maria;Schubert;ave maria de Schubert
+truite;Schubert;truite de Schubert
+roi des aulnes;Schubert;roi des aulnes de Schubert
+toccata;Bach;toccata de Bach
+art de la fugue;Bach;art de la fugue de Bach
+variations goldberg;Bach;variations goldberg de Bach
+messie;Haendel;messie de Haendel
+sarabande;Haendel;sarabande de Haendel
+quatre saisons;Vivaldi;quatre saisons de Vivaldi
+gloria;Vivaldi;gloria de Vivaldi
+nocturnes;Chopin;nocturnes de Chopin
+valses;Chopin;valses de Chopin
+polonaises;Chopin;polonaises de Chopin
+rêve d'amour;Liszt;rêve d'amour de Liszt
+rhapsodie hongroise;Liszt;rhapsodie hongroise de Liszt
+danse macabre;Saint-Saëns;danse macabre de Saint-Saëns
+cygne;Saint-Saëns;cygne de Saint-Saëns
+clair de lune;Debussy;clair de lune de Debussy
+mer;Debussy;mer de Debussy
+boléro;Ravel;boléro de Ravel
+pavane pour une infante défunte;Ravel;pavane pour une infante défunte de Ravel
+sacre du printemps;Stravinsky;sacre du printemps de Stravinsky
+oiseau de feu;Stravinsky;oiseau de feu de Stravinsky
+chevauchée des valkyries;Wagner;chevauchée des valkyries de Wagner
+crépuscule des dieux;Wagner;crépuscule des dieux de Wagner
+vaisseau fantôme;Wagner;vaisseau fantôme de Wagner
+carmen;Bizet;carmen de Bizet
+arlésienne;Bizet;arlésienne de Bizet
+traviata;Verdi;traviata de Verdi
+aïda;Verdi;aïda de Verdi
+rigoletto;Verdi;rigoletto de Verdi
+barbier de séville;Rossini;barbier de séville de Rossini
+pie voleuse;Rossini;pie voleuse de Rossini
+lac des cygnes;Tchaïkovski;lac des cygnes de Tchaïkovski
+casse-noisette;Tchaïkovski;casse-noisette de Tchaïkovski
+belle au bois dormant;Tchaïkovski;belle au bois dormant de Tchaïkovski
+beau danube bleu;Strauss;beau danube bleu de Strauss
+marche de radetzky;Strauss;marche de radetzky de Strauss
+carmina burana;Orff;carmina burana d'Orff
+planètes;Holst;planètes de Holst
+rhapsody in blue;Gershwin;rhapsody in blue de Gershwin
+été américain;Gershwin;été américain de Gershwin
+adagio;Barber;adagio de Barber
+thriller;Jackson;thriller de Jackson
+billie jean;Jackson;billie jean de Jackson
+beat it;Jackson;beat it de Jackson
+bohemian rhapsody;Queen;bohemian rhapsody de Queen
+we will rock you;Queen;we will rock you de Queen
+show must go on;Queen;show must go on de Queen
+imagine;Lennon;imagine de Lennon
+let it be;Beatles;let it be des Beatles
+yesterday;Beatles;yesterday des Beatles
+hey jude;Beatles;hey jude des Beatles
+help;Beatles;help des Beatles
+satisfaction;Rolling Stones;satisfaction des Rolling Stones
+paint it black;Rolling Stones;paint it black des Rolling Stones
+angie;Rolling Stones;angie des Rolling Stones
+hotel california;Eagles;hotel california des Eagles
+stairway to heaven;Led Zeppelin;stairway to heaven de Led Zeppelin
+kashmir;Led Zeppelin;kashmir de Led Zeppelin
+smells like teen spirit;Nirvana;smells like teen spirit de Nirvana
+come as you are;Nirvana;come as you are de Nirvana
+one;U2;one de U2
+sunday bloody sunday;U2;sunday bloody sunday de U2
+with or without you;U2;with or without you de U2
+purple rain;Prince;purple rain de Prince
+kiss;Prince;kiss de Prince
+like a virgin;Madonna;like a virgin de Madonna
+vogue;Madonna;vogue de Madonna
+frozen;Madonna;frozen de Madonna
+shape of you;Sheeran;shape of you de Sheeran
+perfect;Sheeran;perfect de Sheeran
+rolling in the deep;Adele;rolling in the deep d'Adele
+hello;Adele;hello d'Adele
+someone like you;Adele;someone like you d'Adele
+bad romance;Lady Gaga;bad romance de Lady Gaga
+poker face;Lady Gaga;poker face de Lady Gaga
+shallow;Lady Gaga;shallow de Lady Gaga
+baby one more time;Spears;baby one more time de Spears
+toxic;Spears;toxic de Spears
+billie bossa nova;Eilish;billie bossa nova d'Eilish
+bad guy;Eilish;bad guy d'Eilish
+blinding lights;The Weeknd;blinding lights de The Weeknd
+starboy;The Weeknd;starboy de The Weeknd
+hymne à l'amour;Piaf;hymne à l'amour de Piaf
+vie en rose;Piaf;vie en rose de Piaf
+milord;Piaf;milord de Piaf
+non je ne regrette rien;Piaf;non je ne regrette rien de Piaf
+ne me quitte pas;Brel;ne me quitte pas de Brel
+plat pays;Brel;plat pays de Brel
+amsterdam;Brel;amsterdam de Brel
+valse à mille temps;Brel;valse à mille temps de Brel
+emmenez-moi;Aznavour;emmenez-moi d'Aznavour
+bohème;Aznavour;bohème d'Aznavour
+for me formidable;Aznavour;for me formidable d'Aznavour
+comme ils disent;Aznavour;comme ils disent d'Aznavour
+javanaise;Gainsbourg;javanaise de Gainsbourg
+bonnie and clyde;Gainsbourg;bonnie and clyde de Gainsbourg
+poinçonneur des lilas;Gainsbourg;poinçonneur des lilas de Gainsbourg
+elisa;Gainsbourg;elisa de Gainsbourg
+mistral gagnant;Renaud;mistral gagnant de Renaud
+manhattan kaboul;Renaud;manhattan kaboul de Renaud
+dès que le vent soufflera;Renaud;dès que le vent soufflera de Renaud
+allumer le feu;Hallyday;allumer le feu de Hallyday
+que je t'aime;Hallyday;que je t'aime de Hallyday
+marie;Hallyday;marie de Hallyday
+quelque chose de tennessee;Hallyday;quelque chose de tennessee de Hallyday
+été indien;Dassin;été indien de Dassin
+champs élysées;Dassin;champs élysées de Dassin
+siffler sur la colline;Dassin;siffler sur la colline de Dassin
+lac du connemara;Sardou;lac du connemara de Sardou
+maladie d'amour;Sardou;maladie d'amour de Sardou
+pour que tu m'aimes encore;Dion;pour que tu m'aimes encore de Dion
+s'il suffisait d'aimer;Dion;s'il suffisait d'aimer de Dion
+poupée de cire;France Gall;poupée de cire de France Gall
+résiste;France Gall;résiste de France Gall
+il jouait du piano debout;France Gall;il jouait du piano debout de France Gall
+message personnel;Hardy;message personnel de Hardy
+temps de l'amour;Hardy;temps de l'amour de Hardy
+foule sentimentale;Souchon;foule sentimentale de Souchon
+allo maman bobo;Souchon;allo maman bobo de Souchon
+femme libérée;Cookie Dingler;femme libérée de Cookie Dingler
+nuit de folie;Début de Soirée;nuit de folie de Début de Soirée
+aventurier;Indochine;aventurier d'Indochine
+j'ai demandé à la lune;Indochine;j'ai demandé à la lune d'Indochine
+toutes les femmes de ta vie;L5;toutes les femmes de ta vie des L5
+confessions nocturnes;Diam's;confessions nocturnes de Diam's
+boulette;Diam's;boulette de Diam's
+carla;Bénébar;carla de Bénébar
+lettre;Renan Luce;lettre de Renan Luce
+toit du monde;Corneille;toit du monde de Corneille
+face à la mer;Calogero;face à la mer de Calogero
+en apesanteur;Calogero;en apesanteur de Calogero
+temps modernes;Chaplin;temps modernes de Chaplin
+dictateur;Chaplin;dictateur de Chaplin
+ruée vers l'or;Chaplin;ruée vers l'or de Chaplin
+lumières de la ville;Chaplin;lumières de la ville de Chaplin
+psychose;Hitchcock;psychose de Hitchcock
+oiseaux;Hitchcock;oiseaux de Hitchcock
+fenêtre sur cour;Hitchcock;fenêtre sur cour de Hitchcock
+sueurs froides;Hitchcock;sueurs froides de Hitchcock
+mort aux trousses;Hitchcock;mort aux trousses de Hitchcock
+parrain;Coppola;parrain de Coppola
+apocalypse now;Coppola;apocalypse now de Coppola
+dracula;Coppola;dracula de Coppola
+taxi driver;Scorsese;taxi driver de Scorsese
+affranchis;Scorsese;affranchis de Scorsese
+loup de wall street;Scorsese;loup de wall street de Scorsese
+shutter island;Scorsese;shutter island de Scorsese
+pulp fiction;Tarantino;pulp fiction de Tarantino
+kill bill;Tarantino;kill bill de Tarantino
+reservoir dogs;Tarantino;reservoir dogs de Tarantino
+django unchained;Tarantino;django unchained de Tarantino
+et;Spielberg;et de Spielberg
+dents de la mer;Spielberg;dents de la mer de Spielberg
+jurassic park;Spielberg;jurassic park de Spielberg
+liste de schindler;Spielberg;liste de schindler de Spielberg
+soldat ryan;Spielberg;soldat ryan de Spielberg
+star wars;Lucas;star wars de Lucas
+indiana jones;Lucas;indiana jones de Lucas
+avatar;Cameron;avatar de Cameron
+titanic;Cameron;titanic de Cameron
+terminator;Cameron;terminator de Cameron
+aliens;Cameron;aliens de Cameron
+alien;Scott;alien de Scott
+blade runner;Scott;blade runner de Scott
+gladiator;Scott;gladiator de Scott
+thelma et louise;Scott;thelma et louise de Scott
+2001;Kubrick;2001 de Kubrick
+orange mécanique;Kubrick;orange mécanique de Kubrick
+shining;Kubrick;shining de Kubrick
+full metal jacket;Kubrick;full metal jacket de Kubrick
+barry lyndon;Kubrick;barry lyndon de Kubrick
+inception;Nolan;inception de Nolan
+interstellar;Nolan;interstellar de Nolan
+dark knight;Nolan;dark knight de Nolan
+tenet;Nolan;tenet de Nolan
+memento;Nolan;memento de Nolan
+seigneur des anneaux;Jackson;seigneur des anneaux de Jackson
+king kong;Jackson;king kong de Jackson
+matrix;Wachowski;matrix des Wachowski
+fight club;Fincher;fight club de Fincher
+seven;Fincher;seven de Fincher
+social network;Fincher;social network de Fincher
+gone girl;Fincher;gone girl de Fincher
+grand bleu;Besson;grand bleu de Besson
+cinquième élément;Besson;cinquième élément de Besson
+léon;Besson;léon de Besson
+lucy;Besson;lucy de Besson
+nikita;Besson;nikita de Besson
+fabuleux destin d'amélie poulain;Jeunet;fabuleux destin d'amélie poulain de Jeunet
+délicatessen;Jeunet;délicatessen de Jeunet
+haine;Kassovitz;haine de Kassovitz
+rivières pourpres;Kassovitz;rivières pourpres de Kassovitz
+intouchables;Nakache;intouchables de Nakache
+sens de la fête;Nakache;sens de la fête de Nakache
+dîner de cons;Veber;dîner de cons de Veber
+chèvre;Veber;chèvre de Veber
+fugitifs;Veber;fugitifs de Veber
+grande vadrouille;Oury;grande vadrouille d'Oury
+corniaud;Oury;corniaud d'Oury
+folie des grandeurs;Oury;folie des grandeurs d'Oury
+rabbi jacob;Oury;rabbi jacob d'Oury
+tontons flingueurs;Lautner;tontons flingueurs de Lautner
+professionnel;Lautner;professionnel de Lautner
+bronzés;Leconte;bronzés de Leconte
+père noël est une ordure;Poiré;père noël est une ordure de Poiré
+visiteurs;Poiré;visiteurs de Poiré
+ch'tis;Boon;ch'tis de Boon
+artiste;Hazanavicius;artiste de Hazanavicius
+oss 117;Hazanavicius;oss 117 de Hazanavicius
+pianiste;Polanski;pianiste de Polanski
+rosemary's baby;Polanski;rosemary's baby de Polanski
+chinatown;Polanski;chinatown de Polanski
+amour;Haneke;amour de Haneke
+ruban blanc;Haneke;ruban blanc de Haneke
+parasite;Bong Joon-ho;parasite de Bong Joon-ho
+mémoire dans la peau;Liman;mémoire dans la peau de Liman
+die hard;McTiernan;die hard de McTiernan
+sixième sens;Shyamalan;sixième sens de Shyamalan
+incassable;Shyamalan;incassable de Shyamalan
+grand budapest hotel;Anderson;grand budapest hotel d'Anderson
+moonrise kingdom;Anderson;moonrise kingdom d'Anderson
+la la land;Chazelle;la la land de Chazelle
+whiplash;Chazelle;whiplash de Chazelle
+forme de l'eau;Del Toro;forme de l'eau de Del Toro
+labyrinthe de pan;Del Toro;labyrinthe de pan de Del Toro
+revenant;Iñárritu;revenant d'Iñárritu
+birdman;Iñárritu;birdman d'Iñárritu
+gravity;Cuarón;gravity de Cuarón
+roma;Cuarón;roma de Cuarón
+joker;Phillips;joker de Phillips
+bohemian rhapsody;Singer;bohemian rhapsody de Singer
+rocketman;Fletcher;rocketman de Fletcher
+elvis;Luhrmann;elvis de Luhrmann
+moulin rouge;Luhrmann;moulin rouge de Luhrmann
+gatsby;Luhrmann;gatsby de Luhrmann
+théorème;Thalès;théorème de Thalès
+principe;Pascal;principe de Pascal
+loi;Mariotte;loi de Mariotte
+tableau;Mendeleïev;tableau de Mendeleïev
+classification;Linné;classification de Linné
+théorie de l'évolution;Darwin;théorie de l'évolution de Darwin
+loi;Mendel;loi de Mendel
+vaccin;Pasteur;vaccin de Pasteur
+rage;Pasteur;rage de Pasteur
+bacille;Koch;bacille de Koch
+rayons X;Röntgen;rayons X de Röntgen
+radioactivité;Becquerel;radioactivité de Becquerel
+radium;Curie;radium de Curie
+polonium;Curie;polonium de Curie
+relativité;Einstein;relativité d'Einstein
+e=mc2;Einstein;e=mc2 d'Einstein
+chat;Schrödinger;chat de Schrödinger
+principe d'incertitude;Heisenberg;principe d'incertitude de Heisenberg
+boson;Higgs;boson de Higgs
+trous noirs;Hawking;trous noirs de Hawking
+big bang;Lemaître;big bang de Lemaître
+héliocentrisme;Copernic;héliocentrisme de Copernic
+lunette;Galilée;lunette de Galilée
+lois du mouvement;Kepler;lois du mouvement de Kepler
+pomme;Newton;pomme de Newton
+gravité;Newton;gravité de Newton
+comète;Halley;comète de Halley
+pendule;Foucault;pendule de Foucault
+effet;Joule;effet Joule
+cage;Faraday;cage de Faraday
+bobine;Tesla;bobine de Tesla
+courant alternatif;Tesla;courant alternatif de Tesla
+ampoule;Edison;ampoule d'Edison
+phonographe;Edison;phonographe d'Edison
+téléphone;Bell;téléphone de Bell
+dynamite;Nobel;dynamite de Nobel
+presse;Gutenberg;presse de Gutenberg
+machine à vapeur;Watt;machine à vapeur de Watt
+pneu;Michelin;pneu Michelin
+moteur;Diesel;moteur Diesel
+avion;Wright;avion des Wright
+cinématographe;Lumière;cinématographe des Lumière
+braille;Braille;braille de Braille
+code;Morse;code Morse
+tour;Eiffel;tour Eiffel
+statue de la liberté;Bartholdi;statue de la liberté de Bartholdi
+viaduc;Millau;viaduc de Millau
+pyramide;Pei;pyramide de Pei
+musée;Guggenheim;musée Guggenheim
+opéra;Garnier;opéra Garnier
+barbier;Séville;barbier de Séville
+mariage;Figaro;mariage de Figaro
+bossu;Notre-Dame;bossu de Notre-Dame
+fantôme;Opéra;fantôme de l'Opéra
+monstre;Frankenstein;monstre de Frankenstein
+créature;Dracula;créature de Dracula
+sherlock;Doyle;sherlock de Doyle
+poirot;Christie;poirot de Christie
+miss marple;Christie;miss marple de Christie
+maigret;Simenon;maigret de Simenon
+arsène lupin;Leblanc;arsène lupin de Leblanc
+rouletabille;Leroux;rouletabille de Leroux
+james bond;Fleming;james bond de Fleming
+tarzan;Burroughs;tarzan de Burroughs
+mickey;Disney;mickey de Disney
+donald;Disney;donald de Disney
+picsou;Barks;picsou de Barks
+tintin;Hergé;tintin d'Hergé
+haddock;Hergé;haddock d'Hergé
+astérix;Goscinny;astérix de Goscinny
+obélix;Uderzo;obélix d'Uderzo
+lucky luke;Morris;lucky luke de Morris
+gaston lagaffe;Franquin;gaston lagaffe de Franquin
+spirou;Rob-Vel;spirou de Rob-Vel
+marsupilami;Franquin;marsupilami de Franquin
+schtroumpfs;Peyo;schtroumpfs de Peyo
+boule et bill;Roba;boule et bill de Roba
+titeuf;Zep;titeuf de Zep
+mafalda;Quino;mafalda de Quino
+snoopy;Schulz;snoopy de Schulz
+garfield;Davis;garfield de Davis
+calvin et hobbes;Watterson;calvin et hobbes de Watterson
+simpson;Groening;simpson de Groening
+futurama;Groening;futurama de Groening
+superman;Siegel;superman de Siegel
+batman;Kane;batman de Kane
+wonder woman;Marston;wonder woman de Marston
+spiderman;Lee;spiderman de Lee
+x-men;Lee;x-men de Lee
+hulk;Lee;hulk de Lee
+iron man;Lee;iron man de Lee
+thor;Lee;thor de Lee
+captain america;Simon;captain america de Simon
+avengers;Lee;avengers de Lee
+joker;Robinson;joker de Robinson
+windows;Microsoft;windows de Microsoft
+office;Microsoft;office de Microsoft
+xbox;Microsoft;xbox de Microsoft
+iphone;Apple;iphone d'Apple
+mac;Apple;mac d'Apple
+ipad;Apple;ipad d'Apple
+ipod;Apple;ipod d'Apple
+playstation;Sony;playstation de Sony
+walkman;Sony;walkman de Sony
+switch;Nintendo;switch de Nintendo
+mario;Nintendo;mario de Nintendo
+zelda;Nintendo;zelda de Nintendo
+pokemon;Game Freak;pokemon de Game Freak
+sonic;Sega;sonic de Sega
+tetris;Pajitnov;tetris de Pajitnov
+pac-man;Namco;pac-man de Namco
+fortnite;Epic;fortnite d'Epic
+minecraft;Mojang;minecraft de Mojang
+facebook;Zuckerberg;facebook de Zuckerberg
+instagram;Systrom;instagram de Systrom
+twitter;Dorsey;twitter de Dorsey
+snapchat;Spiegel;snapchat de Spiegel
+tiktok;Zhang;tiktok de Zhang
+google;Page;google de Page
+amazon;Bezos;amazon de Bezos
+tesla;Musk;tesla de Musk
+spacex;Musk;spacex de Musk
+paypal;Thiel;paypal de Thiel
+netflix;Hastings;netflix de

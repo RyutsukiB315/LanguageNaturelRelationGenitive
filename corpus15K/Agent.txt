@@ -1,0 +1,1031 @@
+travail;ouvrier;travail de l'ouvrier
+cours;professeur;cours du professeur
+chant;oiseau;chant de l'oiseau
+discours;président;discours du président
+attaque;ennemi;attaque de l'ennemi
+conseil;expert;conseil de l'expert
+aboiement;chien;aboiement du chien
+décision;juge;décision du juge
+rire;enfant;rire de l'enfant
+pleurs;bébé;pleurs du bébé
+sourire;mère;sourire de la mère
+regard;femme;regard de la femme
+caresse;main;caresse de la main
+morsure;serpent;morsure du serpent
+piqûre;moustique;piqûre de moustique
+vol;aigle;vol de l'aigle
+bond;tigre;bond du tigre
+course;cheval;course du cheval
+saut;athlète;saut de l'athlète
+danse;ballerine;danse de la ballerine
+jeu;acteur;jeu de l'acteur
+mise en scène;réalisateur;mise en scène du réalisateur
+plaidoirie;avocat;plaidoirie de l'avocat
+diagnostic;médecin;diagnostic du médecin
+ordonnance;docteur;ordonnance du docteur
+leçon;maître;leçon du maître
+explication;guide;explication du guide
+promesse;politicien;promesse du politicien
+vote;électeur;vote de l'électeur
+manifestation;étudiants;manifestation des étudiants
+grève;cheminots;grève des cheminots
+révolte;peuple;révolte du peuple
+conquête;roi;conquête du roi
+règne;reine;règne de la reine
+démission;ministre;démission du ministre
+arrestation;police;arrestation de la police
+enquête;détective;enquête du détective
+découverte;cherchant;découverte du chercheur
+invention;savant;invention du savant
+calcul;mathématicien;calcul du mathématicien
+poème;poète;poème du poète
+roman;écrivain;roman de l'écrivain
+tableau;peintre;tableau du peintre
+sculpture;artiste;sculpture de l'artiste
+musique;compositeur;musique du compositeur
+chanson;chanteur;chanson du chanteur
+cri;loup;cri du loup
+rugissement;lion;rugissement du lion
+hennissement;cheval;hennissement du cheval
+miaulement;chat;miaulement du chat
+bourdonnement;abeille;bourdonnement de l'abeille
+souffle;vent;souffle du vent
+bruit;vagues;bruit des vagues
+éclat;tonnerre;éclat du tonnerre
+lueur;soleil;lueur du soleil
+rayomment;étoile;rayonnement de l'étoile
+éruption;volcan;éruption du volcan
+tremblement;terre;tremblement de terre
+chute;eau;chute d'eau
+coulée;lave;coulée de lave
+passage;comète;passage de la comète
+rotation;planète;rotation de la planète
+crue;rivière;crue de la rivière
+marée;océan;marée de l'océan
+baiser;amoureux;baiser de l'amoureux
+étreinte;ami;étreinte de l'ami
+salut;soldat;salut du soldat
+marche;armée;marche de l'armée
+charge;cavalerie;charge de la cavalerie
+tir;chasseur;tir du chasseur
+pêche;marin;pêche du marin
+récolte;fermier;récolte du fermier
+vente;marchand;vente du marchand
+achat;client;achat du client
+visite;touriste;visite du touriste
+voyage;pèlerin;voyage du pèlerin
+retour;héros;retour du héros
+départ;navire;départ du navire
+atterrissage;avion;atterrissage de l'avion
+sortie;artistes;sortie des artistes
+ronronnement;chat;ronronnement du chat
+barrissement;éléphant;barrissement de l'éléphant
+hululement;hibou;hululement du hibou
+coassement;grenouille;coassement de la grenouille
+bêlement;mouton;bêlement du mouton
+meuglement;vache;meuglement de la vache
+gloussement;poule;gloussement de la poule
+chant;coq;chant du coq
+cancanement;canard;cancanement du canard
+gazouillis;hirondelle;gazouillis de l'hirondelle
+croassement;corbeau;croassement du corbeau
+sifflement;merle;sifflement du merle
+trille;rossignol;trille du rossignol
+bourdonnement;mouche;bourdonnement de la mouche
+vrombissement;frelon;vrombissement du frelon
+stridulation;criquet;stridulation du criquet
+grincement;cigale;grincement de la cigale
+grognement;cochon;grognement du cochon
+brame;cerf;brame du cerf
+hurlement;hyène;hurlement de la hyène
+glapissement;renard;glapissement du renard
+clapotis;eau;clapotis de l'eau
+fracas;vagues;fracas des vagues
+grondement;tonnerre;grondement du tonnerre
+sifflement;bise;sifflement de la bise
+rafale;vent;rafale du vent
+tourbillon;tornade;tourbillon de la tornade
+crépitement;feu;crépitement du feu
+étincelle;silex;étincelle du silex
+fumée;cheminée;fumée de la cheminée
+jet;fontaine;jet de la fontaine
+cascade;torrent;cascade du torrent
+ruissellement;source;ruissellement de la source
+avalanche;neige;avalanche de la neige
+éboulement;rocher;éboulement du rocher
+glissement;terrain;glissement de terrain
+rayon;lune;rayon de la lune
+éclipse;soleil;éclipse du soleil
+scintillement;étoile;scintillement de l'étoile
+filet;pêcheur;filet du pêcheur
+appât;trappeur;appât du trappeur
+flèche;archer;flèche de l'archer
+épée;chevalier;épée du chevalier
+bouclier;guerrier;bouclier du guerrier
+garde;sentinelle;garde de la sentinelle
+patrouille;vigile;patrouille du vigile
+ronde;gardien;ronde du gardien
+sifflet;arbitre;sifflet de l'arbitre
+carton;juge;carton du juge
+chrono;entraîneur;chrono de l'entraîneur
+tacle;défenseur;tacle du défenseur
+passe;meneur;passe du meneur
+dribble;ailier;dribble de l'ailier
+smash;tennisman;smash du tennisman
+uppercut;boxeur;uppercut du boxeur
+parade;escrimeur;parade de l'escrimeur
+plongeon;nageur;plongeon du nageur
+sprint;coureur;sprint du coureur
+marathon;athlète;marathon de l'athlète
+pirouette;patineuse;pirouette de la patineuse
+figure;acrobate;figure de l'acrobate
+tour;magicien;tour du magicien
+blague;clown;blague du clown
+imitation;humoriste;imitation de l'humoriste
+réplique;comédien;réplique du comédien
+monologue;dramaturge;monologue du dramaturge
+scénario;scénariste;scénario du scénariste
+montage;monteur;montage du monteur
+prise;cameraman;prise du cameraman
+cliché;photographe;cliché du photographe
+toile;peintre;toile du peintre
+esquisse;dessinateur;esquisse du dessinateur
+plan;architecte;plan de l'architecte
+maquette;urbaniste;maquette de l'urbaniste
+bâtisse;maçon;bâtisse du maçon
+charpente;charpentier;charpente du charpentier
+meuble;ébéniste;meuble de l'ébéniste
+fer;forgeron;fer du forgeron
+tuyau;plombier;tuyau du plombier
+câble;électricien;câble de l'électricien
+toit;couvreur;toit du couvreur
+verre;vitrier;verre du vitrier
+baguette;boulanger;baguette du boulanger
+gâteau;pâtissier;gâteau du pâtissier
+chocolat;chocolatier;chocolat du chocolatier
+rôti;boucher;rôti du boucher
+filet;poissonnier;filet du poissonnier
+bouquet;fleuriste;bouquet du fleuriste
+bague;bijoutier;bague du bijoutier
+montre;horloger;montre de l'horloger
+livre;libraire;livre du libraire
+article;journaliste;article du journaliste
+reportage;reporter;reportage du reporter
+roman;romancier;roman du romancier
+thèse;doctorant;thèse du doctorant
+mémoire;étudiant;mémoire de l'étudiant
+copie;élève;copie de l'élève
+correction;professeur;correction du professeur
+conférence;conférencier;conférence du conférencier
+prêche;prêtre;prêche du prêtre
+sermon;curé;sermon du curé
+messe;évêque;messe de l'évêque
+appel;muezzin;appel du muezzin
+prière;moine;prière du moine
+méditation;yogi;méditation du yogi
+ordonnance;pharmacien;ordonnance du pharmacien
+piqûre;infirmière;piqûre de l'infirmière
+opération;chirurgien;opération du chirurgien
+accouchement;sage-femme;accouchement de la sage-femme
+analyse;biologiste;analyse du biologiste
+thérapie;psychologue;thérapie du psychologue
+hypnose;hypnotiseur;hypnose de l'hypnotiseur
+régime;nutritionniste;régime du nutritionniste
+bilan;comptable;bilan du comptable
+audit;auditeur;audit de l'auditeur
+contrat;notaire;contrat du notaire
+signet;bibliothécaire;signet du bibliothécaire
+archive;archiviste;archive de l'archiviste
+traduction;interprète;traduction de l'interprète
+code;programmeur;code du programmeur
+site;webmaster;site du webmaster
+bug;développeur;bug du développeur
+piratage;hacker;piratage du hacker
+vol;pilote;vol du pilote
+service;hôtesse;service de l'hôtesse
+contrôle;douanier;contrôle du douanier
+tampon;officier;tampon de l'officier
+bagage;porteur;bagage du porteur
+course;taxi;course du taxi
+ticket;contrôleur;ticket du contrôleur
+courrier;facteur;courrier du facteur
+colis;livreur;colis du livreur
+plat;cuisinier;plat du cuisinier
+menu;restaurateur;menu du restaurateur
+cocktail;barman;cocktail du barman
+vin;sommelier;vin du sommelier
+vendange;vigneron;vendange du vigneron
+traite;vacher;traite du vacher
+labour;laboureur;labour du laboureur
+semis;jardinier;semis du jardinier
+élagage;bûcheron;élagage du bûcheron
+traque;chasseur;traque du chasseur
+capture;braconnier;capture du braconnier
+loi;législateur;loi du législateur
+décret;gouvernement;décret du gouvernement
+traité;diplomate;traité du diplomate
+discours;orateur;discours de l'orateur
+manifeste;militant;manifeste du militant
+tract;syndicaliste;tract du syndicaliste
+sondage;sondeur;sondage du sondeur
+éditorial;éditorialiste;éditorial de l'éditorialiste
+critique;censeur;critique du censeur
+veto;président;veto du président
+couronne;roi;couronne du roi
+diadème;princesse;diadème de la princesse
+trône;empereur;trône de l'empereur
+bulle;pape;bulle du pape
+encyclique;pape;encyclique du pape
+fatwa;imam;fatwa de l'imam
+mantra;gourou;mantra du gourou
+prophétie;oracle;prophétie de l'oracle
+vision;voyante;vision de la voyante
+sortilège;sorcier;sortilège du sorcier
+potion;druide;potion du druide
+formule;alchimiste;formule de l'alchimiste
+fée;baguette;baguette de la fée
+vol;dragon;vol du dragon
+feu;dragon;feu du dragon
+toile;araignée;toile de l'araignée
+bave;limace;bave de la limace
+coquille;escargot;coquille de l'escargot
+perle;huître;perle de l'huître
+encre;seiche;encre de la seiche
+barrage;castor;barrage du castor
+terrier;lapin;terrier du lapin
+nid;oiseau;nid de l'oiseau
+ruche;abeille;ruche de l'abeille
+fourmilière;fourmi;fourmilière de la fourmi
+cocon;chenille;cocon de la chenille
+chrysalide;papillon;chrysalide du papillon
+mue;serpent;mue du serpent
+laine;mouton;laine du mouton
+duvet;oie;duvet de l'oie
+ivoire;éléphant;ivoire de l'éléphant
+corne;rhinocéros;corne du rhinocéros
+défense;sanglier;défense du sanglier
+venin;vipère;venin de la vipère
+soie;ver;soie du ver
+lait;chèvre;lait de la chèvre
+oeuf;poule;oeuf de la poule
+caviar;esturgeon;caviar de l'esturgeon
+truffe;cochon;truffe du cochon
+miettes;pain;miettes du pain
+copeaux;bois;copeaux du bois
+limaille;fer;limaille de fer
+sciure;bûche;sciure de la bûche
+écume;mer;écume de la mer
+buée;vitre;buée de la vitre
+givre;fenêtre;givre de la fenêtre
+stalactite;grotte;stalactite de la grotte
+dune;sable;dune de sable
+vague;océan;vague de l'océan
+cratère;volcan;cratère du volcan
+delta;fleuve;delta du fleuve
+estuaire;rivière;estuaire de la rivière
+lagon;atoll;lagon de l'atoll
+sommet;montagne;sommet de la montagne
+pic;colline;pic de la colline
+crête;falaise;crête de la falaise
+abîme;gouffre;abîme du gouffre
+clairière;forêt;clairière de la forêt
+oasis;désert;oasis du désert
+verdict;jurat;verdict du jurat
+réquisitoire;procureur;réquisitoire du procureur
+plaidoirie;défense;plaidoirie de la défense
+arrêt;cour;arrêt de la cour
+loi;parlement;loi du parlement
+amendement;député;amendement du député
+motion;sénateur;motion du sénateur
+veto;président;veto du président
+grâce;roi;grâce du roi
+abdication;reine;abdication de la reine
+bulle;pape;bulle du pape
+bénédiction;prêtre;bénédiction du prêtre
+confession;pécheur;confession du pécheur
+excommunication;église;excommunication de l'église
+fatwa;mufti;fatwa du mufti
+mantra;moine;mantra du moine
+méditation;bouddha;méditation du bouddha
+illumination;génie;illumination du génie
+trouvaille;inventeur;trouvaille de l'inventeur
+brevet;ingénieur;brevet de l'ingénieur
+calcul;physicien;calcul du physicien
+hypothèse;chercheur;hypothèse du chercheur
+théorie;scientifique;théorie du scientifique
+formule;chimiste;formule du chimiste
+potion;sorcière;potion de la sorcière
+sort;magicien;sort du magicien
+charme;fée;charme de la fée
+malédiction;démon;malédiction du démon
+hantise;fantôme;hantise du fantôme
+terreur;monstre;terreur du monstre
+appétit;ogre;appétit de l'ogre
+force;géant;force du géant
+ruse;lutin;ruse du lutin
+farce;gnome;farce du gnome
+trésor;dragon;trésor du dragon
+souffle;buffle;souffle du buffle
+charge;taureau;charge du taureau
+corne;bélier;corne du bélier
+laine;brebis;laine de la brebis
+lait;vache;lait de la vache
+pis;chèvre;pis de la chèvre
+crinière;étalon;crinière de l'étalon
+sabot;poulain;sabot du poulain
+galop;jument;galop de la jument
+ruade;mule;ruade de la mule
+braiment;âne;braiment de l'âne
+groin;sanglier;groin du sanglier
+défense;morse;défense du morse
+nageoire;dauphin;nageoire du dauphin
+jet;baleine;jet de la baleine
+encre;calamar;encre du calamar
+tentacule;pieuvre;tentacule de la pieuvre
+pince;crabe;pince du crabe
+coquille;homard;coquille du homard
+perle;huître;perle de l'huître
+venin;méduse;venin de la méduse
+piqûre;vive;piqûre de la vive
+arête;poisson;arête du poisson
+écaille;reptile;écaille du reptile
+langue;caméléon;langue du caméléon
+carapace;tortue;carapace de la tortue
+saut;crapaud;saut du crapaud
+glu;limace;glu de la limace
+bave;escargot;bave de l'escargot
+dard;guêpe;dard de la guêpe
+miel;abeille;miel de l'abeille
+cire;bourdon;cire du bourdon
+vol;libellule;vol de la libellule
+saut;sauterelle;saut de la sauterelle
+piqûre;taon;piqûre du taon
+morsure;tique;morsure de la tique
+toile;épeire;toile de l'épeire
+fil;ver;fil du ver
+galerie;taupe;galerie de la taupe
+terrier;blaireau;terrier du blaireau
+barrage;castor;barrage du castor
+digue;loutre;digue de la loutre
+nid;pie;nid de la pie
+oeuf;autruche;oeuf de l'autruche
+plume;paon;plume du paon
+parade;dindon;parade du dindon
+bec;toucan;bec du toucan
+serre;aigle;serre de l'aigle
+vision;faucon;vision du faucon
+vol;vautour;vol du vautour
+chute;feuille;chute de la feuille
+sève;arbre;sève de l'arbre
+racine;chêne;racine du chêne
+écorce;bouleau;écorce du bouleau
+épine;rose;épine de la rose
+parfum;jasmin;parfum du jasmin
+odeur;lilas;odeur du lilas
+pollen;fleur;pollen de la fleur
+graine;plante;graine de la plante
+fruit;verger;fruit du verger
+récolte;vigne;récolte de la vigne
+vin;cuvée;vin de la cuvée
+jus;presse;jus de la presse
+huile;olive;huile de l'olive
+farine;moulin;farine du moulin
+pain;four;pain du four
+fumée;feu;fumée du feu
+cendre;foyer;cendre du foyer
+braise;âtre;braise de l'âtre
+étincelle;forge;étincelle de la forge
+flamme;bougie;flamme de la bougie
+lueur;lampe;lueur de la lampe
+rayon;phare;rayon du phare
+éclat;diamant;éclat du diamant
+reflet;miroir;reflet du miroir
+image;écran;image de l'écran
+son;radio;son de la radio
+bruit;moteur;bruit du moteur
+gaz;échappement;gaz de l'échappement
+vapeur;locomotive;vapeur de la locomotive
+sifflet;train;sifflet du train
+klaxon;camion;klaxon du camion
+sirène;ambulance;sirène de l'ambulance
+girophare;police;girophare de la police
+alarme;banque;alarme de la banque
+sonnerie;réveil;sonnerie du réveil
+tic-tac;horloge;tic-tac de l'horloge
+carillon;clocher;carillon du clocher
+glas;église;glas de l'église
+appel;cor;appel du cor
+note;piano;note du piano
+accord;guitare;accord de la guitare
+solo;saxo;solo du saxo
+rythme;batterie;rythme de la batterie
+voix;soprano;voix de la soprano
+chant;ténor;chant du ténor
+air;diva;air de la diva
+role;acteur;rôle de l'acteur
+cascade;doublure;cascade de la doublure
+geste;mime;geste du mime
+pas;danseur;pas du danseur
+saut;acrobate;saut de l'acrobate
+fouet;dompteur;fouet du dompteur
+tour;jongleur;tour du jongleur
+crime;assassin;crime de l'assassin
+vol;voleur;vol du voleur
+butin;pirate;butin du pirate
+rançon;kidnappeur;rançon du kidnappeur
+mensonge;menteur;mensonge du menteur
+trahison;judas;trahison de Judas
+baiser;amant;baiser de l'amant
+caresse;épouse;caresse de l'épouse
+câlin;maman;câlin de la maman
+berceuse;nourrice;berceuse de la nourrice
+conte;grand-mère;conte de la grand-mère
+cadeau;parrain;cadeau du parrain
+héritage;oncle;héritage de l'oncle
+dette;créancier;dette du créancier
+prêt;banquier;prêt du banquier
+mise;joueur;mise du joueur
+gain;gagnant;gain du gagnant
+perte;perdant;perte du perdant
+revanche;vaincu;revanche du vaincu
+triomphe;vainqueur;triomphe du vainqueur
+médaille;champion;médaille du champion
+coupe;équipe;coupe de l'équipe
+score;match;score du match
+essai;rugbyman;essai du rugbyman
+dunk;basketteur;dunk du basketteur
+putt;golfeur;putt du golfeur
+ace;tennisman;ace du tennisman
+ippon;judoka;ippon du judoka
+ko;boxeur;ko du boxeur
+service;serveur;service du serveur
+plat;chef;plat du chef
+cocktail;barman;cocktail du barman
+coupe;coiffeur;coupe du coiffeur
+barbe;barbier;barbe du barbier
+ourlet;couturière;ourlet de la couturière
+patron;tailleur;patron du tailleur
+fer;repasseuse;fer de la repasseuse
+lessive;lavandière;lessive de la lavandière
+balai;concierge;balai du concierge
+poubelle;éboueur;poubelle de l'éboueur
+colis;postier;colis du postier
+lettre;expéditeur;lettre de l'expéditeur
+timbre;collectionneur;timbre du collectionneur
+enchère;commissaire;enchère du commissaire
+marteau;juge;marteau du juge
+sifflet;agent;sifflet de l'agent
+menottes;policier;menottes du policier
+matraque;gendarme;matraque du gendarme
+uniforme;militaire;uniforme du militaire
+grade;officier;grade de l'officier
+ordre;général;ordre du général
+salut;caporal;salut du caporal
+défilé;troupe;défilé de la troupe
+bivouac;soldat;bivouac du soldat
+tranchée;poilu;tranchée du poilu
+charge;cavalier;charge du cavalier
+flèche;indien;flèche de l'indien
+lasso;cowboy;lasso du cowboy
+rêve;dormeur;rêve du dormeur
+ronflement;mari;ronflement du mari
+insomnie;anxieux;insomnie de l'anxieux
+somnambulisme;enfant;somnambulisme de l'enfant
+battement;cœur;battement du cœur
+pulsation;artère;pulsation de l'artère
+respiration;dormeur;respiration du dormeur
+soupir;amant;soupir de l'amant
+hoquet;ivrogne;hoquet de l'ivrogne
+éternuement;rhumé;éternuement du rhumé
+toux;fumeur;toux du fumeur
+frisson;fiévreux;frisson du fiévreux
+sueur;sportif;sueur du sportif
+larmes;triste;larmes du triste
+bâillement;fatigué;bâillement du fatigué
+regard;espion;regard de l'espion
+clin d'œil;complice;clin d'œil du complice
+grimace;singe;grimace du singe
+sourire;ange;sourire de l'ange
+cri;nouveau-né;cri du nouveau-né
+vagissement;bébé;vagissement du bébé
+gazouillis;nourrisson;gazouillis du nourrisson
+pas;promeneur;pas du promeneur
+foulée;sprinteur;foulée du sprinteur
+piétinement;foule;piétinement de la foule
+bousculade;manifestant;bousculade du manifestant
+huées;public;huées du public
+ovation;auditoire;ovation de l'auditoire
+applaudissement;spectateur;applaudissement du spectateur
+rappel;fan;rappel du fan
+départ;coureur;départ du coureur
+arrivée;peloton;arrivée du peloton
+chute;cycliste;chute du cycliste
+dérapage;motard;dérapage du motard
+freinage;camion;freinage du camion
+accélération;bolide;accélération du bolide
+crash;avion;crash de l'avion
+naufrage;navire;naufrage du navire
+dérive;radeau;dérive du radeau
+tangage;bateau;tangage du bateau
+roulis;ferry;roulis du ferry
+envol;fusée;envol de la fusée
+orbite;satellite;orbite du satellite
+signal;radar;signal du radar
+bip;sonde;bip de la sonde
+sonnerie;téléphone;sonnerie du téléphone
+vibreur;mobile;vibreur du mobile
+clic;souris;clic de la souris
+frappe;dactyllo;frappe de la dactyllo
+touche;pianiste;touche du pianiste
+archet;violoniste;archet du violoniste
+souffle;trompettiste;souffle du trompettiste
+baguette;batteur;baguette du batteur
+voix;chanteur;voix du chanteur
+choeur;chorale;choeur de la chorale
+fausse note;débutant;fausse note du débutant
+accord;luthier;accord du luthier
+gamme;élève;gamme de l'élève
+leçon;instituteur;leçon de l'instituteur
+punition;surveillant;punition du surveillant
+retenue;directeur;retenue du directeur
+examen;candidat;examen du candidat
+diplôme;lauréat;diplôme du lauréat
+recherche;savant;recherche du savant
+trouvaille;archéologue;trouvaille de l'archéologue
+fouille;douane;fouille de la douane
+saisie;huissier;saisie de l'huissier
+expulsion;locataire;expulsion du locataire
+squat;vagabond;squat du vagabond
+mendicité;mendiant;mendicité du mendiant
+aumône;passant;aumône du passant
+don;mécène;don du mécène
+legs;testateur;legs du testateur
+héritage;successeur;héritage du successeur
+partage;héritier;partage de l'héritier
+enchère;acheteur;enchère de l'acheteur
+martèlement;maréchal-ferrant;martèlement du maréchal-ferrant
+ciselure;orfèvre;ciselure de l'orfèvre
+tissage;tisserand;tissage du tisserand
+filage;fileuse;filage de la fileuse
+couture;tailleur;couture du tailleur
+broderie;brodeuse;broderie de la brodeuse
+teinture;teinturier;teinture du teinturier
+tannage;tanneur;tannage du tanneur
+soufflage;verrier;soufflage du verrier
+pétrissage;boulanger;pétrissage du boulanger
+cuisson;pizzaiolo;cuisson du pizzaiolo
+service;garçon;service du garçon
+addition;client;addition du client
+pourboire;habitué;pourboire de l'habitué
+commande;patron;commande du patron
+livraison;coursier;livraison du coursier
+chargement;docker;chargement du docker
+grue;grutier;grue du grutier
+pelleteuse;ouvrier;pelleteuse de l'ouvrier
+marteau-piqueur;travailleur;marteau-piqueur du travailleur
+sifflet;locomotive;sifflet de la locomotive
+tchou-tchou;train;tchou-tchou du train
+grincement;frein;grincement du frein
+claquement;porte;claquement de la porte
+craquement;parquet;craquement du parquet
+choc;verre;choc du verre
+bris;glace;bris de la glace
+boum;explosion;boum de l'explosion
+détonation;fusil;détonation du fusil
+coup;canon;coup de canon
+salve;artillerie;salve de l'artillerie
+tir;sniper;tir du sniper
+mitraille;soldat;mitraille du soldat
+bombardement;aviation;bombardement de l'aviation
+raid;commando;raid du commando
+assaut;troupe;assaut de la troupe
+siège;armée;siège de l'armée
+reddition;général;reddition du général
+armistice;belligérant;armistice du belligérant
+paix;négociateur;paix du négociateur
+poignée de main;diplomate;poignée de main du diplomate
+signature;ministre;signature du ministre
+discours;président;discours du président
+débat;député;débat du député
+vote;électeur;vote de l'électeur
+abstention;citoyen;abstention du citoyen
+bulletin;votant;bulletin du votant
+dépouillement;scrutateur;dépouillement du scrutateur
+sondage;institut;sondage de l'institut
+scoop;journaliste;scoop du journalisme
+une;journal;une du journal
+titre;quotidien;titre du quotidien
+flash;info;flash de l'info
+interview;star;interview de la star
+paparazzi;photographe;paparazzi du photographe
+ragot;voisine;ragot de la voisine
+rumeur;village;rumeur du village
+légende;conteur;légende du conteur
+mythe;grec;mythe du grec
+épopée;homère;épopée d'Homère
+tragédie;racine;tragédie de Racine
+fable;la fontaine;fable de La Fontaine
+rime;poète;rime du poète
+vers;auteur;vers de l'auteur
+prose;écrivain;prose de l'écrivain
+chapitre;romancier;chapitre du romancier
+tome;éditeur;tome de l'éditeur
+reliure;relieur;reliure du relieur
+marge;correcteur;marge du correcteur
+faute;imprimeur;faute de l'imprimeur
+tirage;presse;tirage de la presse
+encre;stylo;encre du stylo
+mine;crayon;mine du crayon
+gomme;écolier;gomme de l'écolier
+craie;maître;craie du maître
+tableau;prof;tableau du prof
+sonnerie;école;sonnerie de l'école
+récréation;enfant;récréation de l'enfant
+jeu;gamin;jeu du gamin
+bille;joueur;bille du joueur
+poupée;fillette;poupée de la fillette
+dînette;bébé;dînette du bébé
+lego;constructeur;lego du constructeur
+puzzle;patient;puzzle du patient
+dé;hasard;dé du hasard
+carte;tricheur;carte du tricheur
+atout;bridgeur;atout du bridgeur
+échec;roi;échec du roi
+mat;grand-maître;mat du grand-maître
+pion;stratège;pion du stratège
+tour;adversaire;tour de l'adversaire
+revanche;perdant;revanche du perdant
+belle;vainqueur;belle du vainqueur
+coupe;champion;coupe du champion
+hymne;nation;hymne de la nation
+drapeau;porte-étendard;drapeau du porte-étendard
+défilé;fanfare;défilé de la fanfare
+majorette;troupe;majorette de la troupe
+feu;artificier;feu de l'artificier
+pétard;fêtard;pétard du fêtard
+confetti;carnaval;confetti du carnaval
+masque;venise;masque de Venise
+char;parade;char de la parade
+danse;samba;danse de la samba
+valse;couple;valse du couple
+tango;argentin;tango de l'argentin
+slow;amoureux;slow de l'amoureux
+baiser;mariés;baiser des mariés
+alliance;époux;alliance de l'époux
+voile;mariée;voile de la mariée
+bouquet;demoiselle;bouquet de la demoiselle
+riz;invité;riz de l'invité
+lune de miel;voyageur;lune de miel du voyageur
+souvenir;touriste;souvenir du touriste
+carte postale;vacancier;carte postale du vacancier
+bronzage;baigneur;bronzage du baigneur
+coup de soleil;plagiste;coup de soleil du plagiste
+plongeon;nageur;plongeon du nageur
+apnée;plongeur;apnée du plongeur
+bulle;poisson;bulle du poisson
+saut;dauphin;saut du dauphin
+chant;baleine;chant de la baleine
+cri;mouette;cri de la mouette
+vol;albatros;vol de l'albatros
+nid;aigle;nid de l'aigle
+cime;sapin;cime du sapin
+pomme;pommier;pomme du pommier
+gland;chêne;gland du chêne
+faine;hêtre;faine du hêtre
+ombre;peuplier;ombre du peuplier
+feuille;automne;feuille de l'automne
+bourgeon;printemps;bourgeon du printemps
+fleur;été;fleur de l'été
+glace;hiver;glace de l'hiver
+flocon;neige;flocon de la neige
+goutte;pluie;goutte de la pluie
+éclair;orage;éclair de l'orage
+arc-en-ciel;ciel;arc-en-ciel du ciel
+ronronnement;moteur;ronronnement du moteur
+vrombissement;avion;vrombissement de l'avion
+sifflement;bise;sifflement de la bise
+clapotis;pluie;clapotis de la pluie
+grondement;orage;grondement de l'orage
+fracas;foudre;fracas de la foudre
+souffle;baleine;souffle de la baleine
+cri;marmotte;cri de la marmotte
+saut;cabri;saut du cabri
+galop;cheval;galop du cheval
+trot;poney;trot du poney
+marche;promeneur;marche du promeneur
+flânerie;touriste;flânerie du touriste
+course;fuyard;course du fuyard
+traque;policier;traque du policier
+fouille;douanier;fouille du douanier
+interrogatoire;inspecteur;interrogatoire de l'inspecteur
+aveu;suspect;aveu du suspect
+dénonciation;témoin;dénonciation du témoin
+sentence;juge;sentence du juge
+appel;avocat;appel de l'avocat
+libération;prisonnier;libération du prisonnier
+évasion;détenu;évasion du détenu
+cavale;bandit;cavale du bandit
+hold-up;gangster;hold-up du gangster
+butin;voleur;butin du voleur
+effraction;cambrioleur;effraction du cambrioleur
+alarme;magasin;alarme du magasin
+sirène;pompiers;sirène des pompiers
+lance;incendie;lance de l'incendie
+échelle;sauveteur;échelle du sauveteur
+filet;trapéziste;filet du trapéziste
+pirouette;clown;pirouette du clown
+fouet;dresseur;fouet du dresseur
+cage;lion;cage du lion
+rugissement;fauve;rugissement du fauve
+barrissement;éléphant;barrissement de l'éléphant
+trompe;pachyderme;trompe du pachyderme
+corne;rhinocéros;corne du rhinocéros
+gueule;hippopotame;gueule de l'hippopotame
+dent;crocodile;dent du crocodile
+saut;kangourou;saut du kangourou
+poche;marsupial;poche du marsupial
+griffe;ours;griffe de l'ours
+tanière;loup;tanière du loup
+terrier;renard;terrier du renard
+barrage;castor;barrage du castor
+digue;ingénieur;digue de l'ingénieur
+pont;architecte;pont de l'architecte
+tour;maçon;tour du maçon
+grue;grutier;grue du grutier
+béton;bétonneur;béton du bétonneur
+truelle;ouvrier;truelle de l'ouvrier
+pinceau;peintre;pinceau du peintre
+toile;artiste;toile de l'artiste
+marbre;sculpteur;marbre du sculpteur
+argile;potier;argile du potier
+tour;céramiste;tour du céramiste
+four;verrier;four du verrier
+souffle;glassiste;souffle du glassiste
+enclume;forgeron;enclume du forgeron
+marteau;charpentier;marteau du charpentier
+rabot;menuisier;rabot du menuisier
+scie;bûcheron;scie du bûcheron
+hache;canadienne;hache de la canadienne
+feu;campeur;feu du campeur
+tente;scout;tente du scout
+boussole;explorateur;boussole de l'explorateur
+carte;navigateur;carte du navigateur
+gouvernail;timonier;gouvernail du timonier
+ancre;marin;ancre du marin
+voile;skipper;voile du skipper
+rame;galérien;rame du galérien
+pagaie;kayakiste;pagaie du kayakiste
+saut;parachutiste;saut du parachutiste
+ouverture;parachute;ouverture du parachute
+vol;planeur;vol du planeur
+hélice;hélicoptère;hélice de l'hélicoptère
+rotor;drone;rotor du drone
+image;satellite;image du satellite
+signal;antenne;signal de l'antenne
+onde;radio;onde de la radio
+fréquence;émetteur;fréquence de l'émetteur
+code;espion;code de l'espion
+chiffre;mathématicien;chiffre du mathématicien
+formule;physicien;formule du physicien
+molécule;chimiste;molécule du chimiste
+vaccin;pasteur;vaccin de Pasteur
+remède;guérisseur;remède du guérisseur
+potion;druide;potion du druide
+herbe;herboriste;herbe de l'herboriste
+fleur;fleuriste;fleur du fleuriste
+bouquet;mariée;bouquet de la mariée
+voile;novice;voile de la novice
+prière;croyant;prière du croyant
+cierge;pèlerin;cierge du pèlerin
+offrande;fidèle;offrande du fidèle
+temple;grec;temple du grec
+pyramide;pharaon;pyramide du pharaon
+tombeau;momie;tombeau de la momie
+sarcophage;roi;sarcophage du roi
+trésor;pirate;trésor du pirate
+carte;flibustier;carte du flibustier
+jambe;corsaire;jambe du corsaire
+crochet;capitaine;crochet du capitaine
+perroquet;matelot;perroquet du matelot
+rhum;ivrogne;rhum de l'ivrogne
+hoquet;buveur;hoquet du buveur
+titubation;saoul;titubation du saoul
+chute;maladroit;chute du maladroit
+bosse;cascadeur;bosse du cascadeur
+plâtre;blessé;plâtre du blessé
+pansement;infirmier;pansement de l'infirmier
+diagnostic;docteur;diagnostic du docteur
+ordonnance;médecin;ordonnance du médecin
+sirop;pharmacien;sirop du pharmacien
+pilule;patient;pilule du patient
+régime;diététicien;régime du diététicien
+menu;cantinier;menu du cantinier
+gamelle;soldat;gamelle du soldat
+ration;survivant;ration du survivant
+miette;moineau;miette du moineau
+graine;poule;graine de la poule
+oeuf;cane;oeuf de la cane
+nid;cigogne;nid de la cigogne
+cheminée;foyer;cheminée du foyer
+fumée;usine;fumée de l'usine
+vapeur;centrale;vapeur de la centrale
+courant;barrage;courant du barrage
+étincelle;bougie;étincelle de la bougie
+flamme;briquet;flamme du briquet
+lumière;ampoule;lumière de l'ampoule
+rayon;laser;rayon du laser
+flash;radar;flash du radar
+amende;automobiliste;amende de l'automobiliste
+pv;contractuelle;pv de la contractuelle
+sifflet;agent;sifflet de l'agent
+circulation;ville;circulation de la ville
+bouchon;vacancier;bouchon du vacancier
+klaxon;impatient;klaxon de l'impatient
+insulte;conducteur;insulte du conducteur
+geste;passant;geste du passant
+sourire;inconnue;sourire de l'inconnue
+regard;amoureux;regard de l'amoureux
+baiser;couple;baiser du couple
+caresse;mère;caresse de la mère
+berceuse;papa;berceuse du papa
+doudou;bébé;doudou du bébé
+tétine;enfant;tétine de l'enfant
+cartable;écolier;cartable de l'écolier
+trousse;collégien;trousse du collégien
+copie;lycéen;copie du lycéen
+diplôme;étudiant;diplôme de l'étudiant
+thèse;cherchant;thèse du chercheur
+livre;auteur;livre de l'auteur
+roman;écrivain;roman de l'écrivain
+poème;rêveur;poème du rêveur
+rime;poétesse;rime de la poétesse
+vers;dramaturge;vers du dramaturge
+acte;notaire;acte du notaire
+testament;défunt;testament du défunt
+héritage;famille;héritage de la famille
+dette;joueur;dette du joueur
+crédit;banquier;crédit du banquier
+coffre;avare;coffre de l'avare
+pièce;collectionneur;pièce du collectionneur
+timbre;philatéliste;timbre du philatéliste
+épingle;couturière;épingle de la couturière
+bobine;fileuse;bobine de la fileuse
+tissu;drapier;tissu du drapier
+costume;tailleur;costume du tailleur
+robe;mannequin;robe du mannequin
+défilé;créateur;défilé du créateur
+collection;styliste;collection du styliste
+parfum;nez;parfum du nez
+odeur;cuisine;odeur de la cuisine
+arôme;café;arôme du café
+saveur;plat;saveur du plat
+goût;fruit;goût du fruit
+zeste;citron;zeste du citron
+jus;orange;jus de l'orange
+pulpe;pamplemousse;pulpe du pamplemousse
+noyau;pêche;noyau de la pêche
+pépin;raisin;pépin du raisin
+grappe;vigne;grappe de la vigne
+vin;tonneau;vin du tonneau
+bouchon;liège;bouchon du liège
+mousse;bière;mousse de la bière
+bulles;champagne;bulles du champagne
+verre;invité;verre de l'invité
+toast;hôte;toast de l'hôte
+discours;marié;discours du marié
+vœu;prêtre;vœu du prêtre
+anneau;fiancé;anneau du fiancé
+bague;épouse;bague de l'épouse
+collier;dame;collier de la dame
+montre;homme;montre de l'homme
+cravate;cadre;cravate du cadre
+dossier;employé;dossier de l'employé
+rapport;directeur;rapport du directeur
+note;secrétaire;note de la secrétaire
+mail;collègue;mail du collègue
+appel;client;appel du client
+commande;acheteur;commande de l'acheteur
+livraison;camionneur;livraison du camionneur
+colis;postier;colis du postier
+lettre;correspondant;lettre du correspondant
+carte;ami;carte de l'ami
+souvenir;grand-mère;souvenir de la grand-mère
+album;famille;album de la famille
+photo;oncle;photo de l'oncle
+film;cousin;film du cousin
+vidéo;adolescent;vidéo de l'adolescent
+jeu;enfant;jeu de l'enfant
+score;gagnant;score du gagnant
+niveau;joueur;niveau du joueur
+manette;gamer;manette du gamer
+clavier;geek;clavier du geek
+souris;informaticien;souris de l'informaticien
+bug;programme;bug du programme
+virus;hacker;virus du hacker
+panne;ordinateur;panne de l'ordinateur
+réparation;technicien;réparation du technicien
+facture;garagiste;facture du garagiste
+devis;artisan;devis de l'artisan
+chantier;maçon;chantier du maçon
+plan;architecte;plan de l'architecte
+permis;mairie;permis de la mairie
+taxe;état;taxe de l'état
+impôt;contribuable;impôt du contribuable
+vote;citoyen;vote du citoyen
+loi;député;loi du député
+décret;ministre;décret du ministre
+discours;président;discours du président
+promesse;candidat;promesse du candidat
+slogan;manifestant;slogan du manifestant
+banderole;syndicat;banderole du syndicat
+grève;ouvrier;grève de l'ouvrier
+blocus;étudiant;blocus de l'étudiant
+revendication;salarié;revendication du salarié
+prime;patron;prime du patron
+salaire;employé;salaire de l'employé
+retraite;vieux;retraite du vieux
+pension;veuve;pension de la veuve
+allocation;chômeur;allocation du chômeur
+aide;bénévole;aide du bénévole
+don;association;don de l'association
+quête;mendiant;quête du mendiant
+pièce;passant;pièce du passant
+regard;indifférent;regard de l'indifférent
+sourire;enfant;sourire de l'enfant
+joie;vainqueur;joie du vainqueur
+tristesse;perdant;tristesse du perdant
+colère;mauvais perdant;colère du mauvais perdant
+rage;jaloux;rage du jaloux
+haine;ennemi;haine de l'ennemi
+amour;partenaire;amour du partenaire
+amitié;camarade;amitié du camarade
+confiance;équipier;confiance de l'équipier
+soutien;supporter;soutien du supporter
+chant;tribune;chant de la tribune
+hola;stade;hola du stade
+but;attaquant;but de l'attaquant
+arrêt;gardien;arrêt du gardien
+tacle;défenseur;tacle du défenseur
+passe;milieu;passe du milieu
+sifflet;arbitre;sifflet de l'arbitre
+carton;joueur;carton du joueur
+faute;adversaire;faute de l'adversaire
+penalty;tireur;penalty du tireur
+mur;défense;mur de la défense
+poteau;ballon;poteau du ballon
+filet;cage;filet de la cage
+victoire;champion;victoire du champion
+coupe;capitaine;coupe du capitaine
+médaille;athlète;médaille de l'athlète
+podium;gagnant;podium du gagnant
+hymne;pays;hymne du pays
+drapeau;porte-drapeau;drapeau du porte-drapeau
+défilé;délégation;défilé de la délégation
+flamme;olympique;flamme de l'olympique
+serment;juge;serment du juge
+record;sprinteur;record du sprinteur
+saut;perchiste;saut du perchiste
+lancer;javelot;lancer du javelot
+disque;lanceur;disque du lanceur
+poids;haltérophile;poids de l'haltérophile
+tapis;lutteur;tapis du lutteur
+kimono;judoka;kimono du judoka
+ceinture;karatéka;ceinture du karatéka
+gant;boxeur;gant du boxeur
+ring;combat;ring du combat
+ko;frappeur;ko du frappeur
+nez;saigneur;nez du saigneur
+éponge;soigneur;éponge du soigneur
+serviette;coach;serviette du coach
+conseil;entraîneur;conseil de l'entraîneur
+tactique;manager;tactique du manager
+transfert;club;transfert du club
+contrat;star;contrat de la star
+autographe;vedette;autographe de la vedette
+selfie;fan;selfie du fan
+affiche;concert;affiche du concert
+micro;chanteur;micro du chanteur
+guitare;rockeur;guitare du rockeur
+batterie;batteur;batterie du batteur
+basse;bassiste;basse du bassiste
+piano;virtuose;piano du virtuose
+violon;soliste;violon du soliste
+orchestre;chef;orchestre du chef
+symphonie;compositeur;symphonie du compositeur
+opéra;ténor;opéra du ténor
+air;diva;air de la diva
+ballet;danseuse;ballet de la danseuse
+tutu;ballerine;tutu de la ballerine
+pointe;étoile;pointe de l'étoile
+rat;opéra;rat de l'opéra
+coulisse;technicien;coulisse du technicien
+rideau;scène;rideau de la scène
+rappel;public;rappel du public
+bis;spectateur;bis du spectateur
+sortie;artiste;sortie de l'artiste
+fuite;star;fuite de la star
+limousine;vip;limousine du vip
+tapis rouge;festival;tapis rouge du festival
+palme;réalisateur;palme du réalisateur
+scénario;auteur;scénario de l'auteur
+dialogue;acteur;dialogue de l'acteur

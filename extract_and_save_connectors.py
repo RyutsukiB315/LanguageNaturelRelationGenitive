@@ -7,7 +7,7 @@ def scan_connectors(corpus_path):
     print(f"--- Analyse des connecteurs dans : {corpus_path} ---")
 
     if not os.path.exists(corpus_path):
-        print("❌ Le dossier corpus n'existe pas.")
+        print("❌ Le dossier corpus15K n'existe pas.")
         return []
 
     files = [f for f in os.listdir(corpus_path) if f.endswith(".txt")]
@@ -51,7 +51,7 @@ def scan_connectors(corpus_path):
 # MAIN
 # ==============================================================================
 if __name__ == "__main__":
-    corpus_folder = os.path.join(os.getcwd(), "corpus")
+    corpus_folder = os.path.join(os.getcwd(), "corpus15K")
     output_file = "connect.txt"
 
     # 1. SCAN

@@ -1,0 +1,915 @@
+A;B;Phrase
+peinture;paysage;peinture d'un paysage
+photo;famille;photo d'une famille
+carte;monde;carte du monde
+plan;ville;plan de la ville
+portrait;reine;portrait de la reine
+statue;liberté;statue de la liberté
+dessin;enfant;dessin d'un enfant
+croquis;suspect;croquis du suspect
+buste;empereur;buste de l'empereur
+image;chat;image du chat
+reflet;lune;reflet de la lune
+ombre;arbre;ombre de l'arbre
+maquette;avion;maquette de l'avion
+gravure;mode;gravure de mode
+fresque;jugement;fresque du jugement
+icône;saint;icône du saint
+tableau;fleurs;tableau de fleurs
+poster;star;poster de la star
+affiche;film;affiche du film
+cliché;vacances;cliché des vacances
+vue;port;vue du port
+panorama;alpes;panorama des alpes
+sculpture;athlète;sculpture de l'athlète
+figurine;héros;figurine du héros
+effigie;monarque;effigie du monarque
+moulage;visage;moulage du visage
+empreinte;pas;empreinte du pas
+trace;pneu;trace de pneu
+enregistrement;concert;enregistrement du concert
+vidéo;chat;vidéo de chat
+film;mariage;film du mariage
+copie;document;copie du document
+reproduction;tableau;reproduction du tableau
+fac-similé;manuscrit;fac-similé du manuscrit
+diapositive;voyage;diapositive du voyage
+illustration;conte;illustration du conte
+schéma;montage;schéma du montage
+diagramme;processus;diagramme du processus
+graphique;ventes;graphique des ventes
+courbe;température;courbe de température
+profil;candidat;profil du candidat
+silhouette;montagne;silhouette de la montagne
+masque;zorro;masque de zorro
+déguisement;pirate;déguisement de pirate
+costume;clown;costume de clown
+marionnette;guignol;marionnette de guignol
+poupée;mannequin;poupée de mannequin
+avatar;joueur;avatar du joueur
+logo;entreprise;logo de l'entreprise
+emblème;club;emblème du club
+drapeau;pays;drapeau du pays
+blason;famille;blason de la famille
+insigne;régiment;insigne du régiment
+symbole;paix;symbole de la paix
+signe;croix;signe de la croix
+lettre;alphabet;lettre de l'alphabet
+chiffre;nombre;chiffre du nombre
+note;musique;note de musique
+carte;france;carte de France
+planisphère;terre;planisphère de la terre
+globe;terrestre;globe terrestre
+atlas;géographie;atlas de géographie
+radio;poumon;radio du poumon
+échographie;bébé;échographie du bébé
+scan;cerveau;scan du cerveau
+imagerie;satellite;imagerie de satellite
+vue;esprit;vue de l'esprit
+vision;horreur;vision d'horreur
+mirage;oasis;mirage d'oasis
+spectre;lumière;spectre de la lumière
+maquette;projet;maquette du projet
+prototype;voiture;prototype de la voiture
+échantillon;tissu;échantillon de tissu
+extrait;livre;extrait du livre
+résumé;film;résumé du film
+bande-annonce;film;bande-annonce du film
+sommaire;revue;sommaire de la revue
+index;noms;index des noms
+légende;photo;légende de la photo
+titre;chapitre;titre du chapitre
+peinture;paysage;peinture du paysage
+toile;maître;toile du maître
+aquarelle;marine;aquarelle de la marine
+pastel;fleur;pastel de la fleur
+huile;portrait;huile du portrait
+fusain;nu;fusain du nu
+crayon;visage;crayon du visage
+encre;paysage;encre du paysge
+gouache;enfant;gouache de l'enfant
+fresque;mur;fresque du mur
+mosaïque;sol;mosaïque du sol
+vitrail;saint;vitrail du saint
+icône;vierge;icône de la vierge
+retable;autel;retable de l'autel
+triptyque;jugement;triptyque du jugement
+estampe;japonaise;estampe japonaise
+gravure;mode;gravure de mode
+lithographie;artiste;lithographie de l'artiste
+sérigraphie;affiche;sérigraphie de l'affiche
+poster;star;poster de la star
+affiche;concert;affiche du concert
+pancarte;manifestant;pancarte du manifestant
+enseigne;magasin;enseigne du magasin
+panneau;route;panneau de la route
+étiquette;prix;étiquette du prix
+autocollant;marque;autocollant de la marque
+sticker;logo;sticker du logo
+badge;nom;badge du nom
+macaron;assurance;macaron de l'assurance
+vignette;auto;vignette de l'auto
+timbre;poste;timbre de la poste
+sceau;cire;sceau de cire
+tampon;date;tampon de la date
+griffe;couturier;griffe du couturier
+signature;auteur;signature de l'auteur
+paraphe;notaire;paraphe du notaire
+monogramme;roi;monogramme du roi
+initiale;prénom;initiale du prénom
+lettre;alphabet;lettre de l'alphabet
+chiffre;code;chiffre du code
+numéro;rue;numéro de la rue
+photo;famille;photo de la famille
+cliché;vacances;cliché des vacances
+instantané;moment;instantané du moment
+diapositive;voyage;diapositive du voyage
+négatif;film;négatif du film
+tirage;papier;tirage papier
+agrandissement;détail;agrandissement du détail
+zoom;visage;zoom sur le visage
+plan;large;plan large
+cadrage;scène;cadrage de la scène
+selfie;touriste;selfie du touriste
+portrait;officiel;portrait officiel
+photo;identité;photo d'identité
+mugshot;suspect;mugshot du suspect
+radiographie;os;radiographie de l'os
+échographie;fœtus;échographie du fœtus
+irm;cerveau;irm du cerveau
+scan;corps;scan du corps
+scanner;bagage;scanner du bagage
+mammographie;sein;mammographie du sein
+panoramique;dent;panoramique des dents
+empreinte;digitale;empreinte digitale
+trace;pas;trace de pas
+sillage;navire;sillage du navire
+traînée;avion;traînée de l'avion
+ombre;arbre;ombre de l'arbre
+silouhette;passant;silhouette du passant
+profil;ombre;profil de l'ombre
+contour;forme;contour de la forme
+reflet;miroir;reflet du miroir
+image;eau;image dans l'eau
+écho;voix;écho de la voix
+résonance;son;résonance du son
+enregistrement;débat;enregistrement du débat
+bande;son;bande son
+disque;chanteur;disque du chanteur
+cassette;audio;cassette audio
+cd;album;cd de l'album
+vinyle;tube;vinyle du tube
+mp3;morceau;mp3 du morceau
+playlist;soirée;playlist de la soirée
+vidéo;chat;vidéo de chat
+clip;chanson;clip de la chanson
+film;vacances;film de vacances
+long-métrage;cinéma;long-métrage de cinéma
+court-métrage;festival;court-métrage de festival
+documentaire;animalier;documentaire animalier
+reportage;guerre;reportage de guerre
+journal;télévisé;journal télévisé
+flash;info;flash info
+interview;politique;interview du politique
+témoignage;victime;témoignage de la victime
+récit;voyage;récit de voyage
+histoire;soir;histoire du soir
+conte;fées;conte de fées
+fable;fontaine;fable de la fontaine
+roman;amour;roman d'amour
+biographie;star;biographie de la star
+autobiographie;auteur;autobiographie de l'auteur
+mémoires;général;mémoires du général
+journal;intime;journal intime
+blog;mode;blog de mode
+vlog;youtubeur;vlog du youtubeur
+post;facebook;post Facebook
+tweet;twitter;tweet Twitter
+story;instagram;story Instagram
+statut;whatsapp;statut WhatsApp
+sms;ami;sms de l'ami
+mail;patron;mail du patron
+lettre;amour;lettre d'amour
+carte;postale;carte postale
+faire-part;mariage;faire-part de mariage
+invitation;fête;invitation à la fête
+menu;restaurant;menu du restaurant
+recette;cuisine;recette de cuisine
+notice;montage;notice de montage
+mode d'emploi;appareil;mode d'emploi de l'appareil
+règle;jeu;règle du jeu
+loi;code;loi du code
+article;constitution;article de la constitution
+verset;bible;verset de la bible
+sourate;coran;sourate du coran
+poème;baudelaire;poème de Baudelaire
+chanson;geste;chanson de geste
+hymne;national;hymne national
+prière;matin;prière du matin
+slogan;pub;slogan de pub
+devise;république;devise de la république
+proverbe;sagesse;proverbe de sagesse
+citation;auteur;citation de l'auteur
+réplique;film;réplique du film
+dialogue;théâtre;dialogue de théâtre
+monologue;acteur;monologue de l'acteur
+tirade;nez;tirade du nez
+discours;président;discours du président
+allocution;ministre;allocution du ministre
+conférence;presse;conférence de presse
+exposé;élève;exposé de l'élève
+résumé;livre;résumé du livre
+synthèse;dossier;synthèse du dossier
+compte-rendu;réunion;compte-rendu de la réunion
+procès-verbal;police;procès-verbal de police
+rapport;activité;rapport d'activité
+bilan;comptable;bilan comptable
+audit;finance;audit financier
+devis;travaux;devis des travaux
+facture;achat;facture d'achat
+ticket;caisse;ticket de caisse
+reçu;paiement;reçu de paiement
+bon;commande;bon de commande
+contrat;travail;contrat de travail
+bail;location;bail de location
+acte;vente;acte de vente
+testament;héritage;testament d'héritage
+diplôme;université;diplôme de l'université
+certificat;médical;certificat médical
+attestation;stage;attestation de stage
+carte;visite;carte de visite
+passeport;biométrique;passeport biométrique
+permis;conduire;permis de conduire
+carte;vitale;carte vitale
+biller;avion;billet d'avion
+ticket;métro;ticket de métro
+plan;ville;plan de la ville
+carte;routière;carte routière
+atlas;monde;atlas du monde
+globe;terrestre;globe terrestre
+mappemonde;classe;mappemonde de la classe
+planisphère;mur;planisphère au mur
+cadastre;terrain;cadastre du terrain
+topographie;lieu;topographie du lieu
+relevé;terrain;relevé de terrain
+tracé;autoroute;tracé de l'autoroute
+itinéraire;gps;itinéraire GPS
+trajet;voyage;trajet du voyage
+parcours;marathon;parcours du marathon
+circuit;électrique;circuit électrique
+schéma;câblage;schéma de câblage
+diagramme;flux;diagramme de flux
+organigramme;société;organigramme de la société
+graphique;bourse;graphique de la bourse
+courbe;croissance;courbe de croissance
+camembert;sondage;camembert du sondage
+histogramme;statistique;histogramme statistique
+tableau;périodique;tableau périodique
+liste;course;liste de courses
+inventaire;magasin;inventaire du magasin
+catalogue;jouet;catalogue de jouets
+annuaire;téléphone;annuaire du téléphone
+dictionnaire;mots;dictionnaire des mots
+encyclopédie;savoir;encyclopédie du savoir
+wiki;internet;wiki d'internet
+manuel;scolaire;manuel scolaire
+guide;touristique;guide touristique
+brochure;vacances;brochure de vacances
+prospectus;pub;prospectus de pub
+flyer;soirée;flyer de soirée
+tract;politique;tract politique
+programme;cinéma;programme du cinéma
+menu;démarrer;menu démarrer
+icône;bureau;icône du bureau
+raccourci;clavier;raccourci clavier
+fenêtre;windows;fenêtre Windows
+onglet;navigateur;onglet du navigateur
+barre;tâche;barre des tâches
+curseur;souris;curseur de la souris
+avatar;jeu;avatar du jeu
+skin;personnage;skin du personnage
+émoji;sourire;émoji sourire
+gif;chat;gif de chat
+mème;internet;mème internet
+bannière;site;bannière du site
+pop-up;pub;pop-up de pub
+cookie;traceur;cookie traceur
+historique;navigation;historique de navigation
+favori;lien;favori du lien
+signet;page;signet de la page
+marque-page;livre;marque-page du livre
+chapitre;roman;chapitre du roman
+paragraphe;texte;paragraphe du texte
+phrase;discours;phrase du discours
+mot;langue;mot de la langue
+syllabe;mot;syllabe du mot
+son;lettre;son de la lettre
+phonème;langage;phonème du langage
+alphabet;braille;alphabet braille
+langue;signes;langue des signes
+code;morse;code morse
+hiéroglyphe;égyptien;hiéroglyphe égyptien
+rune;viking;rune viking
+idéogramme;chinois;idéogramme chinois
+calligraphie;arabe;calligraphie arabe
+tag;mur;tag sur le mur
+graffiti;métro;graffiti du métro
+pochoir;rue;pochoir de rue
+tatouage;bras;tatouage sur le bras
+piercing;nez;piercing au nez
+cicatrice;guerre;cicatrice de guerre
+strymate;saint;stygmate du saint
+ride;expression;ride d'expression
+grain;beauté;grain de beauté
+tache;naissance;tache de naissance
+maquillage;clown;maquillage de clown
+peinture;guerre;peinture de guerre
+masque;carnaval;masque de carnaval
+loup;bal;loup du bal
+déguisement;halloween;déguisement d'Halloween
+costume;théâtre;costume de théâtre
+uniforme;policier;uniforme de policier
+tenue;combat;tenue de combat
+soutane;prêtre;soutane du prêtre
+habit;moine;habit de moine
+kimono;judoka;kimono du judoka
+tutu;danseuse;tutu de la danseuse
+maillot;joueur;maillot du joueur
+dossard;coureur;dossard du coureur
+médaille;olympique;médaille olympique
+coupe;monde;coupe du monde
+trophée;chasse;trophée de chasse
+diplôme;honneur;diplôme d'honneur
+palme;or;palme d'or
+oscar;cinéma;oscar du cinéma
+césar;acteur;césar de l'acteur
+disque;or;disque d'or
+ceinture;noire;ceinture noire
+grade;général;grade de général
+galon;caporal;galon de caporal
+étoile;shérif;étoile de shérif
+képi;gendarme;képi de gendarme
+calot;soldat;calot de soldat
+casque;pompier;casque de pompier
+blouse;médecin;blouse de médecin
+toque;cuisinier;toque de cuisinier
+bleu;travail;bleu de travail
+tablier;boucher;tablier de boucher
+robe;avocat;robe d'avocat
+perruque;juge;perruque du juge
+couronne;roi;couronne du roi
+sceptre;reine;sceptre de la reine
+trône;pouvoir;trône du pouvoir
+drapeau;france;drapeau de la France
+bannière;étoilée;bannière étoilée
+pavillon;navire;pavillon du navire
+étendard;régiment;étendard du régiment
+fanion;corner;fanion de corner
+écharpe;maire;écharpe du maire
+cocarde;révolution;cocarde de la révolution
+bonnet;phrygien;bonnet phrygien
+hymne;joie;hymne à la joie
+chant;partisan;chant des partisans
+marseillaise;france;marseillaise de la France
+god save the queen;angleterre;god save the queen d'Angleterre
+blason;ville;blason de la ville
+armoiries;famille;armoiries de la famille
+écu;chevalier;écu du chevalier
+bouclier;capitaine;bouclier du capitaine
+totem;indien;totem indien
+fétiche;sorcier;fétiche du sorcier
+amulette;chance;amulette de chance
+gris-gris;protection;gris-gris de protection
+talisman;magique;talisman magique
+poupée;vaudou;poupée vaudou
+marionnette;ventriloque;marionnette du ventriloque
+pantin;bois;pantin de bois
+guignol;lyon;guignol de Lyon
+automate;horloge;automate de l'horloge
+robot;usine;robot d'usine
+androïde;sf;androïde de SF
+cyborg;futur;cyborg du futur
+clone;mouton;clone du mouton
+jumeau;frère;jumeau du frère
+double;cascadeur;double du cascadeur
+sosie;star;sosie de la star
+imitateur;voix;imitateur de voix
+parodie;film;parodie de film
+caricature;presse;caricature de presse
+satire;politique;satire politique
+pastiche;roman;pastiche de roman
+plagiat;œuvre;plagiat de l'œuvre
+copie;examen;copie d'examen
+double;clé;double de clé
+duplicata;facture;duplicata de facture
+photocopie;document;photocopie du document
+fac-similé;manuscrit;fac-similé du manuscrit
+reproduction;interdite;reproduction interdite
+faux;billet;faux billet
+contrefaçon;sac;contrefaçon de sac
+imitation;cuir;imitation cuir
+simili;or;simili or
+toc;bijou;toc du bijou
+plaqué;argent;plaqué argent
+synthétique;matière;matière synthétique
+artificiel;arôme;arôme artificiel
+virtuel;réalité;réalité virtuelle
+augmenté;réalité;réalité augmentée
+simulation;vol;simulation de vol
+modélisation;3d;modélisation 3D
+projection;futur;projection dans le futur
+prévision;météo;prévision météo
+estimation;coût;estimation du coût
+devis;plombier;devis du plombier
+maquette;avion;maquette d'avion
+modèle;réduit;modèle réduit
+figurine;collection;figurine de collection
+soldat;plomb;soldat de plomb
+poupée;chiffon;poupée de chiffon
+ours;peluche;ours en peluche
+doudou;enfant;doudou de l'enfant
+hochet;bébé;hochet du bébé
+mobile;lit;mobile de lit
+lego;château;lego du château
+puzzle;paysage;puzzle de paysage
+jeu;société;jeu de société
+carte;atout;carte d'atout
+pion;échec;pion d'échec
+dé;hasard;dé du hasard
+roulette;casino;roulette du casino
+jeton;poker;jeton de poker
+billet;monopoly;billet de monopoly
+croquis;mode;croquis de mode
+esquisse;projet;esquisse du projet
+ébauche;roman;ébauche de roman
+brouillon;lettre;brouillon de lettre
+note;bas de page;note de bas de page
+pense-bête;frigo;pense-bête du frigo
+post-it;écran;post-it sur l'écran
+liste;tâche;liste de tâches
+agenda;rendez-vous;agenda des rendez-vous
+calendrier;mur;calendrier mural
+emploi du temps;semaine;emploi du temps de la semaine
+planning;congés;planning des congés
+horaire;train;horaire du train
+programme;télé;programme télé
+sommaire;livre;sommaire du livre
+index;recette;index des recettes
+table;matières;table des matières
+glossaire;termes;glossaire des termes
+légende;carte;légende de la carte
+échelle;plan;échelle du plan
+boussole;nord;boussole indiquant le nord
+girouette;vent;girouette du vent
+cadran;solaire;cadran solaire
+sablier;temps;sablier du temps
+chronomètre;course;chronomètre de la course
+compteur;vitesse;compteur de vitesse
+jauge;essence;jauge d'essence
+thermomètre;fièvre;thermomètre de la fièvre
+baromètre;pression;baromètre de pression
+radar;pluie;radar de pluie
+sonar;sous-marin;sonar de sous-marin
+détecteur;fumée;détecteur de fumée
+capteur;mouvement;capteur de mouvement
+caméra;surveillance;caméra de surveillance
+micro;espion;micro espion
+lunette;vue;lunette de vue
+loupe;sherlock;loupe de Sherlock
+jumelle;théâtre;jumelle de théâtre
+télescope;étoile;télescope d'étoile
+microscope;cellule;microscope de cellule
+périscope;surface;périscope de surface
+kaléidoscope;couleur;kaléidoscope de couleur
+projecteur;diapo;projecteur de diapo
+écran;cinéma;écran de cinéma
+moniteur;ordi;moniteur d'ordi
+télé;salon;télé du salon
+tablette;tactile;tablette tactile
+liseuse;ebook;liseuse d'ebook
+smartphone;poche;smartphone de poche
+montre;poignet;montre de poignet
+pendule;salon;pendule de salon
+réveil;matin;réveil du matin
+cloche;église;cloche de l'église
+sirène;pompiers;sirène des pompiers
+klaxon;voiture;klaxon de voiture
+sonnette;porte;sonnette de la porte
+interphone;immeuble;interphone de l'immeuble
+digicode;entrée;digicode de l'entrée
+clé;serrure;clé de la serrure
+passe;partout;passe-partout
+badge;accès;badge d'accès
+bracelet;festival;bracelet de festival
+tampon;encreur;tampon encreur
+poinçon;métro;poinçon de métro
+tatouage;bétail;tatouage du bétail
+marque;fer;marque au fer
+bague;pigeon;bague de pigeon
+collier;chien;collier de chien
+médaille;chat;médaille de chat
+plaque;immatriculation;plaque d'immatriculation
+numéro;série;numéro de série
+code;barre;code barre
+qr;code;QR code
+puce;électronique;puce électronique
+balise;detresse;balise de détresse
+phare;côte;phare de la côte
+feu;rouge;feu rouge
+panneau;stop;panneau stop
+passage;piéton;passage piéton
+ligne;blanche;ligne blanche
+flèche;direction;flèche de direction
+balise;virage;balise de virage
+cône;chantier;cône de chantier
+barrière;péage;barrière de péage
+portique;sécurité;portique de sécurité
+tourniquet;métro;tourniquet de métro
+guichet;gare;guichet de gare
+comptoir;bar;comptoir de bar
+vitrine;magasin;vitrine de magasin
+présentoir;produit;présentoir de produit
+rayon;supermarché;rayon de supermarché
+caddie;course;caddie de course
+panier;osier;panier d'osier
+sac;plastique;sac plastique
+boîte;carton;boîte en carton
+caisse;bois;caisse en bois
+tonneau;vin;tonneau de vin
+bouteille;verre;bouteille de verre
+canette;soda;canette de soda
+bocal;confiture;bocal de confiture
+pot;yaourt;pot de yaourt
+tube;dentifrice;tube de dentifrice
+flacon;parfum;flacon de parfum
+aérosol;laque;aérosol de laque
+spray;nettoyant;spray nettoyant
+pompe;essence;pompe à essence
+réservoir;eau;réservoir d'eau
+citerne;gaz;citerne de gaz
+silo;grain;silo à grain
+benne;ordure;benne à ordures
+container;navire;container de navire
+palette;entrepôt;palette d'entrepôt
+colis;poste;colis de la poste
+enveloppe;lettre;enveloppe de la lettre
+paquet;cadeau;paquet cadeau
+ruban;emballage;ruban d'emballage
+noeud;papillon;nœud papillon
+cravate;soie;cravate de soie
+foulard;cou;foulard de cou
+châle;épaule;châle d'épaule
+voile;mariée;voile de la mariée
+traîne;robe;traîne de la robe
+dentelle;calais;dentelle de Calais
+broderie;main;broderie main
+tapisserie;aubusson;tapisserie d'Aubusson
+tapis;persan;tapis persan
+moquette;chambre;moquette de chambre
+rideau;fenêtre;rideau de fenêtre
+store;vénitien;store vénitien
+volet;bois;volet en bois
+persienne;sud;persienne du sud
+grille;prison;grille de prison
+barreau;fenêtre;barreau de fenêtre
+clôture;jardin;clôture de jardin
+haie;thuya;haie de thuyas
+mur;brique;mur de brique
+cloison;plâtre;cloison de plâtre
+plafond;stuc;plafond de stuc
+sol;parquet;sol en parquet
+carrelage;cuisine;carrelage de cuisine
+tomette;rouge;tomette rouge
+ardoise;toit;ardoise de toit
+tuile;canal;tuile canal
+zinc;toiture;zinc de toiture
+chaume;chaumière;chaume de chaumière
+béton;immeuble;béton d'immeuble
+pierre;taille;pierre de taille
+marbre;statue;marbre de statue
+granit;tombe;granit de tombe
+stèle;souvenir;stèle du souvenir
+plaque;commémorative;plaque commémorative
+monument;morts;monument aux morts
+cénotaphe;vide;cénotaphe vide
+mausolée;roi;mausolée du roi
+pyramide;pharaon;pyramide du pharaon
+obélisque;place;obélisque de la place
+colonne;vendôme;colonne Vendôme
+arc;triomphe;arc de triomphe
+statue;liberté;statue de la liberté
+buste;mariane;buste de Marianne
+gisant;roi;gisant du roi
+masque;mortuaire;masque mortuaire
+sarcophage;momie;sarcophage de momie
+cercueil;chêne;cercueil de chêne
+urne;funéraire;urne funéraire
+reliquaire;saint;reliquaire du saint
+ostensoir;hostie;ostensoir de l'hostie
+calice;vin;calice du vin
+ciboire;pain;ciboire du pain
+chapelet;prière;chapelet de prière
+tapis;prière;tapis de prière
+kippa;tête;kippa sur la tête
+voile;tête;voile sur la tête
+turban;sikh;turban sikh
+croix;christ;croix du Christ
+croissant;islam;croissant de l'islam
+étoile;david;étoile de David
+roue;dharma;roue du dharma
+yin;yang;yin et yang
+svastika;hindou;svastika hindou
+om;yoga;om du yoga
+lotus;bouddha;lotus du bouddha
+mandala;sable;mandala de sable
+thangka;tibétain;thangka tibétain
+fétiche;bois;fétiche de bois
+masque;africain;masque africain
+totem;clan;totem du clan
+peinture;rupestre;peinture rupestre
+gravure;grotte;gravure de la grotte
+dolmen;pierre;dolmen de pierre
+menhir;champ;menhir du champ
+cairn;montagne;cairn de montagne
+balise;chemin;balise de chemin
+panneau;indictation;panneau d'indication
+borne;kilométrique;borne kilométrique
+feu;tricolore;feu tricolore
+gyrophare;police;gyrophare de police
+sirène;usine;sirène d'usine
+tocsin;incendie;tocsin d'incendie
+glas;mort;glas de la mort
+cloche;vache;cloche de vache
+grelot;chat;grelot de chat
+sonnaille;troupeau;sonnaille du troupeau
+appeau;canard;appeau à canard
+sifflet;arbitre;sifflet de l'arbitre
+carton;rouge;carton rouge
+drapeau;jaune;drapeau jaune
+damier;course;damier de course
+podium;vainqueur;podium du vainqueur
+marche;podium;marche du podium
+laurier;cesar;laurier de César
+palme;martyr;palme du martyr
+auréole;saint;auréole du saint
+nimbes;ange;nimbes de l'ange
+ailes;ange;ailes de l'ange
+cornes;diable;cornes du diable
+queue;fourchue;queue fourchue
+trident;neptune;trident de Neptune
+foudre;zeus;foudre de Zeus
+marteau;thor;marteau de Thor
+arc;cupidon;arc de Cupidon
+balance;justice;balance de la justice
+serpent;pharmacie;serpent de la pharmacie
+caducée;médecin;caducée du médecin
+coupe;hygie;coupe d'Hygie
+bâton;esculape;bâton d'Esculape
+compas;maçon;compas du maçon
+équerre;architecte;équerre de l'architecte
+faucille;marteau;faucille et marteau
+rose;socialiste;rose socialiste
+croix;lorraine;croix de Lorraine
+hache;francisque;hache francisque
+faisceau;licteur;faisceau de licteur
+aigle;impérial;aigle impérial
+abeille;napoléon;abeille de Napoléon
+lys;roi;lys du roi
+hermine;bretagne;hermine de Bretagne
+lion;flandres;lion des Flandres
+coq;gaulois;coq gaulois
+ours;berlin;ours de Berlin
+louve;rome;louve de Rome
+sirène;copenhague;sirène de Copenhague
+manneken-pis;bruxelles;manneken-pis de Bruxelles
+tour;eiffel;tour Eiffel
+big ben;londres;Big Ben de Londres
+colisée;rome;Colisée de Rome
+parthénon;athènes;Parthénon d'Athènes
+pyramide;gizeh;pyramide de Gizeh
+sphinx;egypte;sphinx d'Égypte
+muraille;chine;muraille de Chine
+taj mahal;inde;Taj Mahal d'Inde
+statue;rio;statue de Rio
+opéra;sydney;opéra de Sydney
+hollywood;signe;signe Hollywood
+las vegas;néon;néon de Las Vegas
+times square;écran;écran de Times Square
+shibuya;crossing;crossing de Shibuya
+harrods;londres;Harrods de Londres
+galeries;lafayette;Galeries Lafayette
+moulin;rouge;Moulin Rouge
+lidl;sac;sac Lidl
+ikea;sac;sac Ikea
+amazon;colis;colis Amazon
+apple;pomme;pomme Apple
+nike;virgule;virgule Nike
+mcdonalds;arche;arche McDonalds
+michelin;bibendum;bibendum Michelin
+vache;qui rit;vache qui rit
+géant;vert;géant vert
+lion;mgm;lion MGM
+fée;disney;fée Disney
+lampe;pixar;lampe Pixar
+château;intro;château de l'intro
+générique;fin;générique de fin
+crédits;film;crédits du film
+dédicace;livre;dédicace du livre
+exergue;chapitre;exergue de chapitre
+incipit;roman;incipit de roman
+chute;nouvelle;chute de la nouvelle
+morale;histoire;morale de l'histoire
+épilogue;récit;épilogue du récit
+préface;ouvrage;préface de l'ouvrage
+avant-propos;auteur;avant-propos de l'auteur
+postface;éditeur;postface de l'éditeur
+note;traducteur;note du traducteur
+erratum;journal;erratum du journal
+ours;imprimerie;ours de l'imprimerie
+achevé;imprimer;achevé d'imprimer
+isbn;livre;isbn du livre
+code;barre;code barre
+prix;goncourt;prix Goncourt
+bandeau;rouge;bandeau rouge
+couverture;livre;couverture de livre
+dos;livre;dos du livre
+quatrième;couverture;quatrième de couverture
+jaquette;dvd;jaquette de DVD
+pochette;disque;pochette de disque
+étui;guitare;étui de guitare
+housse;couette;housse de couette
+taie;oreiller;taie d'oreiller
+drap;lit;drap de lit
+nappe;table;nappe de table
+serviette;bain;serviette de bain
+gant;toilette;gant de toilette
+mouchoir;poche;mouchoir de poche
+chiffon;poussière;chiffon à poussière
+serpillière;sol;serpillière pour le sol
+balai;brosse;balai brosse
+pelle;balayette;pelle et balayette
+aspirateur;tapis;aspirateur de tapis
+fer;repasser;fer à repasser
+planche;repasser;planche à repasser
+machine;laver;machine à laver
+sèche;linge;sèche-linge
+lave;vaisselle;lave-vaisselle
+four;micro-onde;four micro-onde
+frigo;cuisine;frigo de cuisine
+congélateur;glace;congélateur à glace
+mixeur;soupe;mixeur à soupe
+batteur;oeuf;batteur à œufs
+poêle;frire;poêle à frire
+casserole;eau;casserole d'eau
+marmite;ragout;marmite de ragoût
+cocotte;minute;cocotte minute
+passoire;pâtes;passoire à pâtes
+râpe;fromage;râpe à fromage
+ouvre-boîte;conserve;ouvre-boîte
+tire-bouchon;vin;tire-bouchon
+décapsuleur;bière;décapsuleur
+verre;vin;verre à vin
+tasse;café;tasse à café
+bol;céréales;bol de céréales
+assiette;soupe;assiette à soupe
+plat;four;plat à four
+saladier;laitue;saladier de laitue
+carafe;eau;carafe d'eau
+pichet;vin;pichet de vin
+théière;thé;théière à thé
+cafetière;café;cafetière à café
+sucrier;sucre;sucrier
+salière;sel;salière
+poivrière;poivre;poivrière
+huilier;huile;huilier
+vinaigrier;vinaigre;vinaigrier
+beurrier;beurre;beurrier
+coquetier;oeuf;coquetier
+corbeille;pain;corbeille à pain
+planche;pain;planche à pain
+couteau;viande;couteau à viande
+fourchette;table;fourchette de table
+cuillère;soupe;cuillère à soupe
+petite;cuillère;petite cuillère
+louche;potage;louche à potage
+écumoire;friture;écumoire
+spatule;crêpe;spatule à crêpe
+pince;salade;pince à salade
+fouet;crème;fouet à crème
+rouleau;pâte;rouleau à pâte
+moule;gâteau;moule à gâteau
+plaque;four;plaque de four
+papier;cuisson;papier cuisson
+film;alimentaire;film alimentaire
+alu;cuisine;alu de cuisine
+sopalin;tache;sopalin pour la tache
+éponge;evier;éponge d'évier
+liquide;vaisselle;liquide vaisselle
+pastille;lave-vaisselle;pastille lave-vaisselle
+sel;régénérant;sel régénérant
+liquide;rinçage;liquide de rinçage
+poudre;laver;poudre à laver
+adoucissant;linge;adoucissant pour le linge
+javel;sol;javel pour le sol
+vitre;spray;spray pour vitre
+détartrant;wc;détartrant WC
+bloc;wc;bloc WC
+brosse;chiottes;brosse à chiottes
+ventouse;déboucher;ventouse à déboucher
+furet;canalisation;furet de canalisation
+sceau;eau;seau d'eau
+bassine;linge;bassine de linge
+étendoir;linge;étendoir à linge
+pince;linge;pince à linge
+panier;linge;panier à linge
+table;repasser;table à repasser
+centrale;vapeur;centrale vapeur
+cintre;armoire;cintre d'armoire
+housse;costume;housse de costume
+boîte;chaussure;boîte à chaussures
+meuble;chaussure;meuble à chaussures
+porte;manteau;porte-manteau
+penderie;entrée;penderie d'entrée
+commode;chambre;commode de chambre
+armoire;normande;armoire normande
+placard;cuisine;placard de cuisine
+tiroir;bureau;tiroir de bureau
+étagère;livre;étagère à livres
+bibliothèque;mur;bibliothèque murale
+vitrine;collection;vitrine de collection
+buffet;salon;buffet de salon
+bahut;salle;bahut de salle
+table;basse;table basse
+guéridon;téléphone;guéridon de téléphone
+console;entrée;console d'entrée
+bureau;ministre;bureau de ministre
+fauteuil;cuir;fauteuil en cuir
+canapé;angle;canapé d'angle
+pouf;velours;pouf en velours
+chaise;paille;chaise paillée
+tabouret;bar;tabouret de bar
+banc;jardin;banc de jardin
+transat;piscine;transat de piscine
+hamac;arbres;hamac entre les arbres
+lit;double;lit double
+matelas;mousse;matelas mousse
+sommier;lattes;sommier à lattes
+tête;lit;tête de lit
+chevet;lit;chevet de lit
+lampe;chevet;lampe de chevet
+réveil;digital;réveil digital
+radio;réveil;radio-réveil
+cadre;photo;cadre photo
+tableau;mur;tableau au mur
+miroir;pied;miroir sur pied
+psyché;chambre;psyché de chambre
+coiffeuse;dame;coiffeuse de dame
+paravent;chinois;paravent chinois
+tapis;orient;tapis d'orient
+carpette;bain;carpette de bain
+paillasson;entrée;paillasson d'entrée
+lustre;cristal;lustre en cristal
+suspension;cuisine;suspension de cuisine
+applique;murale;applique murale
+lampadaire;salon;lampadaire de salon
+halogène;plafond;halogène de plafond
+bougie;dîner;bougie de dîner
+chandelier;argent;chandelier en argent
+photophore;jardin;photophore de jardin
+lanterne;papier;lanterne en papier
+lampion;fête;lampion de fête
+guirlande;noël;guirlande de Noël
+boule;sapin;boule de sapin
+cimier;étoile;cimier étoile
+crèche;santon;crèche de santons
+calendrier;avent;calendrier de l'avent
+couronne;houx;couronne de houx
+botte;noël;botte de Noël
+traîneau;père noël;traîneau du père noël
+renne;nez rouge;renne au nez rouge
+lutin;jouet;lutin aux jouets
+hotte;cadeau;hotte de cadeaux
+cheminée;feu;cheminée à feu
+foyer;âtre;foyer de l'âtre
+bûche;bois;bûche de bois
+chenet;fer;chenet en fer
+tisonnier;braise;tisonnier pour la braise
+pelle;cendre;pelle à cendre
+balayette;cheminée;balayette de cheminée
+pare-feu;grille;pare-feu en grille
+soufflet;feu;soufflet à feu
+allumette;boîte;allumette de la boîte
+briquet;gaz;briquet à gaz
+pierre;briquet;pierre à briquet
+essence;zippo;essence à zippo
+mèche;bougie;mèche de bougie
+cire;abeille;cire d'abeille
+paraffine;bloc;paraffine en bloc
+encens;bâton;encens en bâton
+papier;arménie;papier d'Arménie
+huile;essentielle;huile essentielle
+diffuseur;parfum;diffuseur de parfum
+pot-pourri;fleur;pot-pourri de fleurs
+sachet;lavande;sachet de lavande
+naftaline;mite;naftaline contre les mites
+cèdre;boule;cèdre en boule
