@@ -9,17 +9,17 @@ warnings.filterwarnings("ignore")
 
 
 def load_inference_system():
-    print("--- ⚙️ Chargement du modèle et des labels ---")
+    print("--- ⚙ Chargement du modèle et des labels ---")
 
-    model_path = "best_model_bert"
+    model_path = "best_model_augmented"
     label_path = "labels.pkl"
 
     # 1. Vérification des fichiers
     if not os.path.exists(model_path):
-        print(f"❌ Erreur : Le dossier modèle '{model_path}' est introuvable.")
+        print(f"Erreur : Le dossier modèle '{model_path}' est introuvable.")
         return None, None
     if not os.path.exists(label_path):
-        print(f"❌ Erreur : Le fichier labels '{label_path}' est introuvable.")
+        print(f" Erreur : Le fichier labels '{label_path}' est introuvable.")
         return None, None
 
     # 2. Chargement du modèle SetFit
@@ -31,23 +31,23 @@ def load_inference_system():
         model = SetFitModel.from_pretrained(model_path)
         model.to(device)
     except Exception as e:
-        print(f"❌ Erreur lors du chargement du modèle : {e}")
+        print(f" Erreur lors du chargement du modèle : {e}")
         return None, None
 
     # 3. Chargement des labels
     try:
         id2label = joblib.load(label_path)
     except Exception as e:
-        print(f"❌ Erreur lors du chargement des labels : {e}")
+        print(f" Erreur lors du chargement des labels : {e}")
         return None, None
 
-    print("✅ Système prêt.\n")
+    print(" Système prêt.\n")
     return model, id2label
 
 
 def predict_loop(model, id2label):
     print("==================================================")
-    print("🧠 MODE TEST INTERACTIF (Tapez 'exit' pour quitter)")
+    print(" MODE TEST INTERACTIF (Tapez 'exit' pour quitter)")
     print("==================================================")
 
     while True:
