@@ -19,7 +19,6 @@ warnings.filterwarnings("ignore")
 class DataAugmenter:
     def __init__(self):
         print("---  Initialisation du Générateur de Données (Augmentation) ---")
-        # Augmentation par substitution de mots contextuels (DistilBERT)
         self.aug = naw.ContextualWordEmbsAug(
             model_path='distilbert-base-multilingual-cased',
             action="substitute",
@@ -27,10 +26,8 @@ class DataAugmenter:
         )
 
     def augment_dataset(self, X_text, y_labels, n_aug=2):
-        """
-        Génère n_aug variantes pour chaque phrase d'entrée.
-        """
-        print(f"    Génération de {n_aug} variantes par phrase... (Patience)")
+
+        print(f"    Génération de {n_aug} variantes par phrase... ")
         augmented_text = []
         augmented_labels = []
 
