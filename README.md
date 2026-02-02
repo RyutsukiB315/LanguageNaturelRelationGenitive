@@ -1,4 +1,4 @@
-==============================================================================
+
    CLASSIFICATION DE RELATIONS SEMANTIQUES (GENITIVE) AVEC SETFIT & NLP AUG
 ==============================================================================
 
@@ -81,11 +81,12 @@ Le script "main.py" suit une méthodologie rigoureuse étape par étape :
 ------------------------------------------------------------------------------
 5. STRUCTURE DES DOSSIERS
 ------------------------------------------------------------------------------
+```text
 /Projet
-  |-- corpus80/                       (Vos données .txt sources)
-  |-- extract_and_save_connectors.py  (Script Etape 1)
-  |-- main.py                         (Script Etape 2 - Entrainement)
-  |-- test.py                         (Script Etape 3 - Test)
-  |-- best_model_augmented/           (Dossier créé après entrainement)
-  |-- labels.pkl                      (Fichier créé après entrainement)
-  |-- confusion_matrix.png            (Image du diagnostic)
+  ├── corpus80/                       # (Données .txt sources)
+  ├── extract_and_save_connectors.py  # (Script Etape 1 : Préparation)
+  ├── main.py                         # (Script Etape 2 : Entraînement)
+  ├── test.py                         # (Script Etape 3 : Test)
+  ├── best_model_augmented/           # [GÉNÉRÉ] Dossier du modèle après entraînement
+  ├── labels.pkl                      # [GÉNÉRÉ] Fichier de configuration des labels
+  └── confusion_matrix.png            # [GÉNÉRÉ] Image du diagnostic (Matrice)
