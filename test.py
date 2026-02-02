@@ -4,7 +4,6 @@ import torch
 from setfit import SetFitModel
 import warnings
 
-# Ignorer les warnings inutiles
 warnings.filterwarnings("ignore")
 
 
@@ -14,7 +13,6 @@ def load_inference_system():
     model_path = "best_model_augmented"
     label_path = "labels.pkl"
 
-    # 1. Vérification des fichiers
     if not os.path.exists(model_path):
         print(f"Erreur : Le dossier modèle '{model_path}' est introuvable.")
         return None, None
@@ -22,8 +20,6 @@ def load_inference_system():
         print(f" Erreur : Le fichier labels '{label_path}' est introuvable.")
         return None, None
 
-    # 2. Chargement du modèle SetFit
-    # Utilisation du GPU si dispo
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"🔌 Device utilisé : {device}")
 
@@ -34,7 +30,6 @@ def load_inference_system():
         print(f" Erreur lors du chargement du modèle : {e}")
         return None, None
 
-    # 3. Chargement des labels
     try:
         id2label = joblib.load(label_path)
     except Exception as e:
@@ -60,13 +55,10 @@ def predict_loop(model, id2label):
         if not user_input:
             continue
 
-        # --- PRÉDICTION ---
-        # predict renvoie la classe, predict_proba renvoie les probabilités
-        # SetFit attend une liste, donc on met [user_input]
         preds = model.predict([user_input])
         probs = model.predict_proba([user_input])
 
-        # Récupération de l'index prédit (c'est un tenseur ou un entier)
+        # Récupération de l'index prédit
         pred_idx = int(preds[0])
 
         # Récupération du nom du label

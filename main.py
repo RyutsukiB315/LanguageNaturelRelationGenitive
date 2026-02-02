@@ -30,8 +30,6 @@ class DataAugmenter:
         print(f"    Génération de {n_aug} variantes par phrase... ")
         augmented_text = []
         augmented_labels = []
-
-        # On garde les originaux
         augmented_text.extend(X_text)
         augmented_labels.extend(y_labels)
 
@@ -43,7 +41,6 @@ class DataAugmenter:
                     variations = [variations]
 
                 for var in variations:
-                    # On évite les doublons exacts
                     if var != text:
                         augmented_text.append(var)
                         augmented_labels.append(label)
@@ -130,20 +127,17 @@ class BertModel:
         print(f"[BERT] Entraînement sur {len(X_text)} phrases...")
         trainer.train()
 
-        # --- A. Extraction des métriques ---
+
         metrics_test = trainer.evaluate(test_ds)
         metrics_train = trainer.evaluate(train_ds)
         test_acc = metrics_test.get('accuracy', 0.0)
         train_acc = metrics_train.get('accuracy', 0.0)
 
-        # --- B. Génération de la Matrice de Confusion ---
-        # (Ceci fonctionne car on utilise model.predict directement)
         print("[VISUALISATION] Génération de la matrice de confusion...")
         y_pred = self.model.predict(X_test_text)
 
         cm = confusion_matrix(y_test, y_pred)
 
-        # Récupération des noms pour l'affichage
         labels_names = [id2label[i] for i in range(len(id2label))]
 
         plt.figure(figsize=(10, 8))
@@ -160,9 +154,6 @@ class BertModel:
         return train_acc, test_acc, train_acc - test_acc
 
 
-# ==============================================================================
-# MAIN
-# ==============================================================================
 if __name__ == "__main__":
     try:
         # Petit bip de démarrage
@@ -175,8 +166,6 @@ if __name__ == "__main__":
     full_data = loader.load_data()
 
     if full_data and len(full_data["context"]) > 20:
-
-        # 1. Split Train / Test (AVANT Augmentation pour éviter la fuite de données)
         X_train, X_test, y_train, y_test = train_test_split(
             full_data["context"],
             full_data["labels"],
@@ -208,7 +197,6 @@ if __name__ == "__main__":
         print(f"  Temps total         : {time_b:.2f} s")
         print(f"  Train Accuracy      : {train_acc:.2%}")
         print(f"  Test Accuracy       : {test_acc:.2%}")
-        print(f"  Gap                 : {gap:.2%} ")
         print("-" * 40)
 
         print(f"\n Sauvegarde...")
