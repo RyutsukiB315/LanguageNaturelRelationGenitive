@@ -30,18 +30,18 @@ pip install torch setfit sentence-transformers scikit-learn nlpaug matplotlib se
 Pour que le projet fonctionne, respectez cet ordre précis :
 
 ETAPE 1 : PREPARATION
-Commande : python extract_and_save_connectors.py
+Commande : ``` python extract_and_save_connectors.py```
 Action   : Extrait les connecteurs ou prépare les données brutes nécessaires.
 
-ETAPE 2 : ENTRAINEMENT (COEUR DU PROJET)
-Commande : python main.py
+ETAPE 2 : ENTRAINEMENT
+Commande : ```python main.py```
 Action   : Charge le corpus, crée des synonymes, entraîne l'IA et génère 
            les graphiques.
 Résultat : Crée le dossier "best_model_augmented", le fichier "labels.pkl" 
            et l'image "confusion_matrix.png".
 
 ETAPE 3 : TEST & INFERENCE
-Commande : python test.py
+Commande : ```python test.py```
 Action   : Charge le modèle que vous venez de créer pour tester de 
            nouvelles phrases.
 
