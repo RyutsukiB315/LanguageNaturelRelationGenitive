@@ -44,7 +44,7 @@ def scan_connectors(corpus_path):
 
 
 if __name__ == "__main__":
-    corpus_folder = os.path.join(os.getcwd(), "corpus15K")
+    corpus_folder = os.path.join(os.getcwd(), "corpus80")
     output_file = "connect.txt"
 
     connectors_list = scan_connectors(corpus_folder)
